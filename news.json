@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-09 03:50:39 (KST)",
+  "updated_at": "2026-02-09 04:33:34 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "커뮤니티 평가: 커뮤니티에 대한 블랙박스 순위표의 신뢰가 끝났기 때문입니다.",
+      "title": "커뮤니티 평가: 커뮤니티에 대한 블랙박스 순위표를 더 이상 신뢰하지 않기 때문입니다.",
       "link": "https://huggingface.co/blog/community-evals",
       "date": "Wed, 04 Feb 2026 00:00:00 GMT",
       "summary": "..."
