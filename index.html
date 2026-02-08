@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 실시간 업데이트 모음</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { font-family: 'Noto Sans KR', sans-serif; background-color: #f3f4f6; }
+        .card:hover { transform: translateY(-2px); transition: all 0.2s; }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+    <div class="max-w-4xl mx-auto">
+        <header class="mb-8 text-center">
+            <h1 class="text-3xl font-bold text-gray-800 mb-2">🤖 AI 툴 업데이트 현황</h1>
+            <p class="text-gray-600">주요 AI 기업들의 최신 소식을 실시간으로 모아봅니다.</p>
+            <p id="last-updated" class="text-sm text-blue-600 mt-2 font-medium"></p>
+        </header>
+
+        <div id="news-container" class="grid gap-4 md:grid-cols-1">
+            <div class="text-center py-10">데이터를 불러오는 중...</div>
+        </div>
+    </div>
+
+    <script>
+        fetch('news.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('news-container');
+                const timeDisplay = document.getElementById('last-updated');
+                
+                timeDisplay.textContent = `마지막 업데이트: ${data.updated_at}`;
+                container.innerHTML = '';
+
+                data.articles.forEach(article => {
+                    const html = `
+                        <a href="${article.link}" target="_blank" class="block bg-white p-6 rounded-lg shadow-sm border border-gray-200 card hover:shadow-md">
+                            <div class="flex justify-between items-start mb-2">
+                                <span class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded">${article.company}</span>
+                                <span class="text-gray-400 text-sm">${article.date}</span>
+                            </div>
+                            <h2 class="text-xl font-bold text-gray-900 mb-2">${article.title}</h2>
+                            <p class="text-gray-600 text-sm line-clamp-2">${article.summary.replace(/<[^>]*>?/gm, '')}</p>
+                        </a>
+                    `;
+                    container.innerHTML += html;
+                });
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('news-container').innerHTML = '<div class="text-center text-red-500">데이터를 불러오지 못했습니다. (GitHub Actions가 아직 실행되지 않았을 수 있습니다)</div>';
+            });
+    </script>
+</body>
+</html>
