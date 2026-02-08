@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-02-08 21:18:35 (KST)",
+  "updated_at": "2026-02-08 21:25:06 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Making AI work for everyone, everywhere: our approach to localization",
+      "title": "AI를 모든 사람이 어디서나 사용할 수 있도록 만들기: 현지화에 대한 우리의 접근 방식",
       "link": "https://openai.com/index/our-approach-to-localization",
       "date": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures witho..."
+      "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프론티어 모델이 안전을 훼손하지 않으면서 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
     },
     {
       "company": "OpenAI",
-      "title": "Korea privacy policy",
+      "title": "한국 개인 정보 보호 정책",
       "link": "https://openai.com/policies/kr-privacy-policy",
       "date": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "summary": "Korea privacy policy..."
+      "summary": "한국 개인 정보 보호 정책..."
     },
     {
       "company": "OpenAI",
-      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "title": "GPT-5는 무세포 단백질 합성 비용을 낮춰줍니다",
       "link": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
       "date": "Thu, 05 Feb 2026 11:00:00 GMT",
-      "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop exp..."
+      "summary": "OpenAI의 GPT-5와 Ginkgo Bioworks의 클라우드 자동화를 결합한 자율 실험실은 폐쇄 루프 실험을 통해 무세포 단백질 합성 비용을 40% 절감했습니다...."
     },
     {
       "company": "Google AI",
-      "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+      "title": "기본 적응형 인터페이스: AI 접근성을 위한 새로운 프레임워크",
       "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
       "date": "Thu, 05 Feb 2026 17:00:00 +0000",
-      "summary": "A collage of four images, the first of a woman with curly hair in front of a silver laptop, the second of the same woman and a man with short black ha..."
+      "summary": "4개 이미지의 콜라주. 첫 번째는 은색 노트북 앞에 곱슬머리를 한 여성, 두 번째는 같은 여성과 짧은 검은 머리를 가진 남성이 계단에서 말하는 모습, 세 번째는 샘..."
     },
     {
       "company": "Google AI",
-      "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+      "title": "Google Cloud가 미국 팀의 AI 기술 향상을 돕는 방법",
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
       "date": "Thu, 05 Feb 2026 16:00:00 +0000",
-      "summary": "A woman outdoors in the snow looks at a tablet. A half pipe is behind her...."
+      "summary": "눈 속에서 야외에 있는 한 여성이 태블릿을 보고 있습니다. 그녀 뒤에는 하프 파이프가 있습니다...."
     },
     {
       "company": "Google AI",
-      "title": "Watch our new Gemini ad ahead of football’s biggest weekend",
+      "title": "축구의 가장 큰 주말을 앞두고 새로운 Gemini 광고를 시청하세요",
       "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
       "date": "Thu, 05 Feb 2026 14:30:00 +0000",
-      "summary": "A toddler in a blue and yellow striped shirt sits on a kitchen counter eating a red apple. Text in the corner reads: 'New Home, Google Gemini SB Comme..."
+      "summary": "파란색과 노란색 줄무늬 셔츠를 입은 유아가 부엌 카운터에 앉아 빨간 사과를 먹고 있습니다. 모서리에 'New Home, Google Gemini SB Commercial'이라는 텍스트가 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "PostgreSQL on Azure supercharged for AI",
+      "title": "Azure NetApp Files 탄력적 영역 중복 서비스로 스토리지 복원력 향상",
+      "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+      "date": "Wed, 04 Feb 2026 16:00:00 +0000",
+      "summary": "<p>데이터 복원력은 더 이상 선택 사항이 아닙니다. 이는 미션 크리티컬 애플리케이션 실행, 팀 생산성, 규정 준수를 그대로 유지하는 기반입니다. 조직은 지속적인 데이터 가용성을 보장해야 합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "AI를 위한 강력한 Azure의 PostgreSQL",
       "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
       "date": "Mon, 02 Feb 2026 15:00:00 +0000",
-      "summary": "<p>From GitHub Copilot AI assistance to built-in model management, Azure is helping devs and enterprises unlock the full potential of PostgreSQL.</p>\n..."
+      "summary": "<p>GitHub Copilot AI 지원부터 기본 제공 모델 관리에 이르기까지 Azure는 개발자와 기업이 PostgreSQL의 잠재력을 최대한 활용하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Maia 200: The AI accelerator built for inference",
+      "title": "Maia 200: 추론을 위해 제작된 AI 가속기",
       "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
       "date": "Mon, 26 Jan 2026 16:12:24 +0000",
-      "summary": "<p>Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generat..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Beyond boundaries: The future of Azure Storage in 2026",
-      "link": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
-      "date": "Thu, 22 Jan 2026 17:00:00 +0000",
-      "summary": "<p>2025 was a pivotal year in Azure Storage, and we’re heading into 2026 with a clear focus on helping customers turn AI into real impact.</p>\n<p>The ..."
+      "summary": "<p>오늘 우리는 AI 토큰 생성의 경제성을 획기적으로 개선하도록 설계된 획기적인 추론 가속기인 Maia 200을 소개하게 된 것을 자랑스럽게 생각합니다.</p>\n<p>게시물 <a href=\"https://blogs.micros..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Structured outputs on Amazon Bedrock: Schema-compliant AI responses",
+      "title": "Amazon Bedrock의 구조화된 출력: 스키마 호환 AI 응답",
       "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/",
       "date": "Fri, 06 Feb 2026 20:12:14 +0000",
-      "summary": "Today, we're announcing structured outputs on Amazon Bedrock—a capability that fundamentally transforms how you can obtain validated JSON responses fr..."
+      "summary": "오늘 우리는 제한된 디코딩을 통해 기반 모델로부터 검증된 JSON 응답을 얻는 방법을 근본적으로 변화시키는 기능인 Amazon Bedrock의 구조화된 출력을 발표합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Manage Amazon SageMaker HyperPod clusters using the HyperPod CLI and SDK",
+      "title": "HyperPod CLI 및 SDK를 사용하여 Amazon SageMaker HyperPod 클러스터 관리",
       "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-clusters-using-the-hyperpod-cli-and-sdk/",
       "date": "Fri, 06 Feb 2026 19:27:45 +0000",
-      "summary": "In this post, we demonstrate how to use the CLI and the SDK to create and manage SageMaker HyperPod clusters in your AWS account. We walk through a pr..."
+      "summary": "이 게시물에서는 CLI와 SDK를 사용하여 AWS 계정에서 SageMaker HyperPod 클러스터를 생성하고 관리하는 방법을 보여줍니다. 실제 사례를 살펴보고 사용자 작업에 대해 더 자세히 알아봅니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Evaluate generative AI models with an Amazon Nova rubric-based LLM judge on Amazon SageMaker AI (Part 2)",
+      "title": "Amazon SageMaker AI에서 Amazon Nova 루브릭 기반 LLM 심사위원을 통해 생성 AI 모델 평가(2부)",
       "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-generative-ai-models-with-an-amazon-nova-rubric-based-llm-judge-on-amazon-sagemaker-ai-part-2/",
       "date": "Fri, 06 Feb 2026 16:29:45 +0000",
-      "summary": "In this post, we explore the Amazon Nova rubric-based judge feature: what a rubric-based judge is, how the judge is trained, what metrics to consider,..."
+      "summary": "이 게시물에서는 Amazon Nova 기준표 기반 심사위원 기능, 즉 기준표 기반 심사위원이 무엇인지, 심사위원 교육 방법, 고려해야 할 지표 및 심사위원 보정 방법을 살펴봅니다. 노트를 빌려준다..."
     },
     {
       "company": "Hugging Face",
-      "title": "Introducing SyGra Studio",
+      "title": "SyGra 스튜디오 소개",
       "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "date": "Thu, 05 Feb 2026 16:52:28 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
+      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높입니다.",
       "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "date": "Wed, 04 Feb 2026 15:00:40 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+      "title": "커뮤니티 평가: 커뮤니티에 대한 블랙박스 순위표의 신뢰가 끝났기 때문입니다.",
       "link": "https://huggingface.co/blog/community-evals",
       "date": "Wed, 04 Feb 2026 00:00:00 GMT",
       "summary": "..."
