@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-09 11:55:56 (KST)",
+  "updated_at": "2026-02-09 14:09:14 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Claude Opus 4.6: 코딩, 에이전트 및 엔터프라이즈 워크플로를 위한 Anthropic의 강력한 모델을 이제 Microsoft Foundry에서 사용할 수 있습니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
+      "date": "Thu, 05 Feb 2026 17:46:10 +0000",
+      "summary": "<p>이제 Microsoft Foundry에서 Claude Opus4.6을 사용할 수 있으므로 개발자는 복잡한 작업을 엔드 투 엔드로 위임하고 AI가 프로덕션에서 독립적으로 실행되도록 신뢰할 수 있습니다.</p>\n<p>게시물 <a href=\"https://a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure NetApp Files 탄력적 영역 중복 서비스로 스토리지 복원력 향상",
       "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
       "date": "Wed, 04 Feb 2026 16:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
       "date": "Mon, 02 Feb 2026 15:00:00 +0000",
       "summary": "<p>GitHub Copilot AI 지원부터 기본 제공 모델 관리에 이르기까지 Azure는 개발자와 기업이 PostgreSQL의 잠재력을 최대한 활용하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Maia 200: 추론을 위해 제작된 AI 가속기",
-      "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-      "date": "Mon, 26 Jan 2026 16:12:24 +0000",
-      "summary": "<p>오늘 우리는 AI 토큰 생성의 경제성을 획기적으로 개선하도록 설계된 획기적인 추론 가속기인 Maia 200을 소개하게 된 것을 자랑스럽게 생각합니다.</p>\n<p>게시물 <a href=\"https://blogs.micros..."
     },
     {
       "company": "AWS Machine Learning",
