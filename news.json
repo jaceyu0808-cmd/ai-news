@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-09 22:40:42 (KST)",
+  "updated_at": "2026-02-10 00:01:46 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Azure NetApp Files 탄력적 영역 중복 서비스로 스토리지 복원력 향상",
+      "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+      "date": "Wed, 04 Feb 2026 16:00:00 +0000",
+      "summary": "<p>데이터 복원력은 더 이상 선택 사항이 아닙니다. 이는 미션 크리티컬 애플리케이션 실행, 팀 생산성, 규정 준수를 그대로 유지하는 기반입니다. 조직은 지속적인 데이터 가용성을 보장해야 합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "AI를 위한 강력한 Azure의 PostgreSQL",
       "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
       "date": "Mon, 02 Feb 2026 15:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
       "date": "Mon, 26 Jan 2026 16:12:24 +0000",
       "summary": "<p>오늘 우리는 AI 토큰 생성의 경제성을 획기적으로 개선하도록 설계된 획기적인 추론 가속기인 Maia 200을 소개하게 된 것을 자랑스럽게 생각합니다.</p>\n<p>게시물 <a href=\"https://blogs.micros..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "경계를 넘어서: 2026년 Azure Storage의 미래",
-      "link": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
-      "date": "Thu, 22 Jan 2026 17:00:00 +0000",
-      "summary": "<p>2025년은 Azure Storage에서 매우 중요한 해였으며, 우리는 고객이 AI를 실질적인 영향으로 전환할 수 있도록 돕는 데 중점을 두고 2026년을 맞이하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
     },
     {
       "company": "AWS Machine Learning",
