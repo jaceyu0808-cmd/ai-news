@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-02-10 02:07:07 (KST)",
+  "updated_at": "2026-02-10 04:35:35 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT에서 광고 테스트",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "date": "Mon, 09 Feb 2026 11:00:00 GMT",
+      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "AI를 모든 사람이 어디서나 사용할 수 있도록 만들기: 현지화에 대한 우리의 접근 방식",
       "link": "https://openai.com/index/our-approach-to-localization",
       "date": "Fri, 06 Feb 2026 10:00:00 GMT",
       "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프론티어 모델이 안전을 훼손하지 않으면서 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "한국 개인 정보 보호 정책",
-      "link": "https://openai.com/policies/kr-privacy-policy",
-      "date": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "summary": "한국 개인 정보 보호 정책..."
     },
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "자동화된 추론은 챗봇 참조 구현을 다시 작성하는지 확인합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-checks-rewriting-chatbot-reference-implementation/",
+      "date": "Mon, 09 Feb 2026 19:34:05 +0000",
+      "summary": "이 블로그 게시물에서는 자동 추론 검사 재작성 챗봇의 구현 아키텍처에 대해 자세히 설명합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Hugging Face 및 Amazon SageMaker AI를 사용하여 LLM 미세 조정 확장",
       "link": "https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/",
       "date": "Mon, 09 Feb 2026 16:48:46 +0000",
@@ -79,11 +86,11 @@
       "summary": "Generative AI Innovation Center와 협력하여 New Relic NOVA(New Relic Omnipresence Virtual Assistant)는 지식 보조자에서 포괄적인 생산성 엔진으로 발전했습니다. 우리는..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore용 풀 스택 스타터 템플릿을 사용하여 에이전트 애플리케이션 개발을 가속화하세요.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-application-development-with-a-full-stack-starter-template-for-amazon-bedrock-agentcore/",
-      "date": "Mon, 09 Feb 2026 16:40:58 +0000",
-      "summary": "이 게시물에서는 FAST(Fullstack AgentCore Solution Template)를 Amazon Web Services(AWS) 계정에 배포하는 방법, 아키텍처를 이해하고 요구 사항에 맞게 확장하는 방법을 알아봅니다...."
+      "company": "Hugging Face",
+      "title": "Transformers.js v4 미리보기: 이제 NPM에서 사용 가능합니다!",
+      "link": "https://huggingface.co/blog/transformersjs-v4",
+      "date": "Mon, 09 Feb 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높입니다.",
       "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "date": "Wed, 04 Feb 2026 15:00:40 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "커뮤니티 평가: 커뮤니티에 대한 블랙박스 순위표를 더 이상 신뢰하지 않기 때문입니다.",
-      "link": "https://huggingface.co/blog/community-evals",
-      "date": "Wed, 04 Feb 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
