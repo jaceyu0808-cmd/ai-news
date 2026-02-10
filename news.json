@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11 02:18:48 (KST)",
+  "updated_at": "2026-02-11 04:20:09 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,14 @@
       "title": "AI를 모든 사람이 어디서나 사용할 수 있도록 만들기: 현지화에 대한 우리의 접근 방식",
       "link": "https://openai.com/index/our-approach-to-localization",
       "date": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프론티어 모델이 안전을 훼손하지 않으면서 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
+      "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프런티어 모델이 안전을 훼손하지 않고 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "Google 포토에 물어볼 수 있는 9가지 재미있는 질문",
+      "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+      "date": "Tue, 10 Feb 2026 17:00:00 +0000",
+      "summary": "실외 이미지의 콜라주, '사진에 질문'이라고 적힌 파란색 아이콘, 사진에 질문 메시지의 예...."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
       "date": "Thu, 05 Feb 2026 17:00:00 +0000",
       "summary": "4개의 이미지로 구성된 콜라주. 첫 번째는 은색 노트북 앞에 곱슬머리를 한 여성, 두 번째는 같은 여성과 짧은 검은 머리를 가진 남성이 계단에서 말하는 모습, 세 번째는 샘..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Google Cloud가 미국 팀의 AI 기술 향상을 돕는 방법",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
-      "date": "Thu, 05 Feb 2026 16:00:00 +0000",
-      "summary": "눈 속에서 야외에 있는 한 여성이 태블릿을 보고 있습니다. 그녀 뒤에는 하프 파이프가 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "자동화된 추론은 챗봇 참조 구현을 다시 작성하는지 확인합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-checks-rewriting-chatbot-reference-implementation/",
-      "date": "Mon, 09 Feb 2026 19:34:05 +0000",
-      "summary": "이 블로그 게시물에서는 자동 추론 검사 재작성 챗봇의 구현 아키텍처에 대해 자세히 설명합니다...."
+      "title": "Amazon이 Amazon Nova 모델을 사용하여 새로운 주문 처리 센터에 대한 운영 준비 테스트를 자동화하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-amazon-nova-models-to-automate-operational-readiness-testing-for-new-fulfillment-centers/",
+      "date": "Tue, 10 Feb 2026 18:34:09 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock의 Amazon Nova를 사용하여 모듈 c의 감지 및 검증을 자동화하는 AI 기반 이미지 인식 솔루션을 구현하는 방법에 대해 논의합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Hugging Face 및 Amazon SageMaker AI를 사용하여 LLM 미세 조정 확장",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/",
-      "date": "Mon, 09 Feb 2026 16:48:46 +0000",
-      "summary": "이 게시물에서는 이 통합 접근 방식이 엔터프라이즈 LLM 미세 조정을 복잡하고 리소스 집약적인 과제에서 더 나은 모델 p를 달성하기 위한 능률적이고 확장 가능한 솔루션으로 어떻게 변환하는지 보여줍니다...."
+      "title": "Iberdrola는 Amazon Bedrock AgentCore를 사용하여 IT 운영을 향상합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/iberdrola-enhances-it-operations-using-amazon-bedrock-agentcore/",
+      "date": "Tue, 10 Feb 2026 18:31:57 +0000",
+      "summary": "세계 최대 유틸리티 기업 중 하나인 Iberdrola는 최첨단 AI 기술을 채택하여 ServiceNow에서 IT 운영을 혁신했습니다. Iberdrola는 AWS와의 파트너십을 통해..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "New Relic은 AWS의 생성 AI를 통해 생산성을 혁신합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/new-relic-transforms-productivity-with-generative-ai-on-aws/",
-      "date": "Mon, 09 Feb 2026 16:45:16 +0000",
-      "summary": "Generative AI Innovation Center와 협력하여 New Relic NOVA(New Relic Omnipresence Virtual Assistant)는 지식 보조자에서 포괄적인 생산성 엔진으로 발전했습니다. 우리는..."
+      "title": "계단식 아키텍처와 비교하여 Amazon Nova Sonic을 사용하여 실시간 음성 도우미 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-voice-assistants-with-amazon-nova-sonic-compared-to-cascading-architectures/",
+      "date": "Tue, 10 Feb 2026 18:29:05 +0000",
+      "summary": "Amazon Nova Sonic은 양방향 스트리밍 인터페이스를 통해 사람과 같은 실시간 음성 대화를 제공합니다. 이 게시물에서는 Amazon Nova Sonic이 몇 가지 문제를 어떻게 해결할 수 있는지 알아봅니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높임",
+      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높입니다.",
       "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "date": "Wed, 04 Feb 2026 15:00:40 GMT",
       "summary": "..."
