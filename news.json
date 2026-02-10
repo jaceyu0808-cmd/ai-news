@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11 00:12:03 (KST)",
+  "updated_at": "2026-02-11 02:18:48 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -34,7 +34,7 @@
       "title": "기본 적응형 인터페이스: AI 접근성을 위한 새로운 프레임워크",
       "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
       "date": "Thu, 05 Feb 2026 17:00:00 +0000",
-      "summary": "4개 이미지의 콜라주. 첫 번째는 은색 노트북 앞에 곱슬머리를 한 여성, 두 번째는 같은 여성과 짧은 검은 머리를 가진 남성이 계단에서 말하는 모습, 세 번째는 샘..."
+      "summary": "4개의 이미지로 구성된 콜라주. 첫 번째는 은색 노트북 앞에 곱슬머리를 한 여성, 두 번째는 같은 여성과 짧은 검은 머리를 가진 남성이 계단에서 말하는 모습, 세 번째는 샘..."
     },
     {
       "company": "Google AI",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높입니다.",
+      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높임",
       "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "date": "Wed, 04 Feb 2026 15:00:40 GMT",
       "summary": "..."
