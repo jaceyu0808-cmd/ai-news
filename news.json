@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-10 14:41:58 (KST)",
+  "updated_at": "2026-02-10 16:18:37 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "ChatGPT에서 광고 테스트",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "summary": "OpenAI는 명확한 라벨링, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
+      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "AI를 모든 사람이 어디서나 사용할 수 있도록 만들기: 현지화에 대한 우리의 접근 방식",
       "link": "https://openai.com/index/our-approach-to-localization",
       "date": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프론티어 모델이 안전을 훼손하지 않고 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
+      "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프론티어 모델이 안전을 훼손하지 않으면서 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
     },
     {
       "company": "Google AI",
