@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-10 08:48:37 (KST)",
+  "updated_at": "2026-02-10 12:21:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,14 +13,21 @@
       "title": "ChatGPT에서 광고 테스트",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "summary": "OpenAI는 명확한 라벨링, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
+      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
     },
     {
       "company": "OpenAI",
       "title": "AI를 모든 사람이 어디서나 사용할 수 있도록 만들기: 현지화에 대한 우리의 접근 방식",
       "link": "https://openai.com/index/our-approach-to-localization",
       "date": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프론티어 모델이 안전을 훼손하지 않고 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
+      "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프론티어 모델이 안전을 훼손하지 않으면서 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "안전한 인터넷의 날(Safer Internet Day)에 어린이와 청소년이 온라인으로 학습하고 성장할 수 있도록 지원",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
+      "date": "Tue, 10 Feb 2026 02:30:00 +0000",
+      "summary": "보안, 미디어 및 설정 아이콘에 연결된 스마트폰의 사용자 프로필입니다...."
     },
     {
       "company": "Google AI",
@@ -37,11 +44,18 @@
       "summary": "눈 속에서 야외에 있는 한 여성이 태블릿을 보고 있습니다. 그녀 뒤에는 하프 파이프가 있습니다...."
     },
     {
-      "company": "Google AI",
-      "title": "축구의 가장 큰 주말을 앞두고 새로운 Gemini 광고를 시청하세요",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
-      "date": "Thu, 05 Feb 2026 14:30:00 +0000",
-      "summary": "파란색과 노란색 줄무늬 셔츠를 입은 유아가 부엌 카운터에 앉아 빨간 사과를 먹고 있습니다. 모서리에 'New Home, Google Gemini SB Commercial'이라는 텍스트가 있습니다...."
+      "company": "Microsoft Azure AI",
+      "title": "Claude Opus 4.6: 코딩, 에이전트 및 엔터프라이즈 워크플로를 위한 Anthropic의 강력한 모델을 이제 Microsoft Foundry에서 사용할 수 있습니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
+      "date": "Thu, 05 Feb 2026 17:46:10 +0000",
+      "summary": "<p>이제 Microsoft Foundry에서 Claude Opus4.6을 사용할 수 있으므로 개발자는 복잡한 작업을 엔드 투 엔드로 위임하고 AI가 프로덕션에서 독립적으로 실행되도록 신뢰할 수 있습니다.</p>\n<p>게시물 <a href=\"https://a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure NetApp Files 탄력적 영역 중복 서비스로 스토리지 복원력 향상",
+      "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+      "date": "Wed, 04 Feb 2026 16:00:00 +0000",
+      "summary": "<p>데이터 복원력은 더 이상 선택 사항이 아닙니다. 이는 미션 크리티컬 애플리케이션 실행, 팀 생산성, 규정 준수를 그대로 유지하는 기반입니다. 조직은 지속적인 데이터 가용성을 보장해야 합니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -49,20 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
       "date": "Mon, 02 Feb 2026 15:00:00 +0000",
       "summary": "<p>GitHub Copilot AI 지원부터 기본 제공 모델 관리에 이르기까지 Azure는 개발자와 기업이 PostgreSQL의 잠재력을 최대한 활용하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Maia 200: 추론을 위해 제작된 AI 가속기",
-      "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-      "date": "Mon, 26 Jan 2026 16:12:24 +0000",
-      "summary": "<p>오늘 우리는 AI 토큰 생성의 경제성을 획기적으로 개선하도록 설계된 획기적인 추론 가속기인 Maia 200을 소개하게 된 것을 자랑스럽게 생각합니다.</p>\n<p>게시물 <a href=\"https://blogs.micros..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "경계를 넘어서: 2026년 Azure Storage의 미래",
-      "link": "https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/",
-      "date": "Thu, 22 Jan 2026 17:00:00 +0000",
-      "summary": "<p>2025년은 Azure Storage에서 매우 중요한 해였으며, 우리는 고객이 AI를 실질적인 영향으로 전환할 수 있도록 돕는 데 중점을 두고 2026년을 맞이하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
     },
     {
       "company": "AWS Machine Learning",
