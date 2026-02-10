@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-02-11 05:55:59 (KST)",
+  "updated_at": "2026-02-11 06:54:30 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT에서 광고 테스트",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
-    },
     {
       "company": "OpenAI",
       "title": "ChatGPT를 GenAI.mil로 가져오기",
       "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
       "date": "Mon, 09 Feb 2026 11:00:00 GMT",
       "summary": "OpenAI for Government는 GenAI.mil에 맞춤형 ChatGPT를 배포하여 미국 국방팀에 안전하고 안전한 AI를 제공한다고 발표했습니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT에서 광고 테스트",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "date": "Mon, 09 Feb 2026 11:00:00 GMT",
+      "summary": "OpenAI는 명확한 라벨링, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
     },
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "SQLCon에 참석해야 하는 5가지 이유",
+      "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
+      "date": "Mon, 09 Feb 2026 15:12:12 +0000",
+      "summary": "<p>SQL 커뮤니티는 3월 16~20일에 열리는 Microsoft Fabric 커뮤니티 컨퍼런스인 FabCon과 함께 개최되는 최초의 SQLCon을 위해 올 3월 애틀랜타에 모일 예정입니다.</p>\n<p>게시물 <a href=\"https://blog..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Claude Opus 4.6: 코딩, 에이전트 및 엔터프라이즈 워크플로를 위한 Anthropic의 강력한 모델을 이제 Microsoft Foundry에서 사용할 수 있습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
       "date": "Thu, 05 Feb 2026 17:46:10 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
       "date": "Wed, 04 Feb 2026 16:00:00 +0000",
       "summary": "<p>데이터 복원력은 더 이상 선택 사항이 아닙니다. 이는 미션 크리티컬 애플리케이션 실행, 팀 생산성, 규정 준수를 그대로 유지하는 기반입니다. 조직은 지속적인 데이터 가용성을 보장해야 합니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "AI를 위한 강력한 Azure의 PostgreSQL",
-      "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
-      "date": "Mon, 02 Feb 2026 15:00:00 +0000",
-      "summary": "<p>GitHub Copilot AI 지원부터 기본 제공 모델 관리에 이르기까지 Azure는 개발자와 기업이 PostgreSQL의 잠재력을 최대한 활용하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
     },
     {
       "company": "AWS Machine Learning",
@@ -83,7 +83,7 @@
       "title": "계단식 아키텍처와 비교하여 Amazon Nova Sonic을 사용하여 실시간 음성 도우미 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-voice-assistants-with-amazon-nova-sonic-compared-to-cascading-architectures/",
       "date": "Tue, 10 Feb 2026 18:29:05 +0000",
-      "summary": "Amazon Nova Sonic은 양방향 스트리밍 인터페이스를 통해 사람과 같은 실시간 음성 대화를 제공합니다. 이 게시물에서는 Amazon Nova Sonic이 몇 가지 문제를 어떻게 해결할 수 있는지 알아봅니다...."
+      "summary": "Amazon Nova Sonic은 양방향 스트리밍 인터페이스를 통해 인간과 같은 실시간 음성 대화를 제공합니다. 이 게시물에서는 Amazon Nova Sonic이 몇 가지 문제를 어떻게 해결할 수 있는지 알아봅니다...."
     },
     {
       "company": "Hugging Face",
