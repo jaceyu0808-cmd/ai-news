@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11 14:40:49 (KST)",
+  "updated_at": "2026-02-11 16:15:31 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "AI를 모든 사람이 어디서나 사용할 수 있도록 만들기: 현지화에 대한 우리의 접근 방식",
       "link": "https://openai.com/index/our-approach-to-localization",
       "date": "Fri, 06 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프런티어 모델이 안전을 훼손하지 않고 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
+      "summary": "OpenAI는 AI 현지화에 대한 접근 방식을 공유하여 전 세계적으로 공유되는 프론티어 모델이 안전을 훼손하지 않으면서 현지 언어, 법률 및 문화에 어떻게 적용될 수 있는지 보여줍니다...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "고온 초전도체가 데이터센터의 전력 인프라를 변화시킬 수 있습니까?",
-      "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-      "date": "Tue, 10 Feb 2026 16:00:00 +0000",
-      "summary": "<p>AI 및 데이터 집약적인 컴퓨팅에 대한 수요가 증가함에 따라 효율적이고 안정적인 전력 공급의 필요성이 중요해졌습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/can..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "SQLCon에 참석해야 하는 5가지 이유",
-      "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
-      "date": "Mon, 09 Feb 2026 15:12:12 +0000",
-      "summary": "<p>SQL 커뮤니티는 3월 16~20일에 열리는 Microsoft Fabric 커뮤니티 컨퍼런스인 FabCon과 함께 개최되는 최초의 SQLCon을 위해 올 3월 애틀랜타에 모일 예정입니다.</p>\n<p>게시물 <a href=\"https://blog..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Claude Opus 4.6: 코딩, 에이전트 및 엔터프라이즈 워크플로를 위한 Anthropic의 강력한 모델을 이제 Microsoft Foundry에서 사용할 수 있습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
       "date": "Thu, 05 Feb 2026 17:46:10 +0000",
       "summary": "<p>이제 Microsoft Foundry에서 Claude Opus4.6을 사용할 수 있으므로 개발자는 복잡한 작업을 엔드 투 엔드로 위임하고 AI가 프로덕션에서 독립적으로 실행되도록 신뢰할 수 있습니다.</p>\n<p>게시물 <a href=\"https://a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure NetApp Files 탄력적 영역 중복 서비스로 스토리지 복원력 향상",
+      "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+      "date": "Wed, 04 Feb 2026 16:00:00 +0000",
+      "summary": "<p>데이터 복원력은 더 이상 선택 사항이 아닙니다. 이는 미션 크리티컬 애플리케이션 실행, 팀 생산성, 규정 준수를 그대로 유지하는 기반입니다. 조직은 지속적인 데이터 가용성을 보장해야 합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "AI를 위한 강력한 Azure의 PostgreSQL",
+      "link": "https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/",
+      "date": "Mon, 02 Feb 2026 15:00:00 +0000",
+      "summary": "<p>GitHub Copilot AI 지원부터 기본 제공 모델 관리에 이르기까지 Azure는 개발자와 기업이 PostgreSQL의 잠재력을 최대한 활용하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높입니다.",
+      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높임",
       "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "date": "Wed, 04 Feb 2026 15:00:40 GMT",
       "summary": "..."
