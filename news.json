@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-02-12 02:13:17 (KST)",
+  "updated_at": "2026-02-12 04:15:22 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "하네스 엔지니어링: 에이전트 우선 세계에서 Codex 활용",
       "link": "https://openai.com/index/harness-engineering",
-      "date": "Wed, 11 Feb 2026 10:00:00 GMT",
+      "date": "Wed, 11 Feb 2026 09:00:00 GMT",
       "summary": "작성자: Ryan Lopopolo, 기술 직원..."
     },
     {
@@ -69,7 +69,7 @@
       "title": "Amazon Bedrock 조절 및 서비스 가용성 익히기: 종합 가이드",
       "link": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/",
       "date": "Wed, 11 Feb 2026 15:52:54 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. 우리는 o를 위한 전략에 대해 자세히 알아볼 것입니다...."
+      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. 우리는 o에 대한 전략에 대해 자세히 알아볼 것입니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높입니다.",
+      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높임",
       "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "date": "Wed, 04 Feb 2026 15:00:40 GMT",
       "summary": "..."
