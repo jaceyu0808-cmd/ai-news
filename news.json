@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11 08:49:15 (KST)",
+  "updated_at": "2026-02-11 12:19:07 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -83,7 +83,7 @@
       "title": "계단식 아키텍처와 비교하여 Amazon Nova Sonic을 사용하여 실시간 음성 도우미 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-voice-assistants-with-amazon-nova-sonic-compared-to-cascading-architectures/",
       "date": "Tue, 10 Feb 2026 18:29:05 +0000",
-      "summary": "Amazon Nova Sonic은 양방향 스트리밍 인터페이스를 통해 사람과 같은 실시간 음성 대화를 제공합니다. 이 게시물에서는 Amazon Nova Sonic이 몇 가지 문제를 어떻게 해결할 수 있는지 알아봅니다...."
+      "summary": "Amazon Nova Sonic은 양방향 스트리밍 인터페이스를 통해 인간과 같은 실시간 음성 대화를 제공합니다. 이 게시물에서는 Amazon Nova Sonic이 몇 가지 문제를 어떻게 해결할 수 있는지 알아봅니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높임",
+      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높입니다.",
       "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
       "date": "Wed, 04 Feb 2026 15:00:40 GMT",
       "summary": "..."
