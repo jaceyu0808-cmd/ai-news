@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-12 05:50:16 (KST)",
+  "updated_at": "2026-02-12 06:41:19 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -76,11 +76,11 @@
       "title": "Amazon Bedrock 조절 및 서비스 가용성 익히기: 종합 가이드",
       "link": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/",
       "date": "Wed, 11 Feb 2026 15:52:54 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. O를 위한 전략에 대해 자세히 알아보겠습니다...."
+      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. 우리는 o에 대한 전략에 대해 자세히 알아볼 것입니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Swann은 Amazon Bedrock을 사용하여 수백만 대의 IoT 장치에 생성 AI를 제공합니다.",
+      "title": "Swann은 Amazon Bedrock을 사용하여 수백만 개의 IoT 장치에 생성 AI를 제공합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/",
       "date": "Wed, 11 Feb 2026 15:48:15 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock 및 Gen-AI 기능을 사용하여 지능형 알림 필터링을 구현하는 방법을 보여줍니다. 모델 선택 전략, 비용 최적화 기술 및 아크를 배우게 됩니다...."
