@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-12 20:48:24 (KST)",
+  "updated_at": "2026-02-12 22:39:13 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -76,7 +76,7 @@
       "title": "Amazon Bedrock 조절 및 서비스 가용성 익히기: 종합 가이드",
       "link": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/",
       "date": "Wed, 11 Feb 2026 15:52:54 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. O를 위한 전략에 대해 자세히 알아보겠습니다...."
+      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. 우리는 o에 대한 전략에 대해 자세히 알아볼 것입니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -84,6 +84,13 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/",
       "date": "Wed, 11 Feb 2026 15:48:15 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock 및 Gen-AI 기능을 사용하여 지능형 알림 필터링을 구현하는 방법을 보여줍니다. 모델 선택 전략, 비용 최적화 기술 및 아크를 배우게 됩니다...."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "OpenEnv 실제 사례: 실제 환경에서 도구를 사용하는 에이전트 평가",
+      "link": "https://huggingface.co/blog/openenv-turing",
+      "date": "Thu, 12 Feb 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "SyGra 스튜디오 소개",
       "link": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
       "date": "Thu, 05 Feb 2026 16:52:28 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Nemotron ColEmbed V2: ViDoRe V3의 상위 모델을 통해 다중 모드 검색의 기준을 높입니다.",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-      "date": "Wed, 04 Feb 2026 15:00:40 GMT",
       "summary": "..."
     }
   ]
