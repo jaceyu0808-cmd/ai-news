@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-12 23:57:30 (KST)",
+  "updated_at": "2026-02-13 01:03:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "고온 초전도체가 데이터센터의 전력 인프라를 변화시킬 수 있습니까?",
-      "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-      "date": "Tue, 10 Feb 2026 16:00:00 +0000",
-      "summary": "<p>AI 및 데이터 집약적인 컴퓨팅에 대한 수요가 증가함에 따라 효율적이고 안정적인 전력 공급의 필요성이 중요해졌습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/can..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "SQLCon에 참석해야 하는 5가지 이유",
       "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
       "date": "Mon, 09 Feb 2026 15:12:12 +0000",
@@ -65,6 +58,13 @@
       "summary": "<p>이제 Microsoft Foundry에서 Claude Opus4.6을 사용할 수 있으므로 개발자는 복잡한 작업을 엔드 투 엔드로 위임하고 AI가 프로덕션에서 독립적으로 실행되도록 신뢰할 수 있습니다.</p>\n<p>게시물 <a href=\"https://a..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "Azure NetApp Files 탄력적 영역 중복 서비스로 스토리지 복원력 향상",
+      "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+      "date": "Wed, 04 Feb 2026 16:00:00 +0000",
+      "summary": "<p>데이터 복원력은 더 이상 선택 사항이 아닙니다. 이는 미션 크리티컬 애플리케이션 실행, 팀 생산성, 규정 준수를 그대로 유지하는 기반입니다. 조직은 지속적인 데이터 가용성을 보장해야 합니다...."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "이제 Amazon SageMaker JumpStart에서 NVIDIA Nemotron 3 Nano 30B MoE 모델을 사용할 수 있습니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/",
@@ -76,11 +76,11 @@
       "title": "Amazon Bedrock 조절 및 서비스 가용성 익히기: 종합 가이드",
       "link": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/",
       "date": "Wed, 11 Feb 2026 15:52:54 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. O를 위한 전략에 대해 자세히 알아보겠습니다...."
+      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. 우리는 o에 대한 전략에 대해 자세히 알아볼 것입니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Swann은 Amazon Bedrock을 사용하여 수백만 대의 IoT 장치에 생성 AI를 제공합니다.",
+      "title": "Swann은 Amazon Bedrock을 사용하여 수백만 개의 IoT 장치에 생성 AI를 제공합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/swann-provides-generative-ai-to-millions-of-iot-devices-using-amazon-bedrock/",
       "date": "Wed, 11 Feb 2026 15:48:15 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock 및 Gen-AI 기능을 사용하여 지능형 알림 필터링을 구현하는 방법을 보여줍니다. 모델 선택 전략, 비용 최적화 기술 및 아크를 배우게 됩니다...."
