@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-13 05:45:08 (KST)",
+  "updated_at": "2026-02-13 06:43:03 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "ChatGPT를 GenAI.mil로 가져오기",
-      "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "title": "ChatGPT에서 광고 테스트",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-      "summary": "OpenAI for Government는 GenAI.mil에 맞춤형 ChatGPT를 배포하여 미국 국방팀에 안전하고 안전한 AI를 제공한다고 발표했습니다...."
+      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "에이전트 클라우드 운영: 클라우드를 실행하는 새로운 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
-      "date": "Wed, 11 Feb 2026 22:00:00 +0000",
-      "summary": "<p>오늘날의 클라우드는 탁월한 유연성을 제공하지만 최신 애플리케이션과 AI 워크로드의 급속한 성장으로 인해 기존 운영에서는 불가능했던 수준의 규모와 복잡성이 도입되었습니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "고온 초전도체가 데이터센터의 전력 인프라를 변화시킬 수 있습니까?",
       "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
       "date": "Tue, 10 Feb 2026 16:00:00 +0000",
@@ -65,6 +58,13 @@
       "summary": "<p>SQL 커뮤니티는 3월 16~20일에 열리는 Microsoft Fabric 커뮤니티 컨퍼런스인 FabCon과 함께 개최되는 최초의 SQLCon을 위해 올 3월 애틀랜타에 모일 예정입니다.</p>\n<p>게시물 <a href=\"https://blog..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "Claude Opus 4.6: 코딩, 에이전트 및 엔터프라이즈 워크플로를 위한 Anthropic의 강력한 모델을 이제 Microsoft Foundry에서 사용할 수 있습니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
+      "date": "Thu, 05 Feb 2026 17:46:10 +0000",
+      "summary": "<p>이제 Microsoft Foundry에서 Claude Opus4.6을 사용할 수 있으므로 개발자는 복잡한 작업을 엔드 투 엔드로 위임하고 AI가 프로덕션에서 독립적으로 실행되도록 신뢰할 수 있습니다.</p>\n<p>게시물 <a href=\"https://a..."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "AI와 HR의 만남: Amazon Bedrock을 통한 인재 확보 혁신",
       "link": "https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/",
@@ -73,7 +73,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Strands Agents 통합을 통해 Amazon Bedrock AgentCore에서 장기 실행 MCP 서버 구축",
+      "title": "Strands 에이전트 통합을 통해 Amazon Bedrock AgentCore에서 장기 실행 MCP 서버 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/",
       "date": "Thu, 12 Feb 2026 20:16:20 +0000",
       "summary": "이 게시물에서는 이를 달성하기 위한 포괄적인 접근 방식을 제공합니다. 첫째, Ex 동안 서버와 클라이언트 간의 지속적인 통신을 유지하는 컨텍스트 메시지 전략을 소개합니다...."
