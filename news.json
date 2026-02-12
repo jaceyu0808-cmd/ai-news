@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-12 22:39:13 (KST)",
+  "updated_at": "2026-02-12 23:57:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -76,7 +76,7 @@
       "title": "Amazon Bedrock 조절 및 서비스 가용성 익히기: 종합 가이드",
       "link": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/",
       "date": "Wed, 11 Feb 2026 15:52:54 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. 우리는 o에 대한 전략에 대해 자세히 알아볼 것입니다...."
+      "summary": "이 게시물에서는 Amazon Bedrock을 사용할 때 애플리케이션 안정성과 사용자 경험을 개선하는 데 도움이 될 수 있는 강력한 오류 처리 전략을 구현하는 방법을 보여줍니다. O를 위한 전략에 대해 자세히 알아보겠습니다...."
     },
     {
       "company": "AWS Machine Learning",
