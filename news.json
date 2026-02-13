@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14 07:42:13 (KST)",
+  "updated_at": "2026-02-14 08:39:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "ChatGPT에 잠금 모드 및 위험 증가 라벨 소개",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "Fri, 13 Feb 2026 10:00:00 GMT",
-      "summary": "조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입했습니다...."
+      "summary": "ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입하여 조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 지원합니다...."
     },
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore Browser에서 프록시, 프로필 및 확장 기능을 사용하여 AI 에이전트 탐색을 사용자 정의",
+      "link": "https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/",
+      "date": "Fri, 13 Feb 2026 22:57:34 +0000",
+      "summary": "오늘 우리는 이러한 요구 사항을 해결하는 세 가지 새로운 기능인 프록시 구성, 브라우저 프로필 및 브라우저 확장을 발표합니다. 이러한 기능을 함께 사용하면 세밀한 제어가 가능합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "AI와 HR의 만남: Amazon Bedrock을 통한 인재 확보 혁신",
       "link": "https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/",
       "date": "Thu, 12 Feb 2026 20:18:58 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/",
       "date": "Thu, 12 Feb 2026 20:16:20 +0000",
       "summary": "이 게시물에서는 이를 달성하기 위한 포괄적인 접근 방식을 제공합니다. 첫째, Ex 동안 서버와 클라이언트 간의 지속적인 통신을 유지하는 컨텍스트 메시지 전략을 소개합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "이제 Amazon SageMaker JumpStart에서 NVIDIA Nemotron 3 Nano 30B MoE 모델을 사용할 수 있습니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "date": "Wed, 11 Feb 2026 19:38:47 +0000",
-      "summary": "오늘 우리는 &nbsp;3B 활성 매개변수를 갖춘 NVIDIA Nemotron 3 Nano 30B 모델이 이제 Amazon SageMaker JumpStart 모델 카탈로그에서 일반 공급된다는 소식을 발표하게 되어 기쁘게 생각합니다. 가속할 수 있습니다..."
     },
     {
       "company": "Hugging Face",
