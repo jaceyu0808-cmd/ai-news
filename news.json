@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-02-14 02:51:27 (KST)",
+  "updated_at": "2026-02-14 04:03:16 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT에 잠금 모드 및 위험 증가 라벨 소개",
+      "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+      "date": "Fri, 13 Feb 2026 10:00:00 GMT",
+      "summary": "ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입하여 조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 지원합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "속도 제한 너머: Codex 및 Sora에 대한 액세스 확장",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
       "date": "Thu, 12 Feb 2026 10:00:00 GMT",
       "summary": "최초의 실시간 코딩 모델인 GPT-5.3-Codex-Spark를 소개합니다. 15배 빠른 생성, 128k 컨텍스트가 이제 ChatGPT Pro 사용자를 위한 연구 미리보기로 제공됩니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "하네스 엔지니어링: 에이전트 우선 세계에서 Codex 활용",
-      "link": "https://openai.com/index/harness-engineering",
-      "date": "Wed, 11 Feb 2026 09:00:00 GMT",
-      "summary": "작성자: Ryan Lopopolo, 기술 직원..."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "고온 초전도체가 데이터센터의 전력 인프라를 변화시킬 수 있습니까?",
+      "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
+      "date": "Tue, 10 Feb 2026 16:00:00 +0000",
+      "summary": "<p>AI 및 데이터 집약적인 컴퓨팅에 대한 수요가 증가함에 따라 효율적이고 안정적인 전력 공급의 필요성이 중요해졌습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/can..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "SQLCon에 참석해야 하는 5가지 이유",
       "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
       "date": "Mon, 09 Feb 2026 15:12:12 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
       "date": "Thu, 05 Feb 2026 17:46:10 +0000",
       "summary": "<p>이제 Microsoft Foundry에서 Claude Opus4.6을 사용할 수 있으므로 개발자는 복잡한 작업을 엔드 투 엔드로 위임하고 AI가 프로덕션에서 독립적으로 실행되도록 신뢰할 수 있습니다.</p>\n<p>게시물 <a href=\"https://a..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure NetApp Files 탄력적 영역 중복 서비스로 스토리지 복원력 향상",
-      "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
-      "date": "Wed, 04 Feb 2026 16:00:00 +0000",
-      "summary": "<p>데이터 복원력은 더 이상 선택 사항이 아닙니다. 이는 미션 크리티컬 애플리케이션 실행, 팀 생산성, 규정 준수를 그대로 유지하는 기반입니다. 조직은 지속적인 데이터 가용성을 보장해야 합니다...."
     },
     {
       "company": "AWS Machine Learning",
