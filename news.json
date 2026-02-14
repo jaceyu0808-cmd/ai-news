@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-15 05:37:01 (KST)",
+  "updated_at": "2026-02-15 06:33:21 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "ChatGPT에 잠금 모드 및 위험 증가 라벨 소개",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "Fri, 13 Feb 2026 10:00:00 GMT",
-      "summary": "조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입했습니다...."
+      "summary": "ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입하여 조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 지원합니다...."
     },
     {
       "company": "OpenAI",
