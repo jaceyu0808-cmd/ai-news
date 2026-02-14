@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14 18:40:31 (KST)",
+  "updated_at": "2026-02-14 19:37:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,14 +13,14 @@
       "title": "ChatGPT에 잠금 모드 및 위험 증가 라벨 소개",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "Fri, 13 Feb 2026 10:00:00 GMT",
-      "summary": "ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입하여 조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 지원합니다...."
+      "summary": "조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입했습니다...."
     },
     {
       "company": "OpenAI",
       "title": "속도 제한 너머: Codex 및 Sora에 대한 액세스 확장",
       "link": "https://openai.com/index/beyond-rate-limits",
       "date": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "summary": "OpenAI가 속도 제한, 사용량 추적, 크레딧을 결합하여 Sora 및 Codex에 대한 지속적인 액세스를 지원하는 실시간 액세스 시스템을 구축한 방법입니다...."
+      "summary": "OpenAI가 Sora 및 Codex에 대한 지속적인 액세스를 지원하기 위해 속도 제한, 사용량 추적 및 크레딧을 결합한 실시간 액세스 시스템을 구축한 방법입니다...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "고온 초전도체가 데이터센터의 전력 인프라를 변화시킬 수 있습니까?",
-      "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-      "date": "Tue, 10 Feb 2026 16:00:00 +0000",
-      "summary": "<p>AI 및 데이터 집약적인 컴퓨팅에 대한 수요가 증가함에 따라 효율적이고 안정적인 전력 공급의 필요성이 중요해졌습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/can..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "SQLCon에 참석해야 하는 5가지 이유",
       "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
       "date": "Mon, 09 Feb 2026 15:12:12 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
       "date": "Thu, 05 Feb 2026 17:46:10 +0000",
       "summary": "<p>이제 Microsoft Foundry에서 Claude Opus4.6을 사용할 수 있으므로 개발자는 복잡한 작업을 엔드 투 엔드로 위임하고 AI가 프로덕션에서 독립적으로 실행되도록 신뢰할 수 있습니다.</p>\n<p>게시물 <a href=\"https://a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure NetApp Files 탄력적 영역 중복 서비스로 스토리지 복원력 향상",
+      "link": "https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/",
+      "date": "Wed, 04 Feb 2026 16:00:00 +0000",
+      "summary": "<p>데이터 복원력은 더 이상 선택 사항이 아닙니다. 이는 미션 크리티컬 애플리케이션 실행, 팀 생산성, 규정 준수를 그대로 유지하는 기반입니다. 조직은 지속적인 데이터 가용성을 보장해야 합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Strands 에이전트 통합을 통해 Amazon Bedrock AgentCore에서 장기 실행 MCP 서버 구축",
+      "title": "Strands Agents 통합을 통해 Amazon Bedrock AgentCore에서 장기 실행 MCP 서버 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/",
       "date": "Thu, 12 Feb 2026 20:16:20 +0000",
       "summary": "이 게시물에서는 이를 달성하기 위한 포괄적인 접근 방식을 제공합니다. 첫째, Ex 동안 서버와 클라이언트 간의 지속적인 통신을 유지하는 컨텍스트 메시지 전략을 소개합니다...."
