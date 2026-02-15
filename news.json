@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-16 05:37:32 (KST)",
+  "updated_at": "2026-02-16 06:33:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "에이전트 클라우드 운영: 클라우드를 실행하는 새로운 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
+      "date": "Wed, 11 Feb 2026 22:00:00 +0000",
+      "summary": "<p>오늘날의 클라우드는 탁월한 유연성을 제공하지만 최신 애플리케이션과 AI 워크로드의 급속한 성장으로 인해 기존 운영에서는 불가능했던 수준의 규모와 복잡성이 도입되었습니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "고온 초전도체가 데이터센터의 전력 인프라를 변화시킬 수 있습니까?",
       "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
       "date": "Tue, 10 Feb 2026 16:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://blog.fabric.microsoft.com/en-us/blog/32624",
       "date": "Mon, 09 Feb 2026 15:12:12 +0000",
       "summary": "<p>SQL 커뮤니티는 3월 16~20일에 열리는 Microsoft Fabric 커뮤니티 컨퍼런스인 FabCon과 함께 개최되는 최초의 SQLCon을 위해 올 3월 애틀랜타에 모일 예정입니다.</p>\n<p>게시물 <a href=\"https://blog..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Claude Opus 4.6: 코딩, 에이전트 및 엔터프라이즈 워크플로를 위한 Anthropic의 강력한 모델을 이제 Microsoft Foundry에서 사용할 수 있습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/",
-      "date": "Thu, 05 Feb 2026 17:46:10 +0000",
-      "summary": "<p>이제 Microsoft Foundry에서 Claude Opus4.6을 사용할 수 있으므로 개발자는 복잡한 작업을 엔드 투 엔드로 위임하고 AI가 프로덕션에서 독립적으로 실행되도록 신뢰할 수 있습니다.</p>\n<p>게시물 <a href=\"https://a..."
     },
     {
       "company": "AWS Machine Learning",
