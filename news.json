@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-17 05:41:16 (KST)",
+  "updated_at": "2026-02-17 06:38:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Strands Agents 통합을 통해 Amazon Bedrock AgentCore에서 장기 실행 MCP 서버 구축",
+      "title": "Strands 에이전트 통합을 통해 Amazon Bedrock AgentCore에서 장기 실행 MCP 서버 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/",
       "date": "Thu, 12 Feb 2026 20:16:20 +0000",
       "summary": "이 게시물에서는 이를 달성하기 위한 포괄적인 접근 방식을 제공합니다. 첫째, Ex 동안 서버와 클라이언트 간의 지속적인 통신을 유지하는 컨텍스트 메시지 전략을 소개합니다...."
