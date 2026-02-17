@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18 06:43:58 (KST)",
+  "updated_at": "2026-02-18 07:42:00 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,14 +13,21 @@
       "title": "ChatGPT에 잠금 모드 및 위험 증가 라벨 소개",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "Fri, 13 Feb 2026 10:00:00 GMT",
-      "summary": "ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입하여 조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 지원합니다...."
+      "summary": "조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입했습니다...."
     },
     {
       "company": "OpenAI",
       "title": "속도 제한 너머: Codex 및 Sora에 대한 액세스 확장",
       "link": "https://openai.com/index/beyond-rate-limits",
       "date": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "summary": "OpenAI가 속도 제한, 사용량 추적, 크레딧을 결합하여 Sora 및 Codex에 대한 지속적인 액세스를 지원하는 실시간 액세스 시스템을 구축한 방법입니다...."
+      "summary": "OpenAI가 Sora 및 Codex에 대한 지속적인 액세스를 지원하기 위해 속도 제한, 사용량 추적, 크레딧을 결합한 실시간 액세스 시스템을 구축한 방법입니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "2026년 책임 있는 AI 진행 보고서",
+      "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
+      "date": "Tue, 17 Feb 2026 22:30:00 +0000",
+      "summary": "파란색과 흰색 큐브의 그림..."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
       "date": "Tue, 10 Feb 2026 17:00:00 +0000",
       "summary": "실외 이미지의 콜라주, '사진에 질문'이라고 적힌 파란색 아이콘, 사진에 질문 메시지의 예...."
-    },
-    {
-      "company": "Google AI",
-      "title": "안전한 인터넷의 날(Safer Internet Day)에 어린이와 청소년이 온라인으로 학습하고 성장할 수 있도록 지원",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-      "date": "Tue, 10 Feb 2026 02:30:00 +0000",
-      "summary": "보안, 미디어 및 설정 아이콘에 연결된 스마트폰의 사용자 프로필입니다...."
     },
     {
       "company": "Microsoft Azure AI",
