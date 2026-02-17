@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18 04:11:50 (KST)",
+  "updated_at": "2026-02-18 05:49:44 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,14 +13,14 @@
       "title": "ChatGPT에 잠금 모드 및 위험 증가 라벨 소개",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "Fri, 13 Feb 2026 10:00:00 GMT",
-      "summary": "조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입했습니다...."
+      "summary": "ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입하여 조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 지원합니다...."
     },
     {
       "company": "OpenAI",
       "title": "속도 제한 너머: Codex 및 Sora에 대한 액세스 확장",
       "link": "https://openai.com/index/beyond-rate-limits",
       "date": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "summary": "OpenAI가 Sora 및 Codex에 대한 지속적인 액세스를 지원하기 위해 속도 제한, 사용량 추적, 크레딧을 결합한 실시간 액세스 시스템을 구축한 방법입니다...."
+      "summary": "OpenAI가 속도 제한, 사용량 추적, 크레딧을 결합하여 Sora 및 Codex에 대한 지속적인 액세스를 지원하는 실시간 액세스 시스템을 구축한 방법입니다...."
     },
     {
       "company": "Google AI",
