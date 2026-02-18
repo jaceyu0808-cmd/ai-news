@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18 17:57:37 (KST)",
+  "updated_at": "2026-02-18 19:01:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Azure 안정성, 복원력 및 복구 가능성: 설계에 따라 연속성 구축",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
+      "date": "Tue, 17 Feb 2026 16:00:00 +0000",
+      "summary": "<p>최신 클라우드 시스템은 가동 시간 그 이상을 제공할 것으로 예상됩니다. 고객은 일관된 성능, 중단을 견딜 수 있는 능력, 복구가 예측 가능하고 의도적이라는 확신을 기대합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "디자인 이면의 데이터: Pantone이 AI 지원 데이터베이스를 사용하여 에이전트 AI를 구축한 방법",
       "link": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
       "date": "Thu, 12 Feb 2026 16:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/",
       "date": "Wed, 11 Feb 2026 22:00:00 +0000",
       "summary": "<p>오늘날의 클라우드는 탁월한 유연성을 제공하지만 최신 애플리케이션과 AI 워크로드의 급속한 성장으로 인해 기존 운영에서는 불가능했던 수준의 규모와 복잡성이 도입되었습니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "고온 초전도체가 데이터센터의 전력 인프라를 변화시킬 수 있습니까?",
-      "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
-      "date": "Tue, 10 Feb 2026 16:00:00 +0000",
-      "summary": "<p>AI 및 데이터 집약적인 컴퓨팅에 대한 수요가 증가함에 따라 효율적이고 안정적인 전력 공급의 필요성이 중요해졌습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/can..."
     },
     {
       "company": "AWS Machine Learning",
