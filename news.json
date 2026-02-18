@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-18 19:01:02 (KST)",
+  "updated_at": "2026-02-18 20:46:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,21 @@
       "title": "속도 제한 너머: Codex 및 Sora에 대한 액세스 확장",
       "link": "https://openai.com/index/beyond-rate-limits",
       "date": "Fri, 13 Feb 2026 09:00:00 GMT",
-      "summary": "OpenAI가 속도 제한, 사용량 추적, 크레딧을 결합하여 Sora 및 Codex에 대한 지속적인 액세스를 지원하는 실시간 액세스 시스템을 구축한 방법입니다...."
+      "summary": "OpenAI가 Sora 및 Codex에 대한 지속적인 액세스를 지원하기 위해 속도 제한, 사용량 추적 및 크레딧을 결합한 실시간 액세스 시스템을 구축한 방법입니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "AI Impact Summit 2026: 모든 사람을 위한 AI를 만들기 위해 우리가 협력하는 방법",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+      "date": "Wed, 18 Feb 2026 10:30:00 +0000",
+      "summary": "대화형 디스플레이와 스크린이 있는 회의 사진..."
+    },
+    {
+      "company": "Google AI",
+      "title": "AI 임팩트 서밋 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+      "date": "Wed, 18 Feb 2026 10:30:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp\" />Google이 AI Impact에서 발표한 파트너십 및 투자 살펴보기..."
     },
     {
       "company": "Google AI",
@@ -28,27 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
       "date": "Tue, 17 Feb 2026 22:30:00 +0000",
       "summary": "파란색과 흰색 큐브의 그림..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Gemini 3 Deep Think: 과학, 연구 및 엔지니어링 발전",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "date": "Thu, 12 Feb 2026 16:13:00 +0000",
-      "summary": "Gemini 3 Deep Think 로고..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Google 포토에 물어볼 수 있는 9가지 재미있는 질문",
-      "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
-      "date": "Tue, 10 Feb 2026 17:00:00 +0000",
-      "summary": "실외 이미지의 콜라주, '사진에 질문'이라고 적힌 파란색 아이콘, 사진에 질문 메시지의 예...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure 안정성, 복원력 및 복구 가능성: 설계에 따라 연속성 구축",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-      "date": "Tue, 17 Feb 2026 16:00:00 +0000",
-      "summary": "<p>최신 클라우드 시스템은 가동 시간 그 이상을 제공할 것으로 예상됩니다. 고객은 일관된 성능, 중단을 견딜 수 있는 능력, 복구가 예측 가능하고 의도적이라는 확신을 기대합니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -65,8 +58,15 @@
       "summary": "<p>오늘날의 클라우드는 탁월한 유연성을 제공하지만 최신 애플리케이션과 AI 워크로드의 급속한 성장으로 인해 기존 운영에서는 불가능했던 수준의 규모와 복잡성이 도입되었습니다...."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "고온 초전도체가 데이터센터의 전력 인프라를 변화시킬 수 있습니까?",
+      "link": "https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/",
+      "date": "Tue, 10 Feb 2026 16:00:00 +0000",
+      "summary": "<p>AI 및 데이터 집약적인 컴퓨팅에 대한 수요가 증가함에 따라 효율적이고 안정적인 전력 공급의 필요성이 중요해졌습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/can..."
+    },
+    {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore Browser에서 프록시, 프로필 및 확장 기능을 사용하여 AI 에이전트 탐색을 사용자 지정",
+      "title": "Amazon Bedrock AgentCore Browser에서 프록시, 프로필 및 확장 기능을 사용하여 AI 에이전트 탐색을 사용자 정의",
       "link": "https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/",
       "date": "Fri, 13 Feb 2026 22:57:34 +0000",
       "summary": "오늘 우리는 이러한 요구 사항을 해결하는 세 가지 새로운 기능인 프록시 구성, 브라우저 프로필 및 브라우저 확장을 발표합니다. 이러한 기능을 함께 사용하면 세밀한 제어가 가능합니다...."
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Strands 에이전트 통합을 통해 Amazon Bedrock AgentCore에서 장기 실행 MCP 서버 구축",
+      "title": "Strands Agents 통합을 통해 Amazon Bedrock AgentCore에서 장기 실행 MCP 서버 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/",
       "date": "Thu, 12 Feb 2026 20:16:20 +0000",
       "summary": "이 게시물에서는 이를 달성하기 위한 포괄적인 접근 방식을 제공합니다. 첫째, Ex 동안 서버와 클라이언트 간의 지속적인 통신을 유지하는 컨텍스트 메시지 전략을 소개합니다...."
