@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19 01:01:19 (KST)",
+  "updated_at": "2026-02-19 02:55:52 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -34,7 +34,7 @@
       "title": "AI Impact Summit 2026: 모든 사람을 위한 AI를 만들기 위해 우리가 협력하는 방법",
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
       "date": "Wed, 18 Feb 2026 10:30:00 +0000",
-      "summary": "대화형 디스플레이와 스크린이 있는 회의 사진..."
+      "summary": "회의 무대에 앉아 있는 네 사람..."
     },
     {
       "company": "Google AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "IBM과 UC Berkeley는 IT-Bench와 MAST를 사용하여 엔터프라이즈 에이전트가 실패하는 이유를 진단합니다.",
+      "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+      "date": "Wed, 18 Feb 2026 16:15:45 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "NVIDIA Nemotron 2 Nano 9B Korean: 일본의 소블린 AI를 지원하는 최첨단 소규모 언어 모델",
       "link": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
       "date": "Tue, 17 Feb 2026 23:28:52 GMT",
@@ -97,13 +104,6 @@
       "title": "Codex 및 Claude의 모든 사용자 정의 커널",
       "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
       "date": "Fri, 13 Feb 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "OpenEnv 실제 사례: 실제 환경에서 도구를 사용하는 에이전트 평가",
-      "link": "https://huggingface.co/blog/openenv-turing",
-      "date": "Thu, 12 Feb 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
