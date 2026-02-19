@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19 08:38:36 (KST)",
+  "updated_at": "2026-02-19 11:53:13 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore로 통합 인텔리전스 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/",
+      "date": "Wed, 18 Feb 2026 23:54:29 +0000",
+      "summary": "이 게시물에서는 고객 에이전트 및 지식 엔진(CAKE)의 실제 구현을 통해 Amazon Bedrock AgentCore를 사용하여 통합 인텔리전스 시스템을 구축하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "AI 에이전트 평가: Amazon에서 에이전트 시스템 구축을 통한 실제 교훈",
       "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/",
       "date": "Wed, 18 Feb 2026 19:21:28 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/",
       "date": "Fri, 13 Feb 2026 22:57:34 +0000",
       "summary": "오늘 우리는 이러한 요구 사항을 해결하는 세 가지 새로운 기능인 프록시 구성, 브라우저 프로필 및 브라우저 확장을 발표합니다. 이러한 기능을 함께 사용하면 세밀한 제어가 가능합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "AI와 HR의 만남: Amazon Bedrock을 통한 인재 확보 혁신",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-meets-hr-transforming-talent-acquisition-with-amazon-bedrock/",
-      "date": "Thu, 12 Feb 2026 20:18:58 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock, Amazon Bedrock Knowledge Bases, AWS Lambda 및 기타 AWS 서비스를 사용하여 AI 기반 채용 시스템을 생성하여 직무 설명 작성을 향상시키는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
