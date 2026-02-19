@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-20 00:58:59 (KST)",
+  "updated_at": "2026-02-20 02:07:43 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "인도용 OpenAI 소개",
       "link": "https://openai.com/index/openai-for-india",
       "date": "Wed, 18 Feb 2026 21:00:00 GMT",
-      "summary": "인도용 OpenAI는 AI 액세스를 전국적으로 확대하여 현지 인프라를 구축하고 기업을 지원하며 인력 기술을 향상시킵니다...."
+      "summary": "인도용 OpenAI는 AI 액세스를 전국으로 확대하여 현지 인프라를 구축하고 기업을 지원하며 인력 기술을 향상시킵니다...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "ChatGPT에 잠금 모드 및 위험 증가 라벨 소개",
       "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
       "date": "Fri, 13 Feb 2026 10:00:00 GMT",
-      "summary": "ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입하여 조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 지원합니다...."
+      "summary": "조직이 즉각적인 주입 및 AI 기반 데이터 유출을 방어할 수 있도록 ChatGPT에 잠금 모드 및 위험 상승 레이블을 도입했습니다...."
     },
     {
       "company": "Google AI",
@@ -41,7 +41,7 @@
       "title": "자신을 표현하는 새로운 방법: Gemini는 이제 음악을 만들 수 있습니다",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
       "date": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "summary": "Lyria 3로 생성된 샘플 트랙을 보여주는 이미지..."
+      "summary": "Lyria 3으로 생성된 샘플 트랙을 보여주는 이미지..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,28 +66,35 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Union.ai 및 Flyte를 사용하여 Amazon EKS에서 AI 워크플로 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/",
+      "date": "Thu, 19 Feb 2026 16:28:21 +0000",
+      "summary": "이 게시물에서는 Flyte Python SDK를 사용하여 AI/ML 워크플로를 조정하고 확장하는 방법을 설명합니다. Union.ai 2.0 시스템을 사용하여 Amazon Elastic Kubernetes에 Flyte를 배포하는 방법을 살펴봅니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Quick Suite는 이제 Snowflake 데이터 소스에 대한 키 페어 인증을 지원합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-suite-now-supports-key-pair-authentication-to-snowflake-data-source/",
+      "date": "Thu, 19 Feb 2026 16:06:41 +0000",
+      "summary": "이 블로그 게시물에서는 보안 키 쌍 인증을 통해 Amazon Quick Sight와 Snowflake 간의 데이터 소스 연결을 설정하는 방법을 안내합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock AgentCore로 통합 인텔리전스 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/",
       "date": "Wed, 18 Feb 2026 23:54:29 +0000",
-      "summary": "이 게시물에서는 고객 에이전트 및 지식 엔진(CAKE)의 실제 구현을 통해 Amazon Bedrock AgentCore를 사용하여 통합 인텔리전스 시스템을 구축하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "AI 에이전트 평가: Amazon에서 에이전트 시스템 구축을 통한 실제 교훈",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/",
-      "date": "Wed, 18 Feb 2026 19:21:28 +0000",
-      "summary": "이 게시물에서는 두 가지 핵심 구성 요소인 생성기를 통해 Amazon의 에이전트 AI 애플리케이션의 복잡성을 해결하는 Amazon 에이전트 AI 시스템에 대한 포괄적인 평가 프레임워크를 제시합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore Browser에서 프록시, 프로필 및 확장 기능을 사용하여 AI 에이전트 탐색을 사용자 정의",
-      "link": "https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/",
-      "date": "Fri, 13 Feb 2026 22:57:34 +0000",
-      "summary": "오늘 우리는 이러한 요구 사항을 해결하는 세 가지 새로운 기능인 프록시 구성, 브라우저 프로필 및 브라우저 확장을 발표합니다. 이러한 기능을 함께 사용하면 세밀한 제어가 가능합니다...."
+      "summary": "이 게시물에서는 CAKE(고객 에이전트 및 지식 엔진)의 실제 구현을 통해 Amazon Bedrock AgentCore를 사용하여 통합 인텔리전스 시스템을 구축하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
-      "title": "'데이터 부족'의 벽을 넘어: 합성 페르소나가 일본의 AI 개발을 가속",
+      "title": "Unsloth 및 Hugging Face 작업으로 AI 모델을 무료로 훈련하세요.",
+      "link": "https://huggingface.co/blog/unsloth-jobs",
+      "date": "Fri, 20 Feb 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "「데이터 부족」의 벽을 넘는다: 합성 페르소나가 일본의 AI 개발을 가속",
       "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
       "date": "Thu, 19 Feb 2026 15:32:38 GMT",
       "summary": "..."
@@ -97,13 +104,6 @@
       "title": "IBM과 UC Berkeley는 IT-Bench와 MAST를 사용하여 엔터프라이즈 에이전트가 실패하는 이유를 진단합니다.",
       "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
       "date": "Wed, 18 Feb 2026 16:15:45 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Gradio의 gr.HTML을 사용하면 모든 웹 앱을 한 번에 해결할 수 있습니다.",
-      "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
-      "date": "Wed, 18 Feb 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
