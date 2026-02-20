@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-21 00:45:13 (KST)",
+  "updated_at": "2026-02-21 01:53:10 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "인도용 OpenAI 소개",
       "link": "https://openai.com/index/openai-for-india",
       "date": "Wed, 18 Feb 2026 21:00:00 GMT",
-      "summary": "인도용 OpenAI는 AI 액세스를 전국으로 확대하여 현지 인프라를 구축하고 기업을 지원하며 인력 기술을 향상시킵니다...."
+      "summary": "인도용 OpenAI는 AI 액세스를 전국적으로 확대하여 현지 인프라를 구축하고 기업을 지원하며 인력 기술을 향상시킵니다...."
     },
     {
       "company": "OpenAI",
@@ -41,7 +41,7 @@
       "title": "자신을 표현하는 새로운 방법: Gemini는 이제 음악을 만들 수 있습니다",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
       "date": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "summary": "Lyria 3으로 생성된 샘플 트랙을 보여주는 이미지..."
+      "summary": "Lyria 3로 생성된 샘플 트랙을 보여주는 이미지..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "MCP(모델 컨텍스트 프로토콜)를 사용하여 Amazon Quick Agent와 외부 도구 통합",
+      "link": "https://aws.amazon.com/blogs/machine-learning/integrate-external-tools-with-amazon-quick-agents-using-model-context-protocol-mcp/",
+      "date": "Fri, 20 Feb 2026 16:26:21 +0000",
+      "summary": "이 게시물에서는 6단계 체크리스트를 사용하여 새로운 MCP 서버를 구축하거나 Amazon&nbsp;빠른 통합을 위해 기존 MCP 서버를 검증 및 조정합니다.&nbsp;Amazon&nbsp;빠른 사용자 가이드에서는 다음과 같이 설명합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Union.ai 및 Flyte를 사용하여 Amazon EKS에서 AI 워크플로 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/",
       "date": "Thu, 19 Feb 2026 16:28:21 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-suite-now-supports-key-pair-authentication-to-snowflake-data-source/",
       "date": "Thu, 19 Feb 2026 16:06:41 +0000",
       "summary": "이 블로그 게시물에서는 보안 키 쌍 인증을 통해 Amazon Quick Sight와 Snowflake 간의 데이터 소스 연결을 설정하는 방법을 안내합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore로 통합 인텔리전스 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/",
-      "date": "Wed, 18 Feb 2026 23:54:29 +0000",
-      "summary": "이 게시물에서는 CAKE(고객 에이전트 및 지식 엔진)의 실제 구현을 통해 Amazon Bedrock AgentCore를 사용하여 통합 인텔리전스 시스템을 구축하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "「데이터 부족」의 벽을 넘는다: 합성 페르소나가 일본의 AI 개발을 가속",
+      "title": "'데이터 부족'의 벽을 넘어: 합성 페르소나가 일본의 AI 개발을 가속",
       "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
       "date": "Thu, 19 Feb 2026 15:32:38 GMT",
       "summary": "..."
