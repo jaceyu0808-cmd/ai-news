@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-21 05:42:32 (KST)",
+  "updated_at": "2026-02-21 06:34:17 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "인도용 OpenAI 소개",
       "link": "https://openai.com/index/openai-for-india",
       "date": "Wed, 18 Feb 2026 21:00:00 GMT",
-      "summary": "인도용 OpenAI는 AI 액세스를 전국적으로 확대하여 현지 인프라를 구축하고 기업을 지원하며 인력 기술을 향상시킵니다...."
+      "summary": "인도용 OpenAI는 AI 액세스를 전국으로 확대하여 현지 인프라를 구축하고 기업을 지원하며 인력 기술을 향상시킵니다...."
     },
     {
       "company": "OpenAI",
@@ -69,7 +69,7 @@
       "title": "2025년의 Amazon SageMaker AI 검토 1부: 유연한 훈련 계획 및 추론 워크로드에 대한 가격 성능 개선",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
       "date": "Fri, 20 Feb 2026 20:26:47 +0000",
-      "summary": "2025년에 Amazon SageMaker AI는 용량, 가격 대비 성능, 관찰 가능성, 유용성 등 4가지 측면에서 핵심 인프라 제품이 크게 개선되었습니다. 이 일련의 게시물에서 우리는..."
+      "summary": "2025년에 Amazon SageMaker AI는 용량, 가격 대비 성능, 관찰 가능성, 유용성이라는 4가지 측면에서 핵심 인프라 제품이 크게 개선되었습니다. 이 일련의 게시물에서 우리는..."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "'데이터 부족'의 벽을 넘어: 합성 페르소나가 일본의 AI 개발을 가속",
+      "title": "「데이터 부족」의 벽을 넘는다: 합성 페르소나가 일본의 AI 개발을 가속",
       "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
       "date": "Thu, 19 Feb 2026 15:32:38 GMT",
       "summary": "..."
