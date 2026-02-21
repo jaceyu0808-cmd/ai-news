@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-22 04:32:42 (KST)",
+  "updated_at": "2026-02-22 05:34:52 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "첫 번째 증거 제출",
       "link": "https://openai.com/index/first-proof-submissions",
       "date": "Fri, 20 Feb 2026 14:30:00 GMT",
-      "summary": "전문가 수준의 문제에 대한 연구 수준의 추론을 테스트하는 첫 번째 증명 수학 과제에 대한 AI 모델의 증명 시도를 공유합니다...."
+      "summary": "전문가 수준의 문제에 대한 연구 수준의 추론을 테스트하는 First Proof 수학 과제에 대한 AI 모델의 증명 시도를 공유합니다...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "인도용 OpenAI 소개",
       "link": "https://openai.com/index/openai-for-india",
       "date": "Wed, 18 Feb 2026 21:00:00 GMT",
-      "summary": "인도용 OpenAI는 AI 액세스를 전국적으로 확대하여 현지 인프라를 구축하고 기업을 지원하며 인력 기술을 향상시킵니다...."
+      "summary": "인도용 OpenAI는 AI 액세스를 전국으로 확대하여 현지 인프라를 구축하고 기업을 지원하며 인력 기술을 향상시킵니다...."
     },
     {
       "company": "Google AI",
@@ -41,14 +41,7 @@
       "title": "자신을 표현하는 새로운 방법: Gemini는 이제 음악을 만들 수 있습니다",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
       "date": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "summary": "Lyria 3으로 생성된 샘플 트랙을 보여주는 이미지..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Budget Bytes 소개: 25달러 미만으로 강력한 AI 앱 구축",
-      "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-      "date": "Thu, 19 Feb 2026 17:02:52 +0000",
-      "summary": "<p>Budget Bytes는 개발자가 25달러 이하의 예산으로 Azure에서 합리적인 가격의 프로덕션 품질 AI 애플리케이션을 구축할 수 있도록 영감을 주기 위해 고안된 새로운 시리즈입니다.</p>\n<p>게시물 <a href=\"https://devblo..."
+      "summary": "Lyria 3로 생성된 샘플 트랙을 보여주는 이미지..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -65,11 +58,18 @@
       "summary": "<p>최신 클라우드 시스템은 가동 시간 그 이상을 제공할 것으로 예상됩니다. 고객은 일관된 성능, 중단을 견딜 수 있는 능력, 복구가 예측 가능하고 의도적이라는 확신을 기대합니다...."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "디자인 이면의 데이터: Pantone이 AI 지원 데이터베이스를 사용하여 에이전트 AI를 구축한 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
+      "date": "Thu, 12 Feb 2026 16:00:00 +0000",
+      "summary": "<p>실제 사용자 피드백을 수집하고 빠르게 반복하기 위한 최소 실행 가능 제품으로 출시된 AI 기반 경험에 대해 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-data-..."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "2025년의 Amazon SageMaker AI 검토 1부: 유연한 훈련 계획 및 추론 워크로드에 대한 가격 성능 개선",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
       "date": "Fri, 20 Feb 2026 20:26:47 +0000",
-      "summary": "2025년에 Amazon SageMaker AI는 용량, 가격 대비 성능, 관찰 가능성, 유용성 등 4가지 측면에서 핵심 인프라 제품이 크게 개선되었습니다. 이 일련의 게시물에서 우리는..."
+      "summary": "2025년에 Amazon SageMaker AI는 용량, 가격 대비 성능, 관찰 가능성, 유용성이라는 4가지 측면에서 핵심 인프라 제품이 크게 개선되었습니다. 이 일련의 게시물에서 우리는..."
     },
     {
       "company": "AWS Machine Learning",
