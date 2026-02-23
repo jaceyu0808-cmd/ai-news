@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-02-23 16:17:54 (KST)",
+  "updated_at": "2026-02-23 18:00:53 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "첫 번째 증거 제출",
       "link": "https://openai.com/index/first-proof-submissions",
       "date": "Fri, 20 Feb 2026 14:30:00 GMT",
-      "summary": "전문가 수준의 문제에 대한 연구 수준의 추론을 테스트하는 첫 번째 증명 수학 과제에 대한 AI 모델의 증명 시도를 공유합니다...."
+      "summary": "전문가 수준의 문제에 대한 연구 수준의 추론을 테스트하는 First Proof 수학 과제에 대한 AI 모델의 증명 시도를 공유합니다...."
     },
     {
       "company": "OpenAI",
@@ -41,7 +41,7 @@
       "title": "자신을 표현하는 새로운 방법: Gemini는 이제 음악을 만들 수 있습니다",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
       "date": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "summary": "Lyria 3로 생성된 샘플 트랙을 보여주는 이미지..."
+      "summary": "Lyria 3으로 생성된 샘플 트랙을 보여주는 이미지..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -55,7 +55,7 @@
       "title": "Microsoft Foundry-Frontier 성능 확장의 Claude Sonnet 4.6",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
       "date": "Tue, 17 Feb 2026 20:11:10 +0000",
-      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 대규모 코딩, 에이전트, 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
+      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 코딩, 에이전트, 대규모 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -69,11 +69,11 @@
       "title": "2025년의 Amazon SageMaker AI 검토 1부: 유연한 훈련 계획 및 추론 워크로드에 대한 가격 성능 개선",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
       "date": "Fri, 20 Feb 2026 20:26:47 +0000",
-      "summary": "2025년에 Amazon SageMaker AI는 용량, 가격 대비 성능, 관찰 가능성, 유용성이라는 4가지 측면에서 핵심 인프라 제품이 크게 개선되었습니다. 이 일련의 게시물에서 우리는..."
+      "summary": "2025년에 Amazon SageMaker AI는 용량, 가격 대비 성능, 관찰 가능성, 유용성 등 4가지 측면에서 핵심 인프라 제품이 크게 개선되었습니다. 이 일련의 게시물에서 우리는..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "2025년의 Amazon SageMaker AI 검토 1년차 파트 2: SageMaker AI 모델 사용자 정의 및 호스팅을 위한 향상된 관찰 가능성 및 향상된 기능",
+      "title": "2025년의 Amazon SageMaker AI 검토 1년차 2부: SageMaker AI 모델 사용자 정의 및 호스팅을 위한 향상된 관찰 가능성 및 향상된 기능",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-2-improved-observability-and-enhanced-features-for-sagemaker-ai-model-customization-and-hosting/",
       "date": "Fri, 20 Feb 2026 20:26:30 +0000",
       "summary": "2025년에 Amazon SageMaker AI는 생성적 AI 워크로드를 훈련, 조정 및 호스팅하는 데 도움이 되도록 설계된 몇 가지 개선 사항을 적용했습니다. 이 시리즈의 1부에서는 유연한 교육 계획과 가격 성능에 대해 논의했습니다...."
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "「데이터 부족」의 벽을 넘는다: 합성 페르소나가 일본의 AI 개발을 가속",
+      "title": "'데이터 부족'의 벽을 넘어: 합성 페르소나가 일본의 AI 개발을 가속",
       "link": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja",
       "date": "Thu, 19 Feb 2026 15:32:38 GMT",
       "summary": "..."
