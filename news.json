@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-02-23 22:25:09 (KST)",
+  "updated_at": "2026-02-23 23:57:23 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI, 프론티어 얼라이언스 파트너 발표",
+      "link": "https://openai.com/index/frontier-alliance-partners",
+      "date": "Mon, 23 Feb 2026 05:30:00 GMT",
+      "summary": "OpenAI는 안전하고 확장 가능한 에이전트 배포를 통해 기업이 AI 파일럿에서 프로덕션으로 전환할 수 있도록 지원하는 Frontier Alliance Partner를 발표했습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "첫 번째 증거 제출",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
       "date": "Thu, 19 Feb 2026 10:00:00 GMT",
       "summary": "OpenAI는 독립적인 AI 정렬 연구에 자금을 지원하기 위해 The Alignment Project에 750만 달러를 투자하고 AGI 안전 및 보안 위험을 해결하기 위한 글로벌 노력을 강화합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "인도용 OpenAI 소개",
-      "link": "https://openai.com/index/openai-for-india",
-      "date": "Wed, 18 Feb 2026 21:00:00 GMT",
-      "summary": "인도용 OpenAI는 AI 액세스를 전국적으로 확대하여 현지 인프라를 구축하고 기업을 지원하며 인력 기술을 향상시킵니다...."
     },
     {
       "company": "Google AI",
