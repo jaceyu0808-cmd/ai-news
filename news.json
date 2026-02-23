@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-23 23:57:23 (KST)",
+  "updated_at": "2026-02-24 00:56:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "AWS에서 Hugging Face smolagents를 사용하는 다중 모델 프레임워크를 갖춘 Agentic AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/",
+      "date": "Mon, 23 Feb 2026 15:47:06 +0000",
+      "summary": "Hugging Face smolagents는 몇 줄의 코드를 사용하여 에이전트를 간단하게 구축하고 실행할 수 있도록 설계된 오픈 소스 Python 라이브러리입니다. 에이전트 AI 솔루션을 구축하는 방법을 보여 드리겠습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "2025년의 Amazon SageMaker AI 검토 1부: 유연한 훈련 계획 및 추론 워크로드에 대한 가격 성능 개선",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
       "date": "Fri, 20 Feb 2026 20:26:47 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-2-improved-observability-and-enhanced-features-for-sagemaker-ai-model-customization-and-hosting/",
       "date": "Fri, 20 Feb 2026 20:26:30 +0000",
       "summary": "2025년에 Amazon SageMaker AI는 생성적 AI 워크로드를 훈련, 조정 및 호스팅하는 데 도움이 되도록 설계된 몇 가지 개선 사항을 적용했습니다. 이 시리즈의 1부에서는 유연한 교육 계획과 가격 성능에 대해 논의했습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "MCP(모델 컨텍스트 프로토콜)를 사용하여 Amazon Quick Agent와 외부 도구 통합",
-      "link": "https://aws.amazon.com/blogs/machine-learning/integrate-external-tools-with-amazon-quick-agents-using-model-context-protocol-mcp/",
-      "date": "Fri, 20 Feb 2026 16:26:21 +0000",
-      "summary": "이 게시물에서는 6단계 체크리스트를 사용하여 새로운 MCP 서버를 구축하거나 Amazon&nbsp;빠른 통합을 위해 기존 MCP 서버를 검증 및 조정합니다.&nbsp;Amazon&nbsp;빠른 사용자 가이드에서는 다음과 같이 설명합니다...."
     },
     {
       "company": "Hugging Face",
