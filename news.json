@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-02-24 02:11:34 (KST)",
+  "updated_at": "2026-02-24 04:17:47 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "더 이상 SWE-bench Verified를 평가하지 않는 이유",
+      "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "date": "Mon, 23 Feb 2026 11:00:00 GMT",
+      "summary": "SWE-bench Verified는 점점 더 오염되고 프론티어 코딩 진행 상황을 잘못 측정합니다. 우리의 분석은 결함이 있는 테스트와 훈련 누출을 보여줍니다. SWE-bench Pro를 추천합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI, 프론티어 얼라이언스 파트너 발표",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/first-proof-submissions",
       "date": "Fri, 20 Feb 2026 14:30:00 GMT",
       "summary": "전문가 수준의 문제에 대한 연구 수준의 추론을 테스트하는 First Proof 수학 과제에 대한 AI 모델의 증명 시도를 공유합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "AI 정렬에 대한 독립적인 연구 발전",
-      "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
-      "date": "Thu, 19 Feb 2026 10:00:00 GMT",
-      "summary": "OpenAI는 독립적인 AI 정렬 연구에 자금을 지원하기 위해 The Alignment Project에 750만 달러를 투자하고 AGI 안전 및 보안 위험을 해결하기 위한 글로벌 노력을 강화합니다...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Sonrai가 Amazon SageMaker AI를 사용하여 정밀 의학 실험을 가속화하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/",
+      "date": "Mon, 23 Feb 2026 17:31:45 +0000",
+      "summary": "이 게시물에서는 생명과학 AI 회사인 Sonrai가 AWS와 파트너십을 맺고 Amazon SageMaker AI를 사용하여 이러한 문제를 해결하는 동시에 트래픽을 유지하는 강력한 MLOps 프레임워크를 구축한 방법을 살펴봅니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker HyperPod를 사용하여 Hexagon에서 AI 모델 생산 가속화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/",
+      "date": "Mon, 23 Feb 2026 17:29:11 +0000",
+      "summary": "이 블로그 게시물에서는 Hexagon이 Amazon Web Services와 협력하여 모델 교육 정보를 사용하여 최첨단 세분화 모델을 사전 교육함으로써 AI 모델 생산을 확장하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "AWS에서 Hugging Face smolagents를 사용하는 다중 모델 프레임워크를 갖춘 Agentic AI",
       "link": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/",
       "date": "Mon, 23 Feb 2026 15:47:06 +0000",
       "summary": "Hugging Face smolagents는 몇 줄의 코드를 사용하여 에이전트를 간단하게 구축하고 실행할 수 있도록 설계된 오픈 소스 Python 라이브러리입니다. 에이전트 AI 솔루션을 구축하는 방법을 보여 드리겠습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "2025년 Amazon SageMaker AI 검토 1부: 유연한 훈련 계획 및 추론 워크로드에 대한 가격 성능 개선",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-1-flexible-training-plans-and-improvements-to-price-performance-for-inference-workloads/",
-      "date": "Fri, 20 Feb 2026 20:26:47 +0000",
-      "summary": "2025년에 Amazon SageMaker AI는 용량, 가격 대비 성능, 관찰 가능성, 유용성이라는 4가지 측면에서 핵심 인프라 제품이 크게 개선되었습니다. 이 일련의 게시물에서 우리는..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "2025년의 Amazon SageMaker AI 검토 1년차 2부: SageMaker AI 모델 사용자 정의 및 호스팅을 위한 향상된 관찰 가능성 및 향상된 기능",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-in-2025-a-year-in-review-part-2-improved-observability-and-enhanced-features-for-sagemaker-ai-model-customization-and-hosting/",
-      "date": "Fri, 20 Feb 2026 20:26:30 +0000",
-      "summary": "2025년에 Amazon SageMaker AI는 생성적 AI 워크로드를 훈련, 조정 및 호스팅하는 데 도움이 되도록 설계된 몇 가지 개선 사항을 적용했습니다. 이 시리즈의 1부에서는 유연한 교육 계획과 가격 성능에 대해 논의했습니다...."
     },
     {
       "company": "Hugging Face",
