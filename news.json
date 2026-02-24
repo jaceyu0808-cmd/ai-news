@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25 03:03:16 (KST)",
+  "updated_at": "2026-02-25 04:51:46 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Rekognition, Amazon Neptune 및 Amazon Bedrock을 사용하여 지능형 사진 검색 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/",
+      "date": "Tue, 24 Feb 2026 18:22:26 +0000",
+      "summary": "이 게시물에서는 얼굴 및 객체 감지를 위해 Amazon Rekognition, Amazon Neptun을 통합하는 AWS 클라우드 개발 키트(AWS CDK)를 사용하여 포괄적인 사진 검색 시스템을 구축하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon SageMaker 교육 작업에서 veRL 및 Ray를 사용하여 CodeFu-7B 교육",
       "link": "https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/",
       "date": "Tue, 24 Feb 2026 15:46:50 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/",
       "date": "Tue, 24 Feb 2026 15:42:34 +0000",
       "summary": "이 게시물에서는 Amazon SageMaker에서 AWS Marketplace를 사용하여 구조화된 출력을 구현하기 위한 실용적인 접근 방식으로 Dottxt의 아웃라인 프레임워크 구현을 살펴봅니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "태국, 말레이시아, 싱가포르, 인도네시아 및 대만의 Amazon Bedrock에서 최신 Anthropic Claude Opus, Sonnet 및 Haiku 모델에 대한 글로벌 교차 지역 추론",
-      "link": "https://aws.amazon.com/blogs/machine-learning/global-cross-region-inference-for-latest-anthropic-claude-opus-sonnet-and-haiku-models-on-amazon-bedrock-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "date": "Tue, 24 Feb 2026 15:38:22 +0000",
-      "summary": "이 게시물에서는 태국, 말레이시아, 싱가포르, 인도네시아 및 대만 고객을 위한 Global CRIS의 가용성을 발표하고 기술 구현 단계를 안내하게 되어 기쁘게 생각합니다...."
     },
     {
       "company": "Hugging Face",
