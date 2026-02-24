@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24 22:26:25 (KST)",
+  "updated_at": "2026-02-25 00:00:06 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "첫 번째 증거 제출",
       "link": "https://openai.com/index/first-proof-submissions",
       "date": "Fri, 20 Feb 2026 14:30:00 GMT",
-      "summary": "전문가 수준의 문제에 대한 연구 수준의 추론을 테스트하는 First Proof 수학 과제에 대한 AI 모델의 증명 시도를 공유합니다...."
+      "summary": "전문가 수준의 문제에 대한 연구 수준의 추론을 테스트하는 첫 번째 증명 수학 과제에 대한 AI 모델의 증명 시도를 공유합니다...."
     },
     {
       "company": "Google AI",
@@ -41,7 +41,7 @@
       "title": "자신을 표현하는 새로운 방법: Gemini는 이제 음악을 만들 수 있습니다",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
       "date": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "summary": "Lyria 3으로 생성된 샘플 트랙을 보여주는 이미지..."
+      "summary": "Lyria 3로 생성된 샘플 트랙을 보여주는 이미지..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -69,21 +69,21 @@
       "title": "물리적 AI 시스템을 강화하기 위해 비전 언어 모델을 사용하여 데이터 주석 확장",
       "link": "https://aws.amazon.com/blogs/machine-learning/scaling-data-annotation-using-vision-language-models-to-power-physical-ai-systems/",
       "date": "Mon, 23 Feb 2026 23:20:37 +0000",
-      "summary": "이 게시물에서는 Bedrock Robotics가 이 문제를 어떻게 해결하는지 살펴봅니다. 스타트업은 AWS Physical AI Fellowship에 가입함으로써 AWS Generative AI Innovation Center와 파트너십을 맺고 Vision-lang을 적용했습니다...."
+      "summary": "이 게시물에서는 Bedrock Robotics가 이 문제를 어떻게 해결하는지 살펴보겠습니다. 스타트업은 AWS Physical AI Fellowship에 가입함으로써 AWS Generative AI Innovation Center와 파트너십을 맺고 Vision-lang을 적용했습니다...."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Sonrai가 Amazon SageMaker AI를 사용하여 정밀 의학 실험을 가속화하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-sonrai-uses-amazon-sagemaker-ai-to-accelerate-precision-medicine-trials/",
       "date": "Mon, 23 Feb 2026 17:31:45 +0000",
-      "summary": "이 게시물에서는 생명 과학 AI 회사인 Sonrai가 AWS와 파트너십을 맺고 Amazon SageMaker AI를 사용하여 이러한 문제를 해결하는 동시에 트래픽을 유지하는 강력한 MLOps 프레임워크를 구축한 방법을 살펴봅니다...."
+      "summary": "이 게시물에서는 생명과학 AI 회사인 Sonrai가 AWS와 파트너십을 맺고 Amazon SageMaker AI를 사용하여 이러한 문제를 해결하는 동시에 트래픽을 유지하는 강력한 MLOps 프레임워크를 구축한 방법을 살펴봅니다...."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Amazon SageMaker HyperPod를 사용하여 Hexagon에서 AI 모델 생산 가속화",
       "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-model-production-at-hexagon-with-amazon-sagemaker-hyperpod/",
       "date": "Mon, 23 Feb 2026 17:29:11 +0000",
-      "summary": "이 블로그 게시물에서는 Hexagon이 Amazon Web Services와 협력하여 모델 교육 정보를 사용하여 최첨단 세분화 모델을 사전 교육함으로써 AI 모델 생산을 확장하는 방법을 보여줍니다...."
+      "summary": "이 블로그 게시물에서는 Hexagon이 Amazon Web Services와 협력하여 모델 훈련 정보를 사용하여 최첨단 분할 모델을 사전 훈련함으로써 AI 모델 생산을 확장한 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
