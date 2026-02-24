@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25 04:51:46 (KST)",
+  "updated_at": "2026-02-25 05:48:43 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "첫 번째 증거 제출",
       "link": "https://openai.com/index/first-proof-submissions",
       "date": "Fri, 20 Feb 2026 14:30:00 GMT",
-      "summary": "전문가 수준의 문제에 대한 연구 수준의 추론을 테스트하는 첫 번째 증명 수학 과제에 대한 AI 모델의 증명 시도를 공유합니다...."
+      "summary": "전문가 수준의 문제에 대한 연구 수준의 추론을 테스트하는 First Proof 수학 과제에 대한 AI 모델의 증명 시도를 공유합니다...."
     },
     {
       "company": "Google AI",
@@ -41,7 +41,7 @@
       "title": "자신을 표현하는 새로운 방법: Gemini는 이제 음악을 만들 수 있습니다",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
       "date": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "summary": "Lyria 3로 생성된 샘플 트랙을 보여주는 이미지..."
+      "summary": "Lyria 3으로 생성된 샘플 트랙을 보여주는 이미지..."
     },
     {
       "company": "Microsoft Azure AI",
