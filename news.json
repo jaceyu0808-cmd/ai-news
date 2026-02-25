@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-26 05:45:48 (KST)",
+  "updated_at": "2026-02-26 06:42:56 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "전체 그림을 보고 Circle to Search로 원하는 모습을 찾아보세요",
       "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
       "date": "Wed, 25 Feb 2026 18:00:00 +0000",
-      "summary": "의상의 구성 요소를 분류하는 'AI 개요'와 다양한 신체 유형의 의류를 시각화하는 가상 '시도해 보기' 버튼을 포함한 AI 기반 도구를 갖춘 Google 검색 인터페이스입니다...."
+      "summary": "의상의 구성 요소를 분류하는 'AI 개요'와 다양한 신체 유형의 의류를 시각화하는 가상 '시도' 버튼을 포함한 AI 기반 도구를 갖춘 Google 검색 인터페이스입니다...."
     },
     {
       "company": "Google AI",
@@ -45,31 +45,38 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Sovereign Cloud는 완전히 연결이 끊긴 경우에도 안전하게 실행되는 대규모 AI 모델에 대한 거버넌스, 생산성 및 지원을 추가합니다.",
-      "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
-      "date": "Tue, 24 Feb 2026 10:20:00 +0000",
-      "summary": "<p>Microsoft Sovereign Cloud의 기능 확장에는 Azure 로컬 연결 끊김 작업, Microsoft 365 로컬 연결 끊김, 대규모 모델 및 최신 인프라의 Microsoft Foundry 추가가 포함됩니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Budget Bytes 소개: 25달러 미만으로 강력한 AI 앱 구축",
-      "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
-      "date": "Thu, 19 Feb 2026 17:02:52 +0000",
-      "summary": "<p>Budget Bytes는 개발자가 25달러 이하의 예산으로 Azure에서 합리적인 가격의 프로덕션 품질 AI 애플리케이션을 구축할 수 있도록 영감을 주기 위해 고안된 새로운 시리즈입니다.</p>\n<p>게시물 <a href=\"https://devblo..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft Foundry-Frontier 성능 확장의 Claude Sonnet 4.6",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
       "date": "Tue, 17 Feb 2026 20:11:10 +0000",
-      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 코딩, 에이전트, 대규모 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
+      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 대규모 코딩, 에이전트, 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure 안정성, 복원력 및 복구 가능성: 설계에 따라 연속성 구축",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
+      "date": "Tue, 17 Feb 2026 16:00:00 +0000",
+      "summary": "<p>최신 클라우드 시스템은 가동 시간 그 이상을 제공할 것으로 예상됩니다. 고객은 일관된 성능, 중단을 견딜 수 있는 능력, 복구가 예측 가능하고 의도적이라는 확신을 기대합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "디자인 이면의 데이터: Pantone이 AI 지원 데이터베이스를 사용하여 에이전트 AI를 구축한 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/",
+      "date": "Thu, 12 Feb 2026 16:00:00 +0000",
+      "summary": "<p>실제 사용자 피드백을 수집하고 빠르게 반복하기 위한 최소 실행 가능 제품으로 출시된 AI 기반 경험에 대해 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-data-..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker AI 및 Amazon Bedrock에서 vLLM을 사용하여 수십 개의 미세 조정 모델을 효율적으로 제공",
+      "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
+      "date": "Wed, 25 Feb 2026 20:56:13 +0000",
+      "summary": "이 게시물에서는 vLLM에서 MoE(Mixture of Experts) 모델에 대한 다중 LoRA 추론을 구현한 방법을 설명하고, 수행한 커널 수준 최적화를 설명하고, 이를 통해 얻을 수 있는 이점을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Amazon Bedrock AgentCore 및 Amazon Bedrock Knowledge Base를 사용하여 지능형 이벤트 에이전트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/",
       "date": "Wed, 25 Feb 2026 19:51:08 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock AgentCore의 구성 요소를 사용하여 프로덕션에 즉시 사용할 수 있는 이벤트 도우미를 신속하게 배포하는 방법을 보여줍니다. 참석자의 선호도를 기억하는 지능적인 동반자를 만들어 드립니다...."
+      "summary": "이 게시물에서는 Amazon Bedrock AgentCore의 구성 요소를 사용하여 프로덕션 준비 이벤트 도우미를 신속하게 배포하는 방법을 보여줍니다. 참석자의 선호도를 기억하는 지능적인 동반자를 만들어 드립니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/",
       "date": "Tue, 24 Feb 2026 18:22:26 +0000",
       "summary": "이 게시물에서는 얼굴 및 객체 감지를 위해 Amazon Rekognition, Amazon Neptun을 통합하는 AWS 클라우드 개발 키트(AWS CDK)를 사용하여 포괄적인 사진 검색 시스템을 구축하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker 교육 작업에서 veRL 및 Ray를 사용하여 CodeFu-7B 교육",
-      "link": "https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/",
-      "date": "Tue, 24 Feb 2026 15:46:50 +0000",
-      "summary": "이 게시물에서는 유연하고 효율적인 veRL이 포함된 GRPO(그룹 상대 정책 최적화)를 사용하여 경쟁 프로그래밍을 위한 특수한 70억 매개변수 모델인 CodeFu-7B를 훈련하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
