@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-26 01:17:01 (KST)",
+  "updated_at": "2026-02-26 03:07:22 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,31 +24,31 @@
     },
     {
       "company": "Google AI",
+      "title": "전체 그림을 보고 Circle to Search로 원하는 모습을 찾아보세요",
+      "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+      "date": "Wed, 25 Feb 2026 18:00:00 +0000",
+      "summary": "의상의 구성 요소를 분류하는 'AI 개요'와 다양한 신체 유형의 의류를 시각화하는 가상 '시도' 버튼을 포함한 AI 기반 도구를 갖춘 Google 검색 인터페이스입니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "Samsung Galaxy S26의 더욱 지능적인 Android",
+      "link": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+      "date": "Wed, 25 Feb 2026 18:00:00 +0000",
+      "summary": "빨간색 터틀넥, 위장 반바지, 검은색 부츠를 입은 여성이 밝은 빨간색 벽을 배경으로 포즈를 취하고 있고 오른쪽 스마트폰에는 이미지 인식 결과가 포함된 Google 검색 페이지가 표시되어 있습니다...."
+    },
+    {
+      "company": "Google AI",
       "title": "“AI보다 더 큰 꿈을 꾸게 하는 기술은 없습니다”",
       "link": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
       "date": "Thu, 19 Feb 2026 04:30:00 +0000",
       "summary": "다채로운 네트워크 선과 \"भات 2026 INDIA\"라는 텍스트가 있는 Ashoka Chakra를 닮은 양식화된 디자인입니다. 수직선이 오른쪽의 Google 로고와 구분되며 모두 조명 b를 배경으로 설정되어 있습니다...."
     },
     {
-      "company": "Google AI",
-      "title": "AI 임팩트 서밋 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
-      "date": "Thu, 19 Feb 2026 04:30:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp\" />Google이 AI Impact에서 발표한 파트너십 및 투자 살펴보기..."
-    },
-    {
-      "company": "Google AI",
-      "title": "자신을 표현하는 새로운 방법: Gemini는 이제 음악을 만들 수 있습니다",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
-      "date": "Wed, 18 Feb 2026 16:00:00 +0000",
-      "summary": "Lyria 3로 생성된 샘플 트랙을 보여주는 이미지..."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "Microsoft Foundry-Frontier 성능 확장의 Claude Sonnet 4.6",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
       "date": "Tue, 17 Feb 2026 20:11:10 +0000",
-      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 코딩, 에이전트, 대규모 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
+      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 대규모 코딩, 에이전트, 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
     },
     {
       "company": "Microsoft Azure AI",
