@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-27 02:58:47 (KST)",
+  "updated_at": "2026-02-27 04:06:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "번역의 새로운 AI 기반 업데이트를 통해 더 많은 맥락을 파악하고 번역을 더 깊이 이해하세요.",
+      "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+      "date": "Thu, 26 Feb 2026 18:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp\" />Google Tra의 새로운 대안, '이해' 및 '질문' 버튼..."
+    },
+    {
+      "company": "Google AI",
       "title": "최고의 이미지 생성 및 편집 모델인 Nano Banana 2로 구축",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
       "date": "Thu, 26 Feb 2026 16:00:00 +0000",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
       "date": "Thu, 26 Feb 2026 16:00:00 +0000",
       "summary": "AI가 생성한 이미지가 포함된 Nano Banana 2 텍스트..."
-    },
-    {
-      "company": "Google AI",
-      "title": "전체 그림을 보고 Circle to Search로 원하는 모습을 찾아보세요",
-      "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
-      "date": "Wed, 25 Feb 2026 18:00:00 +0000",
-      "summary": "의상의 구성 요소를 분류하는 'AI 개요'와 다양한 신체 유형의 의류를 시각화하는 가상 '시도해 보기' 버튼을 포함한 AI 기반 도구를 갖춘 Google 검색 인터페이스입니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "현실 세계의 COBOL 현대화에서 얻은 교훈",
+      "link": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
+      "date": "Thu, 26 Feb 2026 18:16:43 +0000",
+      "summary": "성공적인 COBOL 현대화를 제공하려면 결정론적으로 리버스 엔지니어링하고, 검증되고 추적 가능한 사양을 생성하고, 해당 사양이 AI 기반 코딩에 반영되도록 돕는 솔루션이 필요합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Nova를 위한 강화 미세 조정: 피드백을 통한 AI 교육",
       "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/",
       "date": "Thu, 26 Feb 2026 17:48:37 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
       "date": "Thu, 26 Feb 2026 17:45:59 +0000",
       "summary": "AWS는 최근 LMI(Large Model Inference) 컨테이너에 대한 중요한 업데이트를 출시하여 포괄적인 성능 개선, 확장된 모델 지원 및 간소화된 배포 기능을 제공했습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI 및 Amazon Bedrock에서 vLLM을 사용하여 수십 개의 미세 조정 모델을 효율적으로 제공",
-      "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
-      "date": "Wed, 25 Feb 2026 20:56:13 +0000",
-      "summary": "이 게시물에서는 vLLM에서 MoE(Mixture of Experts) 모델에 대한 다중 LoRA 추론을 구현한 방법과 수행한 커널 수준 최적화를 설명하고 이를 통해 얻을 수 있는 이점을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
