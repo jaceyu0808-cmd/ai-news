@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-27 04:06:16 (KST)",
+  "updated_at": "2026-02-27 05:49:55 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "Google과 매사추세츠 AI 허브는 연방을 위한 새로운 AI 교육 이니셔티브를 시작합니다.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+      "date": "Thu, 26 Feb 2026 18:55:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp\" />Google은 매사추세츠 AI 허브와 제휴하여 모든 Baystat를 제공합니다...."
+    },
+    {
+      "company": "Google AI",
       "title": "번역의 새로운 AI 기반 업데이트를 통해 더 많은 맥락을 파악하고 번역을 더 깊이 이해하세요.",
       "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
       "date": "Thu, 26 Feb 2026 18:00:00 +0000",
@@ -37,13 +44,6 @@
       "summary": "나노 바나나 2로 구축..."
     },
     {
-      "company": "Google AI",
-      "title": "Nano Banana 2: Pro 기능과 빛처럼 빠른 속도의 결합",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "date": "Thu, 26 Feb 2026 16:00:00 +0000",
-      "summary": "AI가 생성한 이미지가 포함된 Nano Banana 2 텍스트..."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "Budget Bytes 소개: 25달러 미만으로 강력한 AI 앱 구축",
       "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
@@ -55,7 +55,7 @@
       "title": "Microsoft Foundry-Frontier 성능 확장의 Claude Sonnet 4.6",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
       "date": "Tue, 17 Feb 2026 20:11:10 +0000",
-      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 코딩, 에이전트, 대규모 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
+      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 대규모 코딩, 에이전트, 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
     },
     {
       "company": "Microsoft Azure AI",
