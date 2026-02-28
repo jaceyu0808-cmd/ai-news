@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-28 22:02:52 (KST)",
+  "updated_at": "2026-02-28 23:30:59 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Microsoft Sovereign Cloud는 완전히 연결이 끊긴 경우에도 안전하게 실행되는 대규모 AI 모델에 대한 거버넌스, 생산성 및 지원을 추가합니다.",
+      "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
+      "date": "Tue, 24 Feb 2026 10:20:00 +0000",
+      "summary": "<p>Microsoft Sovereign Cloud의 기능 확장에는 Azure 로컬 연결 끊김 작업, Microsoft 365 로컬 연결 끊김, 대규모 모델 및 최신 인프라의 Microsoft Foundry 추가가 포함됩니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Budget Bytes 소개: 25달러 미만으로 강력한 AI 앱 구축",
       "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
       "date": "Thu, 19 Feb 2026 17:02:52 +0000",
-      "summary": "<p>Budget Bytes는 개발자가 25달러 이하의 예산으로 Azure에서 합리적인 가격의 프로덕션 품질 AI 애플리케이션을 구축하도록 영감을 주기 위해 고안된 새로운 시리즈입니다.</p>\n<p>게시물 <a href=\"https://devblo..."
+      "summary": "<p>Budget Bytes는 개발자가 25달러 이하의 예산으로 Azure에서 합리적인 가격의 프로덕션 품질 AI 애플리케이션을 구축할 수 있도록 영감을 주기 위해 고안된 새로운 시리즈입니다.</p>\n<p>게시물 <a href=\"https://devblo..."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "Microsoft Foundry-Frontier 성능 확장의 Claude Sonnet 4.6",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
       "date": "Tue, 17 Feb 2026 20:11:10 +0000",
-      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 코딩, 에이전트, 대규모 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure 안정성, 복원력 및 복구 가능성: 설계에 따라 연속성 구축",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/",
-      "date": "Tue, 17 Feb 2026 16:00:00 +0000",
-      "summary": "<p>최신 클라우드 시스템은 가동 시간 그 이상을 제공할 것으로 예상됩니다. 고객은 일관된 성능, 중단을 견딜 수 있는 능력, 복구가 예측 가능하고 의도적이라는 확신을 기대합니다...."
+      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 대규모 코딩, 에이전트, 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
     },
     {
       "company": "AWS Machine Learning",
