@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03 04:01:56 (KST)",
+  "updated_at": "2026-03-03 05:47:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "지능을 희생하지 않고 전문 AI 구축: Nova Forge 데이터 혼합 작동",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/",
+      "date": "Mon, 02 Mar 2026 19:32:47 +0000",
+      "summary": "이 게시물에서는 Ope에 대해 벤치마킹된 까다로운 VOC(고객의 소리) 분류 작업을 사용하여 AWS 중국 응용 과학 팀이 Nova Forge에 대해 종합적으로 평가한 결과를 공유합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "LangGraph와 함께 Claude를 사용하고 Amazon SageMaker AI에서 관리형 MLflow를 사용하여 서버리스 대화형 AI 에이전트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
       "date": "Mon, 02 Mar 2026 18:51:43 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
       "date": "Mon, 02 Mar 2026 18:48:25 +0000",
       "summary": "이 게시물에서는 효율적인 성능을 위해 Amazon Bedrock Guardrails를 구성하고, 애플리케이션을 보호하기 위한 모범 사례를 구현하고, 배포를 효과적으로 모니터링하는 방법을 보여 드리겠습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "현실 세계의 COBOL 현대화에서 얻은 교훈",
-      "link": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
-      "date": "Thu, 26 Feb 2026 18:16:43 +0000",
-      "summary": "성공적인 COBOL 현대화를 제공하려면 결정론적으로 리버스 엔지니어링하고, 검증되고 추적 가능한 사양을 생성하고, 해당 사양이 AI 기반 코딩에 반영되도록 돕는 솔루션이 필요합니다...."
     },
     {
       "company": "Hugging Face",
