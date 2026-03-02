@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03 02:56:54 (KST)",
+  "updated_at": "2026-03-03 04:01:56 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "OpenAI와 Microsoft의 공동 성명",
       "link": "https://openai.com/index/continuing-microsoft-partnership",
       "date": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Microsoft와 OpenAI는 수년간의 긴밀한 협력과 공동의 성공을 바탕으로 연구, 엔지니어링, 제품 개발 전반에 걸쳐 긴밀하게 협력하고 있습니다...."
+      "summary": "Microsoft와 OpenAI는 연구, 엔지니어링, 제품 개발 전반에 걸쳐 계속해서 긴밀하게 협력하며 수년간의 긴밀한 협력과 공동의 성공을 바탕으로 노력하고 있습니다...."
     },
     {
       "company": "OpenAI",
@@ -44,25 +44,46 @@
       "summary": "나노 바나나 2로 구축..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft Sovereign Cloud는 완전히 연결이 끊긴 경우에도 안전하게 실행되는 대규모 AI 모델에 대한 거버넌스, 생산성 및 지원을 추가합니다.",
+      "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
+      "date": "Tue, 24 Feb 2026 10:20:00 +0000",
+      "summary": "<p>Microsoft Sovereign Cloud의 기능 확장에는 Azure 로컬 연결 끊김 작업, Microsoft 365 로컬 연결 끊김, 대규모 모델 및 최신 인프라의 Microsoft Foundry 추가가 포함됩니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Budget Bytes 소개: 25달러 미만으로 강력한 AI 앱 구축",
+      "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
+      "date": "Thu, 19 Feb 2026 17:02:52 +0000",
+      "summary": "<p>Budget Bytes는 개발자가 25달러 이하의 예산으로 Azure에서 합리적인 가격의 프로덕션 품질 AI 애플리케이션을 구축하도록 영감을 주기 위해 고안된 새로운 시리즈입니다.</p>\n<p>게시물 <a href=\"https://devblo..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry-Frontier 성능 확장의 Claude Sonnet 4.6",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
+      "date": "Tue, 17 Feb 2026 20:11:10 +0000",
+      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 대규모 코딩, 에이전트, 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "LangGraph와 함께 Claude를 사용하고 Amazon SageMaker AI에서 관리형 MLflow를 사용하여 서버리스 대화형 AI 에이전트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
+      "date": "Mon, 02 Mar 2026 18:51:43 +0000",
+      "summary": "이 게시물에서는 Amazon SageMaker AI에서 Amazon Bedrock, LangGraph 및 관리형 MLflow를 사용하여 지능형 대화형 에이전트를 구축하는 방법을 살펴봅니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Pro와 같은 안전한 생성 AI 애플리케이션 구축: Amazon Bedrock Guardrails를 사용한 모범 사례",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
+      "date": "Mon, 02 Mar 2026 18:48:25 +0000",
+      "summary": "이 게시물에서는 효율적인 성능을 위해 Amazon Bedrock Guardrails를 구성하고, 애플리케이션을 보호하기 위한 모범 사례를 구현하고, 배포를 효과적으로 모니터링하는 방법을 보여 드리겠습니다...."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "현실 세계의 COBOL 현대화에서 얻은 교훈",
       "link": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
       "date": "Thu, 26 Feb 2026 18:16:43 +0000",
       "summary": "성공적인 COBOL 현대화를 제공하려면 결정론적으로 리버스 엔지니어링하고, 검증되고 추적 가능한 사양을 생성하고, 해당 사양이 AI 기반 코딩에 반영되도록 돕는 솔루션이 필요합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova를 위한 강화 미세 조정: 피드백을 통한 AI 교육",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/",
-      "date": "Thu, 26 Feb 2026 17:48:37 +0000",
-      "summary": "이 게시물에서는 모방이 아닌 평가를 통해 학습하는 강력한 사용자 정의 기술이 될 수 있는 Amazon Nova 모델의 강화 미세 조정(RFT)을 살펴봅니다. 우리는 R이 어떻게 R을 사용하는지 다룰 것입니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "대형 모델 추론 컨테이너 - 최신 기능 및 성능 향상",
-      "link": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
-      "date": "Thu, 26 Feb 2026 17:45:59 +0000",
-      "summary": "AWS는 최근 LMI(Large Model Inference) 컨테이너에 대한 중요한 업데이트를 출시하여 포괄적인 성능 개선, 확장된 모델 지원 및 간소화된 배포 기능을 제공했습니다...."
     },
     {
       "company": "Hugging Face",
