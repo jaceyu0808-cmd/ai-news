@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-04 00:54:58 (KST)",
+  "updated_at": "2026-03-04 02:00:12 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "OpenAI와 Microsoft의 공동 성명",
       "link": "https://openai.com/index/continuing-microsoft-partnership",
       "date": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Microsoft와 OpenAI는 연구, 엔지니어링, 제품 개발 전반에 걸쳐 계속해서 긴밀하게 협력하며 수년간의 긴밀한 협력과 공동의 성공을 바탕으로 노력하고 있습니다...."
+      "summary": "Microsoft와 OpenAI는 수년간의 긴밀한 협력과 공동의 성공을 바탕으로 연구, 엔지니어링, 제품 개발 전반에 걸쳐 긴밀하게 협력하고 있습니다...."
     },
     {
       "company": "OpenAI",
@@ -21,6 +21,13 @@
       "link": "https://openai.com/index/amazon-partnership",
       "date": "Fri, 27 Feb 2026 05:30:00 GMT",
       "summary": "OpenAI와 Amazon은 OpenAI의 Frontier 플랫폼을 AWS로 가져와 AI 인프라, 사용자 지정 모델 및 엔터프라이즈 AI 에이전트를 확장하는 전략적 파트너십을 발표했습니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "Gemini 3.1 Flash-Lite: 대규모 인텔리전스를 위해 제작됨",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "date": "Tue, 03 Mar 2026 16:34:00 +0000",
+      "summary": "Gemini 3.1 Flash Lite 로고..."
     },
     {
       "company": "Google AI",
@@ -37,11 +44,11 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp\" />Google Tra의 새로운 대안, '이해' 및 '질문' 버튼..."
     },
     {
-      "company": "Google AI",
-      "title": "최고의 이미지 생성 및 편집 모델인 Nano Banana 2로 구축",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
-      "date": "Thu, 26 Feb 2026 16:00:00 +0000",
-      "summary": "나노 바나나 2로 구축..."
+      "company": "Microsoft Azure AI",
+      "title": "즉각적인 액세스 증분 스냅샷: 기다리지 않고 복원",
+      "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
+      "date": "Mon, 02 Mar 2026 17:00:00 +0000",
+      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 소개하게 되어 기쁘게 생각합니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -55,35 +62,35 @@
       "title": "Budget Bytes 소개: 25달러 미만으로 강력한 AI 앱 구축",
       "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
       "date": "Thu, 19 Feb 2026 17:02:52 +0000",
-      "summary": "<p>Budget Bytes는 개발자가 25달러 이하의 예산으로 Azure에서 합리적인 가격의 프로덕션 품질 AI 애플리케이션을 구축하도록 영감을 주기 위해 고안된 새로운 시리즈입니다.</p>\n<p>게시물 <a href=\"https://devblo..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry-Frontier 성능 확장의 Claude Sonnet 4.6",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
-      "date": "Tue, 17 Feb 2026 20:11:10 +0000",
-      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 대규모 코딩, 에이전트, 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
+      "summary": "<p>Budget Bytes는 개발자가 25달러 이하의 예산으로 Azure에서 합리적인 가격의 프로덕션 품질 AI 애플리케이션을 구축할 수 있도록 영감을 주기 위해 고안된 새로운 시리즈입니다.</p>\n<p>게시물 <a href=\"https://devblo..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "지능을 희생하지 않고 전문 AI 구축: Nova Forge 데이터 혼합 작동",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/",
-      "date": "Mon, 02 Mar 2026 19:32:47 +0000",
-      "summary": "이 게시물에서는 Ope에 대해 벤치마킹된 까다로운 VOC(고객의 소리) 분류 작업을 사용하여 AWS 중국 응용 과학 팀이 Nova Forge에 대해 종합적으로 평가한 결과를 공유합니다...."
+      "title": "AWS에서 Amazon Nova를 사용하여 확장 가능한 가상 체험 솔루션 구축: 1부",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
+      "date": "Tue, 03 Mar 2026 16:23:30 +0000",
+      "summary": "이 게시물에서는 빠르게 시작하기 위한 샘플 코드와 최상의 결과를 얻는 데 도움이 되는 팁을 포함하여 현재 Amazon Nova Canvas에서 사용할 수 있는 가상 체험 기능을 살펴봅니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "LangGraph와 함께 Claude를 사용하고 Amazon SageMaker AI에서 관리형 MLflow를 사용하여 서버리스 대화형 AI 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
-      "date": "Mon, 02 Mar 2026 18:51:43 +0000",
-      "summary": "이 게시물에서는 Amazon SageMaker AI에서 Amazon Bedrock, LangGraph 및 관리형 MLflow를 사용하여 지능형 대화형 에이전트를 구축하는 방법을 살펴봅니다...."
+      "title": "Lendi가 Amazon Bedrock을 사용하여 16주 만에 에이전트 AI를 사용하여 고객의 재융자 여정을 개선한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
+      "date": "Tue, 03 Mar 2026 16:18:30 +0000",
+      "summary": "이 게시물에서는 Lendi Group이 Amazon Bedrock을 사용하여 AI 기반 Home Loan Guardian을 구축한 방법, 그들이 직면한 과제, 구현한 아키텍처 및 중요한 비즈니스 결과를 자세히 설명합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Pro와 같은 안전한 생성 AI 애플리케이션 구축: Amazon Bedrock Guardrails를 사용한 모범 사례",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
-      "date": "Mon, 02 Mar 2026 18:48:25 +0000",
-      "summary": "이 게시물에서는 효율적인 성능을 위해 Amazon Bedrock Guardrails를 구성하고, 애플리케이션을 보호하기 위한 모범 사례를 구현하고, 배포를 효과적으로 모니터링하는 방법을 보여 드리겠습니다...."
+      "title": "Tines가 Amazon Quick Suite를 사용하여 보안 분석을 강화하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/",
+      "date": "Tue, 03 Mar 2026 16:15:06 +0000",
+      "summary": "이 게시물에서는 Quick Suite를 Tines와 연결하여 모든 보안 또는 IT 시스템에서 기업 데이터를 안전하게 검색, 분석 및 시각화하는 방법을 보여줍니다. MCP를 사용하는 예를 살펴보겠습니다...."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "PRX 파트 3 — 24시간 안에 텍스트-이미지 모델 훈련!",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part3",
+      "date": "Tue, 03 Mar 2026 16:50:49 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Jetson에 오픈 소스 VLM(비전 언어 모델) 배포",
       "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
       "date": "Tue, 24 Feb 2026 00:00:21 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "GGML과 llama.cpp가 HF에 합류하여 로컬 AI의 장기적인 발전을 보장합니다.",
-      "link": "https://huggingface.co/blog/ggml-joins-hf",
-      "date": "Fri, 20 Feb 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
