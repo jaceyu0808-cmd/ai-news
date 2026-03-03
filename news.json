@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03 16:05:30 (KST)",
+  "updated_at": "2026-03-03 17:54:57 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "OpenAI와 Microsoft의 공동 성명",
       "link": "https://openai.com/index/continuing-microsoft-partnership",
       "date": "Fri, 27 Feb 2026 05:30:00 GMT",
-      "summary": "Microsoft와 OpenAI는 수년간의 긴밀한 협력과 공동의 성공을 바탕으로 연구, 엔지니어링, 제품 개발 전반에 걸쳐 긴밀하게 협력하고 있습니다...."
+      "summary": "Microsoft와 OpenAI는 연구, 엔지니어링, 제품 개발 전반에 걸쳐 계속해서 긴밀하게 협력하며 수년간의 긴밀한 협력과 공동의 성공을 바탕으로 노력하고 있습니다...."
     },
     {
       "company": "OpenAI",
@@ -62,14 +62,14 @@
       "title": "Microsoft Foundry-Frontier 성능 확장의 Claude Sonnet 4.6",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873",
       "date": "Tue, 17 Feb 2026 20:11:10 +0000",
-      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 코딩, 에이전트, 대규모 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
+      "summary": "<p>Claude Sonnet 4.6은 현재 Microsoft Foundry에서 사용할 수 있으며 대규모 코딩, 에이전트, 전문 작업 전반에 걸쳐 뛰어난 성능을 원하는 팀을 위해 설계되었습니다.</p>\n<p>게시물 <a href=..."
     },
     {
       "company": "AWS Machine Learning",
       "title": "지능을 희생하지 않고 전문 AI 구축: Nova Forge 데이터 혼합 작동",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/",
       "date": "Mon, 02 Mar 2026 19:32:47 +0000",
-      "summary": "이 게시물에서는 Ope를 벤치마킹한 까다로운 VOC(고객의 소리) 분류 작업을 사용하여 AWS 중국 응용 과학 팀이 Nova Forge를 종합적으로 평가한 결과를 공유합니다...."
+      "summary": "이 게시물에서는 Ope에 대해 벤치마킹된 까다로운 VOC(고객의 소리) 분류 작업을 사용하여 AWS 중국 응용 과학 팀이 Nova Forge에 대해 종합적으로 평가한 결과를 공유합니다...."
     },
     {
       "company": "AWS Machine Learning",
