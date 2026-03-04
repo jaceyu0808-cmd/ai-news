@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-04 17:52:34 (KST)",
+  "updated_at": "2026-03-04 18:53:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
       "date": "Tue, 03 Mar 2026 16:24:29 +0000",
-      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 친숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
+      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 익숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
     },
     {
       "company": "Microsoft Azure AI",
