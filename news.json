@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-05 05:40:38 (KST)",
+  "updated_at": "2026-03-05 06:42:59 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "AI 및 학습 결과 이해",
       "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
       "date": "Wed, 04 Mar 2026 00:00:00 GMT",
-      "summary": "OpenAI는 학습 결과 측정 제품군을 도입하여 시간이 지남에 따라 다양한 교육 환경에서 AI가 학생 학습에 미치는 영향을 평가합니다...."
+      "summary": "OpenAI는 시간이 지남에 따라 다양한 교육 환경에서 AI가 학생 학습에 미치는 영향을 평가하기 위해 학습 결과 측정 제품군을 도입합니다...."
     },
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
       "date": "Tue, 03 Mar 2026 16:24:29 +0000",
-      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 친숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
+      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 익숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS에서 Amazon Nova를 사용하여 확장 가능한 가상 체험 솔루션 구축: 1부",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
-      "date": "Tue, 03 Mar 2026 16:23:30 +0000",
-      "summary": "이 게시물에서는 빠르게 시작하기 위한 샘플 코드와 최상의 결과를 얻는 데 도움이 되는 팁을 포함하여 현재 Amazon Nova Canvas에서 사용할 수 있는 가상 체험 기능을 살펴봅니다...."
+      "title": "엔터프라이즈 애플리케이션에 Amazon Quick Suite 채팅 에이전트 내장",
+      "link": "https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/",
+      "date": "Wed, 04 Mar 2026 21:20:58 +0000",
+      "summary": "조직에서는 애플리케이션에 안전한 임베디드 채팅을 구현하는 것이 어렵다는 것을 알고 있으며 인증, 토큰 검증, 도메인 보안 및 글로벌 보안을 구축하는 데 몇 주가 걸릴 수 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Lendi가 Amazon Bedrock을 사용하여 16주 만에 에이전트 AI를 사용하여 고객의 재융자 여정을 개선한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
-      "date": "Tue, 03 Mar 2026 16:18:30 +0000",
-      "summary": "이 게시물에서는 Lendi Group이 Amazon Bedrock을 사용하여 AI 기반 Home Loan Guardian을 구축한 방법, 그들이 직면한 과제, 구현한 아키텍처 및 중요한 비즈니스 결과를 자세히 설명합니다...."
+      "title": "Amazon Nova 기반 모델로 강력한 콜센터 분석 활용",
+      "link": "https://aws.amazon.com/blogs/machine-learning/unlock-powerful-call-center-analytics-with-amazon-nova-foundation-models/",
+      "date": "Wed, 04 Mar 2026 21:16:59 +0000",
+      "summary": "이 게시물에서는 Amazon Nova가 대화 분석, 통화 분류 및 연락 센터 솔루션과 관련된 기타 사용 사례의 기능을 어떻게 시연하는지 논의합니다. 우리는 이러한 CA를 조사..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Tines가 Amazon Quick Suite를 사용하여 보안 분석을 강화하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/",
-      "date": "Tue, 03 Mar 2026 16:15:06 +0000",
-      "summary": "이 게시물에서는 Quick Suite를 Tines와 연결하여 모든 보안 또는 IT 시스템에서 기업 데이터를 안전하게 검색, 분석 및 시각화하는 방법을 보여줍니다. MCP를 사용하는 예를 살펴보겠습니다...."
+      "title": "Ricoh가 AWS에서 확장 가능한 지능형 문서 처리 솔루션을 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-ricoh-built-a-scalable-intelligent-document-processing-solution-on-aws/",
+      "date": "Wed, 04 Mar 2026 20:42:45 +0000",
+      "summary": "이 게시물에서는 Ricoh가 어떻게 AWS GenAI IDP Accelerator를 기반으로 사용하여 자동화된 문서 분류 및 추출을 위한 표준화된 멀티 테넌트 솔루션을 구축하고 작업을 혁신했는지 살펴봅니다...."
     },
     {
       "company": "Hugging Face",
