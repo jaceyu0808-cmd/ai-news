@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-05 22:19:55 (KST)",
+  "updated_at": "2026-03-05 23:56:21 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "임베디드 플랫폼에 Robotics AI 도입: 데이터 세트 기록, VLA 미세 조정 및 장치 내 최적화",
+      "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+      "date": "Thu, 05 Mar 2026 14:16:49 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "PRX 파트 3 — 24시간 안에 텍스트-이미지 모델 훈련!",
       "link": "https://huggingface.co/blog/Photoroom/prx-part3",
       "date": "Tue, 03 Mar 2026 16:50:49 GMT",
@@ -97,13 +104,6 @@
       "title": "변압기의 전문가 혼합(MoE)",
       "link": "https://huggingface.co/blog/moe-transformers",
       "date": "Thu, 26 Feb 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Jetson에 오픈 소스 VLM(비전 언어 모델) 배포",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-      "date": "Tue, 24 Feb 2026 00:00:21 GMT",
       "summary": "..."
     }
   ]
