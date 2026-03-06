@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-03-07 02:43:32 (KST)",
+  "updated_at": "2026-03-07 03:58:43 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Codex 보안: 현재 연구 미리보기 중",
+      "link": "https://openai.com/index/codex-security-now-in-research-preview",
+      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "summary": "Codex Security는 프로젝트 컨텍스트를 분석하여 더 높은 신뢰도와 더 적은 노이즈로 복잡한 취약점을 탐지, 검증 및 패치하는 AI 애플리케이션 보안 에이전트입니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Descript를 사용하여 대규모 다국어 비디오 더빙을 구현하는 방법",
+      "link": "https://openai.com/index/descript",
+      "date": "Fri, 06 Mar 2026 10:00:00 GMT",
+      "summary": "Descript는 OpenAI 모델을 사용하여 다국어 비디오 더빙을 확장하고 의미와 타이밍 모두에 대한 번역을 최적화하여 더빙된 음성이 모든 언어에서 자연스럽게 들리도록 합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Balyasny Asset Management가 투자용 AI 연구 엔진을 구축한 방법",
@@ -9,18 +23,11 @@
       "summary": "Balyasny가 GPT-5.4, 엄격한 모델 평가, 에이전트 워크플로를 통해 AI 연구 시스템을 구축하여 대규모 투자 분석을 혁신한 방법을 알아보세요...."
     },
     {
-      "company": "OpenAI",
-      "title": "추론 모델은 사고의 사슬을 통제하는 데 어려움을 겪습니다. 이는 좋은 일입니다.",
-      "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI는 CoT-Control을 도입하고 추론 모델이 사고 사슬을 제어하는 ​​데 어려움을 겪고 있음을 발견하여 AI 안전 보호 수단으로 모니터링 가능성을 강화합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.4 소개",
-      "link": "https://openai.com/index/introducing-gpt-5-4",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "최첨단 코딩, 컴퓨터 사용, 도구 검색 및 1M 토큰 컨텍스트를 갖춘 전문 작업을 위한 OpenAI의 가장 유능하고 효율적인 프론티어 모델인 GPT-5.4를 소개합니다...."
+      "company": "Google AI",
+      "title": "오픈 소스 AI 모델 SpeciesNet이 야생 동물 보호를 촉진하는 데 어떻게 도움이 되는지",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "date": "Fri, 06 Mar 2026 18:00:00 +0000",
+      "summary": "SpeciesNet AI 모델로 식별되는 동물 사진..."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
       "date": "Thu, 05 Mar 2026 16:30:00 +0000",
       "summary": "\"Gemini 3.1 Pro\" 및 \"Nano Banana 2\"라는 이미지가 포함된 회전식 MP4..."
-    },
-    {
-      "company": "Google AI",
-      "title": "AI 모드에서 캔버스를 사용하면 검색에서 바로 작업을 완료하고 아이디어를 실현할 수 있습니다.",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
-      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\" />이제 미국 내 모든 사람이 AI 모드의 캔버스를 사용할 수 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "NVIDIA NeMo 평가자 에이전트 기술을 사용하여 몇 분 만에 대화식 LLM 평가",
+      "link": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
+      "date": "Fri, 06 Mar 2026 18:56:10 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "임베디드 플랫폼에 Robotics AI 도입: 데이터 세트 기록, VLA 미세 조정 및 장치 내 최적화",
       "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
       "date": "Thu, 05 Mar 2026 14:16:49 GMT",
@@ -97,13 +104,6 @@
       "title": "모듈식 디퓨저 소개 - 확산 파이프라인을 위한 구성 가능한 빌딩 블록",
       "link": "https://huggingface.co/blog/modular-diffusers",
       "date": "Thu, 05 Mar 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "PRX 파트 3 — 24시간 안에 텍스트-이미지 모델 훈련!",
-      "link": "https://huggingface.co/blog/Photoroom/prx-part3",
-      "date": "Tue, 03 Mar 2026 16:50:49 GMT",
       "summary": "..."
     }
   ]
