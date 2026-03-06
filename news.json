@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-03-06 08:10:44 (KST)",
+  "updated_at": "2026-03-06 11:45:15 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "GPT-5.4 소개",
+      "link": "https://openai.com/index/introducing-gpt-5-4",
+      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+      "summary": "최첨단 코딩, 컴퓨터 사용, 도구 검색 및 1M 토큰 컨텍스트를 갖춘 전문 작업을 위한 OpenAI의 가장 유능하고 효율적인 프론티어 모델인 GPT-5.4를 소개합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "추론 모델은 사고의 사슬을 통제하는 데 어려움을 겪습니다. 이는 좋은 일입니다.",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "date": "Thu, 05 Mar 2026 10:00:00 GMT",
       "summary": "..."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.4 소개",
-      "link": "https://openai.com/index/introducing-gpt-5-4",
-      "date": "Thu, 05 Mar 2026 10:00:00 GMT",
-      "summary": "최첨단 코딩, 컴퓨터 사용, 도구 검색 및 1M 토큰 컨텍스트를 갖춘 전문 작업을 위한 OpenAI의 가장 유능하고 효율적인 프론티어 모델인 GPT-5.4를 소개합니다...."
     },
     {
       "company": "Google AI",
@@ -48,7 +48,7 @@
       "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
       "date": "Tue, 03 Mar 2026 16:24:29 +0000",
-      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 친숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
+      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 익숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
     },
     {
       "company": "Microsoft Azure AI",
