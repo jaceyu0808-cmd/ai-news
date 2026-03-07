@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-07 14:43:48 (KST)",
+  "updated_at": "2026-03-07 15:54:36 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "기술 전문가에게 물어보세요: AI는 시각적 검색을 어떻게 이해합니까?",
+      "title": "기술 전문가에게 물어보세요: AI는 시각적 검색을 어떻게 이해하나요?",
       "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
       "date": "Thu, 05 Mar 2026 18:00:00 +0000",
       "summary": "'무엇이든 물어보세요'라는 검색창이 있는 휴대전화..."
@@ -41,7 +41,14 @@
       "title": "2월에 발표한 최신 AI 소식",
       "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
       "date": "Thu, 05 Mar 2026 16:30:00 +0000",
-      "summary": "\"Gemini 3.1 Pro\" 및 \"Nano Banana 2\"라는 이미지가 포함된 캐러셀의 MP4..."
+      "summary": "\"Gemini 3.1 Pro\" 및 \"Nano Banana 2\"라는 이미지가 포함된 회전식 MP4..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry의 GPT-5.4 소개",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+      "date": "Thu, 05 Mar 2026 23:03:01 +0000",
+      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 예정임을 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료할 수 있도록 설계된 모델입니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -55,14 +62,7 @@
       "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
       "date": "Tue, 03 Mar 2026 16:24:29 +0000",
-      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 친숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "즉각적인 액세스 증분 스냅샷: 기다리지 않고 복원",
-      "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
-      "date": "Mon, 02 Mar 2026 17:00:00 +0000",
-      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 소개하게 되어 기쁘게 생각합니다...."
+      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 익숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
     },
     {
       "company": "AWS Machine Learning",
