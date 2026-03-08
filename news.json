@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-08 11:51:32 (KST)",
+  "updated_at": "2026-03-08 13:50:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
-      "date": "Fri, 06 Mar 2026 17:00:00 +0000",
-      "summary": "<p>고객은 AI 워크플로를 운영하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
+      "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
+      "date": "Tue, 03 Mar 2026 16:24:29 +0000",
+      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 익숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry에서 GPT-5.4 소개",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
-      "date": "Thu, 05 Mar 2026 23:03:01 +0000",
-      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
+      "title": "즉각적인 액세스 증분 스냅샷: 기다리지 않고 복원",
+      "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
+      "date": "Mon, 02 Mar 2026 17:00:00 +0000",
+      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 소개하게 되어 기쁘게 생각합니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
-      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
-      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
+      "title": "Microsoft Sovereign Cloud는 완전히 연결이 끊긴 경우에도 안전하게 실행되는 대규모 AI 모델에 대한 거버넌스, 생산성 및 지원을 추가합니다.",
+      "link": "http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog",
+      "date": "Tue, 24 Feb 2026 10:20:00 +0000",
+      "summary": "<p>Microsoft Sovereign Cloud의 기능 확장에는 Azure 로컬 연결 끊김 작업, Microsoft 365 로컬 연결 끊김, 대규모 모델 및 최신 인프라의 Microsoft Foundry 추가가 포함됩니다...."
     },
     {
       "company": "AWS Machine Learning",
