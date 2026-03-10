@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11 04:01:59 (KST)",
+  "updated_at": "2026-03-11 05:43:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,7 +24,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Google 스프레드시트의 Gemini가 방금 최고 수준의 성능을 달성했습니다.",
+      "title": "Google Sheets의 Gemini가 방금 최고 수준의 성능을 달성했습니다.",
       "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
       "date": "Tue, 10 Mar 2026 13:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />오늘 우리는 Sheets의 Gemini에 대한 새로운 베타 기능을 발표했습니다...."
@@ -55,7 +55,7 @@
       "title": "Microsoft Foundry의 GPT-5.4 소개",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
       "date": "Thu, 05 Mar 2026 23:03:01 +0000",
-      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 예정임을 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료할 수 있도록 설계된 모델입니다...."
+      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "NVIDIA가 AI용 개방형 데이터를 구축하는 방법",
+      "link": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+      "date": "Tue, 10 Mar 2026 19:49:28 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Hugging Face Hub에 스토리지 버킷 도입",
       "link": "https://huggingface.co/blog/storage-buckets",
       "date": "Tue, 10 Mar 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "토큰 흐름 유지: 16개 오픈 소스 RL 라이브러리의 교훈",
       "link": "https://huggingface.co/blog/async-rl-training-landscape",
       "date": "Tue, 10 Mar 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Granite 4.0 1B Speech: 콤팩트하고 다국어이며 엣지용으로 제작됨",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
-      "date": "Mon, 09 Mar 2026 18:36:33 GMT",
       "summary": "..."
     }
   ]
