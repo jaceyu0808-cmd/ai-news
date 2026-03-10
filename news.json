@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10 17:56:18 (KST)",
+  "updated_at": "2026-03-10 18:55:57 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "기술 전문가에게 물어보세요: AI는 시각적 검색을 어떻게 이해하나요?",
+      "title": "기술 전문가에게 물어보세요: AI는 시각적 검색을 어떻게 이해합니까?",
       "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
       "date": "Thu, 05 Mar 2026 18:00:00 +0000",
       "summary": "'무엇이든 물어보세요'라는 검색창이 있는 휴대전화..."
@@ -41,21 +41,7 @@
       "title": "2월에 발표한 최신 AI 소식",
       "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
       "date": "Thu, 05 Mar 2026 16:30:00 +0000",
-      "summary": "\"Gemini 3.1 Pro\" 및 \"Nano Banana 2\"라는 이미지가 포함된 회전식 MP4..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
-      "date": "Fri, 06 Mar 2026 17:00:00 +0000",
-      "summary": "<p>고객은 AI 워크플로를 운영하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry에서 GPT-5.4 소개",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
-      "date": "Thu, 05 Mar 2026 23:03:01 +0000",
-      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
+      "summary": "\"Gemini 3.1 Pro\" 및 \"Nano Banana 2\"라는 이미지가 포함된 캐러셀의 MP4..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -63,6 +49,20 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
       "date": "Wed, 04 Mar 2026 17:00:00 +0000",
       "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
+      "date": "Tue, 03 Mar 2026 16:24:29 +0000",
+      "summary": "<p>오늘날 기업은 익숙하면서도 엄청난 과제에 직면해 있습니다. 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있는 상태입니다. 기존 OCR(광학 문자 r..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "즉각적인 액세스 증분 스냅샷: 기다리지 않고 복원",
+      "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
+      "date": "Mon, 02 Mar 2026 17:00:00 +0000",
+      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 도입하여 생성, 디스크 재생이 가능한 업계 최고의 스냅샷 환경을 제공하게 되어 기쁘게 생각합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -76,7 +76,7 @@
       "title": "글로벌 교차 지역 추론을 통해 Amazon Bedrock에서 인도의 Anthropic Claude 모델에 액세스",
       "link": "https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/",
       "date": "Mon, 09 Mar 2026 20:44:13 +0000",
-      "summary": "이 게시물에서는 인도에서 Claude 모델에 대한 Amazon Bedrock의 글로벌 교차 지역 추론을 사용하는 방법을 알아봅니다. 각 Claude 모델 변형의 기능과 방법을 안내해 드립니다...."
+      "summary": "이 게시물에서는 인도에서 Claude 모델에 대한 Amazon Bedrock의 글로벌 지역 간 추론을 사용하는 방법을 알아봅니다. 각 Claude 모델 변형의 기능과 방법을 안내해 드립니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -84,6 +84,13 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/",
       "date": "Thu, 05 Mar 2026 16:20:13 +0000",
       "summary": "이 게시물에서는 격리된 개발 환경, 자동화된 테스트 및 간소화된 배포를 지원하는 Amazon Lex용 다중 개발자 CI/CD 파이프라인을 살펴봅니다. 설정 방법을 알려드리겠습니다...."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "토큰 흐름 유지: 16개 오픈 소스 RL 라이브러리의 교훈",
+      "link": "https://huggingface.co/blog/async-rl-training-landscape",
+      "date": "Tue, 10 Mar 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -96,13 +103,6 @@
       "company": "Hugging Face",
       "title": "Ulysses 시퀀스 병렬성: 백만 개의 토큰 컨텍스트를 사용한 교육",
       "link": "https://huggingface.co/blog/ulysses-sp",
-      "date": "Mon, 09 Mar 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "LeRobot v0.5.0: 모든 차원의 확장",
-      "link": "https://huggingface.co/blog/lerobot-release-v050",
       "date": "Mon, 09 Mar 2026 00:00:00 GMT",
       "summary": "..."
     }
