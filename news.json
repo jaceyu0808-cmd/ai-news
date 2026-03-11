@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-03-12 02:04:14 (KST)",
+  "updated_at": "2026-03-12 04:04:46 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "프론티어 LLM의 교육 계층 개선",
-      "link": "https://openai.com/index/instruction-hierarchy-challenge",
-      "date": "Tue, 10 Mar 2026 11:00:00 GMT",
-      "summary": "IH-Challenge는 신뢰할 수 있는 지침의 우선순위를 지정하도록 모델을 교육하여 지침 계층 구조, 안전 조종성 및 즉각적인 주입 공격에 대한 저항성을 향상시킵니다...."
+      "title": "즉각적인 주입에 저항하도록 AI 에이전트 설계",
+      "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "date": "Wed, 11 Mar 2026 11:30:00 GMT",
+      "summary": "ChatGPT가 위험한 행동을 제한하고 상담사 워크플로의 민감한 데이터를 보호하여 즉각적인 주입과 소셜 엔지니어링을 방어하는 방법입니다...."
     },
     {
       "company": "OpenAI",
-      "title": "ChatGPT에서 수학과 과학을 배우는 새로운 방법",
-      "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-      "date": "Tue, 10 Mar 2026 10:00:00 GMT",
-      "summary": "ChatGPT는 수학과 과학에 대한 대화형 시각적 설명을 도입하여 학생들이 공식, 변수 및 개념을 실시간으로 탐색할 수 있도록 돕습니다...."
+      "title": "Wayfair는 OpenAI를 통해 카탈로그 정확성과 지원 속도를 높였습니다.",
+      "link": "https://openai.com/index/wayfair",
+      "date": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "summary": "Wayfair는 OpenAI 모델을 사용하여 전자상거래 지원 및 제품 카탈로그 정확성을 향상하고 티켓 분류를 자동화하며 수백만 개의 제품 속성을 대규모로 향상합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI, Promptfoo 인수",
-      "link": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "date": "Mon, 09 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI는 기업이 개발 중에 AI 시스템의 취약점을 식별하고 해결하는 데 도움이 되는 AI 보안 플랫폼인 Promptfoo를 인수합니다...."
+      "title": "모델에서 에이전트까지: Responses API에 컴퓨터 환경 구축",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment",
+      "date": "Wed, 11 Mar 2026 11:00:00 GMT",
+      "summary": "OpenAI가 Responses API, 셸 도구 및 호스팅된 컨테이너를 사용하여 파일, 도구 및 상태로 안전하고 확장 가능한 에이전트를 실행하는 에이전트 런타임을 구축한 방법입니다...."
     },
     {
       "company": "Google AI",
-      "title": "Google 스프레드시트의 Gemini가 방금 최고 수준의 성능을 달성했습니다.",
+      "title": "Google Sheets의 Gemini가 방금 최고 수준의 성능을 달성했습니다.",
       "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
       "date": "Tue, 10 Mar 2026 13:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />오늘 우리는 Sheets의 Gemini에 대한 새로운 베타 기능을 발표했습니다...."
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "에이전트 AI에 대한 주요 질문 풀기: Shift 팟캐스트",
+      "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
+      "date": "Mon, 09 Mar 2026 18:11:08 +0000",
+      "summary": "<p>오늘은 더 많은 대화를 공유하기 위해 'Leading the Shift'가 발전된 'The Shift' 팟캐스트를 소개합니다. Ignite에서 발표한 후 여러분이 주신 질문을 바탕으로 우리는 8개를 출시합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
       "date": "Fri, 06 Mar 2026 17:00:00 +0000",
@@ -52,17 +59,10 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry에서 GPT-5.4 소개",
+      "title": "Microsoft Foundry의 GPT-5.4 소개",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
       "date": "Thu, 05 Mar 2026 23:03:01 +0000",
-      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 예정임을 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료할 수 있도록 설계된 모델입니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
-      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
-      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
+      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
     },
     {
       "company": "AWS Machine Learning",
