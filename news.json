@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12 14:58:53 (KST)",
+  "updated_at": "2026-03-12 16:09:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "모델에서 에이전트까지: Responses API에 컴퓨터 환경 구축",
-      "link": "https://openai.com/index/equip-responses-api-computer-environment",
+      "title": "Wayfair는 OpenAI를 통해 카탈로그 정확성과 지원 속도를 높였습니다.",
+      "link": "https://openai.com/index/wayfair",
       "date": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "summary": "OpenAI가 Responses API, 셸 도구 및 호스팅된 컨테이너를 사용하여 파일, 도구 및 상태로 안전하고 확장 가능한 에이전트를 실행하는 에이전트 런타임을 구축한 방법입니다...."
+      "summary": "Wayfair는 OpenAI 모델을 사용하여 전자상거래 지원 및 제품 카탈로그 정확성을 향상하고 티켓 분류를 자동화하며 수백만 개의 제품 속성을 대규모로 향상합니다...."
     },
     {
       "company": "Google AI",
