@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-03-13 02:55:19 (KST)",
+  "updated_at": "2026-03-13 04:05:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "Rakuten은 Codex를 통해 문제를 두 배 더 빠르게 해결합니다.",
       "link": "https://openai.com/index/rakuten",
       "date": "Wed, 11 Mar 2026 13:00:00 GMT",
-      "summary": "Rakuten은 OpenAI의 코딩 에이전트인 Codex를 사용하여 소프트웨어를 보다 빠르고 안전하게 배송하고 MTTR을 50% 줄이고 CI/CD 검토를 자동화하며 몇 주 만에 전체 스택 빌드를 제공합니다...."
+      "summary": "Rakuten은 OpenAI의 코딩 에이전트인 Codex를 사용하여 소프트웨어를 더 빠르고 안전하게 배송하고 MTTR을 50% 줄이고 CI/CD 검토를 자동화하며 몇 주 만에 전체 스택 빌드를 제공합니다...."
     },
     {
       "company": "OpenAI",
@@ -24,7 +24,7 @@
     },
     {
       "company": "Google AI",
-      "title": "AI가 호주 시골 지역의 심장 건강을 개선하는 데 어떻게 도움이 됩니까?",
+      "title": "AI가 호주 시골 지역의 심장 건강 개선에 어떻게 도움이 되는지",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
       "date": "Thu, 12 Mar 2026 15:00:00 +0000",
       "summary": "의사가 환자의 책상 건너편에 앉아 있습니다. 의사는 태블릿과 펜을 들고 있습니다. 의료 차트 렌더링이 배경에 있습니다...."
@@ -45,28 +45,28 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
-      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
-      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
+      "title": "에이전트 AI에 대한 주요 질문 풀기: The Shift 팟캐스트",
+      "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
+      "date": "Mon, 09 Mar 2026 18:11:08 +0000",
+      "summary": "<p>오늘은 더 많은 대화를 공유하기 위해 'Leading the Shift'가 발전된 'The Shift' 팟캐스트를 소개합니다. Ignite에서 발표한 후 여러분이 주신 질문을 바탕으로 우리는 8개를 출시합니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
-      "date": "Tue, 03 Mar 2026 16:24:29 +0000",
-      "summary": "<p>오늘날 기업은 익숙하면서도 엄청난 과제에 직면해 있습니다. 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있는 상태입니다. 기존 OCR(광학 문자 r..."
+      "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+      "date": "Fri, 06 Mar 2026 17:00:00 +0000",
+      "summary": "<p>고객은 AI 워크플로를 운영하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "즉각적인 액세스 증분 스냅샷: 기다리지 않고 복원",
-      "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
-      "date": "Mon, 02 Mar 2026 17:00:00 +0000",
-      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 소개하게 되어 기쁘게 생각합니다...."
+      "title": "Microsoft Foundry에서 GPT-5.4 소개",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+      "date": "Thu, 05 Mar 2026 23:03:01 +0000",
+      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 예정임을 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료할 수 있도록 설계된 모델입니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "규모에 따른 다중 모드 임베딩: 미디어 및 엔터테인먼트 워크로드를 위한 AI 데이터 레이크",
+      "title": "대규모 다중 모드 임베딩: 미디어 및 엔터테인먼트 워크로드를 위한 AI 데이터 레이크",
       "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/",
       "date": "Thu, 12 Mar 2026 15:59:35 +0000",
       "summary": "이 게시물에서는 Amazon Nova 모델 및 Amazon OpenSearch Service를 사용하여 대규모 비디오 데이터 세트에서 자연어 검색을 지원하는 확장 가능한 다중 모드 비디오 검색 시스템을 구축하는 방법을 보여줍니다. 너..."
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Agentic AI 운영 1부: 이해관계자 가이드",
+      "title": "Agentic AI 운용 1부: 이해관계자 가이드",
       "link": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
       "date": "Wed, 11 Mar 2026 20:52:23 +0000",
       "summary": "AWS Generative AI 혁신 센터는 1,000명 이상의 고객이 AI를 프로덕션으로 전환하여 수백만 달러의 생산성 향상을 기록하도록 도왔습니다. 이 게시물에서는 전 세계의 리더를 위한 지침을 공유합니다...."
