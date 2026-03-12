@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12 22:20:50 (KST)",
+  "updated_at": "2026-03-12 23:59:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Google Sheets의 Gemini가 방금 최고 수준의 성능을 달성했습니다.",
+      "title": "Google 스프레드시트의 Gemini가 방금 최고 수준의 성능을 달성했습니다.",
       "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
       "date": "Tue, 10 Mar 2026 13:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />오늘 우리는 Sheets의 Gemini에 대한 새로운 베타 기능을 발표했습니다...."
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry의 GPT-5.4 소개",
+      "title": "Microsoft Foundry에서 GPT-5.4 소개",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
       "date": "Thu, 05 Mar 2026 23:03:01 +0000",
       "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
@@ -66,7 +66,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Agentic AI 운용 1부: 이해관계자 가이드",
+      "title": "Agentic AI 운영 1부: 이해관계자 가이드",
       "link": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
       "date": "Wed, 11 Mar 2026 20:52:23 +0000",
       "summary": "AWS Generative AI 혁신 센터는 1,000명 이상의 고객이 AI를 프로덕션으로 전환하여 수백만 달러의 생산성 향상을 기록하도록 도왔습니다. 이 게시물에서는 전 세계의 리더를 위한 지침을 공유합니다...."
