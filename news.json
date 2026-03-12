@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-13 05:46:14 (KST)",
+  "updated_at": "2026-03-13 06:42:06 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "TTFT 및 예상 할당량 소비에 대한 새로운 CloudWatch 지표를 사용하여 Amazon Bedrock의 추론 워크로드에 대한 운영 가시성을 향상시킵니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/",
+      "date": "Thu, 12 Mar 2026 21:20:17 +0000",
+      "summary": "오늘 우리는 Amazon Bedrock에 대한 두 가지 새로운 Amazon CloudWatch 지표인 TimeToFirstToken 및 EstimatedTPMQuotaUsage를 발표합니다. 이 게시물에서는 이러한 작동 방식과 알람 설정 방법, Baseli 설정 방법을 다룹니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore의 정책으로 AI 에이전트 보호",
+      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/",
+      "date": "Thu, 12 Mar 2026 21:16:50 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock AgentCore의 정책이 에이전트 자체 추론과 독립적으로 작동하는 결정적 적용 계층을 생성하는 방법을 이해하게 됩니다. 회전하는 방법을 배우게 됩니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "대규모 다중 모드 임베딩: 미디어 및 엔터테인먼트 워크로드를 위한 AI 데이터 레이크",
       "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/",
       "date": "Thu, 12 Mar 2026 15:59:35 +0000",
       "summary": "이 게시물에서는 Amazon Nova 모델 및 Amazon OpenSearch Service를 사용하여 대규모 비디오 데이터 세트에서 자연어 검색을 지원하는 확장 가능한 다중 모드 비디오 검색 시스템을 구축하는 방법을 보여줍니다. 너..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "도메인 적응을 위해 Amazon EC2에서 NVIDIA Nemotron Speech ASR 미세 조정",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/",
-      "date": "Thu, 12 Mar 2026 15:57:22 +0000",
-      "summary": "이 게시물에서는 리더보드 1위를 차지한 NVIDIA Nemotron 음성 자동 음성 인식(ASR) 모델을 미세 조정하는 방법을 살펴봅니다. 잉꼬 TDT 0.6B V2. 합성 음성 데이터를 사용하여 우수한 성능 달성..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Agentic AI 운용 1부: 이해관계자 가이드",
-      "link": "https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/",
-      "date": "Wed, 11 Mar 2026 20:52:23 +0000",
-      "summary": "AWS Generative AI 혁신 센터는 1,000명 이상의 고객이 AI를 프로덕션으로 전환하여 수백만 달러의 생산성 향상을 기록하도록 도왔습니다. 이 게시물에서는 전 세계의 리더를 위한 지침을 공유합니다...."
     },
     {
       "company": "Hugging Face",
