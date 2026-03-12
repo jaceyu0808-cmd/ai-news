@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-12 19:52:01 (KST)",
+  "updated_at": "2026-03-12 20:37:46 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,7 +24,7 @@
     },
     {
       "company": "Google AI",
-      "title": "AI가 호주 시골 지역의 심장 건강을 개선하는 데 어떻게 도움이 됩니까?",
+      "title": "AI가 호주 시골 지역의 심장 건강 개선에 어떻게 도움이 되는지",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
       "date": "Thu, 12 Mar 2026 15:00:00 +0000",
       "summary": "의사가 환자의 책상 건너편에 앉아 있습니다. 의사는 태블릿과 펜을 들고 있습니다. 의료 차트 렌더링이 배경에 있습니다...."
@@ -55,7 +55,7 @@
       "title": "Microsoft Foundry에서 GPT-5.4 소개",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
       "date": "Thu, 05 Mar 2026 23:03:01 +0000",
-      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 예정임을 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료할 수 있도록 설계된 모델입니다...."
+      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
     },
     {
       "company": "Microsoft Azure AI",
