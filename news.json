@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14 04:38:27 (KST)",
+  "updated_at": "2026-03-14 05:47:20 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "Wayfair는 OpenAI를 통해 카탈로그 정확도와 지원 속도를 높였습니다.",
+      "title": "Wayfair는 OpenAI를 통해 카탈로그 정확성과 지원 속도를 높였습니다.",
       "link": "https://openai.com/index/wayfair",
       "date": "Wed, 11 Mar 2026 11:00:00 GMT",
       "summary": "Wayfair는 OpenAI 모델을 사용하여 전자상거래 지원 및 제품 카탈로그 정확성을 향상하고 티켓 분류를 자동화하며 수백만 개의 제품 속성을 대규모로 향상합니다...."
@@ -87,9 +87,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "데이터 과학자처럼 생각하는 에이전트 구축: 재사용 가능한 도구 생성으로 DABStep에서 1위를 달성한 방법",
-      "link": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
-      "date": "Fri, 13 Mar 2026 01:02:47 GMT",
+      "title": "의미적 유사성을 넘어서: NVIDIA NeMo Retriever의 일반화 가능한 에이전트 검색 파이프라인 소개",
+      "link": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+      "date": "Fri, 13 Mar 2026 20:00:00 GMT",
       "summary": "..."
     },
     {
