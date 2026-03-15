@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-16 02:37:02 (KST)",
+  "updated_at": "2026-03-16 03:53:40 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "Wayfair는 OpenAI를 통해 카탈로그 정확도와 지원 속도를 높였습니다.",
+      "title": "Wayfair는 OpenAI를 통해 카탈로그 정확성과 지원 속도를 높였습니다.",
       "link": "https://openai.com/index/wayfair",
       "date": "Wed, 11 Mar 2026 11:00:00 GMT",
       "summary": "Wayfair는 OpenAI 모델을 사용하여 전자상거래 지원 및 제품 카탈로그 정확성을 향상하고 티켓 분류를 자동화하며 수백만 개의 제품 속성을 대규모로 향상합니다...."
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Google Sheets의 Gemini가 방금 최고 수준의 성능을 달성했습니다.",
+      "title": "Google 스프레드시트의 Gemini가 방금 최고 수준의 성능을 달성했습니다.",
       "link": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
       "date": "Tue, 10 Mar 2026 13:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Workspace_Jan_Moment_Sheets_Blo.max-600x600.format-webp.webp\" />오늘 우리는 Sheets의 Gemini에 대한 새로운 베타 기능을 발표했습니다...."
@@ -55,7 +55,7 @@
       "title": "Microsoft Foundry에서 GPT-5.4 소개",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
       "date": "Thu, 05 Mar 2026 23:03:01 +0000",
-      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 예정임을 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료할 수 있도록 설계된 모델입니다...."
+      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
     },
     {
       "company": "Microsoft Azure AI",
