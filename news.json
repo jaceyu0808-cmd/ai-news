@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17 02:13:36 (KST)",
+  "updated_at": "2026-03-17 04:16:41 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,10 +45,17 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "에이전트 AI에 대한 주요 질문 풀기: The Shift 팟캐스트",
+      "link": "https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/",
+      "date": "Mon, 09 Mar 2026 18:11:08 +0000",
+      "summary": "<p>오늘은 더 많은 대화를 공유하기 위해 'Leading the Shift'가 발전된 'The Shift' 팟캐스트를 소개합니다. Ignite에서 발표한 후 여러분이 주신 질문을 바탕으로 우리는 8개를 출시합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
       "date": "Fri, 06 Mar 2026 17:00:00 +0000",
-      "summary": "<p>고객은 AI 워크플로를 운용하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
+      "summary": "<p>고객은 AI 워크플로를 운영하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -58,11 +65,18 @@
       "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
-      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
-      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
+      "company": "AWS Machine Learning",
+      "title": "기업의 에이전트적 AI 2부: 페르소나에 의한 지침",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-in-the-enterprise-part-2-guidance-by-persona/",
+      "date": "Mon, 16 Mar 2026 17:55:54 +0000",
+      "summary": "이는 AWS Generative AI Innovation Center의 2부작 시리즈 중 2부입니다. 2부에서는 공유된 기반을 행동으로 옮겨야 하는 리더들과 직접 대화합니다. 각 역할에는 di가 포함됩니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "llm-d를 기반으로 하는 AWS의 분리 추론 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/",
+      "date": "Mon, 16 Mar 2026 16:55:53 +0000",
+      "summary": "이 블로그 게시물에서는 분리된 서비스, 지능적인 요청 스케줄링, 전문가 병렬 처리 등 차세대 추론 기능의 기본 개념을 소개합니다. 우리는 그들의 수에 대해 논의합니다..."
     },
     {
       "company": "AWS Machine Learning",
@@ -70,20 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-workhuman-built-multi-tenant-self-service-reporting-using-amazon-quick-sight-embedded-dashboards/",
       "date": "Mon, 16 Mar 2026 14:48:16 +0000",
       "summary": "이 게시물에서는 Workhuman이 분석 제공 모델을 어떻게 혁신했는지와 구현을 통해 얻은 주요 교훈을 살펴봅니다. 우리는 그들의 아키텍처 접근 방식, 구현 전략,..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker Unified Studio 및 SageMaker Catalog를 사용하여 오프라인 피처 스토어 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-offline-feature-store-using-amazon-sagemaker-unified-studio-and-sagemaker-catalog/",
-      "date": "Mon, 16 Mar 2026 14:42:46 +0000",
-      "summary": "이 블로그 게시물은 SageMaker Unified Studio 도메인 내에서 SageMaker 카탈로그를 사용하여 오프라인 기능 스토어를 구현하는 방법에 대한 단계별 지침을 제공합니다. 발행-구독 패턴을 채택함으로써 데이터 p..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "P-EAGLE: vLLM의 병렬 추측 디코딩을 통해 더 빠른 LLM 추론",
-      "link": "https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/",
-      "date": "Fri, 13 Mar 2026 19:27:04 +0000",
-      "summary": "이 게시물에서는 P-EAGLE의 작동 방식, v0.16.0(PR#32887)부터 이를 vLLM에 통합하는 방법, 사전 훈련된 체크포인트를 통해 이를 제공하는 방법에 대해 설명합니다...."
     },
     {
       "company": "Hugging Face",
