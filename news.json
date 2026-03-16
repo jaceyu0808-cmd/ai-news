@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-03-16 16:43:35 (KST)",
+  "updated_at": "2026-03-16 18:09:04 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "Rakuten은 Codex를 통해 문제를 두 배 더 빠르게 해결합니다.",
       "link": "https://openai.com/index/rakuten",
       "date": "Wed, 11 Mar 2026 13:00:00 GMT",
-      "summary": "Rakuten은 OpenAI의 코딩 에이전트인 Codex를 사용하여 소프트웨어를 더 빠르고 안전하게 배송하고 MTTR을 50% 줄이고 CI/CD 검토를 자동화하며 몇 주 만에 전체 스택 빌드를 제공합니다...."
+      "summary": "Rakuten은 OpenAI의 코딩 에이전트인 Codex를 사용하여 소프트웨어를 보다 빠르고 안전하게 배송하고 MTTR을 50% 줄이고 CI/CD 검토를 자동화하며 몇 주 만에 전체 스택 빌드를 제공합니다...."
     },
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Wayfair는 OpenAI를 통해 카탈로그 정확성과 지원 속도를 높였습니다.",
-      "link": "https://openai.com/index/wayfair",
+      "title": "모델에서 에이전트까지: Responses API에 컴퓨터 환경 구축",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment",
       "date": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "summary": "Wayfair는 OpenAI 모델을 사용하여 전자상거래 지원 및 제품 카탈로그 정확성을 향상하고 티켓 분류를 자동화하며 수백만 개의 제품 속성을 대규모로 향상합니다...."
+      "summary": "OpenAI가 Responses API, 셸 도구 및 호스팅된 컨테이너를 사용하여 파일, 도구 및 상태로 안전하고 확장 가능한 에이전트를 실행하는 에이전트 런타임을 구축한 방법입니다...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
-      "date": "Fri, 06 Mar 2026 17:00:00 +0000",
-      "summary": "<p>고객은 AI 워크플로를 운영하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
+      "title": "클라우드 및 에이전트 AI를 통해 규제 산업 현대화",
+      "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
+      "date": "Wed, 11 Mar 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 현대화와 에이전트 AI가 의료, 금융 서비스, 제조 전반에서 마이그레이션을 어떻게 가속화하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/en-us/industr..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry에서 GPT-5.4 소개",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
-      "date": "Thu, 05 Mar 2026 23:03:01 +0000",
-      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
+      "title": "많은 에이전트, 하나의 팀: Azure에서 현대화 확장",
+      "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
+      "date": "Wed, 11 Mar 2026 15:00:00 +0000",
+      "summary": "<p>IT와 개발자를 하나의 연결된 워크플로로 통합하는 최초의 에이전트 기반 엔드 투 엔드 현대화 솔루션을 발표합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
-      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
-      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
+      "title": "Microsoft Foundry의 Fireworks AI 소개: Azure에 고성능, 낮은 대기 시간 개방형 모델 추론 제공",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
+      "date": "Wed, 11 Mar 2026 07:00:00 +0000",
+      "summary": "<p>우리는 Azure에 고성능 개방형 모델 추론을 제공하는 Microsoft Foundry의 Fireworks AI 공개 미리 보기를 발표합니다. 이 통합은 Microsoft Foundry의 광범위한 방향을 반영합니다...."
     },
     {
       "company": "AWS Machine Learning",
