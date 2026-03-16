@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-03-16 22:46:48 (KST)",
+  "updated_at": "2026-03-17 00:11:31 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "Rakuten은 Codex를 통해 문제를 두 배 더 빠르게 해결합니다.",
       "link": "https://openai.com/index/rakuten",
       "date": "Wed, 11 Mar 2026 13:00:00 GMT",
-      "summary": "Rakuten은 OpenAI의 코딩 에이전트인 Codex를 사용하여 소프트웨어를 보다 빠르고 안전하게 배송하고 MTTR을 50% 줄이고 CI/CD 검토를 자동화하며 몇 주 만에 전체 스택 빌드를 제공합니다...."
+      "summary": "Rakuten은 OpenAI의 코딩 에이전트인 Codex를 사용하여 소프트웨어를 더 빠르고 안전하게 배송하고 MTTR을 50% 줄이고 CI/CD 검토를 자동화하며 몇 주 만에 전체 스택 빌드를 제공합니다...."
     },
     {
       "company": "OpenAI",
@@ -45,24 +45,38 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "클라우드 및 에이전트 AI를 통해 규제 산업 현대화",
-      "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
-      "date": "Wed, 11 Mar 2026 16:00:00 +0000",
-      "summary": "<p>클라우드 현대화와 에이전트 AI가 의료, 금융 서비스, 제조 전반에서 마이그레이션을 어떻게 가속화하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/en-us/industr..."
+      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
+      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "많은 에이전트, 하나의 팀: Azure에서 현대화 확장",
-      "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
-      "date": "Wed, 11 Mar 2026 15:00:00 +0000",
-      "summary": "<p>IT와 개발자를 하나의 연결된 워크플로로 통합하는 최초의 에이전트 기반 엔드 투 엔드 현대화 솔루션을 발표합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
+      "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
+      "date": "Tue, 03 Mar 2026 16:24:29 +0000",
+      "summary": "<p>오늘날 기업은 익숙하면서도 엄청난 과제에 직면해 있습니다. 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있는 상태입니다. 기존 OCR(광학 문자 r..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry의 Fireworks AI 소개: Azure에 고성능, 낮은 대기 시간 개방형 모델 추론 제공",
-      "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
-      "date": "Wed, 11 Mar 2026 07:00:00 +0000",
-      "summary": "<p>우리는 Azure에 고성능 개방형 모델 추론을 제공하는 Microsoft Foundry의 Fireworks AI 공개 미리 보기를 발표합니다. 이 통합은 Microsoft Foundry의 광범위한 방향을 반영합니다...."
+      "title": "즉각적인 액세스 증분 스냅샷: 기다리지 않고 복원",
+      "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
+      "date": "Mon, 02 Mar 2026 17:00:00 +0000",
+      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 도입하여 생성, 디스크 재생이 가능한 업계 최고의 스냅샷 환경을 제공하게 되어 기쁘게 생각합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Workhuman이 Amazon Quick Sight 내장 대시보드를 사용하여 다중 테넌트 셀프 서비스 보고를 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-workhuman-built-multi-tenant-self-service-reporting-using-amazon-quick-sight-embedded-dashboards/",
+      "date": "Mon, 16 Mar 2026 14:48:16 +0000",
+      "summary": "이 게시물에서는 Workhuman이 분석 제공 모델을 어떻게 혁신했는지와 구현을 통해 얻은 주요 교훈을 살펴봅니다. 우리는 그들의 아키텍처 접근 방식, 구현 전략,..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker Unified Studio 및 SageMaker Catalog를 사용하여 오프라인 피처 스토어 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-offline-feature-store-using-amazon-sagemaker-unified-studio-and-sagemaker-catalog/",
+      "date": "Mon, 16 Mar 2026 14:42:46 +0000",
+      "summary": "이 블로그 게시물은 SageMaker Unified Studio 도메인 내에서 SageMaker 카탈로그를 사용하여 오프라인 기능 스토어를 구현하는 방법에 대한 단계별 지침을 제공합니다. 발행-구독 패턴을 채택함으로써 데이터 p..."
     },
     {
       "company": "AWS Machine Learning",
@@ -70,20 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/",
       "date": "Fri, 13 Mar 2026 19:27:04 +0000",
       "summary": "이 게시물에서는 P-EAGLE의 작동 방식, v0.16.0(PR#32887)부터 이를 vLLM에 통합하는 방법, 사전 훈련된 체크포인트를 통해 이를 제공하는 방법에 대해 설명합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "TTFT 및 예상 할당량 소비에 대한 새로운 CloudWatch 지표를 사용하여 Amazon Bedrock의 추론 워크로드에 대한 운영 가시성을 향상시킵니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/",
-      "date": "Thu, 12 Mar 2026 21:20:17 +0000",
-      "summary": "오늘 우리는 Amazon Bedrock에 대한 두 가지 새로운 Amazon CloudWatch 지표인 TimeToFirstToken 및 EstimatedTPMQuotaUsage를 발표합니다. 이 게시물에서는 이러한 작동 방식과 알람 설정 방법, Baseli 설정 방법을 다룹니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore의 정책으로 AI 에이전트 보호",
-      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/",
-      "date": "Thu, 12 Mar 2026 21:16:50 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock AgentCore의 정책이 에이전트 자체 추론과 독립적으로 작동하는 결정적 적용 계층을 생성하는 방법을 이해하게 됩니다. 회전하는 방법을 배우게 됩니다...."
     },
     {
       "company": "Hugging Face",
