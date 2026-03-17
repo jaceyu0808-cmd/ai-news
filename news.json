@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-18 05:51:26 (KST)",
+  "updated_at": "2026-03-18 06:49:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "개인정보의 힘을 더 많은 사람들에게 제공",
       "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
       "date": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "summary": "Google G, Google 포토 로고, Gmail 로고를 둘러싸고 있는 '개인 정보'라는 말풍선..."
+      "summary": "Google G, Google 포토 로고, Gmail 로고가 둘러져 있는 '개인 정보'라는 말풍선..."
     },
     {
       "company": "Google AI",
@@ -48,11 +48,11 @@
       "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
       "date": "Fri, 06 Mar 2026 17:00:00 +0000",
-      "summary": "<p>고객은 AI 워크플로를 운용하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
+      "summary": "<p>고객은 AI 워크플로를 운영하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry의 GPT-5.4 소개",
+      "title": "Microsoft Foundry에서 GPT-5.4 소개",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
       "date": "Thu, 05 Mar 2026 23:03:01 +0000",
       "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "의료 로봇 공학을 위한 최초의 의료 로봇 데이터 세트 및 기초 물리적 AI 모델",
+      "title": "최초의 의료 로봇 공학 데이터 세트 및 의료 로봇 공학을 위한 기초 물리적 AI 모델",
       "link": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
       "date": "Mon, 16 Mar 2026 21:58:40 GMT",
       "summary": "..."
