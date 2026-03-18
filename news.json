@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19 04:14:48 (KST)",
+  "updated_at": "2026-03-19 05:50:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,45 +45,45 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
-      "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
-      "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 NVIDIA와 협력하여 하드웨어, 소프트웨어 및 정보를 통합해 왔습니다...."
+      "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+      "date": "Fri, 06 Mar 2026 17:00:00 +0000",
+      "summary": "<p>고객은 AI 워크플로를 운영하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "레거시에서 리더십까지: Azure의 PostgreSQL이 엔터프라이즈 민첩성과 혁신을 강화하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
-      "date": "Mon, 16 Mar 2026 17:00:00 +0000",
-      "summary": "<p>우리의 임무는 PostgreSQL을 가장 성능이 뛰어나고 확장 가능하며 기업용 개방형 데이터베이스 플랫폼으로 만드는 것입니다. Azure Database for PostgreSQL과 새로 도입된 Azure HorizonDB를 사용하면..."
+      "title": "Microsoft Foundry의 GPT-5.4 소개",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+      "date": "Thu, 05 Mar 2026 23:03:01 +0000",
+      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 것이라고 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료하도록 돕기 위해 설계된 모델입니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "클라우드 및 에이전트 AI를 통해 규제 산업 현대화",
-      "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
-      "date": "Wed, 11 Mar 2026 16:00:00 +0000",
-      "summary": "<p>클라우드 현대화와 에이전트 AI가 의료, 금융 서비스, 제조 전반에서 마이그레이션을 어떻게 가속화하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/en-us/industr..."
+      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
+      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock의 Amazon Nova 1에서 Amazon Nova 2로 마이그레이션",
-      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-from-amazon-nova-1-to-amazon-nova-2-on-amazon-bedrock/",
-      "date": "Wed, 18 Mar 2026 15:13:27 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock에서 Nova 1에서 Nova 2로 마이그레이션하는 방법을 알아봅니다. 모델 매핑, API 변경, Converse API를 사용한 코드 예제, 새로운 기능 구성에 대한 지침을 다룹니다...."
+      "title": "Nova Forge SDK를 사용하여 Nova 사용자 정의 실험 시작",
+      "link": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/",
+      "date": "Wed, 18 Mar 2026 16:16:24 +0000",
+      "summary": "이 게시물에서는 Nova Forge SDK를 사용하여 Amazon SageMaker AI 교육 작업을 통해 Amazon Nova 모델을 교육하는 과정을 안내합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS AI League: AI 교육에 대한 접근 방식을 미세 조정하는 Atos",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/",
-      "date": "Tue, 17 Mar 2026 15:51:08 +0000",
-      "summary": "이 게시물에서는 Atos가 어떻게 AWS AI League를 사용하여 400명 이상의 참가자에 대한 AI 교육을 가속화하고, 게임화된 체험 학습의 실질적인 이점을 강조하고, 활동을 공유하는지 살펴보겠습니다...."
+      "title": "엔터프라이즈 AI용 Nova 모델을 사용자 정의하는 원활한 방법인 Nova Forge SDK를 소개합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/",
+      "date": "Wed, 18 Mar 2026 16:06:21 +0000",
+      "summary": "오늘 우리는 LLM 사용자 정의에 액세스할 수 있게 해주는 Nova Forge SDK를 출시하여 팀이 종속성 관리, 이미지 문제 없이 언어 모델의 잠재력을 최대한 활용할 수 있도록 지원합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS와 NVIDIA는 AI를 파일럿에서 프로덕션까지 가속화하기 위해 전략적 협력을 심화합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-deepen-strategic-collaboration-to-accelerate-ai-from-pilot-to-production/",
-      "date": "Mon, 16 Mar 2026 20:51:16 +0000",
-      "summary": "오늘 NVIDIA GTC 2026에서 AWS와 NVIDIA는 증가하는 AI 컴퓨팅 수요를 지원하고 생산적인 AI 솔루션을 구축 및 실행할 수 있도록 새로운 기술 통합을 통한 확장된 협력을 발표했습니다...."
+      "title": "프로덕션용 AI 에이전트 평가: Strands Evals에 대한 실무 가이드",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/",
+      "date": "Wed, 18 Mar 2026 15:54:09 +0000",
+      "summary": "이 게시물에서는 Strands Evals를 사용하여 AI 에이전트를 체계적으로 평가하는 방법을 보여줍니다. 핵심 개념, 내장된 평가기, 다중 턴 시뮬레이션 기능 및 실용적인 접근 방식을 살펴봅니다...."
     },
     {
       "company": "Hugging Face",
