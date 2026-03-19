@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20 05:50:39 (KST)",
+  "updated_at": "2026-03-20 06:44:53 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "개인정보의 힘을 더 많은 사람들에게 제공",
       "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
       "date": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "summary": "Google G, Google 포토 로고, Gmail 로고를 둘러싸고 있는 '개인 정보'라는 말풍선..."
+      "summary": "Google G, Google 포토 로고, Gmail 로고가 둘러져 있는 '개인 정보'라는 말풍선..."
     },
     {
       "company": "Google AI",
@@ -76,7 +76,7 @@
       "title": "Amazon Bedrock 및 Amazon Nova Reel을 사용한 비디오 생성에 RAG 사용",
       "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
       "date": "Thu, 19 Mar 2026 16:45:50 +0000",
-      "summary": "이 게시물에서는 VRAG를 통해 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
+      "summary": "이 게시물에서는 VRAG를 통한 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
     },
     {
       "company": "AWS Machine Learning",
