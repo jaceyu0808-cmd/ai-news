@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-03-20 01:03:27 (KST)",
+  "updated_at": "2026-03-20 02:56:46 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "내부 코딩 에이전트의 정렬 불량을 모니터링하는 방법",
+      "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "date": "Thu, 19 Mar 2026 10:00:00 GMT",
+      "summary": "OpenAI가 사고 사슬 모니터링을 사용하여 내부 코딩 에이전트의 정렬 불량을 연구하고 실제 배포를 분석하여 위험을 감지하고 AI 안전 보호 장치를 강화하는 방법입니다...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI, Astral 인수",
@@ -16,18 +23,11 @@
       "summary": "OpenAI Japan은 생성 AI를 사용하여 청소년을 위한 보다 강력한 연령 보호, 자녀 보호 및 웰빙 보호 기능을 도입하는 Japan Teen Safety Blueprint를 발표했습니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "GPT-5.4 미니 및 나노 소개",
-      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "date": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "summary": "GPT-5.4 미니 및 나노는 코딩, 도구 사용, 다중 모달 추론, 대용량 API 및 하위 에이전트 워크로드에 최적화된 더 작고 빠른 GPT-5.4 버전입니다...."
-    },
-    {
       "company": "Google AI",
       "title": "개인정보의 힘을 더 많은 사람들에게 제공",
       "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
       "date": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "summary": "Google G, Google 포토 로고, Gmail 로고를 둘러싸고 있는 '개인 정보'라는 말풍선..."
+      "summary": "Google G, Google 포토 로고, Gmail 로고가 둘러져 있는 '개인 정보'라는 말풍선..."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Nova Forge SDK를 사용하여 Nova 사용자 정의 실험 시작",
-      "link": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/",
-      "date": "Wed, 18 Mar 2026 16:16:24 +0000",
-      "summary": "이 게시물에서는 Nova Forge SDK를 사용하여 Amazon SageMaker AI 교육 작업을 통해 Amazon Nova 모델을 교육하는 과정을 안내합니다...."
+      "title": "Amazon Bedrock에서 NVIDIA Nemotron 3 Super 실행",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/",
+      "date": "Thu, 19 Mar 2026 17:25:44 +0000",
+      "summary": "이 게시물에서는 Nemotron 3 Super 모델의 기술적 특성을 살펴보고 잠재적인 애플리케이션 사용 사례에 대해 논의합니다. 또한 이 모델을 사용하여 시작하는 데 필요한 기술 지침도 제공합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "엔터프라이즈 AI용 Nova 모델을 사용자 정의하는 원활한 방법인 Nova Forge SDK를 소개합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/",
-      "date": "Wed, 18 Mar 2026 16:06:21 +0000",
-      "summary": "오늘 우리는 LLM 사용자 정의에 액세스할 수 있게 해주는 Nova Forge SDK를 출시하여 팀이 종속성 관리, 이미지 문제 없이 언어 모델의 잠재력을 최대한 활용할 수 있도록 지원합니다...."
+      "title": "Amazon Bedrock 및 Amazon Nova Reel을 사용한 비디오 생성에 RAG 사용",
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
+      "date": "Thu, 19 Mar 2026 16:45:50 +0000",
+      "summary": "이 게시물에서는 VRAG를 통해 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "프로덕션용 AI 에이전트 평가: Strands Evals에 대한 실무 가이드",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/",
-      "date": "Wed, 18 Mar 2026 15:54:09 +0000",
-      "summary": "이 게시물에서는 Strands Evals를 사용하여 AI 에이전트를 체계적으로 평가하는 방법을 보여줍니다. 핵심 개념, 내장된 평가기, 다중 턴 시뮬레이션 기능 및 실용적인 접근 방식을 살펴봅니다...."
+      "title": "V-RAG 소개: 검색 증강 생성(Retrieval Augmented Generation)을 통해 AI 기반 비디오 제작에 혁명을 일으키다",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/",
+      "date": "Thu, 19 Mar 2026 16:45:42 +0000",
+      "summary": "이 게시물에서는 비디오 콘텐츠 제작을 개선하는 데 도움이 되는 접근 방식인 V-RAG(Video Retrieval-Augmented Generation)를 소개합니다. 검색 증강 생성과 고급 비디오 AI 모델을 결합하여 V-RAG..."
     },
     {
       "company": "Hugging Face",
