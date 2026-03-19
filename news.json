@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20 06:44:53 (KST)",
+  "updated_at": "2026-03-20 07:38:11 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI Japan, 청소년 안전을 최우선으로 생각하는 Japan Teen Safety Blueprint 발표",
-      "link": "https://openai.com/index/japan-teen-safety-blueprint",
+      "title": "GPT-5.4 미니 및 나노 소개",
+      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "date": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI Japan은 생성 AI를 사용하여 청소년을 위한 보다 강력한 연령 보호, 자녀 보호 및 웰빙 보호 기능을 도입하는 Japan Teen Safety Blueprint를 발표했습니다...."
+      "summary": "GPT-5.4 미니 및 나노는 코딩, 도구 사용, 다중 모달 추론, 대용량 API 및 하위 에이전트 워크로드에 최적화된 더 작고 빠른 GPT-5.4 버전입니다...."
     },
     {
       "company": "Google AI",
