@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-03-19 08:37:46 (KST)",
+  "updated_at": "2026-03-19 12:14:19 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "OpenAI Japan, 청소년 안전을 최우선으로 생각하는 Japan Teen Safety Blueprint 발표",
-      "link": "https://openai.com/index/japan-teen-safety-blueprint",
-      "date": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI Japan은 생성 AI를 사용하여 청소년을 위한 보다 강력한 연령 보호, 자녀 보호 및 웰빙 보호 기능을 도입하는 Japan Teen Safety Blueprint를 발표했습니다...."
-    },
     {
       "company": "OpenAI",
       "title": "GPT-5.4 미니 및 나노 소개",
       "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "date": "Tue, 17 Mar 2026 10:00:00 GMT",
       "summary": "GPT-5.4 미니 및 나노는 코딩, 도구 사용, 다중 모달 추론, 대용량 API 및 하위 에이전트 워크로드에 최적화된 더 작고 빠른 GPT-5.4 버전입니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI Japan, 청소년 안전을 최우선으로 생각하는 Japan Teen Safety Blueprint 발표",
+      "link": "https://openai.com/index/japan-teen-safety-blueprint",
+      "date": "Tue, 17 Mar 2026 10:00:00 GMT",
+      "summary": "OpenAI Japan은 생성 AI를 사용하여 청소년을 위한 보다 강력한 연령 보호, 자녀 보호 및 웰빙 보호 기능을 도입하는 Japan Teen Safety Blueprint를 발표했습니다...."
     },
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "개인정보의 힘을 더 많은 사람들에게 제공",
       "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
       "date": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "summary": "Google G, Google 포토 로고, Gmail 로고를 둘러싸고 있는 '개인 정보'라는 말풍선..."
+      "summary": "Google G, Google 포토 로고, Gmail 로고가 둘러져 있는 '개인 정보'라는 말풍선..."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
-      "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
-      "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 NVIDIA와 협력하여 하드웨어, 소프트웨어 및 정보를 통합해 왔습니다...."
+      "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+      "date": "Fri, 06 Mar 2026 17:00:00 +0000",
+      "summary": "<p>고객은 AI 워크플로를 운영하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "레거시에서 리더십까지: Azure의 PostgreSQL이 엔터프라이즈 민첩성과 혁신을 강화하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
-      "date": "Mon, 16 Mar 2026 17:00:00 +0000",
-      "summary": "<p>우리의 임무는 PostgreSQL을 가장 성능이 뛰어나고 확장 가능하며 기업용 개방형 데이터베이스 플랫폼으로 만드는 것입니다. Azure Database for PostgreSQL과 새로 도입된 Azure HorizonDB를 사용하면..."
+      "title": "Microsoft Foundry에서 GPT-5.4 소개",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+      "date": "Thu, 05 Mar 2026 23:03:01 +0000",
+      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 예정임을 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료할 수 있도록 설계된 모델입니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "클라우드 및 에이전트 AI를 통해 규제 산업 현대화",
-      "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
-      "date": "Wed, 11 Mar 2026 16:00:00 +0000",
-      "summary": "<p>클라우드 현대화와 에이전트 AI가 의료, 금융 서비스, 제조 전반에서 마이그레이션을 어떻게 가속화하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/en-us/industr..."
+      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
+      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
     },
     {
       "company": "AWS Machine Learning",
