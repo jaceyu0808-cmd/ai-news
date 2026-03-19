@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19 22:25:56 (KST)",
+  "updated_at": "2026-03-19 23:58:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "개인정보의 힘을 더 많은 사람들에게 제공",
       "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
       "date": "Tue, 17 Mar 2026 16:00:00 +0000",
-      "summary": "Google G, Google 포토 로고, Gmail 로고가 둘러져 있는 '개인 정보'라는 말풍선..."
+      "summary": "Google G, Google 포토 로고, Gmail 로고를 둘러싸고 있는 '개인 정보'라는 말풍선..."
     },
     {
       "company": "Google AI",
@@ -38,7 +38,7 @@
     },
     {
       "company": "Google AI",
-      "title": "AI가 호주 시골 지역의 심장 건강 개선에 어떻게 도움이 되는지",
+      "title": "AI가 호주 시골 지역의 심장 건강을 개선하는 데 어떻게 도움이 됩니까?",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
       "date": "Thu, 12 Mar 2026 15:00:00 +0000",
       "summary": "의사가 환자의 책상 건너편에 앉아 있습니다. 의사는 태블릿과 펜을 들고 있습니다. 의료 차트 렌더링이 배경에 있습니다...."
@@ -62,7 +62,21 @@
       "title": "즉각적인 액세스 증분 스냅샷: 기다리지 않고 복원",
       "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
       "date": "Mon, 02 Mar 2026 17:00:00 +0000",
-      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 소개하게 되어 기쁘게 생각합니다...."
+      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 도입하여 생성, 디스크 재생이 가능한 업계 최고의 스냅샷 환경을 제공하게 되어 기쁘게 생각합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker AI 엔드포인트에 대한 향상된 지표: 더 나은 성능을 위한 더 깊은 가시성",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-metrics-for-amazon-sagemaker-ai-endpoints-deeper-visibility-for-better-performance/",
+      "date": "Thu, 19 Mar 2026 14:32:11 +0000",
+      "summary": "SageMaker AI 엔드포인트는 이제 구성 가능한 게시 빈도로 향상된 지표를 지원합니다. 이번 출시는 생산 환경을 모니터링하고, 문제를 해결하고, 개선하는 데 필요한 세부적인 가시성을 제공합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Microsoft Teams용 Amazon Quick 확장을 사용하여 데이터 상주 강화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enforce-data-residency-with-amazon-quick-extensions-for-microsoft-teams/",
+      "date": "Thu, 19 Mar 2026 14:20:04 +0000",
+      "summary": "이 게시물에서는 여러 AWS 지역에 Amazon Quick Microsoft Teams 확장을 배포할 때 데이터 상주를 적용하는 방법을 보여 드리겠습니다. 다중 지역 Amazon Qui를 구성하는 방법을 배우게 됩니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -72,24 +86,10 @@
       "summary": "이 게시물에서는 Nova Forge SDK를 사용하여 Amazon SageMaker AI 교육 작업을 통해 Amazon Nova 모델을 교육하는 과정을 안내합니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "엔터프라이즈 AI용 Nova 모델을 사용자 정의하는 원활한 방법인 Nova Forge SDK를 소개합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/",
-      "date": "Wed, 18 Mar 2026 16:06:21 +0000",
-      "summary": "오늘 우리는 LLM 사용자 정의에 액세스할 수 있게 해주는 Nova Forge SDK를 출시하여 팀이 종속성 관리, 이미지 문제 없이 언어 모델의 잠재력을 최대한 활용할 수 있도록 지원합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "프로덕션용 AI 에이전트 평가: Strands Evals에 대한 실무 가이드",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/",
-      "date": "Wed, 18 Mar 2026 15:54:09 +0000",
-      "summary": "이 게시물에서는 Strands Evals를 사용하여 AI 에이전트를 체계적으로 평가하는 방법을 보여줍니다. 핵심 개념, 내장된 평가기, 다중 턴 시뮬레이션 기능 및 실용적인 접근 방식을 살펴봅니다...."
-    },
-    {
       "company": "Hugging Face",
-      "title": "Nemotron 3 Nano 4B: 효율적인 로컬 AI를 위한 컴팩트 하이브리드 모델",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
-      "date": "Tue, 17 Mar 2026 23:17:07 GMT",
+      "title": "**SPEED-Bench 소개: 추측 디코딩을 위한 통합되고 다양한 벤치마크**",
+      "link": "https://huggingface.co/blog/nvidia/speed-bench",
+      "date": "Thu, 19 Mar 2026 14:04:54 GMT",
       "summary": "..."
     },
     {
