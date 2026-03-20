@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21 04:01:50 (KST)",
+  "updated_at": "2026-03-21 05:43:11 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,9 +87,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Nemotron 3 콘텐츠 안전 4B: 다중 모드, 다국어 콘텐츠 조정",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-content-safety",
-      "date": "Fri, 20 Mar 2026 17:00:44 GMT",
+      "title": "하루 안에 도메인별 임베딩 모델 구축",
+      "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "date": "Fri, 20 Mar 2026 19:38:16 GMT",
       "summary": "..."
     },
     {
