@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20 13:54:44 (KST)",
+  "updated_at": "2026-03-20 14:59:36 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -38,7 +38,7 @@
     },
     {
       "company": "Google AI",
-      "title": "AI가 호주 시골 지역의 심장 건강을 개선하는 데 어떻게 도움이 됩니까?",
+      "title": "AI가 호주 시골 지역의 심장 건강 개선에 어떻게 도움이 되는지",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
       "date": "Thu, 12 Mar 2026 15:00:00 +0000",
       "summary": "의사가 환자의 책상 건너편에 앉아 있습니다. 의사는 태블릿과 펜을 들고 있습니다. 의료 차트 렌더링이 배경에 있습니다...."
@@ -48,7 +48,7 @@
       "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
       "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
       "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 하드웨어, 소프트웨어 및 정보 통합을 위해 NVIDIA와 협력해 왔습니다...."
+      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 NVIDIA와 협력하여 하드웨어, 소프트웨어 및 정보를 통합해 왔습니다...."
     },
     {
       "company": "Microsoft Azure AI",
