@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20 17:53:56 (KST)",
+  "updated_at": "2026-03-20 18:54:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -38,31 +38,31 @@
     },
     {
       "company": "Google AI",
-      "title": "AI가 호주 시골 지역의 심장 건강 개선에 어떻게 도움이 되는지",
+      "title": "AI가 호주 시골 지역의 심장 건강을 개선하는 데 어떻게 도움이 됩니까?",
       "link": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
       "date": "Thu, 12 Mar 2026 15:00:00 +0000",
       "summary": "의사가 환자의 책상 건너편에 앉아 있습니다. 의사는 태블릿과 펜을 들고 있습니다. 의료 차트 렌더링이 배경에 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에서 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
-      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
-      "date": "Wed, 18 Mar 2026 12:50:00 +0000",
-      "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
+      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
+      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "FabCon 및 SQLCon 2026: 단일 데이터 플랫폼에서 데이터베이스와 Fabric 통합",
-      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
-      "date": "Wed, 18 Mar 2026 12:45:00 +0000",
-      "summary": "<p>참석자들을 모아 실제 경험을 공유하고 함께 문제를 해결해 나가고 있습니다. 함께해야만 의미 있는 결과를 얻을 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
+      "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
+      "date": "Tue, 03 Mar 2026 16:24:29 +0000",
+      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 익숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
-      "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
-      "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 NVIDIA와 협력하여 하드웨어, 소프트웨어 및 정보를 통합해 왔습니다...."
+      "title": "즉각적인 액세스 증분 스냅샷: 기다리지 않고 복원",
+      "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
+      "date": "Mon, 02 Mar 2026 17:00:00 +0000",
+      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 도입하여 생성, 디스크 재생이 가능한 업계 최고의 스냅샷 환경을 제공하게 되어 기쁘게 생각합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -76,7 +76,7 @@
       "title": "Amazon Bedrock 및 Amazon Nova Reel을 사용한 비디오 생성에 RAG 사용",
       "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
       "date": "Thu, 19 Mar 2026 16:45:50 +0000",
-      "summary": "이 게시물에서는 VRAG를 통한 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
+      "summary": "이 게시물에서는 VRAG를 통해 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
     },
     {
       "company": "AWS Machine Learning",
