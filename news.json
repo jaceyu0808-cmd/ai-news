@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21 16:40:00 (KST)",
+  "updated_at": "2026-03-21 17:45:04 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,11 +48,11 @@
       "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
       "date": "Fri, 06 Mar 2026 17:00:00 +0000",
-      "summary": "<p>고객은 AI 워크플로를 운영하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
+      "summary": "<p>고객은 AI 워크플로를 운용하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry의 GPT-5.4 소개",
+      "title": "Microsoft Foundry에서 GPT-5.4 소개",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
       "date": "Thu, 05 Mar 2026 23:03:01 +0000",
       "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 예정임을 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료할 수 있도록 설계된 모델입니다...."
@@ -76,7 +76,7 @@
       "title": "Amazon Bedrock 및 Amazon Nova Reel을 사용한 비디오 생성에 RAG 사용",
       "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
       "date": "Thu, 19 Mar 2026 16:45:50 +0000",
-      "summary": "이 게시물에서는 VRAG를 통해 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
+      "summary": "이 게시물에서는 VRAG를 통한 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
     },
     {
       "company": "AWS Machine Learning",
