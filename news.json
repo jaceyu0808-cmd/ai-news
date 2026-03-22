@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23 07:35:03 (KST)",
+  "updated_at": "2026-03-23 08:36:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
       "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
       "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 하드웨어, 소프트웨어 및 정보 통합을 위해 NVIDIA와 협력해 왔습니다...."
+      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 NVIDIA와 협력하여 하드웨어, 소프트웨어 및 정보를 통합해 왔습니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -76,14 +76,14 @@
       "title": "Amazon Bedrock 및 Amazon Nova Reel을 사용한 비디오 생성에 RAG 사용",
       "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
       "date": "Thu, 19 Mar 2026 16:45:50 +0000",
-      "summary": "이 게시물에서는 VRAG를 통해 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
+      "summary": "이 게시물에서는 VRAG를 통한 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
     },
     {
       "company": "AWS Machine Learning",
       "title": "V-RAG 소개: 검색 증강 생성(Retrieval Augmented Generation)을 통해 AI 기반 비디오 제작에 혁명을 일으키다",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/",
       "date": "Thu, 19 Mar 2026 16:45:42 +0000",
-      "summary": "이 게시물에서는 비디오 콘텐츠 제작을 개선하는 데 도움이 되는 접근 방식인 V-RAG(Video Retrieval-Augmented Generation)를 소개합니다. 검색 증강 생성과 고급 영상 AI 모델을 결합한 V-RAG..."
+      "summary": "이 게시물에서는 비디오 콘텐츠 제작을 개선하는 데 도움이 되는 접근 방식인 V-RAG(Video Retrieval-Augmented Generation)를 소개합니다. 검색 증강 생성과 고급 비디오 AI 모델을 결합하여 V-RAG..."
     },
     {
       "company": "Hugging Face",
