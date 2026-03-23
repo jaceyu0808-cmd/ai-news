@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23 16:24:09 (KST)",
+  "updated_at": "2026-03-23 18:08:40 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
-      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
-      "date": "Wed, 18 Mar 2026 12:50:00 +0000",
-      "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "FabCon 및 SQLCon 2026: 단일 데이터 플랫폼에서 데이터베이스와 Fabric 통합",
-      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
-      "date": "Wed, 18 Mar 2026 12:45:00 +0000",
-      "summary": "<p>참석자들을 모아 실제 경험을 공유하고 함께 문제를 해결해 나가고 있습니다. 함께해야만 의미 있는 결과를 얻을 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
       "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
       "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 하드웨어, 소프트웨어 및 정보 통합을 위해 NVIDIA와 협력해 왔습니다...."
+      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 NVIDIA와 협력하여 하드웨어, 소프트웨어 및 정보를 통합해 왔습니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "레거시에서 리더십까지: Azure의 PostgreSQL이 엔터프라이즈 민첩성과 혁신을 강화하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
+      "date": "Mon, 16 Mar 2026 17:00:00 +0000",
+      "summary": "<p>우리의 임무는 PostgreSQL을 가장 성능이 뛰어나고 확장 가능하며 기업용 개방형 데이터베이스 플랫폼으로 만드는 것입니다. Azure Database for PostgreSQL과 새로 도입된 Azure HorizonDB를 사용하면..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "클라우드 및 에이전트 AI를 통해 규제 산업 현대화",
+      "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
+      "date": "Wed, 11 Mar 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 현대화와 에이전트 AI가 의료, 금융 서비스, 제조 전반에서 마이그레이션을 어떻게 가속화하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/en-us/industr..."
     },
     {
       "company": "AWS Machine Learning",
