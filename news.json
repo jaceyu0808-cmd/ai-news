@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-03-24 00:05:27 (KST)",
+  "updated_at": "2026-03-24 02:03:43 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "소라와 함께 안전하게 만들기",
+      "link": "https://openai.com/index/creating-with-sora-safely",
+      "date": "Mon, 23 Mar 2026 00:00:00 GMT",
+      "summary": "최첨단 비디오 모델과 새로운 사회 창출 플랫폼으로 인해 발생하는 새로운 안전 문제를 해결하기 위해 우리는 안전을 기반으로 Sora 2와 Sora 앱을 구축했습니다. 우리의 접근 방식..."
+    },
     {
       "company": "OpenAI",
       "title": "내부 코딩 에이전트의 정렬 불량을 모니터링하는 방법",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/openai-to-acquire-astral",
       "date": "Thu, 19 Mar 2026 00:00:00 GMT",
       "summary": "차세대 Python 개발자 도구를 지원하기 위해 Codex 성장을 가속화합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.4 미니 및 나노 소개",
-      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "date": "Tue, 17 Mar 2026 10:00:00 GMT",
-      "summary": "GPT-5.4 미니 및 나노는 코딩, 도구 사용, 다중 모달 추론, 대용량 API 및 하위 에이전트 워크로드에 최적화된 더 작고 빠른 GPT-5.4 버전입니다...."
     },
     {
       "company": "Google AI",
@@ -45,45 +45,45 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
-      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
-      "date": "Wed, 18 Mar 2026 12:50:00 +0000",
-      "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
+      "title": "클라우드 및 에이전트 AI를 통해 규제 산업 현대화",
+      "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
+      "date": "Wed, 11 Mar 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 현대화와 에이전트 AI가 의료, 금융 서비스, 제조 전반에서 마이그레이션을 어떻게 가속화하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/en-us/industr..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "FabCon 및 SQLCon 2026: 단일 데이터 플랫폼에서 데이터베이스와 Fabric 통합",
-      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
-      "date": "Wed, 18 Mar 2026 12:45:00 +0000",
-      "summary": "<p>참석자들을 모아 실제 경험을 공유하고 함께 문제를 해결해 나가고 있습니다. 함께해야만 의미 있는 결과를 얻을 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
+      "title": "많은 에이전트, 하나의 팀: Azure에서 현대화 확장",
+      "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
+      "date": "Wed, 11 Mar 2026 15:00:00 +0000",
+      "summary": "<p>IT와 개발자를 하나의 연결된 워크플로로 통합하는 최초의 에이전트 기반 엔드 투 엔드 현대화 솔루션을 발표합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
-      "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
-      "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 하드웨어, 소프트웨어 및 정보 통합을 위해 NVIDIA와 협력해 왔습니다...."
+      "title": "Microsoft Foundry의 Fireworks AI 소개: Azure에 고성능, 낮은 대기 시간 개방형 모델 추론 제공",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
+      "date": "Wed, 11 Mar 2026 07:00:00 +0000",
+      "summary": "<p>우리는 Azure에 고성능 개방형 모델 추론을 제공하는 Microsoft Foundry의 Fireworks AI 공개 미리 보기를 발표합니다. 이 통합은 Microsoft Foundry의 광범위한 방향을 반영합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock에서 NVIDIA Nemotron 3 Super 실행",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/",
-      "date": "Thu, 19 Mar 2026 17:25:44 +0000",
-      "summary": "이 게시물에서는 Nemotron 3 Super 모델의 기술적 특성을 살펴보고 잠재적인 애플리케이션 사용 사례에 대해 논의합니다. 또한 이 모델을 사용하여 시작하는 데 필요한 기술 지침도 제공합니다...."
+      "title": "Reco가 Amazon Bedrock을 사용하여 보안 알림을 혁신하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/",
+      "date": "Mon, 23 Mar 2026 16:46:54 +0000",
+      "summary": "이 블로그 게시물에서는 Reco가 어떻게 Amazon Bedrock을 구현하여 보안 알림을 혁신하고 사고 대응 시간을 대폭 개선했는지 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock 및 Amazon Nova Reel을 사용한 비디오 생성에 RAG 사용",
-      "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
-      "date": "Thu, 19 Mar 2026 16:45:50 +0000",
-      "summary": "이 게시물에서는 VRAG를 통해 비디오 생성에 대한 접근 방식을 살펴보고 자연어 텍스트 프롬프트와 이미지를 기반이 있는 고품질 비디오로 변환합니다. 완전 자동화된 솔루션을 통해..."
+      "title": "Amazon Bedrock AgentCore를 Slack과 통합",
+      "link": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/",
+      "date": "Mon, 23 Mar 2026 16:38:56 +0000",
+      "summary": "이 게시물에서는 AWS Cloud Development Kit(AWS CDK)를 사용하여 Slack 통합을 구축하는 방법을 보여줍니다. 세 가지 전문 AWS Lambda 기능을 사용하여 인프라를 배포하는 방법을 배우게 됩니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "V-RAG 소개: 검색 증강 생성(Retrieval Augmented Generation)을 통해 AI 기반 비디오 제작에 혁명을 일으키다",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/",
-      "date": "Thu, 19 Mar 2026 16:45:42 +0000",
-      "summary": "이 게시물에서는 비디오 콘텐츠 제작을 개선하는 데 도움이 되는 접근 방식인 V-RAG(Video Retrieval-Augmented Generation)를 소개합니다. 검색 증강 생성과 고급 영상 AI 모델을 결합한 V-RAG..."
+      "title": "규제 산업에서 LLM 환각 극복: Amazon Nova에서 Artificial Genius의 결정론적 모델",
+      "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-llm-hallucinations-in-regulated-industries-artificial-geniuss-deterministic-models-on-amazon-nova/",
+      "date": "Mon, 23 Mar 2026 16:34:37 +0000",
+      "summary": "이 게시물에서는 AWS ISV 파트너 Artificial Genius가 Amazon SageMaker AI 및 Amazon Nova를 사용하여 입력에서는 확률적이지만 출력에서는 결정적인 솔루션을 제공하는 방법을 선보이게 되어 기쁩니다...."
     },
     {
       "company": "Hugging Face",
