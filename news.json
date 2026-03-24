@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24 14:01:37 (KST)",
+  "updated_at": "2026-03-24 16:15:50 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
-      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
-      "date": "Wed, 18 Mar 2026 12:50:00 +0000",
-      "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
+      "title": "클라우드 및 에이전트 AI를 통해 규제 산업 현대화",
+      "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
+      "date": "Wed, 11 Mar 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 현대화와 에이전트 AI가 의료, 금융 서비스, 제조 전반에서 마이그레이션을 어떻게 가속화하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/en-us/industr..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "FabCon 및 SQLCon 2026: 단일 데이터 플랫폼에서 데이터베이스와 Fabric 통합",
-      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
-      "date": "Wed, 18 Mar 2026 12:45:00 +0000",
-      "summary": "<p>참석자들을 모아 실제 경험을 공유하고 함께 문제를 해결해 나가고 있습니다. 함께해야만 의미 있는 결과를 얻을 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
+      "title": "많은 에이전트, 하나의 팀: Azure에서 현대화 확장",
+      "link": "https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/",
+      "date": "Wed, 11 Mar 2026 15:00:00 +0000",
+      "summary": "<p>IT와 개발자를 하나의 연결된 워크플로로 통합하는 최초의 에이전트 기반 엔드 투 엔드 현대화 솔루션을 발표합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
-      "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
-      "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 하드웨어, 소프트웨어 및 정보 통합을 위해 NVIDIA와 협력해 왔습니다...."
+      "title": "Microsoft Foundry의 Fireworks AI 소개: Azure에 고성능, 낮은 대기 시간 개방형 모델 추론 제공",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
+      "date": "Wed, 11 Mar 2026 07:00:00 +0000",
+      "summary": "<p>우리는 Azure에 고성능 개방형 모델 추론을 제공하는 Microsoft Foundry의 Fireworks AI 공개 미리 보기를 발표합니다. 이 통합은 Microsoft Foundry의 광범위한 방향을 반영합니다...."
     },
     {
       "company": "AWS Machine Learning",
