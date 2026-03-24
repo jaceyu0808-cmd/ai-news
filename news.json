@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-03-25 00:09:35 (KST)",
+  "updated_at": "2026-03-25 02:10:51 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT에서 제품 검색 지원",
+      "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "date": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "summary": "ChatGPT는 Agentic Commerce Protocol을 통해 더욱 풍부하고 시각적으로 몰입도 높은 쇼핑을 제공하여 제품 검색, 병렬 비교 및 ​​판매자 통합을 가능하게 합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 재단 업데이트",
+      "link": "https://openai.com/index/update-on-the-openai-foundation",
+      "date": "Tue, 24 Mar 2026 09:00:00 GMT",
+      "summary": "OpenAI 재단은 질병 치료, 경제적 기회, AI 탄력성 및 커뮤니티 프로그램에 최소 10억 달러를 투자할 계획을 발표했습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "소라와 함께 안전하게 만들기",
       "link": "https://openai.com/index/creating-with-sora-safely",
       "date": "Mon, 23 Mar 2026 00:00:00 GMT",
       "summary": "최첨단 비디오 모델과 새로운 사회 창출 플랫폼으로 인해 발생하는 새로운 안전 문제를 해결하기 위해 우리는 안전을 기반으로 Sora 2와 Sora 앱을 구축했습니다. 우리의 접근 방식..."
-    },
-    {
-      "company": "OpenAI",
-      "title": "내부 코딩 에이전트의 정렬 불량을 모니터링하는 방법",
-      "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "date": "Thu, 19 Mar 2026 10:00:00 GMT",
-      "summary": "OpenAI가 사고 사슬 모니터링을 사용하여 내부 코딩 에이전트의 정렬 불량을 연구하고 실제 배포를 분석하여 위험을 감지하고 AI 안전 보호 장치를 강화하는 방법입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI, Astral 인수",
-      "link": "https://openai.com/index/openai-to-acquire-astral",
-      "date": "Thu, 19 Mar 2026 00:00:00 GMT",
-      "summary": "차세대 Python 개발자 도구를 지원하기 위해 Codex 성장을 가속화합니다...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
-      "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
-      "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 NVIDIA와 협력하여 하드웨어, 소프트웨어 및 정보를 통합해 왔습니다...."
+      "title": "KubeCon + CloudNativeCon Europe 2026에서 오픈 소스 및 Kubernetes 분야의 Microsoft 관련 새로운 소식",
+      "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
+      "date": "Tue, 24 Mar 2026 07:05:00 +0000",
+      "summary": "<p>암스테르담에서 열리는 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "레거시에서 리더십까지: Azure의 PostgreSQL이 엔터프라이즈 민첩성과 혁신을 강화하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
-      "date": "Mon, 16 Mar 2026 17:00:00 +0000",
-      "summary": "<p>우리의 임무는 PostgreSQL을 가장 성능이 뛰어나고 확장 가능하며 기업용 개방형 데이터베이스 플랫폼으로 만드는 것입니다. Azure Database for PostgreSQL과 새로 도입된 Azure HorizonDB를 사용하면..."
+      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
+      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
+      "date": "Wed, 18 Mar 2026 12:50:00 +0000",
+      "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "클라우드 및 에이전트 AI를 통해 규제 산업 현대화",
-      "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
-      "date": "Wed, 11 Mar 2026 16:00:00 +0000",
-      "summary": "<p>클라우드 현대화와 에이전트 AI가 의료, 금융 서비스, 제조 전반에서 마이그레이션을 어떻게 가속화하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/en-us/industr..."
+      "title": "FabCon 및 SQLCon 2026: 단일 데이터 플랫폼에서 데이터베이스와 Fabric 통합",
+      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
+      "date": "Wed, 18 Mar 2026 12:45:00 +0000",
+      "summary": "<p>참석자들을 모아 실제 경험을 공유하고 함께 문제를 해결해 나가고 있습니다. 함께해야만 의미 있는 결과를 얻을 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
     },
     {
       "company": "AWS Machine Learning",
