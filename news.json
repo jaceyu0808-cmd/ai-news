@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25 16:14:23 (KST)",
+  "updated_at": "2026-03-25 18:01:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -76,7 +76,7 @@
       "title": "Amazon Bedrock에서 Claude 도구를 사용하여 사용자 지정 엔터티 인식 가속화",
       "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/",
       "date": "Tue, 24 Mar 2026 17:56:00 +0000",
-      "summary": "이 게시물에서는 LLM(대형 언어 모델)의 강력한 기능을 사용하여 광범위한 설정이나 교육 없이 동적이고 적응 가능한 엔터티 인식을 수행하는 Amazon Bedrock의 Claude 도구 사용을 소개합니다...."
+      "summary": "이 게시물에서는 대규모 설정이나 교육 없이도 LLM(대형 언어 모델)의 강력한 기능을 사용하여 동적이고 적응 가능한 엔터티 인식을 수행하는 Amazon Bedrock의 Claude 도구 사용을 소개합니다...."
     },
     {
       "company": "AWS Machine Learning",
