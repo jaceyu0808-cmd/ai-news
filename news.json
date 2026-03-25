@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26 05:50:40 (KST)",
+  "updated_at": "2026-03-26 06:50:07 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -83,7 +83,7 @@
       "title": "OpenAI 호환 API를 사용하여 Amazon Bedrock에서 강화 미세 조정: 기술 연습",
       "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/",
       "date": "Wed, 25 Mar 2026 17:30:56 +0000",
-      "summary": "이 게시물에서는 인증 설정부터 Lambda 기반 보상 기능 배포, 시작까지 OpenAI 호환 API를 사용하여 Amazon Bedrock에서 RFT를 사용하는 엔드 투 엔드 워크플로를 안내합니다...."
+      "summary": "이 게시물에서는 인증 설정부터 Lambda 기반 보상 기능 배포, 시작까지 OpenAI 호환 API를 사용하여 Amazon Bedrock에서 RFT를 사용하는 엔드투엔드 워크플로를 안내합니다...."
     },
     {
       "company": "Hugging Face",
