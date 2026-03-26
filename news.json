@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27 02:14:37 (KST)",
+  "updated_at": "2026-03-27 04:20:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "James Manyika가 LL COOL J와 함께 AI와 창의성에 대해 이야기하는 모습을 시청해 보세요.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "date": "Thu, 26 Mar 2026 17:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />기술과 사회에 관한 대화의 최신 에피소드..."
+    },
+    {
+      "company": "Google AI",
       "title": "헤드폰을 iOS의 실시간 개인 번역기로 바꿔보세요.",
       "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
       "date": "Thu, 26 Mar 2026 16:00:00 +0000",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
       "date": "Thu, 26 Mar 2026 15:21:00 +0000",
       "summary": "Gemini 엠블럼은 'Gemini 3.1 Flash Live'라는 텍스트 옆에 있습니다. 배경에는 마이크 아이콘을 구성하는 파란색의 여러 색상의 점이 있습니다...."
-    },
-    {
-      "company": "Google AI",
-      "title": "Search Live가 전 세계적으로 확대되고 있습니다.",
-      "link": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-      "date": "Thu, 26 Mar 2026 15:00:00 +0000",
-      "summary": "파형 아이콘 아래에 Search Live라는 단어가 표시된 그래픽. 오른쪽에는 Search Live가 열려 있는 Google 앱이 표시된 휴대전화가 있습니다. 카메라는 숲속의 나무들을 가리키고 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock Guardrails를 사용하여 연령에 대응하고 상황을 인식하는 AI 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/",
+      "date": "Thu, 26 Mar 2026 17:26:23 +0000",
+      "summary": "이 게시물에서는 AWS에서 서버리스 아키텍처를 사용하여 완전히 자동화된 상황 인식 AI 솔루션을 구현하는 방법을 안내합니다. 이 솔루션은 책임감 있는 배포를 원하는 조직에 도움이 됩니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "SageMaker Unified Studio 및 S3를 사용하여 구조화되지 않은 데이터로 LLM 미세 조정 가속화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-fine-tuning-with-unstructured-data-using-sagemaker-unified-studio-and-s3/",
+      "date": "Thu, 26 Mar 2026 17:20:26 +0000",
+      "summary": "작년에 AWS는 Amazon SageMaker Unified Studio와 Amazon S3 범용 버킷 간의 통합을 발표했습니다. 이러한 통합을 통해 팀은 구조화되지 않은 데이터 저장소를 쉽게 사용할 수 있습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Polly 양방향 스트리밍 소개: 대화형 AI를 위한 실시간 음성 합성",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/",
       "date": "Thu, 26 Mar 2026 17:10:20 +0000",
       "summary": "오늘 우리는 텍스트 전송 및 오디오 수신을 시작할 수 있는 간소화된 실시간 TTS(텍스트 음성 변환) 합성을 지원하는 Amazon Polly용 새로운 양방향 스트리밍 API를 발표하게 되어 기쁘게 생각합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock 다중 모드 모델을 통해 대규모 비디오 통찰력 확보",
-      "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models/",
-      "date": "Wed, 25 Mar 2026 18:57:15 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock의 다중 모드 기반 모델(FM)이 세 가지 고유한 아키텍처 접근 방식을 통해 확장 가능한 비디오 이해를 지원하는 방법을 살펴봅니다. 각 접근 방식은 다음을 위해 설계되었습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Pipecat 및 Amazon Bedrock AgentCore Runtime을 사용하여 음성 에이전트 배포 – 1부",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-voice-agents-with-pipecat-and-amazon-bedrock-agentcore-runtime-part-1/",
-      "date": "Wed, 25 Mar 2026 18:52:59 +0000",
-      "summary": "이 게시물 시리즈에서는 Amazon Bedrock AgentCore Runtime에서 Pipecat 음성 에이전트를 사용하여 스트리밍 아키텍처가 이러한 문제를 해결하는 데 어떻게 도움이 되는지 알아봅니다. 1부에서는 배포 방법을 알아봅니다...."
     },
     {
       "company": "Hugging Face",
