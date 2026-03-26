@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26 12:19:42 (KST)",
+  "updated_at": "2026-03-26 14:45:36 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에서 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
-      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
-      "date": "Wed, 18 Mar 2026 12:50:00 +0000",
-      "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
+      "title": "엔터프라이즈 AI의 경제학: Forrester TEI 연구를 통해 Microsoft Foundry에 대해 밝혀진 내용",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/",
+      "date": "Fri, 06 Mar 2026 17:00:00 +0000",
+      "summary": "<p>고객은 AI 워크플로를 운용하기 위해 더 스마트한 모델, 더 유능한 에이전트, 시장에 준비된 솔루션을 찾고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-eco..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "FabCon 및 SQLCon 2026: 단일 데이터 플랫폼에서 데이터베이스와 Fabric 통합",
-      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
-      "date": "Wed, 18 Mar 2026 12:45:00 +0000",
-      "summary": "<p>참석자들을 모아 실제 경험을 공유하고 함께 문제를 해결해 나가고 있습니다. 함께해야만 의미 있는 결과를 얻을 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/e..."
+      "title": "Microsoft Foundry의 GPT-5.4 소개",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785",
+      "date": "Thu, 05 Mar 2026 23:03:01 +0000",
+      "summary": "<p>오늘 우리는 OpenAI의 GPT‑5.4가 곧 Microsoft Foundry에서 일반 공급될 예정임을 발표합니다. 이 모델은 조직이 작업 계획에서 프로덕션 단계까지 안정적으로 완료할 수 있도록 설계된 모델입니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
-      "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
-      "date": "Mon, 16 Mar 2026 21:21:14 +0000",
-      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 NVIDIA와 협력하여 하드웨어, 소프트웨어 및 정보를 통합해 왔습니다...."
+      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
+      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -83,7 +83,7 @@
       "title": "OpenAI 호환 API를 사용하여 Amazon Bedrock에서 강화 미세 조정: 기술 연습",
       "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/",
       "date": "Wed, 25 Mar 2026 17:30:56 +0000",
-      "summary": "이 게시물에서는 인증 설정부터 Lambda 기반 보상 기능 배포, 시작까지 OpenAI 호환 API를 사용하여 Amazon Bedrock에서 RFT를 사용하는 엔드투엔드 워크플로를 안내합니다...."
+      "summary": "이 게시물에서는 인증 설정부터 Lambda 기반 보상 기능 배포, 시작까지 OpenAI 호환 API를 사용하여 Amazon Bedrock에서 RFT를 사용하는 엔드 투 엔드 워크플로를 안내합니다...."
     },
     {
       "company": "Hugging Face",
