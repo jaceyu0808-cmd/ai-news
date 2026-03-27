@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27 20:50:42 (KST)",
+  "updated_at": "2026-03-27 22:25:09 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "원자력용 AI: 지능적이고 탄력적인 미래를 지원합니다",
-      "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
-      "date": "Wed, 25 Mar 2026 15:00:00 +0000",
-      "summary": "<p>인프라 병목 현상을 해결하고 업계를 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
+      "title": "Azure IaaS 시리즈: 더욱 강력하고 효율적인 인프라를 구축하기 위한 새로운 리소스를 살펴보세요.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+      "date": "Wed, 04 Mar 2026 17:00:00 +0000",
+      "summary": "<p>조직이 디지털 혁신을 가속화함에 따라 인프라 결정은 팀이 AI를 얼마나 빨리 채택할 수 있는지, 애플리케이션이 글로벌 규모에서 얼마나 안정적으로 작동하는지, 그리고 얼마나 효과적인지 결정합니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "KubeCon + CloudNativeCon Europe 2026에서 오픈 소스 및 Kubernetes 분야의 Microsoft 관련 새로운 소식",
-      "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
-      "date": "Tue, 24 Mar 2026 07:05:00 +0000",
-      "summary": "<p>암스테르담에서 열리는 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
+      "title": "Microsoft Foundry의 Mistral Document AI를 통해 문서 이해 잠금 해제",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664",
+      "date": "Tue, 03 Mar 2026 16:24:29 +0000",
+      "summary": "<p>오늘날 기업은 계약서, 송장, 보고서, 양식 등 수많은 문서가 구조화되지 않은 형식으로 잠겨 있다는 친숙하면서도 엄청난 과제에 직면해 있습니다. 기존 OCR(광학 문자 r..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에서 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
-      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
-      "date": "Wed, 18 Mar 2026 12:50:00 +0000",
-      "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
+      "title": "즉각적인 액세스 증분 스냅샷: 기다리지 않고 복원",
+      "link": "https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/",
+      "date": "Mon, 02 Mar 2026 17:00:00 +0000",
+      "summary": "<p>오늘 프리미엄 SSD v2(Pv2) 및 Ultra Disk의 증분 스냅샷에 대한 즉각적인 액세스 지원을 소개하게 되어 기쁘게 생각합니다...."
     },
     {
       "company": "AWS Machine Learning",
