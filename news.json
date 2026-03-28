@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28 20:35:39 (KST)",
+  "updated_at": "2026-03-28 22:14:03 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "원자력용 AI: 지능적이고 탄력적인 미래를 지원합니다",
-      "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
-      "date": "Wed, 25 Mar 2026 15:00:00 +0000",
-      "summary": "<p>인프라 병목 현상을 해결하고 산업을 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
+      "title": "NVIDIA GTC의 Microsoft: Microsoft Foundry, Azure AI 인프라 및 물리적 AI를 위한 새로운 솔루션",
+      "link": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
+      "date": "Mon, 16 Mar 2026 21:21:14 +0000",
+      "summary": "<p>Microsoft는 가속화된 컴퓨팅과 클라우드 규모 엔지니어링을 결합하여 고객에게 고급 AI 기능을 제공합니다. 수년 동안 우리는 NVIDIA와 협력하여 하드웨어, 소프트웨어 및 정보를 통합해 왔습니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "KubeCon + CloudNativeCon Europe 2026에서 오픈 소스 및 Kubernetes 분야의 Microsoft 관련 새로운 소식",
-      "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
-      "date": "Tue, 24 Mar 2026 07:05:00 +0000",
-      "summary": "<p>암스테르담에서 열리는 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
+      "title": "레거시에서 리더십까지: Azure의 PostgreSQL이 엔터프라이즈 민첩성과 혁신을 강화하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/",
+      "date": "Mon, 16 Mar 2026 17:00:00 +0000",
+      "summary": "<p>우리의 임무는 PostgreSQL을 가장 성능이 뛰어나고 확장 가능하며 기업용 개방형 데이터베이스 플랫폼으로 만드는 것입니다. Azure Database for PostgreSQL과 새로 도입된 Azure HorizonDB를 사용하면..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에서 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
-      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
-      "date": "Wed, 18 Mar 2026 12:50:00 +0000",
-      "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
+      "title": "클라우드 및 에이전트 AI를 통해 규제 산업 현대화",
+      "link": "https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/",
+      "date": "Wed, 11 Mar 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 현대화와 에이전트 AI가 의료, 금융 서비스, 제조 전반에서 마이그레이션을 어떻게 가속화하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/en-us/industr..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "OpenClaw를 해방하세요",
+      "link": "https://huggingface.co/blog/liberate-your-openclaw",
+      "date": "Fri, 27 Mar 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "음성 에이전트 평가를 위한 새로운 프레임워크(EVA)",
       "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
       "date": "Tue, 24 Mar 2026 02:01:52 GMT",
@@ -97,13 +104,6 @@
       "title": "하루 안에 도메인별 임베딩 모델 구축",
       "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
       "date": "Fri, 20 Mar 2026 19:38:16 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Mellea 0.4.0의 새로운 기능 + Granite 라이브러리 출시",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-      "date": "Fri, 20 Mar 2026 14:14:46 GMT",
       "summary": "..."
     }
   ]
