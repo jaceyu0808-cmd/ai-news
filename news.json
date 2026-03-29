@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30 07:40:44 (KST)",
+  "updated_at": "2026-03-30 08:41:23 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -44,6 +44,27 @@
       "summary": "Gemini 엠블럼은 'Gemini 3.1 Flash Live'라는 텍스트 옆에 있습니다. 배경에는 마이크 아이콘을 구성하는 파란색의 여러 색상의 점이 있습니다...."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "원자력용 AI: 지능적이고 회복력이 뛰어난 미래를 지원합니다",
+      "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
+      "date": "Wed, 25 Mar 2026 15:00:00 +0000",
+      "summary": "<p>인프라 병목 현상을 해결하고 업계를 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "KubeCon + CloudNativeCon Europe 2026에서 오픈 소스 및 Kubernetes 분야의 Microsoft 관련 새로운 소식",
+      "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
+      "date": "Tue, 24 Mar 2026 07:05:00 +0000",
+      "summary": "<p>암스테르담에서 열리는 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
+      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
+      "date": "Wed, 18 Mar 2026 12:50:00 +0000",
+      "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "아시아 태평양(뉴질랜드)에서 Amazon Bedrock을 사용하여 Generative AI 추론 실행",
       "link": "https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/",
@@ -62,7 +83,7 @@
       "title": "SageMaker Unified Studio 및 S3를 사용하여 구조화되지 않은 데이터로 LLM 미세 조정 가속화",
       "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-fine-tuning-with-unstructured-data-using-sagemaker-unified-studio-and-s3/",
       "date": "Thu, 26 Mar 2026 17:20:26 +0000",
-      "summary": "작년에 AWS는 Amazon SageMaker Unified Studio와 Amazon S3 범용 버킷 간의 통합을 발표했습니다. 이러한 통합을 통해 팀은 구조화되지 않은 데이터 저장소를 쉽게 사용할 수 있습니다...."
+      "summary": "작년에 AWS는 Amazon SageMaker Unified Studio와 Amazon S3 범용 버킷 간의 통합을 발표했습니다. 이 통합을 통해 팀은 구조화되지 않은 데이터 저장소를 쉽게 사용할 수 있습니다...."
     },
     {
       "company": "Hugging Face",
