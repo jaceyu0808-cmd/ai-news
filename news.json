@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31 00:18:39 (KST)",
+  "updated_at": "2026-03-31 02:06:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,14 +48,14 @@
       "title": "원자력용 AI: 지능적이고 회복력이 뛰어난 미래를 지원합니다",
       "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
       "date": "Wed, 25 Mar 2026 15:00:00 +0000",
-      "summary": "<p>인프라 병목 현상을 해결하고 업계를 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
+      "summary": "<p>인프라 병목 현상을 해결하고 산업을 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "KubeCon + CloudNativeCon Europe 2026에서 오픈 소스 및 Kubernetes 분야의 Microsoft 관련 새로운 소식",
       "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
       "date": "Tue, 24 Mar 2026 07:05:00 +0000",
-      "summary": "<p>암스테르담에서 열리는 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
+      "summary": "<p>암스테르담에서 열린 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore 및 Amazon Nova Sonic 2.0을 사용하는 에이전트 AI 영화 도우미를 통해 초개인화된 시청자 경험 제공",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deliver-hyper-personalized-viewer-experiences-with-an-agentic-ai-movie-assistant-using-amazon-bedrock-agentcore-and-amazon-nova-sonic-2-0/",
-      "date": "Mon, 30 Mar 2026 15:17:26 +0000",
-      "summary": "이 게시물에서는 Strands Agents SDK, Amazon Bedrock AgentCore 및 Amazon Nova를 포함한 에이전트 AI 도구 및 프레임워크를 사용하여 사용자 시청 경험을 향상시키는 데 도움이 되는 두 가지 사용 사례를 살펴봅니다...."
+      "title": "Ring이 Amazon Bedrock 기술 자료를 통해 글로벌 고객 지원을 확장하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/",
+      "date": "Mon, 30 Mar 2026 15:29:02 +0000",
+      "summary": "이 게시물에서는 Ring이 지역별 콘텐츠에 대한 메타데이터 기반 필터링을 구현하고, 콘텐츠 관리를 수집, 평가 및 프로모션 워크플로로 분리하고, 비용을 달성한 방법에 대해 알아봅니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "아시아 태평양(뉴질랜드)에서 Amazon Bedrock을 사용하여 Generative AI 추론 실행",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/",
-      "date": "Thu, 26 Mar 2026 23:08:53 +0000",
-      "summary": "오늘, 이제 Amazon Bedrock을 아시아 태평양(뉴질랜드) 리전(ap-southeast-6)에서 사용할 수 있다는 소식을 발표하게 되어 기쁘게 생각합니다. 이제 뉴질랜드 고객은 Anthropic Claude 모델에 액세스할 수 있습니다(Claude..."
+      "title": "생성 AI를 통해 Volkswagen Group의 마케팅 재구상",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/",
+      "date": "Mon, 30 Mar 2026 15:24:17 +0000",
+      "summary": "이 게시물에서는 Volkswagen Group이 브랜드에 맞는 마케팅 자산을 대규모로 생산하는 데 직면한 과제를 살펴봅니다. 사진을 생성하는 생성적 AI 솔루션을 구축한 방법을 살펴봅니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock Guardrails를 사용하여 연령에 대응하고 상황을 인식하는 AI 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/",
-      "date": "Thu, 26 Mar 2026 17:26:23 +0000",
-      "summary": "이 게시물에서는 AWS에서 서버리스 아키텍처를 사용하여 완전히 자동화된 상황 인식 AI 솔루션을 구현하는 방법을 안내합니다. 이 솔루션은 책임감 있는 배포를 원하는 조직에 도움이 됩니다...."
+      "title": "SageMaker AI LSTM 네트워크 및 ESA STIX 데이터에 태양 플레어 감지 시스템 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/",
+      "date": "Mon, 30 Mar 2026 15:20:24 +0000",
+      "summary": "이 게시물에서는 Amazon SageMaker AI를 사용하여 유럽 우주국의 STIX 장비의 데이터를 사용하여 태양 플레어를 감지하기 위한 딥 러닝 모델을 구축 및 배포하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
