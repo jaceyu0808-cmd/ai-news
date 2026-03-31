@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01 00:12:58 (KST)",
+  "updated_at": "2026-04-01 02:09:31 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "가장 비용 효율적인 비디오 생성 모델인 Veo 3.1 Lite로 구축",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "date": "Tue, 31 Mar 2026 16:00:00 +0000",
+      "summary": "Veo 3.1 Lite로 구축..."
+    },
+    {
+      "company": "Google AI",
       "title": "James Manyika가 LL COOL J와 함께 AI와 창의성에 대해 이야기하는 모습을 시청해 보세요.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
       "date": "Thu, 26 Mar 2026 17:00:00 +0000",
@@ -37,32 +44,39 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google 번역의 헤드폰을 이용한 실시간 번역이 공식화되었습니다...."
     },
     {
-      "company": "Google AI",
-      "title": "Gemini 3.1 Flash Live: 오디오 AI를 더욱 자연스럽고 안정적으로 만들기",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-      "date": "Thu, 26 Mar 2026 15:21:00 +0000",
-      "summary": "Gemini 엠블럼은 'Gemini 3.1 Flash Live'라는 텍스트 옆에 있습니다. 배경에는 마이크 아이콘을 구성하는 파란색의 여러 색상의 점이 있습니다...."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "원자력용 AI: 지능적이고 회복력이 뛰어난 미래를 지원합니다",
       "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
       "date": "Wed, 25 Mar 2026 15:00:00 +0000",
-      "summary": "<p>인프라 병목 현상을 해결하고 산업을 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
+      "summary": "<p>인프라 병목 현상을 해결하고 업계를 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "KubeCon + CloudNativeCon Europe 2026에서 오픈 소스 및 Kubernetes 분야의 Microsoft 관련 새로운 소식",
       "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
       "date": "Tue, 24 Mar 2026 07:05:00 +0000",
-      "summary": "<p>암스테르담에서 열린 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
+      "summary": "<p>암스테르담에서 열리는 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에서 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
+      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
       "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
       "date": "Wed, 18 Mar 2026 12:50:00 +0000",
       "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "AWS, 보안 테스트 및 클라우드 운영을 위한 프론티어 에이전트 출시",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+      "date": "Tue, 31 Mar 2026 16:25:32 +0000",
+      "summary": "re:Invent ca에서 발표한 새로운 종류의 AI 기능을 대표하는 AWS Security Agent 온디맨드 침투 테스트와 AWS DevOps Agent가 이제 정식 출시되었음을 발표하게 되어 기쁩니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "귀하의 거버넌스가 AI 야망에 보조를 맞출 수 있습니까? 에이전트 시대의 AI 위험 인텔리전스",
+      "link": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/",
+      "date": "Tue, 31 Mar 2026 15:36:17 +0000",
+      "summary": "정적 배포용으로 설계된 기존 프레임워크는 에이전트 워크로드를 정의하는 동적 상호 작용을 처리할 수 없습니다. AI 위험 인텔리전스(AIRI), AWS Generative AI 혁신 센터, 프로..."
     },
     {
       "company": "AWS Machine Learning",
@@ -70,20 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/",
       "date": "Mon, 30 Mar 2026 15:29:02 +0000",
       "summary": "이 게시물에서는 Ring이 지역별 콘텐츠에 대한 메타데이터 기반 필터링을 구현하고, 콘텐츠 관리를 수집, 평가 및 프로모션 워크플로로 분리하고, 비용을 달성한 방법에 대해 알아봅니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "생성 AI를 통해 Volkswagen Group의 마케팅 재구상",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/",
-      "date": "Mon, 30 Mar 2026 15:24:17 +0000",
-      "summary": "이 게시물에서는 Volkswagen Group이 브랜드에 맞는 마케팅 자산을 대규모로 생산하는 데 직면한 과제를 살펴봅니다. 사진을 생성하는 생성적 AI 솔루션을 구축한 방법을 살펴봅니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "SageMaker AI LSTM 네트워크 및 ESA STIX 데이터에 태양 플레어 감지 시스템 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/",
-      "date": "Mon, 30 Mar 2026 15:20:24 +0000",
-      "summary": "이 게시물에서는 Amazon SageMaker AI를 사용하여 유럽 우주국의 STIX 장비의 데이터를 사용하여 태양 플레어를 감지하기 위한 딥 러닝 모델을 구축 및 배포하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
