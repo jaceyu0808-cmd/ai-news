@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01 02:09:31 (KST)",
+  "updated_at": "2026-04-01 04:14:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "원자력용 AI: 지능적이고 회복력이 뛰어난 미래를 지원합니다",
+      "title": "원자력용 AI: 지능적이고 탄력적인 미래를 지원합니다",
       "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
       "date": "Wed, 25 Mar 2026 15:00:00 +0000",
       "summary": "<p>인프라 병목 현상을 해결하고 업계를 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
@@ -59,31 +59,31 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
+      "title": "통합 데이터 자산 전반에서 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
       "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
       "date": "Wed, 18 Mar 2026 12:50:00 +0000",
       "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS, 보안 테스트 및 클라우드 운영을 위한 프론티어 에이전트 출시",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
-      "date": "Tue, 31 Mar 2026 16:25:32 +0000",
-      "summary": "re:Invent ca에서 발표한 새로운 종류의 AI 기능을 대표하는 AWS Security Agent 온디맨드 침투 테스트와 AWS DevOps Agent가 이제 정식 출시되었음을 발표하게 되어 기쁩니다...."
+      "title": "Amazon Bedrock AgentCore를 사용하여 FinOps 에이전트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/",
+      "date": "Tue, 31 Mar 2026 17:57:16 +0000",
+      "summary": "이 게시물에서는 재무 팀이 여러 계정에 걸쳐 AWS 비용을 관리하는 데 도움이 되는 Amazon Bedrock AgentCore를 사용하여 FinOps 에이전트를 구축하는 방법을 알아봅니다. 이 대화형 에이전트는 d를 통합합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "귀하의 거버넌스가 AI 야망에 보조를 맞출 수 있습니까? 에이전트 시대의 AI 위험 인텔리전스",
-      "link": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/",
-      "date": "Tue, 31 Mar 2026 15:36:17 +0000",
-      "summary": "정적 배포용으로 설계된 기존 프레임워크는 에이전트 워크로드를 정의하는 동적 상호 작용을 처리할 수 없습니다. AI 위험 인텔리전스(AIRI), AWS Generative AI 혁신 센터, 프로..."
+      "title": "규정 준수 증거 수집을 위한 AI 기반 시스템 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/",
+      "date": "Tue, 31 Mar 2026 17:52:15 +0000",
+      "summary": "이 게시물에서는 조직에 유사한 시스템을 구축하는 방법을 보여줍니다. 자동화하는 데 도움이 될 수 있는 아키텍처 결정, 구현 세부 사항 및 배포 프로세스를 학습합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Ring이 Amazon Bedrock 기술 자료를 통해 글로벌 고객 지원을 확장하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/",
-      "date": "Mon, 30 Mar 2026 15:29:02 +0000",
-      "summary": "이 게시물에서는 Ring이 지역별 콘텐츠에 대한 메타데이터 기반 필터링을 구현하고, 콘텐츠 관리를 수집, 평가 및 프로모션 워크플로로 분리하고, 비용을 달성한 방법에 대해 알아봅니다...."
+      "title": "Amazon Nova Act를 사용한 에이전트 QA 자동화로 소프트웨어 제공 가속화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/",
+      "date": "Tue, 31 Mar 2026 17:46:50 +0000",
+      "summary": "이 게시물에서는 Amazon Nova Act로 구축된 참조 솔루션인 QA Studio를 통해 에이전트 QA 자동화를 구현하는 방법을 보여줍니다. 자연어로 테스트를 정의하는 방법을 살펴보겠습니다...."
     },
     {
       "company": "Hugging Face",
