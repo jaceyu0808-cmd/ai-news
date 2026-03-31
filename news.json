@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31 22:54:26 (KST)",
+  "updated_at": "2026-04-01 00:12:58 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,18 +48,18 @@
       "title": "원자력용 AI: 지능적이고 회복력이 뛰어난 미래를 지원합니다",
       "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
       "date": "Wed, 25 Mar 2026 15:00:00 +0000",
-      "summary": "<p>인프라 병목 현상을 해결하고 업계를 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
+      "summary": "<p>인프라 병목 현상을 해결하고 산업을 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "KubeCon + CloudNativeCon Europe 2026에서 오픈 소스 및 Kubernetes 분야의 Microsoft 관련 새로운 소식",
       "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
       "date": "Tue, 24 Mar 2026 07:05:00 +0000",
-      "summary": "<p>암스테르담에서 열리는 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
+      "summary": "<p>암스테르담에서 열린 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
+      "title": "통합 데이터 자산 전반에서 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
       "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
       "date": "Wed, 18 Mar 2026 12:50:00 +0000",
       "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
@@ -87,7 +87,14 @@
     },
     {
       "company": "Hugging Face",
-      "title": "TRL v1.0: 필드가 자체 가정을 무효화할 때 유지되는 사후 학습 라이브러리",
+      "title": "Granite 4.0 3B 비전: 기업 문서를 위한 컴팩트한 다중 모드 인텔리전스",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "date": "Tue, 31 Mar 2026 15:10:41 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "TRL v1.0: 현장과 함께 움직일 수 있도록 구축된 훈련 후 라이브러리",
       "link": "https://huggingface.co/blog/trl-v1",
       "date": "Tue, 31 Mar 2026 00:00:00 GMT",
       "summary": "..."
@@ -97,13 +104,6 @@
       "title": "OpenClaw를 해방하세요",
       "link": "https://huggingface.co/blog/liberate-your-openclaw",
       "date": "Fri, 27 Mar 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "음성 에이전트 평가를 위한 새로운 프레임워크(EVA)",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
-      "date": "Tue, 24 Mar 2026 02:01:52 GMT",
       "summary": "..."
     }
   ]
