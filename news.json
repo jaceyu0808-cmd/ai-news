@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31 20:03:53 (KST)",
+  "updated_at": "2026-03-31 22:54:26 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "TRL v1.0: 필드가 자체 가정을 무효화할 때 유지되는 사후 학습 라이브러리",
+      "link": "https://huggingface.co/blog/trl-v1",
+      "date": "Tue, 31 Mar 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "OpenClaw를 해방하세요",
       "link": "https://huggingface.co/blog/liberate-your-openclaw",
       "date": "Fri, 27 Mar 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "음성 에이전트 평가를 위한 새로운 프레임워크(EVA)",
       "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
       "date": "Tue, 24 Mar 2026 02:01:52 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "하루 안에 도메인별 임베딩 모델 구축",
-      "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-      "date": "Fri, 20 Mar 2026 19:38:16 GMT",
       "summary": "..."
     }
   ]
