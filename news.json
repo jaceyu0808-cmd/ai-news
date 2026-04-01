@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01 20:57:15 (KST)",
+  "updated_at": "2026-04-01 22:58:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,24 +24,24 @@
     },
     {
       "company": "Google AI",
+      "title": "우리는 브라질의 숲을 보호하기 위해 새로운 위성 이미지 지도를 만들고 있습니다.",
+      "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "date": "Wed, 01 Apr 2026 13:30:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google은 브라질 정부와 SA 제휴를 맺었습니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "2026년 3월 발표한 AI 최신 소식",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "date": "Wed, 01 Apr 2026 13:00:00 +0000",
+      "summary": "새로운 업데이트를 보여주는 2026년 3월 AI 요약..."
+    },
+    {
+      "company": "Google AI",
       "title": "가장 비용 효율적인 비디오 생성 모델인 Veo 3.1 Lite로 구축",
       "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
       "date": "Tue, 31 Mar 2026 16:00:00 +0000",
       "summary": "Veo 3.1 Lite로 구축..."
-    },
-    {
-      "company": "Google AI",
-      "title": "James Manyika가 LL COOL J와 함께 AI와 창의성에 대해 이야기하는 모습을 시청해 보세요.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-      "date": "Thu, 26 Mar 2026 17:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp\" />기술과 사회에 관한 대화의 최신 에피소드..."
-    },
-    {
-      "company": "Google AI",
-      "title": "헤드폰을 iOS의 실시간 개인 번역기로 바꿔보세요.",
-      "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-      "date": "Thu, 26 Mar 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp\" />Google 번역의 헤드폰을 이용한 실시간 번역이 공식화되었습니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -55,7 +55,7 @@
       "title": "KubeCon + CloudNativeCon Europe 2026에서 오픈 소스 및 Kubernetes 분야의 Microsoft 관련 새로운 소식",
       "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
       "date": "Tue, 24 Mar 2026 07:05:00 +0000",
-      "summary": "<p>암스테르담에서 열린 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
+      "summary": "<p>암스테르담에서 열리는 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
     },
     {
       "company": "Microsoft Azure AI",
