@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01 22:58:39 (KST)",
+  "updated_at": "2026-04-02 00:20:24 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "재난 대응 팀이 아시아 전역에서 AI를 실행하도록 지원",
+      "title": "재난 대응 팀이 아시아 전역에서 AI를 행동으로 전환하도록 지원",
       "link": "https://openai.com/index/helping-disaster-response-teams-asia",
       "date": "Sun, 29 Mar 2026 22:15:00 GMT",
       "summary": "아시아 재해 대응을 위한 AI: 게이츠 재단과 함께하는 OpenAI 워크숍..."
@@ -48,7 +48,7 @@
       "title": "원자력용 AI: 지능적이고 탄력적인 미래를 지원합니다",
       "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
       "date": "Wed, 25 Mar 2026 15:00:00 +0000",
-      "summary": "<p>인프라 병목 현상을 해결하고 업계를 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
+      "summary": "<p>인프라 병목 현상을 해결하고 산업을 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -59,7 +59,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
+      "title": "통합 데이터 자산 전반에서 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
       "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
       "date": "Wed, 18 Mar 2026 12:50:00 +0000",
       "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
@@ -69,7 +69,7 @@
       "title": "Amazon Bedrock AgentCore 평가를 통해 안정적인 AI 에이전트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/",
       "date": "Tue, 31 Mar 2026 22:11:23 +0000",
-      "summary": "이 게시물에서는 개발 수명 주기 전반에 걸쳐 AI 에이전트 성능을 평가하기 위한 완전 관리형 서비스인 Amazon Bedrock AgentCore Evaluations를 소개합니다. 서비스가..."
+      "summary": "이 게시물에서는 개발 수명 주기 전반에 걸쳐 AI 에이전트 성능을 평가하기 위한 완전관리형 서비스인 Amazon Bedrock AgentCore Evaluations를 소개합니다. 서비스가..."
     },
     {
       "company": "AWS Machine Learning",
