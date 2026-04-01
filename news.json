@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02 05:56:01 (KST)",
+  "updated_at": "2026-04-02 06:52:32 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -59,7 +59,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통합 데이터 자산 전반에서 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
+      "title": "통합 데이터 자산 전반에 걸쳐 Microsoft 데이터베이스를 사용하여 에이전트 AI 발전",
       "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
       "date": "Wed, 18 Mar 2026 12:50:00 +0000",
       "summary": "<p>온프레미스부터 클라우드까지 일관된 Microsoft SQL 기반을 기반으로 구축된 Azure SQL은 AI 기능을 데이터베이스 환경에 직접 제공합니다.</p>\n<p>게시물 <a href=\"https://www.microsoft..."
@@ -76,7 +76,7 @@
       "title": "Amazon Bedrock AgentCore 평가를 통해 안정적인 AI 에이전트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/",
       "date": "Tue, 31 Mar 2026 22:11:23 +0000",
-      "summary": "이 게시물에서는 개발 수명 주기 전반에 걸쳐 AI 에이전트 성능을 평가하기 위한 완전관리형 서비스인 Amazon Bedrock AgentCore Evaluations를 소개합니다. 서비스가..."
+      "summary": "이 게시물에서는 개발 수명 주기 전반에 걸쳐 AI 에이전트 성능을 평가하기 위한 완전 관리형 서비스인 Amazon Bedrock AgentCore Evaluations를 소개합니다. 서비스가..."
     },
     {
       "company": "AWS Machine Learning",
