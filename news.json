@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-01 17:19:36 (KST)",
+  "updated_at": "2026-04-01 19:12:38 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Gradient Labs는 모든 은행 고객에게 AI 계정 관리자를 제공합니다.",
+      "link": "https://openai.com/index/gradient-labs",
+      "date": "Wed, 01 Apr 2026 02:00:00 GMT",
+      "summary": "Gradient Labs는 GPT-4.1, GPT-5.4 미니 및 나노를 사용하여 짧은 대기 시간과 높은 안정성으로 뱅킹 지원 워크플로를 자동화하는 AI 에이전트를 강화합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "AI의 다음 단계 가속화",
@@ -10,17 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "재난 대응 팀이 아시아 전역에서 AI를 행동으로 전환하도록 지원",
+      "title": "재난 대응 팀이 아시아 전역에서 AI를 실행하도록 지원",
       "link": "https://openai.com/index/helping-disaster-response-teams-asia",
       "date": "Sun, 29 Mar 2026 22:15:00 GMT",
       "summary": "아시아 재해 대응을 위한 AI: 게이츠 재단과 함께하는 OpenAI 워크숍..."
-    },
-    {
-      "company": "OpenAI",
-      "title": "STADLER는 230년 역사의 회사에서 지식 업무를 재구성합니다.",
-      "link": "https://openai.com/index/stadler",
-      "date": "Fri, 27 Mar 2026 22:00:00 GMT",
-      "summary": "STADLER가 어떻게 ChatGPT를 사용하여 지식 작업을 혁신하고 650명의 직원의 시간을 절약하며 생산성을 가속화하는지 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -48,7 +48,7 @@
       "title": "원자력용 AI: 지능적이고 탄력적인 미래를 지원합니다",
       "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
       "date": "Wed, 25 Mar 2026 15:00:00 +0000",
-      "summary": "<p>인프라 병목 현상을 해결하고 산업을 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
+      "summary": "<p>인프라 병목 현상을 해결하고 업계를 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
