@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02 20:01:39 (KST)",
+  "updated_at": "2026-04-02 22:47:09 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "재난 대응 팀이 아시아 전역에서 AI를 행동으로 전환하도록 지원",
+      "title": "재난 대응 팀이 아시아 전역에서 AI를 실행하도록 지원",
       "link": "https://openai.com/index/helping-disaster-response-teams-asia",
       "date": "Sun, 29 Mar 2026 22:15:00 GMT",
       "summary": "아시아 재해 대응을 위한 AI: 게이츠 재단과 함께하는 OpenAI 워크숍..."
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova Act를 통해 경쟁력 있는 가격 인텔리전스 자동화",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/",
-      "date": "Wed, 01 Apr 2026 18:57:01 +0000",
-      "summary": "이 게시물에서는 팀이 실시간 시장 정보를 통해 데이터 기반 가격 결정을 내릴 수 있도록 지원하여 수동 워크플로를 간소화하는 자동화된 경쟁 가격 인텔리전스 시스템을 구축하는 방법을 보여줍니다...."
+      "title": "AWS에서 지진 기초 모델 확장: Amazon SageMaker HyperPod를 사용한 분산 교육 및 컨텍스트 창 확장",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
+      "date": "Thu, 02 Apr 2026 13:30:57 +0000",
+      "summary": "이 게시물에서는 TGS가 어떻게 Amazon SageMaker HyperPod를 사용하여 분산 교육을 위한 선형 확장과 Vision Transformer 기반 SFM의 컨텍스트 창 확장을 달성했는지 설명합니다. 이 공동 솔루션..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore 평가를 통해 안정적인 AI 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/",
-      "date": "Tue, 31 Mar 2026 22:11:23 +0000",
-      "summary": "이 게시물에서는 개발 수명 주기 전반에 걸쳐 AI 에이전트 성능을 평가하기 위한 완전관리형 서비스인 Amazon Bedrock AgentCore Evaluations를 소개합니다. 서비스가..."
+      "title": "AI 에이전트가 액세스할 수 있는 도메인 제어",
+      "link": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/",
+      "date": "Thu, 02 Apr 2026 13:28:19 +0000",
+      "summary": "이 게시물에서는 AgentCore 리소스를 승인된 인터넷 도메인의 허용 목록으로 제한하도록 AWS 네트워크 방화벽을 구성하는 방법을 보여줍니다. 이 게시물은 SNI insp를 사용한 도메인 수준 필터링에 중점을 둡니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore를 사용하여 FinOps 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/",
-      "date": "Tue, 31 Mar 2026 17:57:16 +0000",
-      "summary": "이 게시물에서는 재무 팀이 여러 계정에 걸쳐 AWS 비용을 관리하는 데 도움이 되는 Amazon Bedrock AgentCore를 사용하여 FinOps 에이전트를 구축하는 방법을 알아봅니다. 이 대화형 에이전트는 d를 통합합니다...."
+      "title": "Rocket Close는 Amazon Bedrock 및 Amazon Textract를 사용하여 모기지 문서 처리를 혁신했습니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
+      "date": "Thu, 02 Apr 2026 12:59:31 +0000",
+      "summary": "Rocket Close는 AWS GenAIIC(AWS Generative AI Innovation Center)와의 전략적 파트너십을 통해 처리 시간을 대폭 단축한 지능형 문서 처리 솔루션을 개발했습니다...."
     },
     {
       "company": "Hugging Face",
