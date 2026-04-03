@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04 05:48:22 (KST)",
+  "updated_at": "2026-04-04 06:42:55 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -34,7 +34,7 @@
       "title": "Google Vids에서 무료로 동영상을 만들고, 편집하고, 공유하세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
       "date": "Thu, 02 Apr 2026 16:00:00 +0000",
-      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google 동영상 로고..."
+      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google Vids 로고..."
     },
     {
       "company": "Google AI",
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "원자력용 AI: 지능적이고 탄력적인 미래를 지원합니다",
+      "title": "원자력용 AI: 지능적이고 회복력이 뛰어난 미래를 지원합니다",
       "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
       "date": "Wed, 25 Mar 2026 15:00:00 +0000",
       "summary": "<p>인프라 병목 현상을 해결하고 산업을 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
@@ -55,7 +55,7 @@
       "title": "KubeCon + CloudNativeCon Europe 2026에서 오픈 소스 및 Kubernetes 분야의 Microsoft 관련 새로운 소식",
       "link": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
       "date": "Tue, 24 Mar 2026 07:05:00 +0000",
-      "summary": "<p>암스테르담에서 열린 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
+      "summary": "<p>암스테르담에서 열리는 KubeCon + CloudNativeCon Europe 2026에서 우리는 Kubernetes의 운영 성숙도를 오늘날의 워크로드와 수요에 맞게 향상시키겠다는 목표를 반영하는 발표를 할 예정입니다.</p>\n<p>목..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -76,7 +76,7 @@
       "title": "AWS에서 지진 기초 모델 확장: Amazon SageMaker HyperPod를 사용한 분산 교육 및 컨텍스트 창 확장",
       "link": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
       "date": "Thu, 02 Apr 2026 13:30:57 +0000",
-      "summary": "이 게시물에서는 TGS가 Amazon SageMaker HyperPod를 사용하여 분산 교육을 위해 선형에 가까운 확장을 달성하고 Vision Transformer 기반 SFM에 대한 컨텍스트 창을 확장한 방법을 설명합니다. 이 공동 솔루션..."
+      "summary": "이 게시물에서는 TGS가 어떻게 Amazon SageMaker HyperPod를 사용하여 분산 교육을 위한 선형 확장과 Vision Transformer 기반 SFM의 컨텍스트 창 확장을 달성했는지 설명합니다. 이 공동 솔루션..."
     },
     {
       "company": "AWS Machine Learning",
