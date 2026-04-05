@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06 02:40:31 (KST)",
+  "updated_at": "2026-04-06 03:57:58 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
       "date": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 기본 기능을 제공하여 조직이 탄력성을 유지하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
+      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 조직의 탄력성을 유지하는 데 도움이 되는 기본 기능을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -62,7 +62,7 @@
       "title": "혁신의 최전선에서 디지털 주권 탐색",
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
       "date": "Mon, 30 Mar 2026 21:27:39 +0000",
-      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실용적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
+      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실질적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
     },
     {
       "company": "AWS Machine Learning",
@@ -76,7 +76,7 @@
       "title": "AWS에서 지진 기초 모델 확장: Amazon SageMaker HyperPod를 사용한 분산 교육 및 컨텍스트 창 확장",
       "link": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
       "date": "Thu, 02 Apr 2026 13:30:57 +0000",
-      "summary": "이 게시물에서는 TGS가 Amazon SageMaker HyperPod를 사용하여 분산 교육을 위한 선형에 가까운 확장과 Vision Transformer 기반 SFM의 컨텍스트 창 확장을 어떻게 달성했는지 설명합니다. 이 공동 솔루션..."
+      "summary": "이 게시물에서는 TGS가 어떻게 Amazon SageMaker HyperPod를 사용하여 분산 교육을 위한 선형 확장과 Vision Transformer 기반 SFM의 컨텍스트 창 확장을 달성했는지 설명합니다. 이 공동 솔루션..."
     },
     {
       "company": "AWS Machine Learning",
