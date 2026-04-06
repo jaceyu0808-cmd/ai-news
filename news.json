@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-07 02:01:08 (KST)",
+  "updated_at": "2026-04-07 04:13:26 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 안전 펠로우십 발표",
+      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "date": "Mon, 06 Apr 2026 10:00:00 GMT",
+      "summary": "독립적인 안전 및 정렬 연구를 지원하고 차세대 인재를 개발하기 위한 파일럿 프로그램..."
+    },
     {
       "company": "OpenAI",
       "title": "지능시대를 위한 산업정책",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/openai-acquires-tbpn",
       "date": "Thu, 02 Apr 2026 10:30:00 GMT",
       "summary": "OpenAI는 TBPN을 인수하여 AI에 대한 글로벌 대화를 가속화하고 독립 미디어를 지원하여 건축업자, 기업 및 더 넓은 기술 커뮤니티와의 대화를 확대합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Codex는 이제 팀을 위해 보다 유연한 가격을 제공합니다.",
-      "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "date": "Thu, 02 Apr 2026 10:00:00 GMT",
-      "summary": "Codex에는 이제 ChatGPT Business 및 Enterprise에 대한 종량제 가격이 포함되어 팀이 채택을 시작하고 확장할 수 있는 보다 유연한 옵션을 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -45,45 +45,45 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
-      "date": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 기본 기능을 제공하여 조직이 탄력성을 유지하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "엣지에서 주권 AI 구축: Microsoft와 Armada는 협력하여 Galleon 모듈식 데이터 센터에서 Azure Local을 제공합니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
-      "date": "Tue, 31 Mar 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 가져와 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "혁신의 최전선에서 디지털 주권 탐색",
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
       "date": "Mon, 30 Mar 2026 21:27:39 +0000",
-      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실질적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
+      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실용적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™ 서비스 통합 플랫폼 부문 리더로 선정되었습니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/",
+      "date": "Mon, 30 Mar 2026 16:00:00 +0000",
+      "summary": "<p>Microsoft가 2026년 Gartner® Magic Quadrant™ 서비스형 통합 플랫폼 부문에서 통합 서비스 부문 리더로 선정된 이유를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "원자력용 AI: 지능적이고 회복력이 뛰어난 미래를 지원합니다",
+      "link": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/",
+      "date": "Wed, 25 Mar 2026 15:00:00 +0000",
+      "summary": "<p>인프라 병목 현상을 해결하고 업계를 야망에서 제공으로 전환하기 위해 Microsoft는 NVIDIA와의 핵 협력을 위한 AI를 발표하고 스트리밍을 지원하는 엔드투엔드 도구를 제공합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "인증 코드 흐름을 사용하여 MCP 서버를 Amazon Bedrock AgentCore Gateway에 연결",
-      "link": "https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/",
-      "date": "Mon, 06 Apr 2026 14:41:46 +0000",
-      "summary": "Amazon Bedrock AgentCore Gateway는 AI 에이전트가 조직 전체의 도구 및 MCP 서버에 연결하는 방법을 관리하기 위한 중앙 집중식 계층을 제공합니다. 이 게시물에서는 Agent를 구성하는 방법을 안내합니다...."
+      "title": "Amazon Quick을 사용하여 AI 기반 직원 온보딩 에이전트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/",
+      "date": "Mon, 06 Apr 2026 18:00:06 +0000",
+      "summary": "이 게시물에서는 Quick을 사용하여 맞춤형 HR 온보딩 에이전트를 구축하는 과정을 안내합니다. 조직의 프로세스를 이해하고 HR 시스템에 연결하며 자동화하는 에이전트를 구성하는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Strands Evals에서 다중 턴 AI 에이전트를 평가하기 위해 현실적인 사용자를 시뮬레이션합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/",
-      "date": "Thu, 02 Apr 2026 17:34:02 +0000",
-      "summary": "이 게시물에서는 Strands Evaluations SDK의 ActorSimulator가 평가 파이프라인에 통합되는 구조화된 사용자 시뮬레이션을 통해 문제를 해결하는 방법을 살펴봅니다...."
+      "title": "Amazon SageMaker AI에서 서버리스 모델 사용자 정의를 통해 에이전트 도구 호출을 가속화합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/",
+      "date": "Mon, 06 Apr 2026 17:54:00 +0000",
+      "summary": "이 게시물에서는 RLVR을 사용하여 도구 호출을 위해 Qwen 2.5 7B Instruct를 미세 조정하는 방법을 안내합니다. 세 가지 고유한 에이전트 행동, 계층화된 보상 기능 설계 전반에 걸쳐 데이터 세트 준비를 다룹니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS에서 지진 기초 모델 확장: Amazon SageMaker HyperPod를 사용한 분산 교육 및 컨텍스트 창 확장",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
-      "date": "Thu, 02 Apr 2026 13:30:57 +0000",
-      "summary": "이 게시물에서는 TGS가 어떻게 Amazon SageMaker HyperPod를 사용하여 분산 교육을 위한 선형 확장과 Vision Transformer 기반 SFM의 컨텍스트 창 확장을 달성했는지 설명합니다. 이 공동 솔루션..."
+      "title": "하이브리드 RAG 솔루션을 위해 Amazon Bedrock 및 Amazon OpenSearch를 사용하여 지능형 검색 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/",
+      "date": "Mon, 06 Apr 2026 17:49:32 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock, Amazon Bedrock AgentCore, Strands Agents 및 Amazon OpenSea를 사용하여 의미론적 검색과 텍스트 기반 검색을 모두 사용하는 생성적 AI 에이전트 보조자를 구현하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
