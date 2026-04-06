@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06 08:43:10 (KST)",
+  "updated_at": "2026-04-06 12:33:21 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
       "date": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 조직의 탄력성을 유지하는 데 도움이 되는 기본 기능을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
+      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 기본 기능을 제공하여 조직이 탄력성을 유지하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
     },
     {
       "company": "Microsoft Azure AI",
