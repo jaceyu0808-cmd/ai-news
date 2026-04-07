@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08 05:57:59 (KST)",
+  "updated_at": "2026-04-08 06:53:25 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -42,6 +42,27 @@
       "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
       "date": "Wed, 01 Apr 2026 13:30:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google은 브라질 정부와 SA 제휴를 맺었습니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
+      "date": "Wed, 01 Apr 2026 16:00:00 +0000",
+      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 기본 기능을 제공하여 조직이 탄력성을 유지하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "엣지에서 주권 AI 구축: Microsoft와 Armada는 협력하여 Galleon 모듈식 데이터 센터에서 Azure Local을 제공합니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
+      "date": "Tue, 31 Mar 2026 16:00:00 +0000",
+      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 가져와 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "혁신의 최전선에서 디지털 주권 탐색",
+      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
+      "date": "Mon, 30 Mar 2026 21:27:39 +0000",
+      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실용적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
     },
     {
       "company": "AWS Machine Learning",
