@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08 00:19:48 (KST)",
+  "updated_at": "2026-04-08 02:12:03 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Nova 2 Sonic으로 실시간 대화형 팟캐스트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/",
+      "date": "Tue, 07 Apr 2026 16:29:11 +0000",
+      "summary": "이 게시물은 모든 주제에 대해 두 AI 호스트 간의 매력적인 대화를 생성하는 자동화된 팟캐스트 생성기를 구축하는 과정을 안내하고 Nova Sonic의 스트리밍 기능을 시연합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock을 기반으로 하는 Text-to-SQL 솔루션",
+      "link": "https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/",
+      "date": "Tue, 07 Apr 2026 16:28:20 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock을 사용하여 비즈니스 질문을 데이터베이스 쿼리로 변환하고 실행 가능한 답변을 반환하는 자연스러운 텍스트-SQL 솔루션을 구축하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Quick을 사용하여 AI 기반 직원 온보딩 에이전트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/",
       "date": "Mon, 06 Apr 2026 18:00:06 +0000",
       "summary": "이 게시물에서는 Quick을 사용하여 맞춤형 HR 온보딩 에이전트를 구축하는 과정을 안내합니다. 조직의 프로세스를 이해하고 HR 시스템에 연결하며 자동화하는 에이전트를 구성하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI에서 서버리스 모델 사용자 정의를 통해 에이전트 도구 호출을 가속화합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/",
-      "date": "Mon, 06 Apr 2026 17:54:00 +0000",
-      "summary": "이 게시물에서는 RLVR을 사용하여 도구 호출을 위해 Qwen 2.5 7B Instruct를 미세 조정하는 방법을 안내합니다. 세 가지 고유한 에이전트 행동, 계층화된 보상 기능 설계 전반에 걸쳐 데이터 세트 준비를 다룹니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "하이브리드 RAG 솔루션을 위해 Amazon Bedrock 및 Amazon OpenSearch를 사용하여 지능형 검색 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/",
-      "date": "Mon, 06 Apr 2026 17:49:32 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock, Amazon Bedrock AgentCore, Strands Agents 및 Amazon OpenSea를 사용하여 의미론적 검색과 텍스트 기반 검색을 모두 사용하는 생성적 AI 에이전트 보조자를 구현하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
