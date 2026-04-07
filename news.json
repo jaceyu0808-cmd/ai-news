@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08 06:53:25 (KST)",
+  "updated_at": "2026-04-08 07:50:28 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -62,11 +62,11 @@
       "title": "혁신의 최전선에서 디지털 주권 탐색",
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
       "date": "Mon, 30 Mar 2026 21:27:39 +0000",
-      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실용적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
+      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실질적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova 2 Sonic을 사용하여 실시간 대화형 팟캐스트 구축",
+      "title": "Amazon Nova 2 Sonic으로 실시간 대화형 팟캐스트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/",
       "date": "Tue, 07 Apr 2026 16:29:11 +0000",
       "summary": "이 게시물은 모든 주제에 대해 두 AI 호스트 간의 매력적인 대화를 생성하는 자동화된 팟캐스트 생성기를 구축하는 과정을 안내하고 Nova Sonic의 스트리밍 기능을 시연합니다...."
