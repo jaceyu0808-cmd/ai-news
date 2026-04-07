@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08 07:50:28 (KST)",
+  "updated_at": "2026-04-08 08:48:58 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock Projects로 AI 비용 관리",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/",
+      "date": "Tue, 07 Apr 2026 23:32:00 +0000",
+      "summary": "Amazon Bedrock 프로젝트를 사용하면 특정 워크로드에 추론 비용을 할당하고 AWS Cost Explorer 및 AWS 데이터 내보내기에서 분석할 수 있습니다. 이 게시물에서는 프로젝트를 설정하는 방법을 배웁니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Nova 2 Sonic으로 실시간 대화형 팟캐스트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/",
       "date": "Tue, 07 Apr 2026 16:29:11 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/",
       "date": "Tue, 07 Apr 2026 16:28:20 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock을 사용하여 비즈니스 질문을 데이터베이스 쿼리로 변환하고 실행 가능한 답변을 반환하는 자연스러운 텍스트-SQL 솔루션을 구축하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Quick을 사용하여 AI 기반 직원 온보딩 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/",
-      "date": "Mon, 06 Apr 2026 18:00:06 +0000",
-      "summary": "이 게시물에서는 Quick을 사용하여 맞춤형 HR 온보딩 에이전트를 구축하는 과정을 안내합니다. 조직의 프로세스를 이해하고 HR 시스템에 연결하며 자동화하는 에이전트를 구성하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
