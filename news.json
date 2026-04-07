@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08 04:17:11 (KST)",
+  "updated_at": "2026-04-08 05:57:59 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -44,29 +44,8 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google은 브라질 정부와 SA 제휴를 맺었습니다...."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
-      "date": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 조직의 탄력성을 유지하는 데 도움이 되는 기본 기능을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "엣지에서 주권 AI 구축: Microsoft와 Armada는 협력하여 Galleon 모듈식 데이터 센터에서 Azure Local을 제공합니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
-      "date": "Tue, 31 Mar 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 가져와 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "혁신의 최전선에서 디지털 주권 탐색",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
-      "date": "Mon, 30 Mar 2026 21:27:39 +0000",
-      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실질적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
-    },
-    {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova 2 Sonic으로 실시간 대화형 팟캐스트 구축",
+      "title": "Amazon Nova 2 Sonic을 사용하여 실시간 대화형 팟캐스트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/",
       "date": "Tue, 07 Apr 2026 16:29:11 +0000",
       "summary": "이 게시물은 모든 주제에 대해 두 AI 호스트 간의 매력적인 대화를 생성하는 자동화된 팟캐스트 생성기를 구축하는 과정을 안내하고 Nova Sonic의 스트리밍 기능을 시연합니다...."
