@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-08 20:09:11 (KST)",
+  "updated_at": "2026-04-08 22:54:18 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "어린이 안전 청사진 소개",
+      "link": "https://openai.com/index/introducing-child-safety-blueprint",
+      "date": "Wed, 08 Apr 2026 05:00:00 GMT",
+      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 안전 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI 안전 펠로우십 발표",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
       "date": "Mon, 06 Apr 2026 02:30:00 GMT",
       "summary": "AI 시대를 위한 야심찬 사람 우선 산업 정책 아이디어를 살펴보세요. 고급 인텔리전스가 발전함에 따라 기회 확대, 번영 공유, 탄력적인 기관 구축에 중점을 두고 있습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI, TBPN 인수",
-      "link": "https://openai.com/index/openai-acquires-tbpn",
-      "date": "Thu, 02 Apr 2026 10:30:00 GMT",
-      "summary": "OpenAI는 TBPN을 인수하여 AI에 대한 글로벌 대화를 가속화하고 독립 미디어를 지원하여 건축업자, 기업 및 더 넓은 기술 커뮤니티와의 대화를 확대합니다...."
     },
     {
       "company": "Google AI",
@@ -48,7 +48,7 @@
       "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
       "date": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 기본 기능을 제공하여 조직이 탄력성을 유지하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
+      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 조직의 탄력성을 유지하는 데 도움이 되는 기본 기능을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -69,7 +69,7 @@
       "title": "Amazon Bedrock Projects로 AI 비용 관리",
       "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/",
       "date": "Tue, 07 Apr 2026 23:32:00 +0000",
-      "summary": "Amazon Bedrock 프로젝트를 사용하면 특정 워크로드에 추론 비용을 할당하고 AWS Cost Explorer 및 AWS 데이터 내보내기에서 분석할 수 있습니다. 이 게시물에서는 프로젝트를 설정하는 방법을 배웁니다...."
+      "summary": "Amazon Bedrock 프로젝트를 사용하면 추론 비용을 특정 워크로드에 귀속시키고 AWS Cost Explorer 및 AWS 데이터 내보내기에서 분석할 수 있습니다. 이 게시물에서는 프로젝트를 설정하는 방법을 배웁니다...."
     },
     {
       "company": "AWS Machine Learning",
