@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-09 05:56:14 (KST)",
+  "updated_at": "2026-04-09 06:53:39 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "엔터프라이즈 AI의 다음 단계",
+      "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "date": "Wed, 08 Apr 2026 14:00:00 GMT",
+      "summary": "OpenAI는 Frontier, ChatGPT Enterprise, Codex 및 전사적 AI 에이전트를 통해 산업 전반에 걸쳐 채택이 가속화됨에 따라 엔터프라이즈 AI의 다음 단계를 설명합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "어린이 안전 청사진 소개",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/introducing-openai-safety-fellowship",
       "date": "Mon, 06 Apr 2026 10:00:00 GMT",
       "summary": "독립적인 안전 및 정렬 연구를 지원하고 차세대 인재를 개발하기 위한 파일럿 프로그램..."
-    },
-    {
-      "company": "OpenAI",
-      "title": "지능시대를 위한 산업정책",
-      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "date": "Mon, 06 Apr 2026 02:30:00 GMT",
-      "summary": "AI 시대를 위한 야심찬 사람 우선 산업 정책 아이디어를 살펴보세요. 고급 인텔리전스가 발전함에 따라 기회 확대, 번영 공유, 탄력적인 기관 구축에 중점을 두고 있습니다...."
     },
     {
       "company": "Google AI",
@@ -55,7 +55,7 @@
       "title": "엣지에서 주권 AI 구축: Microsoft와 Armada는 협력하여 Galleon 모듈식 데이터 센터에서 Azure Local을 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
       "date": "Tue, 31 Mar 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 도입하여 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
+      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 가져와 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
     },
     {
       "company": "Microsoft Azure AI",
