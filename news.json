@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-09 00:20:49 (KST)",
+  "updated_at": "2026-04-09 02:16:00 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "어린이 안전 청사진 소개",
       "link": "https://openai.com/index/introducing-child-safety-blueprint",
       "date": "Wed, 08 Apr 2026 05:00:00 GMT",
-      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 보호 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
+      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 안전 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "지능시대를 위한 산업정책",
       "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
       "date": "Mon, 06 Apr 2026 02:30:00 GMT",
-      "summary": "AI 시대를 위한 야심찬 사람 우선 산업 정책 아이디어를 살펴보세요. 고급 인텔리전스가 발전함에 따라 기회 확대, 번영 공유, 탄력적인 기관 구축에 중점을 두고 있습니다...."
+      "summary": "AI 시대를 위한 야심찬 사람 중심의 산업 정책 아이디어를 살펴보세요. 고급 인텔리전스가 발전함에 따라 기회 확대, 번영 공유, 탄력적인 기관 구축에 중점을 두고 있습니다...."
     },
     {
       "company": "Google AI",
@@ -48,32 +48,32 @@
       "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
       "date": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 기본 기능을 제공하여 조직이 탄력성을 유지하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
+      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 조직의 탄력성을 유지하는 데 도움이 되는 기본 기능을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "엣지에서 주권 AI 구축: Microsoft와 Armada는 협력하여 Galleon 모듈식 데이터 센터에서 Azure Local을 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
       "date": "Tue, 31 Mar 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 도입하여 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
+      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 가져와 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "혁신의 최전선에서 디지털 주권 탐색",
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
       "date": "Mon, 30 Mar 2026 21:27:39 +0000",
-      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실질적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
+      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실용적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Amazon Bedrock Projects로 AI 비용 관리",
       "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/",
       "date": "Tue, 07 Apr 2026 23:32:00 +0000",
-      "summary": "Amazon Bedrock 프로젝트를 사용하면 특정 워크로드에 추론 비용을 할당하고 AWS Cost Explorer 및 AWS 데이터 내보내기에서 분석할 수 있습니다. 이 게시물에서는 프로젝트를 설정하는 방법을 배웁니다...."
+      "summary": "Amazon Bedrock 프로젝트를 사용하면 추론 비용을 특정 워크로드에 귀속시키고 AWS Cost Explorer 및 AWS 데이터 내보내기에서 분석할 수 있습니다. 이 게시물에서는 프로젝트를 설정하는 방법을 배웁니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova 2 Sonic으로 실시간 대화형 팟캐스트 구축",
+      "title": "Amazon Nova 2 Sonic을 사용하여 실시간 대화형 팟캐스트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/",
       "date": "Tue, 07 Apr 2026 16:29:11 +0000",
       "summary": "이 게시물은 모든 주제에 대해 두 AI 호스트 간의 매력적인 대화를 생성하는 자동화된 팟캐스트 생성기를 구축하는 과정을 안내하고 Nova Sonic의 스트리밍 기능을 시연합니다...."
