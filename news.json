@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09 04:36:50 (KST)",
+  "updated_at": "2026-04-09 05:56:14 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
       "date": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 조직의 탄력성을 유지하는 데 도움이 되는 기본 기능을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
+      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 기본 기능을 제공하여 조직이 탄력성을 유지하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock Projects로 AI 비용 관리",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/",
-      "date": "Tue, 07 Apr 2026 23:32:00 +0000",
-      "summary": "Amazon Bedrock 프로젝트를 사용하면 특정 워크로드에 추론 비용을 할당하고 AWS Cost Explorer 및 AWS 데이터 내보내기에서 분석할 수 있습니다. 이 게시물에서는 프로젝트를 설정하는 방법을 배웁니다...."
+      "title": "Amazon Bedrock 미세 조정을 통해 Amazon Nova 모델 사용자 지정",
+      "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/",
+      "date": "Wed, 08 Apr 2026 19:51:50 +0000",
+      "summary": "이 게시물에서는 Amazon Nova 모델을 사용하여 Amazon Bedrock에서 모델 미세 조정을 완벽하게 구현하는 과정을 안내하고, 의도 분류기 예제를 통해 각 단계를 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova 2 Sonic으로 실시간 대화형 팟캐스트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/",
-      "date": "Tue, 07 Apr 2026 16:29:11 +0000",
-      "summary": "이 게시물은 모든 주제에 대해 두 AI 호스트 간의 매력적인 대화를 생성하는 자동화된 팟캐스트 생성기를 구축하는 과정을 안내하고 Nova Sonic의 스트리밍 기능을 시연합니다...."
+      "title": "의료 및 생명과학 분야의 에이전트 워크플로를 위한 Human-In-The-Loop 구성",
+      "link": "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/",
+      "date": "Wed, 08 Apr 2026 19:48:07 +0000",
+      "summary": "의료 및 생명과학 분야에서 AI 에이전트는 조직이 임상 데이터를 처리하고, 규제 서류를 제출하고, 의료 코딩을 자동화하고, 약물 개발 및 상업화를 가속화하도록 돕습니다. 하지만,..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock을 기반으로 하는 Text-to-SQL 솔루션",
-      "link": "https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/",
-      "date": "Tue, 07 Apr 2026 16:28:20 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock을 사용하여 비즈니스 질문을 데이터베이스 쿼리로 변환하고 실행 가능한 답변을 반환하는 자연스러운 텍스트-SQL 솔루션을 구축하는 방법을 보여줍니다...."
+      "title": "Amazon Nova Embeddings를 사용하여 지능형 오디오 검색 구축: 의미론적 오디오 이해에 대한 심층 분석",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding/",
+      "date": "Wed, 08 Apr 2026 19:45:13 +0000",
+      "summary": "이 게시물에서는 오디오 임베딩을 이해하고, Amazon Nova 다중 모달 임베딩을 구현하고, 오디오 콘텐츠에 대한 실용적인 검색 시스템을 구축하는 과정을 안내합니다. 임베딩이 어떻게 이루어지는지 배우게 됩니다...."
     },
     {
       "company": "Hugging Face",
