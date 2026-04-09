@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09 23:03:24 (KST)",
+  "updated_at": "2026-04-10 01:22:53 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "어린이 안전 청사진 소개",
       "link": "https://openai.com/index/introducing-child-safety-blueprint",
       "date": "Wed, 08 Apr 2026 05:00:00 GMT",
-      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 보호 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
+      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 안전 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "클라우드 비용 최적화: AI를 통해 ROI를 극대화하고, 비용을 관리하고, 실제 비즈니스 가치를 실현하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
-      "date": "Wed, 08 Apr 2026 16:00:00 +0000",
-      "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
       "date": "Wed, 01 Apr 2026 16:00:00 +0000",
@@ -65,11 +58,25 @@
       "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 도입하여 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "혁신의 최전선에서 디지털 주권 탐색",
+      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
+      "date": "Mon, 30 Mar 2026 21:27:39 +0000",
+      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실용적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore Runtime의 상태 저장 MCP 클라이언트 기능 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/",
+      "date": "Thu, 09 Apr 2026 14:47:57 +0000",
+      "summary": "이 게시물에서는 실행 중에 사용자 입력을 요청하는 상태 저장 MCP 서버를 구축하고, 동적 콘텐츠 생성을 위해 LLM 샘플링을 호출하고, 장기 실행을 위해 진행률 업데이트를 스트리밍하는 방법을 알아봅니다...."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "Amazon Bedrock 미세 조정을 통해 Amazon Nova 모델 사용자 지정",
       "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/",
       "date": "Wed, 08 Apr 2026 19:51:50 +0000",
-      "summary": "이 게시물에서는 Amazon Nova 모델을 사용하여 Amazon Bedrock에서 모델 미세 조정을 완벽하게 구현하는 과정을 안내하고, 의도 분류기 예제를 통해 각 단계를 보여줍니다...."
+      "summary": "이 게시물에서는 Amazon Nova 모델을 사용하여 Amazon Bedrock에서 모델 미세 조정을 완벽하게 구현하는 방법을 안내하고, 의도 분류기 예제를 통해 각 단계를 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/",
       "date": "Wed, 08 Apr 2026 19:48:07 +0000",
       "summary": "의료 및 생명과학 분야에서 AI 에이전트는 조직이 임상 데이터를 처리하고, 규제 서류를 제출하고, 의료 코딩을 자동화하고, 약물 개발 및 상업화를 가속화하도록 돕습니다. 하지만,..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova Embeddings를 사용하여 지능형 오디오 검색 구축: 의미론적 오디오 이해에 대한 심층 분석",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding/",
-      "date": "Wed, 08 Apr 2026 19:45:13 +0000",
-      "summary": "이 게시물에서는 오디오 임베딩을 이해하고, Amazon Nova 다중 모달 임베딩을 구현하고, 오디오 콘텐츠에 대한 실용적인 검색 시스템을 구축하는 과정을 안내합니다. 임베딩이 어떻게 이루어지는지 배우게 됩니다...."
     },
     {
       "company": "Hugging Face",
