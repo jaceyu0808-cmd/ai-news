@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09 18:20:00 (KST)",
+  "updated_at": "2026-04-09 20:08:48 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "어린이 안전 청사진 소개",
       "link": "https://openai.com/index/introducing-child-safety-blueprint",
       "date": "Wed, 08 Apr 2026 05:00:00 GMT",
-      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 보호 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
+      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 안전 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
     },
     {
       "company": "OpenAI",
@@ -69,7 +69,7 @@
       "title": "Amazon Bedrock 미세 조정을 통해 Amazon Nova 모델 사용자 지정",
       "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/",
       "date": "Wed, 08 Apr 2026 19:51:50 +0000",
-      "summary": "이 게시물에서는 Amazon Nova 모델을 사용하여 Amazon Bedrock에서 모델 미세 조정을 완벽하게 구현하는 과정을 안내하고, 의도 분류기 예제를 통해 각 단계를 보여줍니다...."
+      "summary": "이 게시물에서는 Amazon Nova 모델을 사용하여 Amazon Bedrock에서 모델 미세 조정을 완벽하게 구현하는 방법을 안내하고, 의도 분류기 예제를 통해 각 단계를 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
