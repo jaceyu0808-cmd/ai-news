@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10 01:22:53 (KST)",
+  "updated_at": "2026-04-10 03:03:46 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore Runtime의 상태 저장 MCP 클라이언트 기능 소개",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/",
-      "date": "Thu, 09 Apr 2026 14:47:57 +0000",
-      "summary": "이 게시물에서는 실행 중에 사용자 입력을 요청하는 상태 저장 MCP 서버를 구축하고, 동적 콘텐츠 생성을 위해 LLM 샘플링을 호출하고, 장기 실행을 위해 진행률 업데이트를 스트리밍하는 방법을 알아봅니다...."
+      "title": "Amazon Bedrock 모델 수명 주기 이해",
+      "link": "https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/",
+      "date": "Thu, 09 Apr 2026 17:33:28 +0000",
+      "summary": "이 게시물에서는 모델이 발전함에 따라 AI 애플리케이션이 계속 작동하도록 보장할 수 있도록 Amazon Bedrock에서 FM 전환을 관리하는 방법을 보여줍니다. 세 가지 수명주기 상태, MI 계획 방법에 대해 논의합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock 미세 조정을 통해 Amazon Nova 모델 사용자 지정",
-      "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/",
-      "date": "Wed, 08 Apr 2026 19:51:50 +0000",
-      "summary": "이 게시물에서는 Amazon Nova 모델을 사용하여 Amazon Bedrock에서 모델 미세 조정을 완벽하게 구현하는 방법을 안내하고, 의도 분류기 예제를 통해 각 단계를 보여줍니다...."
+      "title": "대규모 에이전트 관리의 미래: AWS Agent Registry가 이제 평가판으로 제공됩니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
+      "date": "Thu, 09 Apr 2026 17:28:20 +0000",
+      "summary": "오늘 우리는 기업 전체에서 AI 에이전트, 도구 및 에이전트 기술을 검색, 공유 및 재사용할 수 있는 단일 장소인 AgentCore의 AWS Agent Registry(미리보기)를 발표합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "의료 및 생명과학 분야의 에이전트 워크플로를 위한 Human-In-The-Loop 구성",
-      "link": "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/",
-      "date": "Wed, 08 Apr 2026 19:48:07 +0000",
-      "summary": "의료 및 생명과학 분야에서 AI 에이전트는 조직이 임상 데이터를 처리하고, 규제 서류를 제출하고, 의료 코딩을 자동화하고, 약물 개발 및 상업화를 가속화하도록 돕습니다. 하지만,..."
+      "title": "Amazon Bedrock AgentCore를 사용하여 React 앱에 라이브 AI 브라우저 에이전트를 포함시킵니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/",
+      "date": "Thu, 09 Apr 2026 17:06:07 +0000",
+      "summary": "이 게시물에서는 세션 시작 및 라이브 뷰 URL 생성, React 애플리케이션에서 스트림 렌더링, 브라우저를 구동하는 AI 에이전트 연결의 세 단계를 안내합니다...."
     },
     {
       "company": "Hugging Face",
