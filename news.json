@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-09 20:08:48 (KST)",
+  "updated_at": "2026-04-09 23:03:24 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 전체 팬 모드 콘테스트: 이용 약관",
+      "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "summary": "자격, 참가 단계, 심사 기준, 상품 세부 정보를 포함하여 OpenAI 전체 팬 모드 콘테스트의 공식 이용 약관을 살펴보세요. 참여 방법을 알아보고 참가작을 제출하세요...."
+    },
     {
       "company": "OpenAI",
       "title": "엔터프라이즈 AI의 다음 단계",
@@ -13,14 +20,7 @@
       "title": "어린이 안전 청사진 소개",
       "link": "https://openai.com/index/introducing-child-safety-blueprint",
       "date": "Wed, 08 Apr 2026 05:00:00 GMT",
-      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 안전 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 안전 펠로우십 발표",
-      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "date": "Mon, 06 Apr 2026 10:00:00 GMT",
-      "summary": "독립적인 안전 및 정렬 연구를 지원하고 차세대 인재를 개발하기 위한 파일럿 프로그램..."
+      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 보호 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "클라우드 비용 최적화: AI를 통해 ROI를 극대화하고, 비용을 관리하고, 실제 비즈니스 가치를 실현하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
+      "date": "Wed, 08 Apr 2026 16:00:00 +0000",
+      "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
       "date": "Wed, 01 Apr 2026 16:00:00 +0000",
@@ -58,18 +65,11 @@
       "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 도입하여 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "혁신의 최전선에서 디지털 주권 탐색",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
-      "date": "Mon, 30 Mar 2026 21:27:39 +0000",
-      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실용적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
-    },
-    {
       "company": "AWS Machine Learning",
       "title": "Amazon Bedrock 미세 조정을 통해 Amazon Nova 모델 사용자 지정",
       "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/",
       "date": "Wed, 08 Apr 2026 19:51:50 +0000",
-      "summary": "이 게시물에서는 Amazon Nova 모델을 사용하여 Amazon Bedrock에서 모델 미세 조정을 완벽하게 구현하는 방법을 안내하고, 의도 분류기 예제를 통해 각 단계를 보여줍니다...."
+      "summary": "이 게시물에서는 Amazon Nova 모델을 사용하여 Amazon Bedrock에서 모델 미세 조정을 완벽하게 구현하는 과정을 안내하고, 의도 분류기 예제를 통해 각 단계를 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "문장 변환기를 사용한 다중 모달 임베딩 및 순위 변경 모델",
+      "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "ALTK‑Evolve: AI 에이전트를 위한 현장 학습",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
       "date": "Wed, 08 Apr 2026 14:27:42 GMT",
@@ -97,13 +104,6 @@
       "title": "Safetensors가 PyTorch 재단에 합류합니다",
       "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
       "date": "Wed, 08 Apr 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Gemma 4에 오신 것을 환영합니다: 기기의 프론티어 다중 모드 인텔리전스",
-      "link": "https://huggingface.co/blog/gemma4",
-      "date": "Thu, 02 Apr 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
