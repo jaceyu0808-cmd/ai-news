@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-10 05:05:11 (KST)",
+  "updated_at": "2026-04-10 06:52:18 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "CyberAgent는 ChatGPT Enterprise 및 Codex를 통해 더 빠르게 움직입니다.",
+      "link": "https://openai.com/index/cyber-agent",
+      "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "summary": "CyberAgent는 ChatGPT Enterprise 및 Codex를 사용하여 AI 채택을 안전하게 확장하고 품질을 개선하며 광고, 미디어 및 게임 전반에 걸쳐 의사결정을 가속화합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI 전체 팬 모드 콘테스트: 이용 약관",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/next-phase-of-enterprise-ai",
       "date": "Wed, 08 Apr 2026 14:00:00 GMT",
       "summary": "OpenAI는 Frontier, ChatGPT Enterprise, Codex 및 전사적 AI 에이전트를 통해 산업 전반에 걸쳐 채택이 가속화됨에 따라 엔터프라이즈 AI의 다음 단계를 설명합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "어린이 안전 청사진 소개",
-      "link": "https://openai.com/index/introducing-child-safety-blueprint",
-      "date": "Wed, 08 Apr 2026 05:00:00 GMT",
-      "summary": "온라인에서 청소년을 보호하고 역량을 강화하기 위한 안전 장치, 연령에 적합한 설계, 협업을 통해 책임감 있게 AI를 구축하기 위한 로드맵인 OpenAI의 아동 안전 청사진을 살펴보세요...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "클라우드 비용 최적화: AI를 통해 ROI를 극대화하고, 비용을 관리하고, 실제 비즈니스 가치를 실현하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
+      "date": "Wed, 08 Apr 2026 16:00:00 +0000",
+      "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
       "date": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 조직의 탄력성을 유지하는 데 도움이 되는 기본 기능을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
+      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 기본 기능을 제공하여 조직이 탄력성을 유지하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "엣지에서 주권 AI 구축: Microsoft와 Armada는 협력하여 Galleon 모듈식 데이터 센터에서 Azure Local을 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
       "date": "Tue, 31 Mar 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 가져와 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "혁신의 최전선에서 디지털 주권 탐색",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
-      "date": "Mon, 30 Mar 2026 21:27:39 +0000",
-      "summary": "<p>디지털 주권은 위험 관리, 연속성 계획, 장기적인 책임에 기반을 둔 실용적인 리더십 규율이 되었습니다.</p>\n<p>게시물 <a href=\"https://www.microsoft.com/e..."
+      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 도입하여 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Waypoint-1.5: 일상적인 GPU를 위한 고충실도 대화형 세계",
+      "link": "https://huggingface.co/blog/waypoint-1-5",
+      "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "문장 변환기를 사용한 다중 모달 임베딩 및 순위 변경 모델",
       "link": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "date": "Thu, 09 Apr 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "ALTK‑Evolve: AI 에이전트를 위한 현장 학습",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
       "date": "Wed, 08 Apr 2026 14:27:42 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Safetensors가 PyTorch 재단에 합류합니다",
-      "link": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
-      "date": "Wed, 08 Apr 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
