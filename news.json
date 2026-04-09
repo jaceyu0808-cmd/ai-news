@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-10 07:53:32 (KST)",
+  "updated_at": "2026-04-10 08:48:23 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "CyberAgent는 ChatGPT Enterprise 및 Codex를 통해 더 빠르게 움직입니다.",
-      "link": "https://openai.com/index/cyber-agent",
+      "link": "https://openai.com/index/cyberagent",
       "date": "Thu, 09 Apr 2026 00:00:00 GMT",
       "summary": "CyberAgent는 ChatGPT Enterprise 및 Codex를 사용하여 AI 채택을 안전하게 확장하고 품질을 개선하며 광고, 미디어 및 게임 전반에 걸쳐 의사결정을 가속화합니다...."
     },
@@ -55,7 +55,7 @@
       "title": "엣지에서 주권 AI 구축: Microsoft와 Armada는 협력하여 Galleon 모듈식 데이터 센터에서 Azure Local을 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
       "date": "Tue, 31 Mar 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 가져와 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
+      "summary": "<p>Microsoft와 Armada가 어떻게 Azure Local을 통해 주권 AI를 엣지에 도입하여 단절되고 규제된 환경에서 안전하고 탄력적인 워크로드를 지원하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://a..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -76,7 +76,7 @@
       "title": "대규모 에이전트 관리의 미래: AWS Agent Registry가 이제 평가판으로 제공됩니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
       "date": "Thu, 09 Apr 2026 17:28:20 +0000",
-      "summary": "오늘 우리는 기업 전체에서 AI 에이전트, 도구 및 에이전트 기술을 검색, 공유 및 재사용할 수 있는 단일 장소인 AgentCore의 AWS Agent Registry(미리 보기)를 발표합니다...."
+      "summary": "오늘 우리는 기업 전체에서 AI 에이전트, 도구 및 에이전트 기술을 검색, 공유 및 재사용할 수 있는 단일 장소인 AgentCore의 AWS Agent Registry(미리보기)를 발표합니다...."
     },
     {
       "company": "AWS Machine Learning",
