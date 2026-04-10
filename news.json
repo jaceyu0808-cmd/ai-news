@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-04-10 20:54:51 (KST)",
+  "updated_at": "2026-04-10 22:41:43 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "CyberAgent는 ChatGPT Enterprise 및 Codex를 통해 더 빠르게 움직입니다.",
-      "link": "https://openai.com/index/cyberagent",
-      "date": "Thu, 09 Apr 2026 00:00:00 GMT",
-      "summary": "CyberAgent는 ChatGPT Enterprise 및 Codex를 사용하여 AI 채택을 안전하게 확장하고 품질을 개선하며 광고, 미디어 및 게임 전반에 걸쳐 의사결정을 가속화합니다...."
-    },
     {
       "company": "OpenAI",
       "title": "OpenAI 전체 팬 모드 콘테스트: 이용 약관",
       "link": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
       "date": "Thu, 09 Apr 2026 00:00:00 GMT",
       "summary": "자격, 참가 단계, 심사 기준, 상품 세부 정보를 포함하여 OpenAI 전체 팬 모드 콘테스트의 공식 이용 약관을 살펴보세요. 참여 방법을 알아보고 참가작을 제출하세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "CyberAgent는 ChatGPT Enterprise 및 Codex를 통해 더 빠르게 움직입니다.",
+      "link": "https://openai.com/index/cyberagent",
+      "date": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "summary": "CyberAgent는 ChatGPT Enterprise 및 Codex를 사용하여 AI 채택을 안전하게 확장하고 품질을 개선하며 광고, 미디어 및 게임 전반에 걸쳐 의사결정을 가속화합니다...."
     },
     {
       "company": "OpenAI",
