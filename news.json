@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-04-11 02:53:33 (KST)",
+  "updated_at": "2026-04-11 04:06:41 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "OpenAI에서의 AI 적용",
-      "link": "https://openai.com/academy/applications-of-ai",
+      "title": "ChatGPT에서 프로젝트 사용",
+      "link": "https://openai.com/academy/projects",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "ChatGPT, Codex, API와 같은 OpenAI 제품이 업무, 개발, 일상 업무에 AI를 실제 사용하도록 어떻게 활용하는지 알아보세요...."
+      "summary": "ChatGPT에서 객체를 사용하여 채팅, 파일 및 지침을 구성하고 진행 중인 작업을 관리하며 보다 효과적으로 공동 작업하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "ChatGPT를 사용한 브레인스토밍",
-      "link": "https://openai.com/academy/brainstorming",
+      "title": "기본 사항 촉구",
+      "link": "https://openai.com/academy/prompting",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "ChatGPT를 사용하여 아이디어를 브레인스토밍하고, 생각을 정리하고, 대략적인 개념을 체계적이고 실행 가능한 계획으로 바꾸는 방법을 알아보세요...."
+      "summary": "프롬프트의 기본 사항과 명확하고 효과적인 프롬프트를 작성하여 ChatGPT에서 더 좋고 유용한 응답을 받는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "ChatGPT로 데이터 분석",
-      "link": "https://openai.com/academy/data-analysis",
+      "title": "스킬 사용",
+      "link": "https://openai.com/academy/skills",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "데이터 세트를 탐색하고, 통찰력을 생성하고, 시각화를 생성하고, 결과를 실행 가능한 결정으로 전환하여 ChatGPT로 데이터를 분석하는 방법을 알아보세요...."
+      "summary": "재사용 가능한 워크플로를 구축하고, 반복 작업을 자동화하고, 일관된 고품질 출력을 보장하기 위해 ChatGPT 기술을 만들고 사용하는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -83,7 +83,7 @@
       "title": "Amazon Bedrock AgentCore를 사용하여 React 앱에 라이브 AI 브라우저 에이전트를 포함시킵니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/",
       "date": "Thu, 09 Apr 2026 17:06:07 +0000",
-      "summary": "이 게시물에서는 세션 시작 및 라이브 뷰 URL 생성, React 애플리케이션에서 스트림 렌더링, 브라우저를 구동하는 AI 에이전트 연결의 세 단계를 안내합니다...."
+      "summary": "이 게시물에서는 세션 시작 및 라이브 뷰 URL 생성, React 애플리케이션에서 스트림 렌더링, 작업 중에 브라우저를 구동하는 AI 에이전트 연결의 세 단계를 안내합니다...."
     },
     {
       "company": "Hugging Face",
