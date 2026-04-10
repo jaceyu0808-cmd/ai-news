@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-04-11 06:50:08 (KST)",
+  "updated_at": "2026-04-11 07:49:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "ChatGPT에서 프로젝트 사용",
-      "link": "https://openai.com/academy/projects",
+      "title": "ChatGPT로 연구",
+      "link": "https://openai.com/academy/search-and-deep-research",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "ChatGPT에서 객체를 사용하여 채팅, 파일 및 지침을 구성하고 진행 중인 작업을 관리하며 보다 효과적으로 공동 작업하는 방법을 알아보세요...."
+      "summary": "최신 정보를 찾고, 소스를 분석하고, 구조화된 통찰력을 생성하기 위해 검색 및 심층 조사를 통해 ChatGPT로 조사하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "기본 사항 촉구",
-      "link": "https://openai.com/academy/prompting",
+      "title": "ChatGPT에서 파일 작업하기",
+      "link": "https://openai.com/academy/working-with-files",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "프롬프트의 기본 사항과 명확하고 효과적인 프롬프트를 작성하여 ChatGPT에서 더 좋고 유용한 응답을 받는 방법을 알아보세요...."
+      "summary": "ChatGPT에서 파일을 업로드하고 작업하여 데이터를 분석하고, 문서를 요약하고, PDF, 스프레드시트 등에서 콘텐츠를 생성하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "스킬 사용",
-      "link": "https://openai.com/academy/skills",
+      "title": "맞춤 GPT 사용",
+      "link": "https://openai.com/academy/custom-gpts",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "재사용 가능한 워크플로를 구축하고, 반복 작업을 자동화하고, 일관된 고품질 출력을 보장하기 위해 ChatGPT 기술을 만들고 사용하는 방법을 알아보세요...."
+      "summary": "맞춤형 GPT를 구축 및 사용하여 워크플로를 자동화하고, 일관된 출력을 유지하며, 맞춤형 AI 도우미를 만드는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
