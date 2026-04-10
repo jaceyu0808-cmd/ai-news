@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-11 07:49:16 (KST)",
+  "updated_at": "2026-04-11 08:45:47 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "ChatGPT로 연구",
       "link": "https://openai.com/academy/search-and-deep-research",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "최신 정보를 찾고, 소스를 분석하고, 구조화된 통찰력을 생성하기 위해 검색 및 심층 조사를 통해 ChatGPT로 조사하는 방법을 알아보세요...."
+      "summary": "최신 정보를 찾고, 소스를 분석하고, 구조화된 통찰력을 생성하기 위해 검색 및 심층 조사를 사용하여 ChatGPT로 조사하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-      "date": "Thu, 09 Apr 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Drasi가 GitHub Copilot을 사용하여 문서 버그를 찾는 방법",
       "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
       "date": "Thu, 09 Apr 2026 15:05:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
       "date": "Wed, 08 Apr 2026 16:00:00 +0000",
       "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure IaaS: 내장된 복원력을 통해 규모에 맞게 중요한 애플리케이션을 계속 실행하세요.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/",
+      "date": "Wed, 01 Apr 2026 16:00:00 +0000",
+      "summary": "<p>Azure IaaS는 컴퓨팅, 스토리지, 네트워킹 전반에 걸쳐 기본 기능을 제공하여 조직이 탄력성을 유지하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaa..."
     },
     {
       "company": "AWS Machine Learning",
