@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-04-11 08:45:47 (KST)",
+  "updated_at": "2026-04-11 11:56:37 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT로 연구",
-      "link": "https://openai.com/academy/search-and-deep-research",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "최신 정보를 찾고, 소스를 분석하고, 구조화된 통찰력을 생성하기 위해 검색 및 심층 조사를 사용하여 ChatGPT로 조사하는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT에서 파일 작업하기",
-      "link": "https://openai.com/academy/working-with-files",
-      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "ChatGPT에서 파일을 업로드하고 작업하여 데이터를 분석하고, 문서를 요약하고, PDF, 스프레드시트 등에서 콘텐츠를 생성하는 방법을 알아보세요...."
-    },
     {
       "company": "OpenAI",
       "title": "맞춤 GPT 사용",
       "link": "https://openai.com/academy/custom-gpts",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
       "summary": "맞춤형 GPT를 구축 및 사용하여 워크플로를 자동화하고, 일관된 출력을 유지하며, 맞춤형 AI 도우미를 만드는 방법을 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "고객 성공 팀을 위한 ChatGPT",
+      "link": "https://openai.com/academy/customer-success",
+      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "summary": "고객 성공 팀이 ChatGPT를 사용하여 계정을 관리하고, 커뮤니케이션을 개선하고, 이탈을 줄이고, 채택 및 갱신을 추진하는 방법을 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI에서의 AI 적용",
+      "link": "https://openai.com/academy/applications-of-ai",
+      "date": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "summary": "ChatGPT, Codex, API와 같은 OpenAI 제품이 업무, 개발, 일상 업무에 AI를 실제 사용하도록 어떻게 활용하는지 알아보세요...."
     },
     {
       "company": "Google AI",
