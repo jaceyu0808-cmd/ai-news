@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12 06:41:58 (KST)",
+  "updated_at": "2026-04-12 07:41:34 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "ChatGPT로 데이터 분석",
       "link": "https://openai.com/academy/data-analysis",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "데이터 세트를 탐색하고, 통찰력을 생성하고, 시각화를 만들고, 결과를 실행 가능한 결정으로 전환하여 ChatGPT로 데이터를 분석하는 방법을 알아보세요...."
+      "summary": "데이터 세트를 탐색하고, 통찰력을 생성하고, 시각화를 생성하고, 결과를 실행 가능한 결정으로 전환하여 ChatGPT로 데이터를 분석하는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
