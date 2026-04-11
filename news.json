@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11 22:17:03 (KST)",
+  "updated_at": "2026-04-11 23:44:49 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -76,7 +76,7 @@
       "title": "대규모 에이전트 관리의 미래: AWS Agent Registry가 이제 평가판으로 제공됩니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
       "date": "Thu, 09 Apr 2026 17:28:20 +0000",
-      "summary": "오늘 우리는 기업 전체에서 AI 에이전트, 도구 및 에이전트 기술을 검색, 공유 및 재사용할 수 있는 단일 장소인 AgentCore의 AWS Agent Registry(미리 보기)를 발표합니다...."
+      "summary": "오늘 우리는 기업 전체에서 AI 에이전트, 도구 및 에이전트 기술을 검색, 공유 및 재사용할 수 있는 단일 장소인 AgentCore의 AWS Agent Registry(미리보기)를 발표합니다...."
     },
     {
       "company": "AWS Machine Learning",
