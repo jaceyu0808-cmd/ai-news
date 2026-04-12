@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12 16:41:10 (KST)",
+  "updated_at": "2026-04-12 18:00:31 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "Axios 개발자 도구 손상에 대한 우리의 대응",
       "link": "https://openai.com/index/axios-developer-tool-compromise",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI는 macOS 코드 서명 인증서를 순환하고, 앱을 업데이트하고, 사용자 데이터가 손상되지 않았는지 확인하여 Axios 공급망 공격에 대응합니다...."
+      "summary": "OpenAI는 macOS 코드 서명 인증서를 교체하고, 앱을 업데이트하고, 사용자 데이터가 손상되지 않았는지 확인하여 Axios 공급망 공격에 대응합니다...."
     },
     {
       "company": "Google AI",
@@ -83,7 +83,7 @@
       "title": "Amazon Bedrock AgentCore를 사용하여 React 앱에 라이브 AI 브라우저 에이전트를 포함시킵니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/",
       "date": "Thu, 09 Apr 2026 17:06:07 +0000",
-      "summary": "이 게시물에서는 세션 시작 및 라이브 뷰 URL 생성, React 애플리케이션에서 스트림 렌더링, 브라우저를 구동하는 AI 에이전트 연결의 세 단계를 안내합니다...."
+      "summary": "이 게시물에서는 세션 시작 및 라이브 뷰 URL 생성, React 애플리케이션에서 스트림 렌더링, 작업 중에 브라우저를 구동하는 AI 에이전트 연결의 세 단계를 안내합니다...."
     },
     {
       "company": "Hugging Face",
