@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14 01:20:09 (KST)",
+  "updated_at": "2026-04-14 03:10:06 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -34,7 +34,7 @@
       "title": "Google Vids에서 무료로 동영상을 만들고, 편집하고, 공유하세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
       "date": "Thu, 02 Apr 2026 16:00:00 +0000",
-      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google Vids 로고..."
+      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google 동영상 로고..."
     },
     {
       "company": "Google AI",
@@ -48,7 +48,7 @@
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
+      "summary": "<p>Microsoft는 Sovereign Cloud 플랫폼에 대한 Forrester Wave™에서 리더로 선정되었으며, 이는 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정한 것입니다.</p>\n<p>게시물 <a href=\"https://az..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -83,7 +83,7 @@
       "title": "대규모 에이전트 관리의 미래: AWS Agent Registry가 이제 평가판으로 제공됩니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
       "date": "Thu, 09 Apr 2026 17:28:20 +0000",
-      "summary": "오늘 우리는 기업 전체에서 AI 에이전트, 도구 및 에이전트 기술을 검색, 공유 및 재사용할 수 있는 단일 장소인 AgentCore의 AWS Agent Registry(미리보기)를 발표합니다...."
+      "summary": "오늘 우리는 기업 전체에서 AI 에이전트, 도구 및 에이전트 기술을 검색, 공유 및 재사용할 수 있는 단일 장소인 AgentCore의 AWS Agent Registry(미리 보기)를 발표합니다...."
     },
     {
       "company": "Hugging Face",
