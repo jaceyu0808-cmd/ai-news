@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-13 18:06:30 (KST)",
+  "updated_at": "2026-04-13 20:23:50 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "ChatGPT로 연구",
       "link": "https://openai.com/academy/search-and-deep-research",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "최신 정보를 찾고, 소스를 분석하고, 구조화된 통찰력을 생성하기 위해 검색 및 심층 조사를 통해 ChatGPT로 조사하는 방법을 알아보세요...."
+      "summary": "최신 정보를 찾고, 소스를 분석하고, 구조화된 통찰력을 생성하기 위해 검색 및 심층 조사를 사용하여 ChatGPT로 조사하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
@@ -34,7 +34,7 @@
       "title": "Google Vids에서 무료로 동영상을 만들고, 편집하고, 공유하세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
       "date": "Thu, 02 Apr 2026 16:00:00 +0000",
-      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google 동영상 로고..."
+      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google Vids 로고..."
     },
     {
       "company": "Google AI",
@@ -83,7 +83,7 @@
       "title": "Amazon Bedrock AgentCore를 사용하여 React 앱에 라이브 AI 브라우저 에이전트를 포함시킵니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/",
       "date": "Thu, 09 Apr 2026 17:06:07 +0000",
-      "summary": "이 게시물에서는 세션 시작 및 라이브 뷰 URL 생성, React 애플리케이션에서 스트림 렌더링, 브라우저를 구동하는 AI 에이전트 연결의 세 단계를 안내합니다...."
+      "summary": "이 게시물에서는 세션 시작 및 라이브 뷰 URL 생성, React 애플리케이션에서 스트림 렌더링, 작업 중에 브라우저를 구동하는 AI 에이전트 연결의 세 단계를 안내합니다...."
     },
     {
       "company": "Hugging Face",
