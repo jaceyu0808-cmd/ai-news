@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13 23:02:04 (KST)",
+  "updated_at": "2026-04-14 01:20:09 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -34,7 +34,7 @@
       "title": "Google Vids에서 무료로 동영상을 만들고, 편집하고, 공유하세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
       "date": "Thu, 02 Apr 2026 16:00:00 +0000",
-      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google 동영상 로고..."
+      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google Vids 로고..."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Nova 모델 사용자 정의를 위해 AWS Lambda를 사용하여 효과적인 보상 기능을 구축하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/",
+      "date": "Mon, 13 Apr 2026 16:01:18 +0000",
+      "summary": "이 게시물은 Lambda가 Amazon Nova 사용자 정의를 위해 확장 가능하고 비용 효율적인 보상 기능을 지원하는 방법을 보여줍니다. 검증 가능한 보상(RLVR)을 통한 강화 학습 f 중에서 선택하는 방법을 배우게 됩니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock 모델 수명 주기 이해",
       "link": "https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/",
       "date": "Thu, 09 Apr 2026 17:33:28 +0000",
@@ -76,14 +83,7 @@
       "title": "대규모 에이전트 관리의 미래: AWS Agent Registry가 이제 평가판으로 제공됩니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/",
       "date": "Thu, 09 Apr 2026 17:28:20 +0000",
-      "summary": "오늘 우리는 기업 전체에서 AI 에이전트, 도구 및 에이전트 기술을 검색, 공유 및 재사용할 수 있는 단일 장소인 AgentCore의 AWS Agent Registry(미리 보기)를 발표합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore를 사용하여 React 앱에 라이브 AI 브라우저 에이전트를 포함시킵니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/",
-      "date": "Thu, 09 Apr 2026 17:06:07 +0000",
-      "summary": "이 게시물에서는 세션 시작 및 라이브 뷰 URL 생성, React 애플리케이션에서 스트림 렌더링, 브라우저를 구동하는 AI 에이전트 연결의 세 단계를 안내합니다...."
+      "summary": "오늘 우리는 기업 전체에서 AI 에이전트, 도구 및 에이전트 기술을 검색, 공유 및 재사용할 수 있는 단일 장소인 AgentCore의 AWS Agent Registry(미리보기)를 발표합니다...."
     },
     {
       "company": "Hugging Face",
