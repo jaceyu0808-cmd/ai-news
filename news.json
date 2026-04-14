@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14 17:48:53 (KST)",
+  "updated_at": "2026-04-14 19:22:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "경제 포럼을 위해 AI에 사람들을 모으다",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+      "date": "Tue, 14 Apr 2026 09:00:00 +0000",
+      "summary": "큰 도구를 가지고 일하는 여자. 왼쪽에는 Google과 MIT FutureTech 로고, \"경제 포럼을 위한 AI\", \"새 시대의 혁신과 적응\"이 있습니다...."
+    },
+    {
+      "company": "Google AI",
       "title": "Gemini API에서 비용과 안정성의 균형을 맞추는 새로운 방법",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
       "date": "Thu, 02 Apr 2026 16:00:00 +0000",
@@ -34,14 +41,7 @@
       "title": "Google Vids에서 무료로 동영상을 만들고, 편집하고, 공유하세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
       "date": "Thu, 02 Apr 2026 16:00:00 +0000",
-      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google 동영상 로고..."
-    },
-    {
-      "company": "Google AI",
-      "title": "우리는 브라질의 숲을 보호하기 위해 새로운 위성 이미지 지도를 만들고 있습니다.",
-      "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-      "date": "Wed, 01 Apr 2026 13:30:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/bfc_keyword_before_after_white_.max-600x600.format-webp_QNQ8psB.webp\" />Google은 브라질 정부와 SA 제휴를 맺었습니다...."
+      "summary": "다양한 동영상 편집 UI로 둘러싸인 Google Vids 로고..."
     },
     {
       "company": "Microsoft Azure AI",
