@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15 05:11:45 (KST)",
+  "updated_at": "2026-04-15 06:58:49 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,14 +17,14 @@
     },
     {
       "company": "OpenAI",
-      "title": "영업팀을 위한 ChatGPT",
-      "link": "https://openai.com/academy/sales",
+      "title": "관리자를 위한 ChatGPT",
+      "link": "https://openai.com/academy/managers",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "영업팀이 ChatGPT를 사용하여 어떻게 계정을 조사하고, 고객 서비스를 개인화하고, 거래를 관리하고, 파이프라인과 전환을 개선하는지 알아보세요...."
+      "summary": "관리자가 ChatGPT를 사용하여 대화를 준비하고, 명확한 피드백을 작성하고, 체계적으로 정리하고, 팀 효율성을 향상시키는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
-      "title": "최고의 AI 프롬프트를 Chrome의 원클릭 도구로 전환하세요",
+      "title": "최고의 AI 프롬프트를 Chrome의 원클릭 도구로 변환하세요",
       "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
       "date": "Tue, 14 Apr 2026 17:00:00 +0000",
       "summary": "Chrome의 기술을 보여주는 비디오..."
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
-      "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
-      "date": "Tue, 14 Apr 2026 15:00:00 +0000",
-      "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
@@ -65,6 +58,13 @@
       "summary": "<p>Microsoft가 AI 에이전트와 Drasi를 사용하여 오픈 소스 문서의 정확성과 작동을 유지하는 방법</p>\n<p>게시물 <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilo..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "클라우드 비용 최적화: AI를 통해 ROI를 극대화하고, 비용을 관리하고, 실제 비즈니스 가치를 실현하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
+      "date": "Wed, 08 Apr 2026 16:00:00 +0000",
+      "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "생성적 AI 여정 탐색: AWS의 가치 실현 프레임워크",
       "link": "https://aws.amazon.com/blogs/machine-learning/navigating-the-generative-ai-journey-the-path-to-value-framework-from-aws/",
@@ -76,7 +76,7 @@
       "title": "SageMaker JumpStart의 사용 사례 기반 배포",
       "link": "https://aws.amazon.com/blogs/machine-learning/use-case-based-deployments-on-sagemaker-jumpstart/",
       "date": "Tue, 14 Apr 2026 18:14:54 +0000",
-      "summary": "Amazon SageMaker JumpStart 최적화 배포 출시를 발표하게 되어 기쁘게 생각합니다. SageMaker JumpStart의 향상된 배포는 풍부하고 간단한 배포 사용자 정의에 대한 요구 사항을 해결합니다...."
+      "summary": "Amazon SageMaker JumpStart 최적화 배포 출시를 발표하게 되어 기쁘게 생각합니다. SageMaker JumpStart의 향상된 배포는 풍부하고 간단한 배포 사용자 정의에 대한 요구를 해결합니다...."
     },
     {
       "company": "AWS Machine Learning",
