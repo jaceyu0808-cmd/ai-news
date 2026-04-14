@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-15 06:58:49 (KST)",
+  "updated_at": "2026-04-15 07:58:43 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "차세대 사이버 방어 시대를 위한 신뢰할 수 있는 액세스",
       "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
       "date": "Tue, 14 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI는 사이버 보안 프로그램에 대한 Trusted Access를 확장하여 검증된 방어자에게 GPT-5.4-Cyber를 도입하고 AI 사이버 보안 기능이 발전함에 따라 보호 장치를 강화합니다...."
+      "summary": "OpenAI는 사이버 보안 프로그램에 대한 Trusted Access를 확장하여 검증된 방어자에게 GPT-5.4-Cyber를 도입하고 AI 사이버 보안 기능이 발전함에 따라 안전 장치를 강화합니다...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "관리자를 위한 ChatGPT",
       "link": "https://openai.com/academy/managers",
       "date": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "summary": "관리자가 ChatGPT를 사용하여 대화를 준비하고, 명확한 피드백을 작성하고, 체계적으로 정리하고, 팀 효율성을 향상시키는 방법을 알아보세요...."
+      "summary": "관리자가 ChatGPT를 사용하여 대화를 준비하고, 명확한 피드백을 작성하고, 체계적으로 정리하고, 팀 효율성을 높이는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -48,7 +48,7 @@
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
+      "summary": "<p>Microsoft는 Sovereign Cloud 플랫폼에 대한 Forrester Wave™에서 리더로 선정되었으며, 이는 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정한 것입니다.</p>\n<p>게시물 <a href=\"https://az..."
     },
     {
       "company": "Microsoft Azure AI",
