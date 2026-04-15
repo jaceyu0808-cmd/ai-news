@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16 03:11:06 (KST)",
+  "updated_at": "2026-04-16 05:07:47 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
       "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
