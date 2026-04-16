@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16 19:22:35 (KST)",
+  "updated_at": "2026-04-16 21:04:32 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "차세대 사이버 방어 시대를 위한 신뢰할 수 있는 액세스",
       "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
       "date": "Tue, 14 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI는 사이버 보안 프로그램에 대한 Trusted Access를 확장하여 검증된 방어자에게 GPT-5.4-Cyber를 도입하고 AI 사이버 보안 기능이 발전함에 따라 안전 장치를 강화합니다...."
+      "summary": "OpenAI는 사이버 보안 프로그램에 대한 Trusted Access를 확장하여 검증된 방어자에게 GPT-5.4-Cyber를 도입하고 AI 사이버 보안 기능이 발전함에 따라 보호 장치를 강화합니다...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
+      "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
+      "date": "Tue, 14 Apr 2026 15:00:00 +0000",
+      "summary": "<p>지속적으로 데이터 배치를 최적화함으로써 스마트 계층은 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
@@ -58,13 +65,6 @@
       "summary": "<p>Microsoft가 AI 에이전트와 Drasi를 사용하여 오픈 소스 문서의 정확성과 작동을 유지하는 방법</p>\n<p>게시물 <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilo..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "클라우드 비용 최적화: AI를 통해 ROI를 극대화하고, 비용을 관리하고, 실제 비즈니스 가치를 실현하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
-      "date": "Wed, 08 Apr 2026 16:00:00 +0000",
-      "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
-    },
-    {
       "company": "AWS Machine Learning",
       "title": "Amazon Quick Sight에서 풍부한 맞춤형 도구 설명 생성",
       "link": "https://aws.amazon.com/blogs/machine-learning/create-rich-custom-tooltips-in-amazon-quick-sight/",
@@ -73,7 +73,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS Trainium 및 vLLM에서 추측적 디코딩을 통해 디코딩 중심 LLM 추론 가속화",
+      "title": "AWS Trainium 및 vLLM에서 추측적 디코딩을 통해 디코드 중심 LLM 추론 가속화",
       "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-decode-heavy-llm-inference-with-speculative-decoding-on-aws-trainium-and-vllm/",
       "date": "Wed, 15 Apr 2026 15:20:58 +0000",
       "summary": "이 게시물에서는 추측 디코딩이 작동하는 방식과 이것이 AWS Trainium2에서 생성된 토큰당 비용을 줄이는 데 도움이 되는 이유를 알아봅니다...."
