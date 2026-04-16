@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16 15:09:02 (KST)",
+  "updated_at": "2026-04-16 17:50:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "최고의 AI 프롬프트를 Chrome의 원클릭 도구로 전환하세요",
+      "title": "최고의 AI 프롬프트를 Chrome의 원클릭 도구로 변환하세요",
       "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
       "date": "Tue, 14 Apr 2026 17:00:00 +0000",
       "summary": "Chrome의 기술을 보여주는 비디오..."
@@ -45,10 +45,10 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
-      "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
+      "summary": "<p>지속적으로 데이터 배치를 최적화함으로써 스마트 계층은 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
     },
     {
       "company": "Microsoft Azure AI",
