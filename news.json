@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-16 17:50:05 (KST)",
+  "updated_at": "2026-04-16 19:22:35 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "우리 모두를 보호하는 사이버 방어 생태계 가속화",
+      "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "date": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "summary": "선도적인 보안 회사와 기업이 OpenAI의 Trusted Access for Cyber에 합류하여 GPT-5.4-Cyber ​​및 1천만 달러의 API 보조금을 사용하여 글로벌 사이버 방어를 강화합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Agents SDK의 차세대 발전",
@@ -13,14 +20,7 @@
       "title": "차세대 사이버 방어 시대를 위한 신뢰할 수 있는 액세스",
       "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
       "date": "Tue, 14 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI는 사이버 보안 프로그램에 대한 Trusted Access를 확장하여 검증된 방어자에게 GPT-5.4-Cyber를 도입하고 AI 사이버 보안 기능이 발전함에 따라 보호 장치를 강화합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "기업은 OpenAI를 사용하여 Cloudflare Agent Cloud에서 에이전트 워크플로를 강화합니다.",
-      "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "date": "Mon, 13 Apr 2026 06:00:00 GMT",
-      "summary": "Cloudflare는 OpenAI의 GPT-5.4 및 Codex를 Agent Cloud에 도입하여 기업이 속도와 보안을 바탕으로 실제 작업을 위한 AI 에이전트를 구축, 배포 및 확장할 수 있도록 지원합니다...."
+      "summary": "OpenAI는 사이버 보안 프로그램에 대한 Trusted Access를 확장하여 검증된 방어자에게 GPT-5.4-Cyber를 도입하고 AI 사이버 보안 기능이 발전함에 따라 안전 장치를 강화합니다...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
-      "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
-      "date": "Tue, 14 Apr 2026 15:00:00 +0000",
-      "summary": "<p>지속적으로 데이터 배치를 최적화함으로써 스마트 계층은 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
       "date": "Thu, 09 Apr 2026 15:05:00 +0000",
       "summary": "<p>Microsoft가 AI 에이전트와 Drasi를 사용하여 오픈 소스 문서의 정확성과 작동을 유지하는 방법</p>\n<p>게시물 <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilo..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "클라우드 비용 최적화: AI를 통해 ROI를 극대화하고, 비용을 관리하고, 실제 비즈니스 가치를 실현하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
+      "date": "Wed, 08 Apr 2026 16:00:00 +0000",
+      "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
     },
     {
       "company": "AWS Machine Learning",
