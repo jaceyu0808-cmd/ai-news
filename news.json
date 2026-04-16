@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16 12:39:02 (KST)",
+  "updated_at": "2026-04-16 15:09:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "차세대 사이버 방어 시대를 위한 신뢰할 수 있는 액세스",
       "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
       "date": "Tue, 14 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI는 사이버 보안 프로그램에 대한 Trusted Access를 확장하여 검증된 방어자에게 GPT-5.4-Cyber를 도입하고 AI 사이버 보안 기능이 발전함에 따라 안전 장치를 강화합니다...."
+      "summary": "OpenAI는 사이버 보안 프로그램에 대한 Trusted Access를 확장하여 검증된 방어자에게 GPT-5.4-Cyber를 도입하고 AI 사이버 보안 기능이 발전함에 따라 보호 장치를 강화합니다...."
     },
     {
       "company": "OpenAI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "최고의 AI 프롬프트를 Chrome의 원클릭 도구로 변환하세요",
+      "title": "최고의 AI 프롬프트를 Chrome의 원클릭 도구로 전환하세요",
       "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
       "date": "Tue, 14 Apr 2026 17:00:00 +0000",
       "summary": "Chrome의 기술을 보여주는 비디오..."
@@ -42,6 +42,13 @@
       "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
       "date": "Tue, 14 Apr 2026 09:00:00 +0000",
       "summary": "큰 도구를 가지고 일하는 여자. 왼쪽에는 Google과 MIT FutureTech 로고, \"경제 포럼을 위한 AI\", \"새 시대의 혁신과 적응\"이 있습니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
+      "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
+      "date": "Tue, 14 Apr 2026 15:00:00 +0000",
+      "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -56,13 +63,6 @@
       "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
       "date": "Thu, 09 Apr 2026 15:05:00 +0000",
       "summary": "<p>Microsoft가 AI 에이전트와 Drasi를 사용하여 오픈 소스 문서의 정확성과 작동을 유지하는 방법</p>\n<p>게시물 <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilo..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "클라우드 비용 최적화: AI를 통해 ROI를 극대화하고, 비용을 관리하고, 실제 비즈니스 가치를 실현하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
-      "date": "Wed, 08 Apr 2026 16:00:00 +0000",
-      "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
     },
     {
       "company": "AWS Machine Learning",
