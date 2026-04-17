@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18 06:55:19 (KST)",
+  "updated_at": "2026-04-18 07:53:29 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,17 +45,17 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
+      "title": "스마트 계층을 통해 개체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
-      "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
+      "summary": "<p>지속적으로 데이터 배치를 최적화함으로써 스마트 계층은 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft는 Sovereign Cloud 플랫폼에 대한 Forrester Wave™에서 리더로 선정되었으며, 이는 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정한 것입니다.</p>\n<p>게시물 <a href=\"https://az..."
+      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -63,6 +63,13 @@
       "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
       "date": "Thu, 09 Apr 2026 15:05:00 +0000",
       "summary": "<p>Microsoft가 AI 에이전트와 Drasi를 사용하여 오픈 소스 문서의 정확성과 작동을 유지하는 방법</p>\n<p>게시물 <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilo..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock에 대한 세분화된 비용 귀속 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/",
+      "date": "Fri, 17 Apr 2026 22:04:15 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock의 세분화된 비용 귀속이 어떻게 작동하는지 공유하고 예제 비용 추적 시나리오를 안내합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,13 +86,6 @@
       "summary": "이 게시물에서는 사용자 의도를 지능적으로 이해하고 정확한 비디오 결과를 검색하는 Nova Multimodal Embeddings를 사용하여 Amazon Bedrock에서 비디오 의미 체계 검색 솔루션을 구축하는 방법을 보여줍니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Nova Forge SDK 시리즈 2부: 데이터 혼합 기능을 사용하여 Nova 모델을 미세 조정하기 위한 실용 가이드",
-      "link": "https://aws.amazon.com/blogs/machine-learning/nova-forge-sdk-series-part-2-practical-guide-to-fine-tune-nova-models-using-data-mixing-capabilities/",
-      "date": "Fri, 17 Apr 2026 17:27:40 +0000",
-      "summary": "이 실습 가이드는 데이터 준비부터 데이터 혼합을 통한 훈련, 평가에 이르기까지 Amazon Nova Forge SDK를 사용하여 Amazon Nova 모델을 미세 조정하는 모든 단계를 안내하며 반복 분석을 제공합니다...."
-    },
-    {
       "company": "Hugging Face",
       "title": "합성 데이터를 사용하여 빠른 다국어 OCR 모델 구축",
       "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 환경",
+      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 가능 환경",
       "link": "https://huggingface.co/blog/ecom-rlve",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
       "summary": "..."
