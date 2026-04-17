@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17 20:57:54 (KST)",
+  "updated_at": "2026-04-17 22:53:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 가능 환경",
+      "link": "https://huggingface.co/blog/ecom-rlve",
+      "date": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "당신이 직접 열어봤을 PR",
       "link": "https://huggingface.co/blog/transformers-to-mlx",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "문장 변환기를 사용한 다중 모드 임베딩 및 순위 변경 모델 훈련 및 미세 조정",
       "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "VAKRA 내부: 에이전트의 추론, 도구 사용 및 실패 모드",
-      "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "date": "Wed, 15 Apr 2026 12:07:25 GMT",
       "summary": "..."
     }
   ]
