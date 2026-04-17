@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18 04:13:24 (KST)",
+  "updated_at": "2026-04-18 05:56:59 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "생명과학 연구를 위한 GPT-Rosalind를 소개합니다",
       "link": "https://openai.com/index/introducing-gpt-rosalind",
       "date": "Thu, 16 Apr 2026 01:00:00 GMT",
-      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 소개합니다...."
+      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 도입합니다...."
     },
     {
       "company": "OpenAI",
@@ -45,10 +45,17 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
+      "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
+      "date": "Tue, 14 Apr 2026 15:00:00 +0000",
+      "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
+      "summary": "<p>Microsoft는 Sovereign Cloud 플랫폼에 대한 Forrester Wave™에서 리더로 선정되었으며, 이는 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정한 것입니다.</p>\n<p>게시물 <a href=\"https://az..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -58,32 +65,25 @@
       "summary": "<p>Microsoft가 AI 에이전트와 Drasi를 사용하여 오픈 소스 문서의 정확성과 작동을 유지하는 방법</p>\n<p>게시물 <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilo..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "클라우드 비용 최적화: AI를 통해 ROI를 극대화하고, 비용을 관리하고, 실제 비즈니스 가치를 실현하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
-      "date": "Wed, 08 Apr 2026 16:00:00 +0000",
-      "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock에서 Amazon Nova Model Distillation을 사용하여 비디오 의미 체계 검색 의도 최적화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/",
+      "date": "Fri, 17 Apr 2026 19:43:38 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock의 모델 사용자 정의 기술인 Model Distillation을 사용하여 대규모 교사 모델(Amazon Nova Premier)의 라우팅 인텔리전스를 muc로 전송하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Nova 다중 모달 임베딩을 사용한 강력한 비디오 의미 체계 검색",
+      "link": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/",
+      "date": "Fri, 17 Apr 2026 19:43:35 +0000",
+      "summary": "이 게시물에서는 사용자 의도를 지능적으로 이해하고 정확한 비디오 결과를 검색하는 Nova Multimodal Embeddings를 사용하여 Amazon Bedrock에서 비디오 의미 체계 검색 솔루션을 구축하는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Nova Forge SDK 시리즈 2부: 데이터 혼합 기능을 사용하여 Nova 모델을 미세 조정하기 위한 실용 가이드",
       "link": "https://aws.amazon.com/blogs/machine-learning/nova-forge-sdk-series-part-2-practical-guide-to-fine-tune-nova-models-using-data-mixing-capabilities/",
       "date": "Fri, 17 Apr 2026 17:27:40 +0000",
-      "summary": "이 실습 가이드는 데이터 준비부터 데이터 혼합을 통한 교육, 평가에 이르기까지 Amazon Nova Forge SDK를 사용하여 Amazon Nova 모델을 미세 조정하는 모든 단계를 안내하며 반복 분석을 제공합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "몇 시간에서 몇 분으로: Agentic AI가 마케터에게 중요한 일을 할 수 있는 시간을 돌려준 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-hours-to-minutes-how-agentic-ai-gave-marketers-time-back-for-what-matters/",
-      "date": "Fri, 17 Apr 2026 17:12:10 +0000",
-      "summary": "이 게시물에서는 AWS Marketing의 TAA(기술, AI 및 분석) 팀이 Gradial과 협력하여 콘텐츠 게시 워크플로를 가속화하기 위해 Amazon Bedrock에 에이전트 AI 솔루션을 구축한 방법을 공유합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova Micro 및 Amazon Bedrock 주문형 추론을 사용하는 비용 효율적인 사용자 지정 텍스트-SQL",
-      "link": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference/",
-      "date": "Thu, 16 Apr 2026 17:43:03 +0000",
-      "summary": "이 게시물에서는 비용 효율성과 프로덕션 준비 성능을 모두 제공하기 위해 사용자 지정 SQL 언어 생성을 위해 Amazon Nova Micro를 미세 조정하는 두 가지 접근 방식을 보여줍니다...."
+      "summary": "이 실습 가이드는 데이터 준비부터 데이터 혼합을 통한 훈련, 평가에 이르기까지 Amazon Nova Forge SDK를 사용하여 Amazon Nova 모델을 미세 조정하는 모든 단계를 안내하며 반복 분석을 제공합니다...."
     },
     {
       "company": "Hugging Face",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 가능 환경",
+      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 환경",
       "link": "https://huggingface.co/blog/ecom-rlve",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
       "summary": "..."
