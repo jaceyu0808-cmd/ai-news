@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18 02:01:52 (KST)",
+  "updated_at": "2026-04-18 04:13:24 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Nova Forge SDK 시리즈 2부: 데이터 혼합 기능을 사용하여 Nova 모델을 미세 조정하기 위한 실용 가이드",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nova-forge-sdk-series-part-2-practical-guide-to-fine-tune-nova-models-using-data-mixing-capabilities/",
+      "date": "Fri, 17 Apr 2026 17:27:40 +0000",
+      "summary": "이 실습 가이드는 데이터 준비부터 데이터 혼합을 통한 교육, 평가에 이르기까지 Amazon Nova Forge SDK를 사용하여 Amazon Nova 모델을 미세 조정하는 모든 단계를 안내하며 반복 분석을 제공합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "몇 시간에서 몇 분으로: Agentic AI가 마케터에게 중요한 일을 할 수 있는 시간을 돌려준 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-hours-to-minutes-how-agentic-ai-gave-marketers-time-back-for-what-matters/",
+      "date": "Fri, 17 Apr 2026 17:12:10 +0000",
+      "summary": "이 게시물에서는 AWS Marketing의 TAA(기술, AI 및 분석) 팀이 Gradial과 협력하여 콘텐츠 게시 워크플로를 가속화하기 위해 Amazon Bedrock에 에이전트 AI 솔루션을 구축한 방법을 공유합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Nova Micro 및 Amazon Bedrock 주문형 추론을 사용하는 비용 효율적인 사용자 지정 텍스트-SQL",
       "link": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-custom-text-to-sql-using-amazon-nova-micro-and-amazon-bedrock-on-demand-inference/",
       "date": "Thu, 16 Apr 2026 17:43:03 +0000",
       "summary": "이 게시물에서는 비용 효율성과 프로덕션 준비 성능을 모두 제공하기 위해 사용자 지정 SQL 언어 생성을 위해 Amazon Nova Micro를 미세 조정하는 두 가지 접근 방식을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "AWS 생성 AI 서비스로 소매업을 혁신하세요",
-      "link": "https://aws.amazon.com/blogs/machine-learning/transform-retail-with-aws-generative-ai-services/",
-      "date": "Thu, 16 Apr 2026 17:39:56 +0000",
-      "summary": "온라인 소매업체는 지속적인 문제에 직면해 있습니다. 쇼핑객은 온라인으로 주문할 때 핏과 모양을 결정하는 데 어려움을 겪으며 이로 인해 반품이 증가하고 구매 신뢰도가 감소합니다. 비용은? 잃어버린 수익..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock의 자동 추론 검사가 생성적 AI 규정 준수를 혁신하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance/",
-      "date": "Thu, 16 Apr 2026 17:34:42 +0000",
-      "summary": "이 게시물에서는 규제 산업에서 확률적 AI 검증이 부족한 이유와 자동 추론 검사가 공식 검증을 사용하여 수학적으로 입증된 결과를 제공하는 방법에 대해 알아봅니다. 너'..."
     },
     {
       "company": "Hugging Face",
