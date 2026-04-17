@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17 08:52:32 (KST)",
+  "updated_at": "2026-04-17 12:35:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,14 +48,14 @@
       "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
-      "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
+      "summary": "<p>지속적으로 데이터 배치를 최적화함으로써 스마트 계층은 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft는 Sovereign Cloud 플랫폼에 대한 Forrester Wave™에서 리더로 선정되었으며, 이는 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정한 것입니다.</p>\n<p>게시물 <a href=\"https://az..."
+      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -83,7 +83,7 @@
       "title": "Amazon Bedrock의 자동 추론 검사가 생성적 AI 규정 준수를 혁신하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance/",
       "date": "Thu, 16 Apr 2026 17:34:42 +0000",
-      "summary": "이 게시물에서는 규제 산업에서 확률적 AI 검증이 부족한 이유와 자동 추론 검사가 공식 검증을 사용하여 수학적으로 입증된 결과를 제공하는 방법에 대해 알아봅니다. 너'..."
+      "summary": "이 게시물에서는 규제 대상 산업에서 확률적 AI 검증이 부족한 이유와 자동 추론 검사가 공식 검증을 사용하여 수학적으로 입증된 결과를 제공하는 방법에 대해 알아봅니다. 너'..."
     },
     {
       "company": "Hugging Face",
