@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-04-19 02:45:27 (KST)",
+  "updated_at": "2026-04-19 04:03:28 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "(거의) 모든 것에 대한 코덱스",
       "link": "https://openai.com/index/codex-for-almost-everything",
       "date": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 앱 내 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
+      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 인앱 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
     },
     {
       "company": "OpenAI",
       "title": "생명과학 연구를 위한 GPT-Rosalind를 소개합니다",
       "link": "https://openai.com/index/introducing-gpt-rosalind",
       "date": "Thu, 16 Apr 2026 01:00:00 GMT",
-      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 소개합니다...."
+      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 도입합니다...."
     },
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "스마트 계층을 통해 개체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
+      "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
+      "date": "Tue, 14 Apr 2026 15:00:00 +0000",
+      "summary": "<p>지속적으로 데이터 배치를 최적화함으로써 스마트 계층은 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
       "date": "Thu, 09 Apr 2026 15:05:00 +0000",
       "summary": "<p>Microsoft가 AI 에이전트와 Drasi를 사용하여 오픈 소스 문서의 정확성과 작동을 유지하는 방법</p>\n<p>게시물 <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilo..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "클라우드 비용 최적화: AI를 통해 ROI를 극대화하고, 비용을 관리하고, 실제 비즈니스 가치를 실현하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/",
-      "date": "Wed, 08 Apr 2026 16:00:00 +0000",
-      "summary": "<p>지속 가능한 가치와 효율성을 위해 AI 투자를 계획, 설계, 관리하는 데 도움이 되는 실용적인 전략과 모범 사례를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog..."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "당신이 직접 열어봤을 PR",
+      "title": "당신이 직접 열었을 PR",
       "link": "https://huggingface.co/blog/transformers-to-mlx",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
       "summary": "..."
