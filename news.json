@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19 22:20:22 (KST)",
+  "updated_at": "2026-04-19 23:51:09 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 가능 환경",
+      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 환경",
       "link": "https://huggingface.co/blog/ecom-rlve",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
       "summary": "..."
