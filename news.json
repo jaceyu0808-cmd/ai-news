@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19 15:04:41 (KST)",
+  "updated_at": "2026-04-19 17:11:12 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "생명과학 연구를 위한 GPT-Rosalind를 소개합니다",
       "link": "https://openai.com/index/introducing-gpt-rosalind",
       "date": "Thu, 16 Apr 2026 01:00:00 GMT",
-      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 소개합니다...."
+      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 도입합니다...."
     },
     {
       "company": "OpenAI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 가능 환경",
+      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 환경",
       "link": "https://huggingface.co/blog/ecom-rlve",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
       "summary": "..."
