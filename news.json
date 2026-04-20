@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21 03:03:57 (KST)",
+  "updated_at": "2026-04-21 05:04:08 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "(거의) 모든 것에 대한 코덱스",
       "link": "https://openai.com/index/codex-for-almost-everything",
       "date": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 앱 내 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
+      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 인앱 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
     },
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "클라우드 비용 최적화: 여전히 중요한 원칙",
-      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
-      "date": "Wed, 15 Apr 2026 16:00:00 +0000",
-      "summary": "<p>지출 관리, 효율성 개선, 가치 극대화를 위한 모범 사례를 통해 클라우드 비용 최적화가 AI 시대에 어떻게 적응하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.co..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
@@ -63,6 +56,20 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
       "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Drasi가 GitHub Copilot을 사용하여 문서 버그를 찾는 방법",
+      "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/",
+      "date": "Thu, 09 Apr 2026 15:05:00 +0000",
+      "summary": "<p>Microsoft가 AI 에이전트와 Drasi를 사용하여 오픈 소스 문서의 정확성과 작동을 유지하는 방법</p>\n<p>게시물 <a href=\"https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilo..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "G7e 인스턴스를 사용하여 Amazon SageMaker AI에서 생성적 AI 추론 가속화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/",
+      "date": "Mon, 20 Apr 2026 19:38:10 +0000",
+      "summary": "오늘 우리는 Amazon SageMaker AI에서 NVIDIA RTX PRO 6000 Blackwell Server Edition GPU로 구동되는 G7e 인스턴스를 사용할 수 있다는 소식을 발표하게 되어 매우 기쁩니다. 1, 2, 4, 8개의 RT로 노드를 프로비저닝할 수 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
       "date": "Mon, 20 Apr 2026 15:03:28 +0000",
       "summary": "이 게시물에서는 매우 효과적인 AI 에이전트를 안전하게 구축, 배포 및 운영하기 위해 에이전트 플랫폼인 Amazon Bedrock AgentCore를 사용하여 완전한 옴니채널 주문 시스템을 구축하는 방법을 보여 드리겠습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock에 대한 세분화된 비용 귀속 소개",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/",
-      "date": "Fri, 17 Apr 2026 22:04:15 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock의 세분화된 비용 귀속이 어떻게 작동하는지 공유하고 예제 비용 추적 시나리오를 안내합니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "당신이 직접 열어봤을 PR",
+      "title": "당신이 직접 열었을 PR",
       "link": "https://huggingface.co/blog/transformers-to-mlx",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
       "summary": "..."
