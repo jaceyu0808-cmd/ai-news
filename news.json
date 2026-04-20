@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-04-20 20:25:45 (KST)",
+  "updated_at": "2026-04-20 23:04:38 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI는 하얏트가 동료들 사이에서 AI를 발전시키는 데 도움을 줍니다.",
+      "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "date": "Mon, 20 Apr 2026 00:00:00 GMT",
+      "summary": "Hyatt는 생산성, 운영 및 고객 경험을 개선하기 위해 GPT-5.4 및 Codex를 사용하여 전 세계 인력에 ChatGPT Enterprise를 배포합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "(거의) 모든 것에 대한 코덱스",
       "link": "https://openai.com/index/codex-for-almost-everything",
       "date": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 앱 내 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
+      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 인앱 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
     },
     {
       "company": "OpenAI",
       "title": "생명과학 연구를 위한 GPT-Rosalind를 소개합니다",
       "link": "https://openai.com/index/introducing-gpt-rosalind",
       "date": "Thu, 16 Apr 2026 01:00:00 GMT",
-      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 소개합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "우리 모두를 보호하는 사이버 방어 생태계 가속화",
-      "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "date": "Thu, 16 Apr 2026 00:00:00 GMT",
-      "summary": "선도적인 보안 회사와 기업이 OpenAI의 Trusted Access for Cyber에 합류하여 GPT-5.4-Cyber ​​및 1천만 달러의 API 보조금을 사용하여 글로벌 사이버 방어를 강화합니다...."
+      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 도입합니다...."
     },
     {
       "company": "Google AI",
@@ -62,7 +62,7 @@
       "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft는 Sovereign Cloud 플랫폼에 대한 Forrester Wave™에서 리더로 선정되었으며, 이는 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정한 것입니다.</p>\n<p>게시물 <a href=\"https://az..."
+      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
     },
     {
       "company": "AWS Machine Learning",
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova 다중 모달 임베딩을 사용한 강력한 비디오 의미 검색",
+      "title": "Amazon Nova 다중 모달 임베딩을 사용한 강력한 비디오 의미 체계 검색",
       "link": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/",
       "date": "Fri, 17 Apr 2026 19:43:35 +0000",
       "summary": "이 게시물에서는 사용자 의도를 지능적으로 이해하고 정확한 비디오 결과를 검색하는 Nova Multimodal Embeddings를 사용하여 Amazon Bedrock에서 비디오 의미 체계 검색 솔루션을 구축하는 방법을 보여줍니다...."
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "당신이 직접 열어봤을 PR",
+      "title": "당신이 직접 열었을 PR",
       "link": "https://huggingface.co/blog/transformers-to-mlx",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
       "summary": "..."
