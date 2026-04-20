@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20 23:04:38 (KST)",
+  "updated_at": "2026-04-21 01:18:11 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore 및 Amazon Nova 2 Sonic을 사용한 옴니채널 주문",
+      "link": "https://aws.amazon.com/blogs/machine-learning/omnichannel-ordering-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
+      "date": "Mon, 20 Apr 2026 15:03:28 +0000",
+      "summary": "이 게시물에서는 매우 효과적인 AI 에이전트를 안전하게 구축, 배포 및 운영하기 위해 에이전트 플랫폼인 Amazon Bedrock AgentCore를 사용하여 완전한 옴니채널 주문 시스템을 구축하는 방법을 보여 드리겠습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock에 대한 세분화된 비용 귀속 소개",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/",
       "date": "Fri, 17 Apr 2026 22:04:15 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/optimize-video-semantic-search-intent-with-amazon-nova-model-distillation-on-amazon-bedrock/",
       "date": "Fri, 17 Apr 2026 19:43:38 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock의 모델 사용자 정의 기술인 Model Distillation을 사용하여 대규모 교사 모델(Amazon Nova Premier)의 라우팅 인텔리전스를 muc로 전송하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova 다중 모달 임베딩을 사용한 강력한 비디오 의미 체계 검색",
-      "link": "https://aws.amazon.com/blogs/machine-learning/power-video-semantic-search-with-amazon-nova-multimodal-embeddings/",
-      "date": "Fri, 17 Apr 2026 19:43:35 +0000",
-      "summary": "이 게시물에서는 사용자 의도를 지능적으로 이해하고 정확한 비디오 결과를 검색하는 Nova Multimodal Embeddings를 사용하여 Amazon Bedrock에서 비디오 의미 체계 검색 솔루션을 구축하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
