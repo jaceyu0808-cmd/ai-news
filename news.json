@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21 06:55:42 (KST)",
+  "updated_at": "2026-04-21 07:55:28 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,14 +13,14 @@
       "title": "(거의) 모든 것에 대한 코덱스",
       "link": "https://openai.com/index/codex-for-almost-everything",
       "date": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 앱 내 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
+      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 인앱 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
     },
     {
       "company": "OpenAI",
       "title": "생명과학 연구를 위한 GPT-Rosalind를 소개합니다",
       "link": "https://openai.com/index/introducing-gpt-rosalind",
       "date": "Thu, 16 Apr 2026 01:00:00 GMT",
-      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 소개합니다...."
+      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 도입합니다...."
     },
     {
       "company": "Google AI",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "당신이 직접 열어봤을 PR",
+      "title": "당신이 직접 열었을 PR",
       "link": "https://huggingface.co/blog/transformers-to-mlx",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
       "summary": "..."
