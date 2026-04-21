@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21 17:57:56 (KST)",
+  "updated_at": "2026-04-21 19:25:45 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "QIMMA قِمّة ⛰: 품질 우선 아랍어 LLM 리더보드",
+      "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "date": "Tue, 21 Apr 2026 10:09:58 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "합성 페르소나를 사용하여 실제 인구 통계에 한국 AI 에이전트를 기반으로 하는 방법",
       "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
       "date": "Tue, 21 Apr 2026 00:40:10 GMT",
@@ -96,13 +103,6 @@
       "company": "Hugging Face",
       "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 환경",
       "link": "https://huggingface.co/blog/ecom-rlve",
-      "date": "Thu, 16 Apr 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "당신이 직접 열어봤을 PR",
-      "link": "https://huggingface.co/blog/transformers-to-mlx",
       "date": "Thu, 16 Apr 2026 00:00:00 GMT",
       "summary": "..."
     }
