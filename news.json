@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-21 21:04:54 (KST)",
+  "updated_at": "2026-04-21 23:51:39 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Codex를 전 세계 기업으로 확장",
+      "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "date": "Tue, 21 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI는 Accenture, PwC, Infosys 등과 협력하여 기업이 소프트웨어 개발 수명주기 전반에 걸쳐 Codex를 배포하고 확장하도록 지원하는 Codex Labs를 출시하고 4M Codex WAU를 달성했습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI는 하얏트가 동료들 사이에서 AI를 발전시키는 데 도움을 줍니다.",
@@ -13,14 +20,14 @@
       "title": "(거의) 모든 것에 대한 코덱스",
       "link": "https://openai.com/index/codex-for-almost-everything",
       "date": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 앱 내 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
+      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 인앱 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "생명과학 연구를 위한 GPT-Rosalind를 소개합니다",
-      "link": "https://openai.com/index/introducing-gpt-rosalind",
-      "date": "Thu, 16 Apr 2026 01:00:00 GMT",
-      "summary": "OpenAI는 약물 발견, 유전체학 분석, 단백질 추론 및 과학 연구 워크플로우를 가속화하기 위해 구축된 개척 추론 모델인 GPT-Rosalind를 소개합니다...."
+      "company": "Google AI",
+      "title": "Ads Advisor가 Google Ads를 더욱 안전하고 빠르게 만드는 3가지 새로운 방법",
+      "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "date": "Tue, 21 Apr 2026 14:30:00 +0000",
+      "summary": "Google Marketing Live로 가는 길 그래픽 2026년 5월 20일 오전 9시(태평양 표준시) 다채로운 아래쪽 그라데이션이 있는 흰색 배경입니다...."
     },
     {
       "company": "Google AI",
@@ -37,13 +44,6 @@
       "summary": "Chrome의 AI 모드..."
     },
     {
-      "company": "Google AI",
-      "title": "Gemini 앱에서 개인화된 이미지를 만드는 새로운 방법",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "date": "Thu, 16 Apr 2026 16:00:00 +0000",
-      "summary": "Personal Intelligence로 만든 예시 이미지..."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "클라우드 비용 최적화: 여전히 중요한 원칙",
       "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
@@ -55,7 +55,7 @@
       "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
-      "summary": "<p>지속적으로 데이터 배치를 최적화함으로써 스마트 계층은 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
+      "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -69,7 +69,7 @@
       "title": "G7e 인스턴스를 사용하여 Amazon SageMaker AI에서 생성적 AI 추론 가속화",
       "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/",
       "date": "Mon, 20 Apr 2026 19:38:10 +0000",
-      "summary": "오늘 우리는 Amazon SageMaker AI에서 NVIDIA RTX PRO 6000 Blackwell Server Edition GPU로 구동되는 G7e 인스턴스를 사용할 수 있다는 소식을 발표하게 되어 매우 기쁩니다. 1, 2, 4, 8개의 RT로 노드를 프로비저닝할 수 있습니다...."
+      "summary": "오늘 Amazon SageMaker AI에서 NVIDIA RTX PRO 6000 Blackwell Server Edition GPU로 구동되는 G7e 인스턴스를 사용할 수 있다는 소식을 발표하게 되어 매우 기쁩니다. 1, 2, 4, 8개의 RT로 노드를 프로비저닝할 수 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,9 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Ecom-RLVE: 전자상거래 대화 에이전트를 위한 적응형 검증 환경",
-      "link": "https://huggingface.co/blog/ecom-rlve",
-      "date": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "title": "AI와 사이버 보안의 미래: 개방성이 중요한 이유",
+      "link": "https://huggingface.co/blog/cybersecurity-openness",
+      "date": "Tue, 21 Apr 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
