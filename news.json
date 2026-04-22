@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-04-22 23:51:41 (KST)",
+  "updated_at": "2026-04-23 01:16:41 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Responses API의 WebSocket을 사용하여 에이전트 워크플로 속도 향상",
+      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "summary": "Codex 에이전트 루프에 대해 자세히 알아보고 WebSocket과 연결 범위 캐싱이 어떻게 API 오버헤드를 줄이고 모델 대기 시간을 개선했는지 보여줍니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 개인 정보 보호 필터 소개",
+      "link": "https://openai.com/index/introducing-openai-privacy-filter",
+      "date": "Wed, 22 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI 개인 정보 보호 필터는 최첨단 정확도로 텍스트에서 개인 식별 정보(PII)를 탐지하고 수정하기 위한 개방형 모델입니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Codex를 전 세계 기업으로 확장",
       "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
       "date": "Tue, 21 Apr 2026 00:00:00 GMT",
       "summary": "OpenAI는 Accenture, PwC, Infosys 등과 협력하여 기업이 소프트웨어 개발 수명주기 전반에 걸쳐 Codex를 배포하고 확장할 수 있도록 지원하는 Codex Labs를 출시하고 4M Codex WAU를 달성했습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI는 하얏트가 동료들 사이에서 AI를 발전시키는 데 도움을 줍니다.",
-      "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "date": "Mon, 20 Apr 2026 00:00:00 GMT",
-      "summary": "Hyatt는 생산성, 운영 및 고객 경험을 개선하기 위해 GPT-5.4 및 Codex를 사용하여 전 세계 인력에 ChatGPT Enterprise를 배포합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "(거의) 모든 것에 대한 코덱스",
-      "link": "https://openai.com/index/codex-for-almost-everything",
-      "date": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 앱 내 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
     },
     {
       "company": "Google AI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
       "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
@@ -63,6 +63,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
       "date": "Thu, 09 Apr 2026 19:00:00 +0000",
       "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Neptune 및 Mem0을 사용하는 Amazon Bedrock의 회사별 메모리",
+      "link": "https://aws.amazon.com/blogs/machine-learning/company-wise-memory-in-amazon-bedrock-with-amazon-neptune-and-mem0/",
+      "date": "Wed, 22 Apr 2026 15:56:24 +0000",
+      "summary": "Amazon Neptune 및 Mem0을 기반으로 하는 Amazon Bedrock의 회사별 메모리는 AI 에이전트에 지속적인 회사별 컨텍스트를 제공하여 AI 에이전트가 전체에서 지능적으로 학습, 적응 및 대응할 수 있도록 지원합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,24 +86,17 @@
       "summary": "이 게시물에서는 DVC(데이터 버전 제어), Amazon SageMaker AI 및 Amazon SageMaker AI MLflow Apps를 결합하여 엔드투엔드 ML 모델 계보를 구축하는 방법을 보여줍니다. 두 가지 배포 가능한 패턴을 살펴봅니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "G7e 인스턴스를 사용하여 Amazon SageMaker AI에서 생성적 AI 추론 가속화",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-generative-ai-inference-on-amazon-sagemaker-ai-with-g7e-instances/",
-      "date": "Mon, 20 Apr 2026 19:38:10 +0000",
-      "summary": "오늘 우리는 Amazon SageMaker AI에서 NVIDIA RTX PRO 6000 Blackwell Server Edition GPU로 구동되는 G7e 인스턴스를 사용할 수 있다는 소식을 발표하게 되어 매우 기쁩니다. 1, 2, 4, 8개의 RT로 노드를 프로비저닝할 수 있습니다...."
+      "company": "Hugging Face",
+      "title": "Jetson Music Nano Super의 Gemma 4 VLA 데모",
+      "link": "https://huggingface.co/blog/nvidia/gemma4",
+      "date": "Wed, 22 Apr 2026 15:40:50 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
       "title": "QIMMA قِمّة ⛰: 품질 우선 아랍어 LLM 리더보드",
       "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
       "date": "Tue, 21 Apr 2026 10:09:58 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "합성 페르소나를 사용하여 실제 인구 통계에 한국 AI 에이전트를 기반으로 하는 방법",
-      "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-      "date": "Tue, 21 Apr 2026 00:40:10 GMT",
       "summary": "..."
     },
     {
