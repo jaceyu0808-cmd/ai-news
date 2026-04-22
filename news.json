@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-22 12:34:17 (KST)",
+  "updated_at": "2026-04-22 15:06:28 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "Codex를 전 세계 기업으로 확장",
       "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
       "date": "Tue, 21 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI는 Accenture, PwC, Infosys 등과 협력하여 기업이 소프트웨어 개발 수명주기 전반에 걸쳐 Codex를 배포하고 확장할 수 있도록 지원하는 Codex Labs를 출시하고 4M Codex WAU를 달성했습니다...."
+      "summary": "OpenAI는 Accenture, PwC, Infosys 등과 협력하여 기업이 소프트웨어 개발 수명주기 전반에 걸쳐 Codex를 배포하고 확장하도록 지원하는 Codex Labs를 출시하고 4M Codex WAU를 달성했습니다...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "(거의) 모든 것에 대한 코덱스",
       "link": "https://openai.com/index/codex-for-almost-everything",
       "date": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 앱 내 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
+      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 인앱 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
     },
     {
       "company": "Google AI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Google의 도움으로 올여름 더욱 스마트하게 여행하는 7가지 방법",
+      "title": "Google의 도움을 받아 올여름 더 스마트하게 여행하는 7가지 방법",
       "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
       "date": "Fri, 17 Apr 2026 14:00:00 +0000",
       "summary": "해변 마을의 물가 농산물 직판장에서 Pixel 휴대전화를 들고 있는 사람을 보여주는 그림..."
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
       "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
