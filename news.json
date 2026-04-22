@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22 19:25:06 (KST)",
+  "updated_at": "2026-04-22 21:03:52 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "우리는 에이전트 시대를 위한 두 가지 특수 TPU를 출시할 예정입니다.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "date": "Wed, 22 Apr 2026 12:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\" />8세대 Google TPU에는 두 가지 특수 기술이 포함되어 있습니다...."
+    },
+    {
+      "company": "Google AI",
       "title": "Ads Advisor가 Google Ads를 더욱 안전하고 빠르게 만드는 3가지 새로운 방법",
       "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
       "date": "Tue, 21 Apr 2026 14:30:00 +0000",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
       "date": "Fri, 17 Apr 2026 14:00:00 +0000",
       "summary": "해변 마을의 물가 농산물 직판장에서 Pixel 휴대전화를 들고 있는 사람을 보여주는 그림..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Chrome의 AI 모드로 웹을 탐색하는 새로운 방법",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "date": "Thu, 16 Apr 2026 17:00:00 +0000",
-      "summary": "Chrome의 AI 모드..."
     },
     {
       "company": "Microsoft Azure AI",
