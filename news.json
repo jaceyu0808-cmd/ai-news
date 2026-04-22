@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-04-23 01:16:41 (KST)",
+  "updated_at": "2026-04-23 03:06:50 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Workspace 에이전트",
+      "link": "https://openai.com/academy/workspace-agents",
+      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "summary": "ChatGPT에서 작업 공간 에이전트를 구축, 사용, 확장하여 반복 가능한 워크플로를 자동화하고 도구를 연결하며 팀 운영을 간소화하는 방법을 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT의 작업공간 에이전트 소개",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "summary": "ChatGPT의 Workspace 에이전트는 복잡한 워크플로를 자동화하고 클라우드에서 실행하며 팀이 여러 도구에서 작업을 안전하게 확장할 수 있도록 돕는 Codex 기반 에이전트입니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Responses API의 WebSocket을 사용하여 에이전트 워크플로 속도 향상",
       "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
       "summary": "Codex 에이전트 루프에 대해 자세히 알아보고 WebSocket과 연결 범위 캐싱이 어떻게 API 오버헤드를 줄이고 모델 대기 시간을 개선했는지 보여줍니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 개인 정보 보호 필터 소개",
-      "link": "https://openai.com/index/introducing-openai-privacy-filter",
-      "date": "Wed, 22 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI 개인 정보 보호 필터는 최첨단 정확도로 텍스트에서 개인 식별 정보(PII)를 탐지하고 수정하기 위한 개방형 모델입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Codex를 전 세계 기업으로 확장",
-      "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "date": "Tue, 21 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI는 Accenture, PwC, Infosys 등과 협력하여 기업이 소프트웨어 개발 수명주기 전반에 걸쳐 Codex를 배포하고 확장할 수 있도록 지원하는 Codex Labs를 출시하고 4M Codex WAU를 달성했습니다...."
     },
     {
       "company": "Google AI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
       "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
