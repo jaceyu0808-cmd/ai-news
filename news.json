@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-22 21:03:52 (KST)",
+  "updated_at": "2026-04-22 23:51:41 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "Codex를 전 세계 기업으로 확장",
       "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
       "date": "Tue, 21 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI는 Accenture, PwC, Infosys 등과 협력하여 기업이 소프트웨어 개발 수명주기 전반에 걸쳐 Codex를 배포하고 확장하도록 지원하는 Codex Labs를 출시하고 4M Codex WAU를 달성했습니다...."
+      "summary": "OpenAI는 Accenture, PwC, Infosys 등과 협력하여 기업이 소프트웨어 개발 수명주기 전반에 걸쳐 Codex를 배포하고 확장할 수 있도록 지원하는 Codex Labs를 출시하고 4M Codex WAU를 달성했습니다...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "(거의) 모든 것에 대한 코덱스",
       "link": "https://openai.com/index/codex-for-almost-everything",
       "date": "Thu, 16 Apr 2026 10:00:00 GMT",
-      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 인앱 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
+      "summary": "macOS 및 Windows용으로 업데이트된 Codex 앱에는 컴퓨터 사용, 앱 내 탐색, 이미지 생성, 메모리 및 플러그인이 추가되어 개발자 작업 흐름을 가속화합니다...."
     },
     {
       "company": "Google AI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
       "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
