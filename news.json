@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-23 05:11:34 (KST)",
+  "updated_at": "2026-04-23 06:57:44 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT의 작업공간 에이전트 소개",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "summary": "ChatGPT의 Workspace 에이전트는 복잡한 워크플로를 자동화하고 클라우드에서 실행하며 팀이 여러 도구에서 작업을 안전하게 확장할 수 있도록 돕는 Codex 기반 에이전트입니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Workspace 에이전트",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
       "summary": "Codex 에이전트 루프에 대해 자세히 알아보고 WebSocket과 연결 범위 캐싱이 어떻게 API 오버헤드를 줄이고 모델 대기 시간을 개선했는지 보여줍니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT의 작업공간 에이전트 소개",
-      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "ChatGPT의 Workspace 에이전트는 복잡한 워크플로를 자동화하고 클라우드에서 실행하며 팀이 여러 도구에서 작업을 안전하게 확장할 수 있도록 돕는 Codex 기반 에이전트입니다...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Azure Accelerate for Databases 소개: 전문가와 투자를 통해 AI용 데이터 현대화",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
+      "date": "Wed, 22 Apr 2026 00:00:00 +0000",
+      "summary": "<p>Azure Accelerate for Databases는 조직이 데이터베이스를 현대화하고 AI 지원 기능을 구축하는 데 도움이 됩니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accel..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "클라우드 비용 최적화: 여전히 중요한 원칙",
       "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
       "date": "Wed, 15 Apr 2026 16:00:00 +0000",
@@ -52,17 +59,17 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
       "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-      "date": "Thu, 09 Apr 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
+      "company": "AWS Machine Learning",
+      "title": "Parakeet-TDT 및 AWS Batch를 사용하여 대규모로 비용 효율적인 다국어 오디오 트랜스크립션",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/",
+      "date": "Wed, 22 Apr 2026 21:05:01 +0000",
+      "summary": "이 게시물에서는 Amazon Simple Storage Service(Amazon S3)에 업로드된 오디오 파일을 자동으로 처리하는 확장 가능한 이벤트 중심 전사 파이프라인을 구축하는 방법을 안내하고 그 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/",
       "date": "Wed, 22 Apr 2026 19:13:56 +0000",
       "summary": "오늘 우리는 에이전트 구축 경험을 더욱 간소화하고 에이전트 개발의 모든 단계에서 팀의 속도를 늦추는 인프라 장벽을 제거하는 새로운 기능을 도입합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Neptune 및 Mem0을 사용하는 Amazon Bedrock의 회사별 메모리",
-      "link": "https://aws.amazon.com/blogs/machine-learning/company-wise-memory-in-amazon-bedrock-with-amazon-neptune-and-mem0/",
-      "date": "Wed, 22 Apr 2026 15:56:24 +0000",
-      "summary": "Amazon Neptune 및 Mem0을 기반으로 하는 Amazon Bedrock의 회사별 메모리는 AI 에이전트에 지속적인 회사별 컨텍스트를 제공하여 AI 에이전트가 전체에서 지능적으로 학습, 적응 및 대응할 수 있도록 지원합니다...."
     },
     {
       "company": "Hugging Face",
