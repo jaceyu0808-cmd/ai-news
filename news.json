@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23 15:12:54 (KST)",
+  "updated_at": "2026-04-23 17:59:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "Workspace 에이전트",
+      "link": "https://openai.com/academy/workspace-agents",
+      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "summary": "ChatGPT에서 작업공간 에이전트를 구축, 사용, 확장하여 반복 가능한 워크플로를 자동화하고, 도구를 연결하고, 팀 운영을 간소화하는 방법을 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
       "title": "ChatGPT의 작업공간 에이전트 소개",
       "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
       "summary": "ChatGPT의 Workspace 에이전트는 복잡한 워크플로를 자동화하고 클라우드에서 실행하며 팀이 여러 도구에서 작업을 안전하게 확장할 수 있도록 돕는 Codex 기반 에이전트입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Responses API의 WebSocket을 사용하여 에이전트 워크플로 속도 향상",
-      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "Codex 에이전트 루프에 대해 자세히 알아보고 WebSocket과 연결 범위 캐싱이 어떻게 API 오버헤드를 줄이고 모델 대기 시간을 개선했는지 보여줍니다...."
     },
     {
       "company": "Google AI",
