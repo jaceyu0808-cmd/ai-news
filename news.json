@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23 21:04:17 (KST)",
+  "updated_at": "2026-04-24 00:20:12 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,7 +24,7 @@
     },
     {
       "company": "Google AI",
-      "title": "오스트리아 발전: Google은 알프스의 첫 번째 데이터 센터에 투자합니다.",
+      "title": "오스트리아 발전: Google은 알프스에 최초의 데이터 센터에 투자합니다.",
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
       "date": "Thu, 23 Apr 2026 09:00:00 +0000",
       "summary": "데이터 센터의 항공 이미지..."
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Azure Accelerate for Databases 소개: 전문가와 투자를 통해 AI용 데이터 현대화",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
+      "date": "Wed, 22 Apr 2026 00:00:00 +0000",
+      "summary": "<p>Azure Accelerate for Databases는 조직이 데이터베이스를 현대화하고 AI 지원 기능을 구축하는 데 도움이 됩니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accel..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "클라우드 비용 최적화: 여전히 중요한 원칙",
       "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
       "date": "Wed, 15 Apr 2026 16:00:00 +0000",
@@ -52,17 +59,10 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 현재 일반 공급됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
       "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
-      "date": "Thu, 09 Apr 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
     },
     {
       "company": "AWS Machine Learning",
