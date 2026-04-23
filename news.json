@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23 08:56:07 (KST)",
+  "updated_at": "2026-04-23 12:38:41 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "Responses API의 WebSocket을 사용하여 에이전트 워크플로 속도 향상",
-      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "title": "ChatGPT의 작업공간 에이전트 소개",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "Codex 에이전트 루프에 대해 자세히 알아보고 WebSocket과 연결 범위 캐싱이 어떻게 API 오버헤드를 줄이고 모델 대기 시간을 개선했는지 보여줍니다...."
+      "summary": "ChatGPT의 Workspace 에이전트는 복잡한 워크플로를 자동화하고 클라우드에서 실행하며 팀이 여러 도구에서 작업을 안전하게 확장할 수 있도록 돕는 Codex 기반 에이전트입니다...."
     },
     {
       "company": "OpenAI",
       "title": "Workspace 에이전트",
       "link": "https://openai.com/academy/workspace-agents",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "ChatGPT에서 작업공간 에이전트를 구축, 사용, 확장하여 반복 가능한 워크플로를 자동화하고, 도구를 연결하고, 팀 운영을 간소화하는 방법을 알아보세요...."
+      "summary": "ChatGPT에서 작업 공간 에이전트를 구축, 사용, 확장하여 반복 가능한 워크플로를 자동화하고 도구를 연결하며 팀 운영을 간소화하는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -38,24 +38,10 @@
     },
     {
       "company": "Google AI",
-      "title": "Google의 도움으로 올여름 더욱 스마트하게 여행하는 7가지 방법",
+      "title": "Google의 도움을 받아 올여름 더 스마트하게 여행하는 7가지 방법",
       "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
       "date": "Fri, 17 Apr 2026 14:00:00 +0000",
       "summary": "해변 마을의 물가 농산물 직판장에서 Pixel 휴대전화를 들고 있는 사람을 보여주는 그림..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft Discovery: 대규모 에이전트 R&D 발전",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
-      "date": "Wed, 22 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft Discovery에 대한 확장된 미리보기 액세스를 통해 연구 개발팀을 위한 새로운 엔터프라이즈급 에이전트 AI 기능을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/b..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure Accelerate for Databases 소개: 전문가와 투자를 통해 AI용 데이터 현대화",
-      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
-      "date": "Wed, 22 Apr 2026 00:00:00 +0000",
-      "summary": "<p>Azure Accelerate for Databases는 조직이 데이터베이스를 현대화하고 AI 지원 기능을 구축하는 데 도움이 됩니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accel..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -63,6 +49,20 @@
       "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
       "date": "Wed, 15 Apr 2026 16:00:00 +0000",
       "summary": "<p>지출 관리, 효율성 개선, 가치 극대화를 위한 모범 사례를 통해 클라우드 비용 최적화가 AI 시대에 어떻게 적응하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.co..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
+      "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
+      "date": "Tue, 14 Apr 2026 15:00:00 +0000",
+      "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft는 The Forrester Wave™에서 Sovereign Cloud Platform 부문의 리더로 선정되었습니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/",
+      "date": "Thu, 09 Apr 2026 19:00:00 +0000",
+      "summary": "<p>Microsoft는 Sovereign 클라우드 플랫폼에 대한 Forrester Wave™에서 리더로 선정되어 진화하는 주권 요구 사항에서 Microsoft Sovereign Cloud의 리더십을 인정받았습니다.</p>\n<p>게시물 <a href=\"https://az..."
     },
     {
       "company": "AWS Machine Learning",
