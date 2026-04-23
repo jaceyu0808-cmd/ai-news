@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23 12:38:41 (KST)",
+  "updated_at": "2026-04-23 15:12:54 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Workspace 에이전트",
-      "link": "https://openai.com/academy/workspace-agents",
+      "title": "Responses API의 WebSocket을 사용하여 에이전트 워크플로 속도 향상",
+      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "summary": "ChatGPT에서 작업 공간 에이전트를 구축, 사용, 확장하여 반복 가능한 워크플로를 자동화하고 도구를 연결하며 팀 운영을 간소화하는 방법을 알아보세요...."
+      "summary": "Codex 에이전트 루프에 대해 자세히 알아보고 WebSocket과 연결 범위 캐싱이 어떻게 API 오버헤드를 줄이고 모델 대기 시간을 개선했는지 보여줍니다...."
     },
     {
       "company": "Google AI",
@@ -38,7 +38,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Google의 도움을 받아 올여름 더 스마트하게 여행하는 7가지 방법",
+      "title": "Google의 도움으로 올여름 더욱 스마트하게 여행하는 7가지 방법",
       "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
       "date": "Fri, 17 Apr 2026 14:00:00 +0000",
       "summary": "해변 마을의 물가 농산물 직판장에서 Pixel 휴대전화를 들고 있는 사람을 보여주는 그림..."
@@ -55,7 +55,7 @@
       "title": "스마트 계층을 통해 객체 스토리지 비용을 자동으로 최적화 - 이제 정식 출시됨",
       "link": "https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/",
       "date": "Tue, 14 Apr 2026 15:00:00 +0000",
-      "summary": "<p>스마트 계층은 지속적으로 데이터 배치를 최적화하여 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
+      "summary": "<p>지속적으로 데이터 배치를 최적화함으로써 스마트 계층은 스토리지 비용이 실제 사용량에 맞춰지도록 보장합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/optimize-object-stora..."
     },
     {
       "company": "Microsoft Azure AI",
