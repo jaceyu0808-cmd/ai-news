@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25 04:06:19 (KST)",
+  "updated_at": "2026-04-25 05:59:56 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Jetson Music Nano Super의 Gemma 4 VLA 데모",
       "link": "https://huggingface.co/blog/nvidia/gemma4",
       "date": "Wed, 22 Apr 2026 15:40:50 GMT",
       "summary": "..."
