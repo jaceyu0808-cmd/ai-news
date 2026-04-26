@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27 00:52:00 (KST)",
+  "updated_at": "2026-04-27 01:55:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -38,7 +38,7 @@
     },
     {
       "company": "Google AI",
-      "title": "오스트리아 발전: Google은 알프스의 첫 번째 데이터 센터에 투자합니다.",
+      "title": "오스트리아 발전: Google은 알프스에 최초의 데이터 센터에 투자합니다.",
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
       "date": "Thu, 23 Apr 2026 09:00:00 +0000",
       "summary": "데이터 센터의 항공 이미지..."
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "치료법 및 환자 치료 전반에 걸쳐 다중 모드 생물학적 기초 모델 적용",
+      "title": "치료법과 ​​환자 치료 전반에 걸쳐 다중 모드 생물학적 기초 모델 적용",
       "link": "https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/",
       "date": "Thu, 23 Apr 2026 16:17:29 +0000",
       "summary": "이 게시물에서는 다중 모드 BioFM의 작동 방식을 살펴보고, 약물 발견 및 임상 개발에서 실제 애플리케이션을 선보이고, 조직이 AWS를 통해 구축 및 배포를 수행하는 방법을 맥락화할 것입니다...."
