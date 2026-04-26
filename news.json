@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27 02:50:20 (KST)",
+  "updated_at": "2026-04-27 04:07:47 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -69,7 +69,7 @@
       "title": "Visier 및 Amazon Quick을 사용하여 Workforce AI 에이전트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/",
       "date": "Fri, 24 Apr 2026 18:04:20 +0000",
-      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜)를 통해 Visier Workforce AI 플랫폼을 Amazon Quick과 연결하여 모든 지식 근로자에게 질문을 할 수 있는 통합 에이전트 작업 공간을 제공하는 방법을 보여줍니다...."
+      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜)를 통해 Visier Workforce AI 플랫폼을 Amazon Quick과 연결하여 모든 지식 근로자에게 질문할 수 있는 통합 에이전트 작업 공간을 제공하는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
