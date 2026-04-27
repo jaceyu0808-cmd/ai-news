@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28 01:48:25 (KST)",
+  "updated_at": "2026-04-28 03:12:31 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "우리의 원칙",
-      "link": "https://openai.com/index/our-principles",
-      "date": "Sun, 26 Apr 2026 16:00:00 GMT",
-      "summary": "우리의 임무는 AGI가 모든 인류에게 혜택을 줄 수 있도록 하는 것입니다. Sam Altman은 우리 업무의 지침이 되는 5가지 원칙을 공유합니다...."
+      "title": "오케스트레이션을 위한 오픈 소스 사양: Symphony",
+      "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "date": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "summary": "Codex 오케스트레이션을 위한 오픈 소스 사양인 Symphony가 문제 추적기를 상시 에이전트 시스템으로 전환하여 엔지니어링 결과를 향상하고 컨텍스트 전환을 줄이는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "GPT-5.5 소개",
-      "link": "https://openai.com/index/introducing-gpt-5-5",
-      "date": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": "우리의 가장 스마트한 모델인 GPT-5.5를 소개합니다. 더 빠르고 더 유능하며 도구 전반에 걸쳐 코딩, 연구, 데이터 분석과 같은 복잡한 작업을 위해 구축되었습니다...."
+      "title": "Choco는 AI 에이전트로 식품 유통을 자동화합니다.",
+      "link": "https://openai.com/index/choco",
+      "date": "Mon, 27 Apr 2026 00:00:00 GMT",
+      "summary": "Choco가 OpenAI API를 사용하여 식품 유통을 간소화하고 생산성을 높이며 성장을 촉진한 방법 - 실제 AI가 미치는 영향에 대한 심층적인 고객 사례입니다...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry의 OpenAI GPT-5.5: 엔터프라이즈 지원 플랫폼의 프론티어 인텔리전스",
+      "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+      "date": "Thu, 23 Apr 2026 22:00:00 +0000",
+      "summary": "<p>OpenAI의 GPT-5.5는 Microsoft Foundry에서 정식 출시되어 OpenAI의 최신 프론티어 모델을 Azure와 실제 프로덕션 작업을 위한 에이전트를 구축하는 기업 팀에 제공할 예정입니다.</p>\n<p>위치..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Microsoft Discovery: 대규모 에이전트 R&D 발전",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
       "date": "Wed, 22 Apr 2026 16:00:00 +0000",
@@ -58,32 +65,25 @@
       "summary": "<p>Azure Accelerate for Databases는 조직이 데이터베이스를 현대화하고 AI 지원 기능을 구축하는 데 도움이 됩니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accel..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "클라우드 비용 최적화: 여전히 중요한 원칙",
-      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
-      "date": "Wed, 15 Apr 2026 16:00:00 +0000",
-      "summary": "<p>지출 관리, 효율성 개선, 가치 극대화를 위한 모범 사례를 통해 클라우드 비용 최적화가 AI 시대에 어떻게 적응하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.co..."
+      "company": "AWS Machine Learning",
+      "title": "Amazon Quick Flows로 반복적인 작업 자동화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/",
+      "date": "Mon, 27 Apr 2026 17:52:05 +0000",
+      "summary": "이 게시물에서는 Amazon Quick을 사용하여 재무 분석 도구부터 시작하여 고급 직원 온보딩 자동화로 진행하는 첫 번째 AI 기반 워크플로를 구축하는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Popsa가 Amazon Nova를 사용하여 맞춤형 제목 제안으로 고객에게 영감을 준 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-popsa-used-amazon-nova-to-inspire-customers-with-personalised-title-suggestions/",
-      "date": "Mon, 27 Apr 2026 16:45:37 +0000",
-      "summary": "이 게시물에서는 제목 제안 기능을 재구성하기 위해 Amazon Bedrock 및 Amazon Nova 모델 제품군을 적용한 방법을 공유합니다. 메타데이터, 컴퓨터 비전, 검색 증강 생성을 결합하여..."
+      "title": "Amazon Bedrock Knowledge Bases를 위한 자동 동기화 솔루션 구축 및 배포",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases/",
+      "date": "Mon, 27 Apr 2026 17:51:41 +0000",
+      "summary": "이 게시물에서는 서비스 할당량을 존중하고 포괄적인 모니터링을 제공하면서 S3 이벤트를 감지하고 수집 작업을 트리거하는 자동화된 솔루션을 살펴봅니다. 이 서버리스 솔루션은 다음을 사용합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Visier 및 Amazon Quick을 사용하여 Workforce AI 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-workforce-ai-agents-with-visier-and-amazon-quick/",
-      "date": "Fri, 24 Apr 2026 18:04:20 +0000",
-      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜)를 통해 Visier Workforce AI 플랫폼을 Amazon Quick과 연결하여 모든 지식 근로자에게 질문할 수 있는 통합 에이전트 작업 공간을 제공하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "마케팅을 위한 Amazon Quick: 분산된 데이터에서 전략적 조치까지",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-for-marketing-from-scattered-data-to-strategic-action/",
-      "date": "Thu, 23 Apr 2026 17:05:17 +0000",
-      "summary": "Amazon Quick은 작업 방식을 변화시킵니다. 몇 분 안에 설정할 수 있으며, 하루가 끝날 무렵에는 이 기능 없이 어떻게 일했는지 궁금해하게 될 것입니다. 애플리케이션, 도구 및 데이터와 빠르게 연결하여 생성..."
+      "title": "SageMaker AI 모델 및 MLflow를 사용하여 스트랜드 에이전트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/",
+      "date": "Mon, 27 Apr 2026 16:50:41 +0000",
+      "summary": "이 게시물에서는 SageMaker AI 엔드포인트에 배포된 모델과 함께 Strands Agents SDK를 사용하여 AI 에이전트를 구축하는 방법을 보여줍니다. SageMaker JumpStart에서 기초 모델을 배포하는 방법을 배우게 됩니다...."
     },
     {
       "company": "Hugging Face",
