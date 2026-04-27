@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27 15:36:46 (KST)",
+  "updated_at": "2026-04-27 18:26:45 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "GPT-5.5 시스템 카드",
-      "link": "https://openai.com/index/gpt-5-5-system-card",
-      "date": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "OpenAI",
       "title": "GPT-5.5 소개",
       "link": "https://openai.com/index/introducing-gpt-5-5",
       "date": "Thu, 23 Apr 2026 11:00:00 GMT",
       "summary": "우리의 가장 스마트한 모델인 GPT-5.5를 소개합니다. 더 빠르고 더 유능하며 도구 전반에 걸쳐 코딩, 연구, 데이터 분석과 같은 복잡한 작업을 위해 구축되었습니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-5.5 시스템 카드",
+      "link": "https://openai.com/index/gpt-5-5-system-card",
+      "date": "Thu, 23 Apr 2026 11:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry의 OpenAI GPT-5.5: 엔터프라이즈 지원 플랫폼의 프론티어 인텔리전스",
+      "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+      "date": "Thu, 23 Apr 2026 22:00:00 +0000",
+      "summary": "<p>OpenAI의 GPT-5.5는 Microsoft Foundry에서 정식 출시되어 OpenAI의 최신 프론티어 모델을 Azure와 실제 프로덕션 작업을 위한 에이전트를 구축하는 기업 팀에 제공할 예정입니다.</p>\n<p>위치..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Microsoft Discovery: 대규모 에이전트 R&D 발전",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
       "date": "Wed, 22 Apr 2026 16:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
       "date": "Wed, 22 Apr 2026 00:00:00 +0000",
       "summary": "<p>Azure Accelerate for Databases는 조직이 데이터베이스를 현대화하고 AI 지원 기능을 구축하는 데 도움이 됩니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accel..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "클라우드 비용 최적화: 여전히 중요한 원칙",
-      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
-      "date": "Wed, 15 Apr 2026 16:00:00 +0000",
-      "summary": "<p>지출 관리, 효율성 개선, 가치 극대화를 위한 모범 사례를 통해 클라우드 비용 최적화가 AI 시대에 어떻게 적응하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.co..."
     },
     {
       "company": "AWS Machine Learning",
