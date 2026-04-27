@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28 03:12:31 (KST)",
+  "updated_at": "2026-04-28 05:14:47 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "오케스트레이션을 위한 오픈 소스 사양: Symphony",
       "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "date": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "summary": "Codex 오케스트레이션을 위한 오픈 소스 사양인 Symphony가 문제 추적기를 상시 에이전트 시스템으로 전환하여 엔지니어링 결과를 향상하고 컨텍스트 전환을 줄이는 방법을 알아보세요...."
+      "summary": "Codex 오케스트레이션을 위한 오픈 소스 사양인 Symphony가 이슈 추적기를 상시 에이전트 시스템으로 전환하여 엔지니어링 결과를 향상하고 컨텍스트 전환을 줄이는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
