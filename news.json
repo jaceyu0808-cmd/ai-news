@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-28 20:53:34 (KST)",
+  "updated_at": "2026-04-28 23:35:21 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "FedRAMP 보통 수준에서 OpenAI 사용 가능",
       "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
       "date": "Mon, 27 Apr 2026 14:00:00 GMT",
-      "summary": "OpenAI는 ChatGPT Enterprise 및 OpenAI API에 대해 FedRAMP 중간 인증을 통해 제공되므로 미국 연방 기관의 안전한 AI 채택이 가능합니다...."
+      "summary": "OpenAI는 ChatGPT Enterprise 및 OpenAI API에 대해 FedRAMP 중간 인증을 통해 제공되므로 미국 연방 기관의 보안 AI 도입이 가능합니다...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "오케스트레이션을 위한 오픈 소스 사양: Symphony",
       "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "date": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "summary": "Codex 오케스트레이션을 위한 오픈 소스 사양인 Symphony가 이슈 추적기를 상시 에이전트 시스템으로 전환하여 엔지니어링 결과를 향상하고 컨텍스트 전환을 줄이는 방법을 알아보세요...."
+      "summary": "Codex 오케스트레이션을 위한 오픈 소스 사양인 Symphony가 문제 추적기를 상시 에이전트 시스템으로 전환하여 엔지니어링 결과를 향상하고 컨텍스트 전환을 줄이는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "OpenAI의 개인 정보 보호 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
+      "title": "OpenAI의 개인 정보 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "date": "Mon, 27 Apr 2026 00:00:00 GMT",
       "summary": "..."
