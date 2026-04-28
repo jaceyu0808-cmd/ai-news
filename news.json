@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28 13:00:23 (KST)",
+  "updated_at": "2026-04-28 15:40:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "OpenAI의 개인 정보 보호 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
+      "title": "OpenAI의 개인 정보 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "date": "Mon, 27 Apr 2026 00:00:00 GMT",
       "summary": "..."
