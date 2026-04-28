@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-28 23:35:21 (KST)",
+  "updated_at": "2026-04-29 01:59:53 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "FedRAMP 보통 수준에서 OpenAI 사용 가능",
       "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
       "date": "Mon, 27 Apr 2026 14:00:00 GMT",
-      "summary": "OpenAI는 ChatGPT Enterprise 및 OpenAI API에 대해 FedRAMP 중간 인증을 통해 제공되므로 미국 연방 기관의 보안 AI 도입이 가능합니다...."
+      "summary": "OpenAI는 ChatGPT Enterprise 및 OpenAI API에 대해 FedRAMP 중간 인증을 통해 제공되므로 미국 연방 기관의 안전한 AI 채택이 가능합니다...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,14 @@
       "title": "오케스트레이션을 위한 오픈 소스 사양: Symphony",
       "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "date": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "summary": "Codex 오케스트레이션을 위한 오픈 소스 사양인 Symphony가 문제 추적기를 상시 에이전트 시스템으로 전환하여 엔지니어링 결과를 향상하고 컨텍스트 전환을 줄이는 방법을 알아보세요...."
+      "summary": "Codex 오케스트레이션을 위한 오픈 소스 사양인 Symphony가 이슈 추적기를 상시 에이전트 시스템으로 전환하여 엔지니어링 결과를 향상하고 컨텍스트 전환을 줄이는 방법을 알아보세요...."
+    },
+    {
+      "company": "Google AI",
+      "title": "Google 번역 20주년 기념: 재미있는 사실, 팁, 시도해 볼 수 있는 새로운 기능",
+      "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "date": "Tue, 28 Apr 2026 16:00:00 +0000",
+      "summary": "Google 번역 로고는 실시간 대화를 번역하는 사람들과 숫자 20이 적힌 촛불이 얹힌 생일 케이크 등 다채로운 그림 장면 가운데 자리잡고 있습니다...."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
       "date": "Fri, 24 Apr 2026 19:00:00 +0000",
       "summary": "문서 및 이메일 아이콘이 스트리밍되는 노트북, 휴대폰을 들고 체크리스트를 보고 웃고 있는 사람, Gemini Live를 활성화하는 사용자 등의 그림이 포함된 검은색 화면..."
-    },
-    {
-      "company": "Google AI",
-      "title": "TPU가 점점 더 까다로워지는 AI 워크로드를 지원하는 방법은 다음과 같습니다.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "date": "Thu, 23 Apr 2026 12:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Google TPU가 어떻게 점점 까다로워지는 AI 워크로드를 지원하는지 알아보세요...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "이제 Amazon SageMaker JumpStart에서 NVIDIA Nemotron 3 Nano Omni 모델을 사용할 수 있습니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/",
+      "date": "Tue, 28 Apr 2026 16:40:34 +0000",
+      "summary": "오늘 우리는 Amazon SageMaker JumpStart에서 NVIDIA Nemotron 3 Nano Omni의 출시일을 발표하게 되어 기쁘게 생각합니다. 이 게시물에서는 N의 모델 아키텍처와 주요 기능을 살펴봅니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Quick Flows로 반복적인 작업 자동화",
       "link": "https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/",
       "date": "Mon, 27 Apr 2026 17:52:05 +0000",
@@ -79,22 +86,15 @@
       "summary": "이 게시물에서는 서비스 할당량을 존중하고 포괄적인 모니터링을 제공하면서 S3 이벤트를 감지하고 수집 작업을 트리거하는 자동화된 솔루션을 살펴봅니다. 이 서버리스 솔루션은 다음을 사용합니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "SageMaker AI 모델 및 MLflow를 사용하여 스트랜드 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-strands-agents-with-sagemaker-ai-models-and-mlflow/",
-      "date": "Mon, 27 Apr 2026 16:50:41 +0000",
-      "summary": "이 게시물에서는 SageMaker AI 엔드포인트에 배포된 모델과 함께 Strands Agents SDK를 사용하여 AI 에이전트를 구축하는 방법을 보여줍니다. SageMaker JumpStart에서 기초 모델을 배포하는 방법을 배우게 됩니다...."
-    },
-    {
       "company": "Hugging Face",
-      "title": "물리학 기반 NV-Raw2Insights-US AI를 사용한 적응형 초음파 이미징",
-      "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-      "date": "Tue, 28 Apr 2026 00:28:13 GMT",
+      "title": "NVIDIA Nemotron 3 Nano Omni 소개: 문서, 오디오 및 비디오 에이전트를 위한 장기 상황 다중 모드 인텔리전스",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "date": "Tue, 28 Apr 2026 15:58:57 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "OpenAI의 개인 정보 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
+      "title": "OpenAI의 개인 정보 보호 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "date": "Mon, 27 Apr 2026 00:00:00 GMT",
       "summary": "..."
