@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29 05:23:19 (KST)",
+  "updated_at": "2026-04-29 07:06:38 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "FedRAMP 보통 수준에서 OpenAI 사용 가능",
       "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
       "date": "Mon, 27 Apr 2026 14:00:00 GMT",
-      "summary": "OpenAI는 ChatGPT Enterprise 및 OpenAI API에 대해 FedRAMP 중간 인증을 통해 제공되므로 미국 연방 기관의 보안 AI 도입이 가능합니다...."
+      "summary": "OpenAI는 ChatGPT Enterprise 및 OpenAI API에 대해 FedRAMP 중간 인증을 통해 제공되므로 미국 연방 기관의 안전한 AI 채택이 가능합니다...."
     },
     {
       "company": "OpenAI",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "NVIDIA Nemotron 3 Nano Omni 소개: 문서, 오디오 및 비디오 에이전트를 위한 장기 컨텍스트 다중 모드 인텔리전스",
+      "title": "NVIDIA Nemotron 3 Nano Omni 소개: 문서, 오디오 및 비디오 에이전트를 위한 장기 상황 다중 모드 인텔리전스",
       "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "date": "Tue, 28 Apr 2026 15:58:57 GMT",
       "summary": "..."
