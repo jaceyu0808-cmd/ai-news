@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-04-29 13:34:19 (KST)",
+  "updated_at": "2026-04-29 16:29:06 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "지역사회 안전을 위한 우리의 약속",
-      "link": "https://openai.com/index/our-commitment-to-community-safety",
-      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI가 모델 보호, 오용 감지, 정책 시행 및 안전 전문가와의 협업을 통해 ChatGPT에서 커뮤니티 안전을 어떻게 보호하는지 알아보세요...."
-    },
     {
       "company": "OpenAI",
       "title": "OpenAI 모델, Codex 및 관리형 에이전트가 AWS로 제공됩니다.",
       "link": "https://openai.com/index/openai-on-aws",
       "date": "Tue, 28 Apr 2026 00:00:00 GMT",
       "summary": "이제 OpenAI GPT 모델, Codex 및 관리형 에이전트를 AWS에서 사용할 수 있으므로 기업은 AWS 환경에서 안전한 AI를 구축할 수 있습니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "지역사회 안전을 위한 우리의 약속",
+      "link": "https://openai.com/index/our-commitment-to-community-safety",
+      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI가 모델 보호, 오용 감지, 정책 시행 및 안전 전문가와의 협력을 통해 ChatGPT에서 커뮤니티 안전을 어떻게 보호하는지 알아보세요...."
     },
     {
       "company": "OpenAI",
@@ -87,14 +87,14 @@
     },
     {
       "company": "Hugging Face",
-      "title": "NVIDIA Nemotron 3 Nano Omni 소개: 문서, 오디오 및 비디오 에이전트를 위한 장기 상황 다중 모드 인텔리전스",
+      "title": "NVIDIA Nemotron 3 Nano Omni 소개: 문서, 오디오 및 비디오 에이전트를 위한 장기 컨텍스트 다중 모드 인텔리전스",
       "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "date": "Tue, 28 Apr 2026 15:58:57 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "OpenAI의 개인 정보 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
+      "title": "OpenAI의 개인 정보 보호 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "date": "Mon, 27 Apr 2026 00:00:00 GMT",
       "summary": "..."
