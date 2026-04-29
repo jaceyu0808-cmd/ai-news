@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29 21:20:56 (KST)",
+  "updated_at": "2026-04-30 00:22:38 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Granite 4.1 LLM: 구축 방법",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "date": "Wed, 29 Apr 2026 15:01:48 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "NVIDIA Nemotron 3 Nano Omni 소개: 문서, 오디오 및 비디오 에이전트를 위한 장기 상황 다중 모드 인텔리전스",
       "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "date": "Tue, 28 Apr 2026 15:58:57 GMT",
@@ -97,13 +104,6 @@
       "title": "OpenAI의 개인 정보 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "date": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "DeepSeek-V4: 에이전트가 실제로 사용할 수 있는 백만 개의 토큰 컨텍스트",
-      "link": "https://huggingface.co/blog/deepseekv4",
-      "date": "Fri, 24 Apr 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
