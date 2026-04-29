@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30 02:46:08 (KST)",
+  "updated_at": "2026-04-30 04:47:43 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "지역사회 안전을 위한 우리의 약속",
       "link": "https://openai.com/index/our-commitment-to-community-safety",
       "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI가 모델 보호, 오용 감지, 정책 시행 및 안전 전문가와의 협력을 통해 ChatGPT에서 커뮤니티 안전을 어떻게 보호하는지 알아보세요...."
+      "summary": "OpenAI가 모델 보호, 오용 감지, 정책 시행 및 안전 전문가와의 협업을 통해 ChatGPT에서 커뮤니티 안전을 어떻게 보호하는지 알아보세요...."
     },
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "대규모 에이전트 메모리 구성: AgentCore 메모리의 네임스페이스 디자인 패턴",
+      "link": "https://aws.amazon.com/blogs/machine-learning/organizing-agents-memory-at-scale-namespace-design-patterns-in-agentcore-memory/",
+      "date": "Wed, 29 Apr 2026 19:31:54 +0000",
+      "summary": "이 게시물에서는 네임스페이스 계층 구조를 설계하고, 올바른 검색 패턴을 선택하고, AgentCore 메모리에 대한 AWS Identity and Access Management(IAM) 기반 액세스 제어를 구현하는 방법을 알아봅니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "AI 지원 데이터 구축: Vanguard의 Virtual Analyst 여정",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/",
       "date": "Wed, 29 Apr 2026 11:56:33 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/run-custom-mcp-proxies-serverless-on-amazon-bedrock-agentcore-runtime/",
       "date": "Wed, 29 Apr 2026 11:52:16 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock AgentCore Runtime에 서버리스 MCP 프록시를 배포하는 방법을 보여줍니다. 이 프록시는 프로그래밍 가능한 계층을 제공하여 적절한 거버넌스, 제어 및 관찰 가능성을 구현합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova 2 Sonic을 사용하여 텍스트 에이전트를 음성 도우미로 마이그레이션",
-      "link": "https://aws.amazon.com/blogs/machine-learning/migrating-a-text-agent-to-a-voice-assistant-with-amazon-nova-2-sonic/",
-      "date": "Tue, 28 Apr 2026 17:46:55 +0000",
-      "summary": "이 게시물에서는 Amazon Nova 2 Sonic을 사용하여 기존 텍스트 에이전트를 대화형 음성 도우미로 마이그레이션하는 데 필요한 사항을 살펴봅니다. 텍스트 및 음성 에이전트 요구 사항을 비교하고 디자인을 강조합니다...."
     },
     {
       "company": "Hugging Face",
