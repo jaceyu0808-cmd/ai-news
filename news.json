@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30 06:14:53 (KST)",
+  "updated_at": "2026-04-30 08:03:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "지역사회 안전을 위한 우리의 약속",
-      "link": "https://openai.com/index/our-commitment-to-community-safety",
-      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI가 모델 보호, 오용 감지, 정책 시행 및 안전 전문가와의 협력을 통해 ChatGPT에서 커뮤니티 안전을 어떻게 보호하는지 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
       "title": "OpenAI 모델, Codex 및 관리형 에이전트가 AWS로 제공됩니다.",
       "link": "https://openai.com/index/openai-on-aws",
       "date": "Tue, 28 Apr 2026 00:00:00 GMT",
       "summary": "이제 OpenAI GPT 모델, Codex 및 관리형 에이전트를 AWS에서 사용할 수 있으므로 기업은 AWS 환경에서 안전한 AI를 구축할 수 있습니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "지역사회 안전을 위한 우리의 약속",
+      "link": "https://openai.com/index/our-commitment-to-community-safety",
+      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI가 모델 보호, 오용 감지, 정책 시행 및 안전 전문가와의 협력을 통해 ChatGPT에서 커뮤니티 안전을 어떻게 보호하는지 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry의 OpenAI GPT-5.5: 엔터프라이즈 지원 플랫폼의 프론티어 인텔리전스",
-      "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
-      "date": "Thu, 23 Apr 2026 22:00:00 +0000",
-      "summary": "<p>OpenAI의 GPT-5.5는 Microsoft Foundry에서 정식 출시되어 OpenAI의 최신 프론티어 모델을 Azure와 실제 프로덕션 작업을 위한 에이전트를 구축하는 기업 팀에 제공할 예정입니다.</p>\n<p>위치..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft Discovery: 대규모 에이전트 R&D 발전",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
       "date": "Wed, 22 Apr 2026 16:00:00 +0000",
@@ -63,6 +56,20 @@
       "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
       "date": "Wed, 22 Apr 2026 00:00:00 +0000",
       "summary": "<p>Azure Accelerate for Databases는 조직이 데이터베이스를 현대화하고 AI 지원 기능을 구축하는 데 도움이 됩니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accel..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "클라우드 비용 최적화: 여전히 중요한 원칙",
+      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
+      "date": "Wed, 15 Apr 2026 16:00:00 +0000",
+      "summary": "<p>지출 관리, 효율성 개선, 가치 극대화를 위한 모범 사례를 통해 클라우드 비용 최적화가 AI 시대에 어떻게 적응하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.co..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "AWS에서 PwC의 AI 기반 주석을 통해 계약 통찰력 추출",
+      "link": "https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/",
+      "date": "Wed, 29 Apr 2026 21:19:39 +0000",
+      "summary": "이 게시물은 PwC의 Yash Munsadwala, Adam Hood, Justin Guse 및 Hector Hernandez와 공동으로 작성되었습니다. 계약 분석은 법률, 규정 준수 및 조달 팀에 상당한 시간을 소모하는 경우가 많습니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/",
       "date": "Wed, 29 Apr 2026 11:56:33 +0000",
       "summary": "이 게시물에서는 Vanguard가 AI 지원 데이터의 8가지 기본 원칙, 구현을 지원하는 AWS 서비스 및 측정 방법에 중점을 두어 Virtual Analyst 솔루션을 구축한 방법을 알아봅니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore Runtime에서 서버리스 사용자 지정 MCP 프록시 실행",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-custom-mcp-proxies-serverless-on-amazon-bedrock-agentcore-runtime/",
-      "date": "Wed, 29 Apr 2026 11:52:16 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock AgentCore Runtime에 서버리스 MCP 프록시를 배포하는 방법을 보여줍니다. 이 프록시는 프로그래밍 가능한 계층을 제공하여 적절한 거버넌스, 제어 및 관찰 가능성을 구현합니다...."
     },
     {
       "company": "Hugging Face",
