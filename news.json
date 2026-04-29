@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-04-29 09:01:24 (KST)",
+  "updated_at": "2026-04-29 13:34:19 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "지역사회 안전을 위한 우리의 약속",
+      "link": "https://openai.com/index/our-commitment-to-community-safety",
+      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "summary": "OpenAI가 모델 보호, 오용 감지, 정책 시행 및 안전 전문가와의 협업을 통해 ChatGPT에서 커뮤니티 안전을 어떻게 보호하는지 알아보세요...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI 모델, Codex 및 관리형 에이전트가 AWS로 제공됩니다.",
@@ -13,14 +20,7 @@
       "title": "FedRAMP 보통 수준에서 OpenAI 사용 가능",
       "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
       "date": "Mon, 27 Apr 2026 14:00:00 GMT",
-      "summary": "OpenAI는 ChatGPT Enterprise 및 OpenAI API에 대해 FedRAMP 중간 인증을 통해 제공되므로 미국 연방 기관의 안전한 AI 채택이 가능합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Microsoft OpenAI 파트너십의 다음 단계",
-      "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "date": "Mon, 27 Apr 2026 06:00:00 GMT",
-      "summary": "OpenAI와 Microsoft는 파트너십을 단순화하고 장기적인 명확성을 추가하며 대규모의 지속적인 AI 혁신을 지원하는 수정된 계약을 발표했습니다...."
+      "summary": "OpenAI는 ChatGPT Enterprise 및 OpenAI API에 대해 FedRAMP 중간 인증을 통해 제공되므로 미국 연방 기관의 보안 AI 도입이 가능합니다...."
     },
     {
       "company": "Google AI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "OpenAI의 개인 정보 보호 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
+      "title": "OpenAI의 개인 정보 필터를 사용하여 확장 가능한 웹 앱을 구축하는 방법",
       "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "date": "Mon, 27 Apr 2026 00:00:00 GMT",
       "summary": "..."
