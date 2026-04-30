@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-04-30 08:03:15 (KST)",
+  "updated_at": "2026-04-30 12:55:05 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "고블린은 어디서 왔는가",
+      "link": "https://openai.com/index/where-the-goblins-came-from",
+      "date": "Wed, 29 Apr 2026 20:00:00 GMT",
+      "summary": "AI 모델에서 고블린 출력이 확산되는 방식: 타임라인, 근본 원인, GPT-5 행동의 성격 중심 기이함 뒤에 있는 수정 사항...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "지능 시대를 위한 컴퓨팅 인프라 구축",
+      "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "date": "Wed, 29 Apr 2026 15:00:00 GMT",
+      "summary": "OpenAI는 Stargate를 확장하여 AGI를 지원하는 컴퓨팅 인프라를 구축하고 증가하는 AI 수요를 충족하기 위해 새로운 데이터 센터 용량을 추가합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "지능 시대의 사이버 보안",
       "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
       "date": "Wed, 29 Apr 2026 04:00:00 GMT",
       "summary": "OpenAI는 AI 기반 사이버 방어를 민주화하고 중요 시스템을 보호하는 데 중점을 두고 지능 시대의 사이버 보안을 강화하기 위한 5개 부분으로 구성된 실행 계획을 설명합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 모델, Codex 및 관리형 에이전트가 AWS로 제공됩니다.",
-      "link": "https://openai.com/index/openai-on-aws",
-      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "이제 OpenAI GPT 모델, Codex 및 관리형 에이전트를 AWS에서 사용할 수 있으므로 기업은 AWS 환경에서 안전한 AI를 구축할 수 있습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "지역사회 안전을 위한 우리의 약속",
-      "link": "https://openai.com/index/our-commitment-to-community-safety",
-      "date": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "summary": "OpenAI가 모델 보호, 오용 감지, 정책 시행 및 안전 전문가와의 협력을 통해 ChatGPT에서 커뮤니티 안전을 어떻게 보호하는지 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry의 OpenAI GPT-5.5: 엔터프라이즈 지원 플랫폼의 프론티어 인텔리전스",
+      "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+      "date": "Thu, 23 Apr 2026 22:00:00 +0000",
+      "summary": "<p>OpenAI의 GPT-5.5는 Microsoft Foundry에서 정식 출시되어 OpenAI의 최신 프론티어 모델을 Azure와 실제 프로덕션 작업을 위한 에이전트를 구축하는 기업 팀에 제공할 예정입니다.</p>\n<p>위치..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Microsoft Discovery: 대규모 에이전트 R&D 발전",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
       "date": "Wed, 22 Apr 2026 16:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/",
       "date": "Wed, 22 Apr 2026 00:00:00 +0000",
       "summary": "<p>Azure Accelerate for Databases는 조직이 데이터베이스를 현대화하고 AI 지원 기능을 구축하는 데 도움이 됩니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/introducing-azure-accel..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "클라우드 비용 최적화: 여전히 중요한 원칙",
-      "link": "https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/",
-      "date": "Wed, 15 Apr 2026 16:00:00 +0000",
-      "summary": "<p>지출 관리, 효율성 개선, 가치 극대화를 위한 모범 사례를 통해 클라우드 비용 최적화가 AI 시대에 어떻게 적응하는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.co..."
     },
     {
       "company": "AWS Machine Learning",
