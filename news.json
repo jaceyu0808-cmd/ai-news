@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01 03:17:02 (KST)",
+  "updated_at": "2026-05-01 05:14:51 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -52,17 +52,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Microsoft Sovereign Private Cloud는 Azure Local을 통해 수천 개의 노드로 확장됩니다.",
+      "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+      "date": "Mon, 27 Apr 2026 18:00:00 +0000",
+      "summary": "<p>Azure Local은 Microsoft Sovereign Private Cloud를 확장하여 완전한 제어, 규정 준수 및 연결 끊김 작업으로 AI 및 데이터 워크로드를 지원합니다.</p>\n<p>게시물 <a href=\"https://blogs.microsoft.c..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Microsoft Foundry의 OpenAI GPT-5.5: 엔터프라이즈 지원 플랫폼의 프론티어 인텔리전스",
       "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
       "date": "Thu, 23 Apr 2026 22:00:00 +0000",
       "summary": "<p>OpenAI의 GPT-5.5는 Microsoft Foundry에서 정식 출시되어 OpenAI의 최신 프론티어 모델을 Azure와 실제 프로덕션 작업을 위한 에이전트를 구축하는 기업 팀에 제공할 예정입니다.</p>\n<p>위치..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft Discovery: 대규모 에이전트 R&D 발전",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/",
-      "date": "Wed, 22 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft Discovery에 대한 확장된 미리보기 액세스를 통해 연구 개발팀을 위한 새로운 엔터프라이즈급 에이전트 AI 기능을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/b..."
+      "company": "AWS Machine Learning",
+      "title": "판사로서의 LLM을 통한 강화 미세 조정",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/",
+      "date": "Thu, 30 Apr 2026 20:07:25 +0000",
+      "summary": "이 게시물에서는 판사로서 LLM을 사용하는 RLAIF 또는 RL이 Amazon Nova 모델과 효과적으로 작동하는 방법을 자세히 살펴봅니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/",
       "date": "Thu, 30 Apr 2026 17:00:45 +0000",
       "summary": "이 게시물에서는 Sun Finance가 Amazon Bedrock, Amazon Textract 및 Amazon Rekognition을 사용하여 AI 기반 ID 확인(IDV) 파이프라인을 구축한 방법을 보여줍니다. 추출 정확도가 향상된 솔루션..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Athena 및 Amazon Quick을 통해 Amazon SageMaker에서 에이전트적 AI 분석 활용",
-      "link": "https://aws.amazon.com/blogs/machine-learning/unleashing-agentic-ai-analytics-on-amazon-sagemaker-with-amazon-athena-and-amazon-quick/",
-      "date": "Thu, 30 Apr 2026 16:52:40 +0000",
-      "summary": "이 게시물에서는 Amazon Quick의 에이전트 AI 보조자가 Amazon Simple Storage Service(Amazon S3)를 스토리지로 사용하여 Amazon SageMa를 사용하여 데이터 분석을 셀프 서비스 기능으로 변환하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
