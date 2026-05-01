@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01 08:58:00 (KST)",
+  "updated_at": "2026-05-01 13:09:46 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "지능 시대를 위한 컴퓨팅 인프라 구축",
+      "title": "지능화 시대를 위한 컴퓨팅 인프라 구축",
       "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "date": "Wed, 29 Apr 2026 15:00:00 GMT",
       "summary": "OpenAI는 Stargate를 확장하여 AGI를 지원하는 컴퓨팅 인프라를 구축하고 증가하는 AI 수요를 충족하기 위해 새로운 데이터 센터 용량을 추가합니다...."
