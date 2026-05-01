@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02 04:23:05 (KST)",
+  "updated_at": "2026-05-02 06:02:33 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "지능화 시대를 위한 컴퓨팅 인프라 구축",
+      "title": "지능 시대를 위한 컴퓨팅 인프라 구축",
       "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "date": "Wed, 29 Apr 2026 15:00:00 GMT",
       "summary": "OpenAI는 Stargate를 확장하여 AGI를 지원하는 컴퓨팅 인프라를 구축하고 증가하는 AI 수요를 충족하기 위해 새로운 데이터 센터 용량을 추가합니다...."
@@ -66,7 +66,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS Transform은 이제 며칠 만에 Amazon Quick으로 BI 마이그레이션을 자동화합니다.",
+      "title": "AWS Transform, 이제 며칠 만에 Amazon Quick으로 BI 마이그레이션 자동화",
       "link": "https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/",
       "date": "Fri, 01 May 2026 18:29:06 +0000",
       "summary": "이 게시물에서는 AWS Transform에서 마이그레이션 작업 공간을 설정하는 것부터 AWS Marketplace를 통해 파트너 에이전트를 구독하고 Amazon Quick 기능을 잠금 해제하는 것까지 전체 여정을 안내합니다...."
