@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01 16:30:38 (KST)",
+  "updated_at": "2026-05-01 18:54:56 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
