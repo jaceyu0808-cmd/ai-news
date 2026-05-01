@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02 02:07:05 (KST)",
+  "updated_at": "2026-05-02 04:23:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "지능 시대를 위한 컴퓨팅 인프라 구축",
+      "title": "지능화 시대를 위한 컴퓨팅 인프라 구축",
       "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "date": "Wed, 29 Apr 2026 15:00:00 GMT",
       "summary": "OpenAI는 Stargate를 확장하여 AGI를 지원하는 컴퓨팅 인프라를 구축하고 증가하는 AI 수요를 충족하기 위해 새로운 데이터 센터 용량을 추가합니다...."
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "AWS Transform은 이제 며칠 만에 Amazon Quick으로 BI 마이그레이션을 자동화합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/",
+      "date": "Fri, 01 May 2026 18:29:06 +0000",
+      "summary": "이 게시물에서는 AWS Transform에서 마이그레이션 작업 공간을 설정하는 것부터 AWS Marketplace를 통해 파트너 에이전트를 구독하고 Amazon Quick 기능을 잠금 해제하는 것까지 전체 여정을 안내합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "판사로서의 LLM을 통한 강화 미세 조정",
       "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/",
       "date": "Thu, 30 Apr 2026 20:07:25 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/aws-generative-ai-model-agility-solution-a-comprehensive-guide-to-migrating-llms-for-generative-ai-production/",
       "date": "Thu, 30 Apr 2026 17:04:41 +0000",
       "summary": "이 게시물에서는 필수 도구, 방법론 및 모범 사례를 포괄하는 생성 AI 생산의 LLM 마이그레이션 또는 업그레이드를 위한 체계적인 프레임워크를 소개합니다. 프레임워크는 다음을 촉진합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Sun Finance는 AWS의 생성 AI를 사용하여 ID 추출 및 사기 탐지를 자동화합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/",
-      "date": "Thu, 30 Apr 2026 17:00:45 +0000",
-      "summary": "이 게시물에서는 Sun Finance가 Amazon Bedrock, Amazon Textract 및 Amazon Rekognition을 사용하여 AI 기반 ID 확인(IDV) 파이프라인을 구축한 방법을 보여줍니다. 추출 정확도가 향상된 솔루션..."
     },
     {
       "company": "Hugging Face",
