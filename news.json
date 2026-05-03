@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04 04:11:32 (KST)",
+  "updated_at": "2026-05-04 05:55:52 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "지능 시대를 위한 컴퓨팅 인프라 구축",
+      "title": "지능화 시대를 위한 컴퓨팅 인프라 구축",
       "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "date": "Wed, 29 Apr 2026 15:00:00 GMT",
       "summary": "OpenAI는 Stargate를 확장하여 AGI를 지원하는 컴퓨팅 인프라를 구축하고 증가하는 AI 수요를 충족하기 위해 새로운 데이터 센터 용량을 추가합니다...."
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
-      "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
-      "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft는 IDC MarketScape: Worldwide API Management 2026 공급업체 평가에서 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
       "date": "Tue, 28 Apr 2026 16:00:00 +0000",
@@ -65,8 +58,15 @@
       "summary": "<p>Azure Local은 Microsoft Sovereign Private Cloud를 확장하여 완전한 제어, 규정 준수 및 연결 끊김 작업으로 AI 및 데이터 워크로드를 지원합니다.</p>\n<p>게시물 <a href=\"https://blogs.microsoft.c..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry의 OpenAI GPT-5.5: 엔터프라이즈 지원 플랫폼의 프론티어 인텔리전스",
+      "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+      "date": "Thu, 23 Apr 2026 22:00:00 +0000",
+      "summary": "<p>OpenAI의 GPT-5.5는 Microsoft Foundry에서 정식 출시되어 OpenAI의 최신 프론티어 모델을 Azure와 실제 프로덕션 작업을 위한 에이전트를 구축하는 기업 팀에 제공할 예정입니다.</p>\n<p>위치..."
+    },
+    {
       "company": "AWS Machine Learning",
-      "title": "AWS Transform, 이제 며칠 만에 Amazon Quick으로 BI 마이그레이션 자동화",
+      "title": "AWS Transform은 이제 며칠 만에 Amazon Quick으로 BI 마이그레이션을 자동화합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/",
       "date": "Fri, 01 May 2026 18:29:06 +0000",
       "summary": "이 게시물에서는 AWS Transform에서 마이그레이션 작업 공간을 설정하는 것부터 AWS Marketplace를 통해 파트너 에이전트를 구독하고 Amazon Quick 기능을 잠금 해제하는 것까지 전체 여정을 안내합니다...."
@@ -76,7 +76,7 @@
       "title": "판사로서의 LLM을 통한 강화 미세 조정",
       "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/",
       "date": "Thu, 30 Apr 2026 20:07:25 +0000",
-      "summary": "이 게시물에서는 판사로서 LLM을 사용하는 RLAIF 또는 RL이 Amazon Nova 모델과 효과적으로 작동하는 방법을 자세히 살펴봅니다...."
+      "summary": "이 게시물에서는 판사로서 LLM을 갖춘 RLAIF 또는 RL이 Amazon Nova 모델과 효과적으로 작동하는 방법을 자세히 살펴봅니다...."
     },
     {
       "company": "AWS Machine Learning",
