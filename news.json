@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-05 02:47:56 (KST)",
+  "updated_at": "2026-05-05 04:51:05 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI가 대기 시간이 짧은 음성 AI를 대규모로 제공하는 방법",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "date": "Mon, 04 May 2026 00:00:00 GMT",
+      "summary": "OpenAI가 WebRTC 스택을 재구축하여 짧은 대기 시간, 글로벌 규모, 원활한 대화 순서를 통해 실시간 Voice AI를 강화한 방법입니다...."
+    },
     {
       "company": "OpenAI",
       "title": "고급 계정 보안 소개",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/where-the-goblins-came-from",
       "date": "Wed, 29 Apr 2026 20:00:00 GMT",
       "summary": "AI 모델에서 고블린 출력이 확산되는 방식: 타임라인, 근본 원인, GPT-5 행동의 성격 중심 기이함 뒤에 있는 수정 사항...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "지능 시대를 위한 컴퓨팅 인프라 구축",
-      "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "date": "Wed, 29 Apr 2026 15:00:00 GMT",
-      "summary": "OpenAI는 Stargate를 확장하여 AGI를 지원하는 컴퓨팅 인프라를 구축하고 증가하는 AI 수요를 충족하기 위해 새로운 데이터 센터 용량을 추가합니다...."
     },
     {
       "company": "Google AI",
@@ -48,7 +48,7 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -83,7 +83,7 @@
       "title": "Amazon SageMaker AI에서 모델 사용자 정의를 가속화하는 에이전트 기반 워크플로",
       "link": "https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/",
       "date": "Mon, 04 May 2026 17:10:46 +0000",
-      "summary": "Amazon SageMaker AI는 이제 이를 변화시키는 에이전트 경험을 제공합니다. 개발자는 자연어를 사용하여 사용 사례를 설명하고 AI 코딩 에이전트는 사용 사례부터 전체 여정을 간소화합니다...."
+      "summary": "Amazon SageMaker AI는 이제 이를 변화시키는 에이전트적 경험을 제공합니다. 개발자는 자연어를 사용하여 사용 사례를 설명하고 AI 코딩 에이전트는 사용 사례부터 전체 여정을 간소화합니다...."
     },
     {
       "company": "Hugging Face",
