@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-05-05 20:21:59 (KST)",
+  "updated_at": "2026-05-06 01:47:59 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "OpenAI와 PwC, CFO 사무실 재구성을 위해 협력",
       "link": "https://openai.com/index/openai-pwc-finance-collaboration",
       "date": "Mon, 04 May 2026 21:00:00 GMT",
-      "summary": "OpenAI와 PwC는 기업이 AI 에이전트를 사용하여 재무 워크플로를 자동화하고, 예측을 개선하고, 통제를 강화하고, CFO 기능을 현대화할 수 있도록 협력하고 있습니다...."
+      "summary": "OpenAI와 PwC는 파트너십을 통해 기업이 AI 에이전트를 사용하여 재무 워크플로를 자동화하고, 예측을 개선하고, 통제를 강화하고, CFO 기능을 현대화할 수 있도록 지원합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI가 대기 시간이 짧은 음성 AI를 대규모로 제공하는 방법",
+      "title": "OpenAI가 지연 시간이 짧은 음성 AI를 대규모로 제공하는 방법",
       "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
       "date": "Mon, 04 May 2026 00:00:00 GMT",
       "summary": "OpenAI가 WebRTC 스택을 재구축하여 짧은 대기 시간, 글로벌 규모, 원활한 대화 순서로 실시간 Voice AI를 지원하는 방법을 알아보세요...."
@@ -21,6 +21,13 @@
       "link": "https://openai.com/index/advanced-account-security",
       "date": "Thu, 30 Apr 2026 00:00:00 GMT",
       "summary": "고급 계정 보안 소개: 피싱 방지 로그인, 더욱 강력한 복구, 향상된 보호 기능을 통해 민감한 데이터를 보호하고 계정 탈취를 방지합니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "Google은 350만 달러 규모의 Future Vision 영화 경쟁에서 XPRIZE 및 Range Media Partners와 파트너십을 맺고 있습니다.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "date": "Tue, 05 May 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Google은 3달러로 XPRIZE 및 Range Media Partners와 파트너십을 맺었습니다...."
     },
     {
       "company": "Google AI",
@@ -37,25 +44,18 @@
       "summary": "제미니 API..."
     },
     {
-      "company": "Google AI",
-      "title": "Google 번역 20주년 기념: 재미있는 사실, 팁, 시도해 볼 수 있는 새로운 기능",
-      "link": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "date": "Tue, 28 Apr 2026 16:00:00 +0000",
-      "summary": "Google 번역 로고는 실시간 대화를 번역하는 사람들과 숫자 20이 적힌 촛불이 얹힌 생일 케이크 등 다채로운 그림 장면 가운데 자리잡고 있습니다...."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "Azure IaaS: 보안 설계 원칙을 바탕으로 구축된 심층 방어",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
       "date": "Mon, 04 May 2026 16:00:00 +0000",
-      "summary": "<p>클라우드 인프라의 보안은 더 이상 단일 제어, 제품 또는 경계로 정의되지 않습니다. 현대의 위협은 신원, 소프트웨어 공급망, 제어 플레인, 네트워크 및 데이터를 동시에 표적으로 삼습니다...."
+      "summary": "<p>클라우드 인프라의 보안은 더 이상 단일 제어, 제품 또는 경계로 정의되지 않습니다. 최신 위협은 신원, 소프트웨어 공급망, 제어 플레인, 네트워크 및 데이터를 동시에 표적으로 삼습니다...."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon ECS에서 Amazon Bedrock AgentCore ID를 사용하여 AI 에이전트 보호",
+      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs/",
+      "date": "Tue, 05 May 2026 15:27:30 +0000",
+      "summary": "프로덕션 중인 AI 에이전트에는 외부 서비스에 대한 보안 액세스가 필요합니다. 독립 실행형 서비스로 제공되는 Amazon Bedrock AgentCore Identity는 AI 에이전트가 외부 서비스에 액세스하는 방법을 보호합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock을 사용한 인텔리전스 기반 메시지 방어 및 통찰력",
+      "link": "https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock/",
+      "date": "Tue, 05 May 2026 15:20:54 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock에서 Amazon Nova Foundation 모델을 사용하여 비즈니스 보호 및 향상을 위해 생성 AI 기술을 적용하는 방법을 알아봅니다. 당신은 명백한 것을 식별할 수 있습니다..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "BI를 넘어서: Amazon Quick의 데이터 세트 Q&A 기능이 차세대 데이터 결정을 지원하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/",
       "date": "Mon, 04 May 2026 17:46:32 +0000",
       "summary": "업계 전반의 비즈니스 리더는 팀이 매일 실행하는 공유 정보 소스로 운영 대시보드를 사용합니다. 그러나 대시보드는 알려진 질문에 답하기 위해 구축되었습니다. 팀 n이 있을 때..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "에이전트 품질 루프 소개: AgentCore 최적화가 이제 미리 보기로 제공됩니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/",
-      "date": "Mon, 04 May 2026 17:13:42 +0000",
-      "summary": "생산 추적에서 권장 사항을 생성하고 배치 평가 및 A/B 테스트를 통해 검증하고 자신 있게 출시하세요. 출시 시 좋은 성능을 보이는 AI 에이전트는 그런 상태를 유지하지 않습니다. 모델 에보로서..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI에서 모델 사용자 정의를 가속화하는 에이전트 기반 워크플로",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/",
-      "date": "Mon, 04 May 2026 17:10:46 +0000",
-      "summary": "Amazon SageMaker AI는 이제 이를 변화시키는 에이전트적 경험을 제공합니다. 개발자는 자연어를 사용하여 사용 사례를 설명하고 AI 코딩 에이전트는 사용 사례부터 전체 여정을 간소화합니다...."
     },
     {
       "company": "Hugging Face",
