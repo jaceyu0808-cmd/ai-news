@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-06 01:47:59 (KST)",
+  "updated_at": "2026-05-06 03:17:35 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "OpenAI와 PwC, CFO 사무실 재구성을 위해 협력",
-      "link": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "date": "Mon, 04 May 2026 21:00:00 GMT",
-      "summary": "OpenAI와 PwC는 파트너십을 통해 기업이 AI 에이전트를 사용하여 재무 워크플로를 자동화하고, 예측을 개선하고, 통제를 강화하고, CFO 기능을 현대화할 수 있도록 지원합니다...."
+      "title": "GPT-5.5 인스턴트 시스템 카드",
+      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "date": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI가 지연 시간이 짧은 음성 AI를 대규모로 제공하는 방법",
-      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "date": "Mon, 04 May 2026 00:00:00 GMT",
-      "summary": "OpenAI가 WebRTC 스택을 재구축하여 짧은 대기 시간, 글로벌 규모, 원활한 대화 순서로 실시간 Voice AI를 지원하는 방법을 알아보세요...."
+      "title": "GPT-5.5 Instant: 더욱 스마트하고 명확하며 개인화됨",
+      "link": "https://openai.com/index/gpt-5-5-instant",
+      "date": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": "GPT-5.5 더 스마트하고 정확한 답변, 환각 감소, 향상된 개인화 제어 기능으로 ChatGPT의 기본 모델을 즉시 업데이트합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "고급 계정 보안 소개",
-      "link": "https://openai.com/index/advanced-account-security",
-      "date": "Thu, 30 Apr 2026 00:00:00 GMT",
-      "summary": "고급 계정 보안 소개: 피싱 방지 로그인, 더욱 강력한 복구, 향상된 보호 기능을 통해 민감한 데이터를 보호하고 계정 탈취를 방지합니다...."
+      "title": "ChatGPT 광고를 구매하는 새로운 방법",
+      "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "date": "Tue, 05 May 2026 00:00:00 GMT",
+      "summary": "OpenAI는 개인 정보를 보호하고 대화를 광고와 분리하기 위해 구축된 베타 셀프 서비스 광고 관리자, CPC 입찰 및 향상된 측정 도구를 통해 ChatGPT 광고를 확장합니다...."
     },
     {
       "company": "Google AI",
@@ -55,7 +55,7 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon ECS에서 Amazon Bedrock AgentCore ID를 사용하여 AI 에이전트 보호",
-      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs/",
-      "date": "Tue, 05 May 2026 15:27:30 +0000",
-      "summary": "프로덕션 중인 AI 에이전트에는 외부 서비스에 대한 보안 액세스가 필요합니다. 독립 실행형 서비스로 제공되는 Amazon Bedrock AgentCore Identity는 AI 에이전트가 외부 서비스에 액세스하는 방법을 보호합니다...."
+      "title": "Hapag-Lloyd가 Amazon Bedrock을 사용하여 고객 피드백을 실행 가능한 통찰력으로 변환하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights/",
+      "date": "Tue, 05 May 2026 16:55:42 +0000",
+      "summary": "함부르크와 그단스크에 분산되어 있는 Hapag-Lloyd의 디지털 고객 경험 및 엔지니어링 팀은 고객 대상 웹 및 모바일 제품을 개발하고 유지 관리하여 디지털 혁신을 주도합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock을 사용한 인텔리전스 기반 메시지 방어 및 통찰력",
-      "link": "https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock/",
-      "date": "Tue, 05 May 2026 15:20:54 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock에서 Amazon Nova Foundation 모델을 사용하여 비즈니스 보호 및 향상을 위해 생성 AI 기술을 적용하는 방법을 알아봅니다. 당신은 명백한 것을 식별할 수 있습니다..."
+      "title": "Amazon SageMaker AI에서 MLflow v3.10을 사용하여 생성적 AI 개발 간소화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai/",
+      "date": "Tue, 05 May 2026 16:55:18 +0000",
+      "summary": "오늘 Amazon SageMaker AI MLflow 앱이 이제 MLflow 버전 3.10을 지원하여 생성적 AI 개발 및 간소화된 실험 추적을 위한 향상된 기능을 제공한다는 소식을 발표하게 되어 기쁘게 생각합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "BI를 넘어서: Amazon Quick의 데이터 세트 Q&A 기능이 차세대 데이터 결정을 지원하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/",
-      "date": "Mon, 04 May 2026 17:46:32 +0000",
-      "summary": "업계 전반의 비즈니스 리더는 팀이 매일 실행하는 공유 정보 소스로 운영 대시보드를 사용합니다. 그러나 대시보드는 알려진 질문에 답하기 위해 구축되었습니다. 팀 n이 있을 때..."
+      "title": "Amazon Bedrock AgentCore 브라우저에 OS 수준 작업 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/",
+      "date": "Tue, 05 May 2026 16:54:35 +0000",
+      "summary": "AgentCore Browser에 대한 OS 수준 작업을 발표합니다. 이 새로운 기능은 InvokeBrowser API를 통해 직접 OS 제어를 노출하여 이러한 시나리오를 차단 해제하므로 에이전트는 콘텐츠 v와 상호 작용할 수 있습니다...."
     },
     {
       "company": "Hugging Face",
