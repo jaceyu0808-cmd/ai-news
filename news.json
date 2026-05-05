@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-05 12:39:42 (KST)",
+  "updated_at": "2026-05-05 15:24:57 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI와 PwC, CFO 사무실 재구성을 위해 협력",
+      "link": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "date": "Mon, 04 May 2026 21:00:00 GMT",
+      "summary": "OpenAI와 PwC는 기업이 AI 에이전트를 사용하여 재무 워크플로를 자동화하고, 예측을 개선하고, 통제를 강화하고, CFO 기능을 현대화할 수 있도록 협력하고 있습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI가 대기 시간이 짧은 음성 AI를 대규모로 제공하는 방법",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/advanced-account-security",
       "date": "Thu, 30 Apr 2026 00:00:00 GMT",
       "summary": "고급 계정 보안 소개: 피싱 방지 로그인, 더욱 강력한 복구, 향상된 보호 기능을 통해 민감한 데이터를 보호하고 계정 탈취를 방지합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "고블린은 어디서 왔는가",
-      "link": "https://openai.com/index/where-the-goblins-came-from",
-      "date": "Wed, 29 Apr 2026 20:00:00 GMT",
-      "summary": "AI 모델에서 고블린 출력이 확산되는 방식: 타임라인, 근본 원인, GPT-5 행동의 성격 중심 기이함 뒤에 있는 수정 사항...."
     },
     {
       "company": "Google AI",
