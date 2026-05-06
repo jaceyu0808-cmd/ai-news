@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-05-06 15:39:48 (KST)",
+  "updated_at": "2026-05-06 18:32:43 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.5 인스턴트 시스템 카드",
-      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "date": "Tue, 05 May 2026 10:00:00 GMT",
-      "summary": "..."
-    },
     {
       "company": "OpenAI",
       "title": "GPT-5.5 Instant: 더욱 스마트하고 명확하며 개인화됨",
       "link": "https://openai.com/index/gpt-5-5-instant",
       "date": "Tue, 05 May 2026 10:00:00 GMT",
       "summary": "GPT-5.5 더 스마트하고 정확한 답변, 환각 감소, 향상된 개인화 제어 기능으로 ChatGPT의 기본 모델을 즉시 업데이트합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-5.5 인스턴트 시스템 카드",
+      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "date": "Tue, 05 May 2026 10:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
-      "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
-      "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft는 IDC MarketScape: Worldwide API Management 2026 공급업체 평가에서 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
       "date": "Tue, 28 Apr 2026 16:00:00 +0000",
@@ -62,7 +55,14 @@
       "title": "Microsoft Sovereign Private Cloud는 Azure Local을 통해 수천 개의 노드로 확장됩니다.",
       "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
       "date": "Mon, 27 Apr 2026 18:00:00 +0000",
-      "summary": "<p>Azure Local은 Microsoft Sovereign Private Cloud를 확장하여 완전한 제어, 규정 준수 및 연결 끊김 작업을 통해 AI 및 데이터 워크로드를 지원합니다.</p>\n<p>게시물 <a href=\"https://blogs.microsoft.c..."
+      "summary": "<p>Azure Local은 Microsoft Sovereign Private Cloud를 확장하여 완전한 제어, 규정 준수 및 연결 끊김 작업으로 AI 및 데이터 워크로드를 지원합니다.</p>\n<p>게시물 <a href=\"https://blogs.microsoft.c..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry의 OpenAI GPT-5.5: 엔터프라이즈 지원 플랫폼의 프론티어 인텔리전스",
+      "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/",
+      "date": "Thu, 23 Apr 2026 22:00:00 +0000",
+      "summary": "<p>OpenAI의 GPT-5.5는 Microsoft Foundry에서 정식 출시되어 OpenAI의 최신 프론티어 모델을 Azure와 실제 프로덕션 작업을 위한 에이전트를 구축하는 기업 팀에 제공할 예정입니다.</p>\n<p>위치..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Open ASR 순위표에 Benchmaxxer 방충제 추가",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Granite 4.1 LLM: 구축 방법",
       "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
       "date": "Wed, 29 Apr 2026 15:01:48 GMT",
@@ -97,13 +104,6 @@
       "title": "포옹 얼굴 추론 제공업체에 대한 DeepInfra 🔥",
       "link": "https://huggingface.co/blog/inference-providers-deepinfra",
       "date": "Wed, 29 Apr 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "NVIDIA Nemotron 3 Nano Omni 소개: 문서, 오디오 및 비디오 에이전트를 위한 장기 컨텍스트 다중 모드 인텔리전스",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "date": "Tue, 28 Apr 2026 15:58:57 GMT",
       "summary": "..."
     }
   ]
