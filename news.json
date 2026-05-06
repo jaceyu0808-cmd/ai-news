@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07 05:41:01 (KST)",
+  "updated_at": "2026-05-07 07:04:04 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure IaaS: 보안 설계 원칙을 바탕으로 구축된 심층 방어",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
-      "date": "Mon, 04 May 2026 16:00:00 +0000",
-      "summary": "<p>클라우드 인프라의 보안은 더 이상 단일 제어, 제품 또는 경계로 정의되지 않습니다. 최신 위협은 신원, 소프트웨어 공급망, 제어 플레인, 네트워크 및 데이터를 동시에 표적으로 삼습니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
       "date": "Tue, 28 Apr 2026 16:00:00 +0000",
       "summary": "<p>Azure API Management는 기존 API부터 AI 모델, 도구, 에이전트까지 모든 것을 관리할 수 있는 단일 Azure 기반 플랫폼을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft Sovereign Private Cloud는 Azure Local을 통해 수천 개의 노드로 확장됩니다.",
+      "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+      "date": "Mon, 27 Apr 2026 18:00:00 +0000",
+      "summary": "<p>Azure Local은 Microsoft Sovereign Private Cloud를 확장하여 완전한 제어, 규정 준수 및 연결 끊김 작업을 통해 AI 및 데이터 워크로드를 지원합니다.</p>\n<p>게시물 <a href=\"https://blogs.microsoft.c..."
     },
     {
       "company": "AWS Machine Learning",
