@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07 20:55:52 (KST)",
+  "updated_at": "2026-05-07 23:39:43 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "거래 에이전트: Coinbase 및 Stripe을 기반으로 구축된 Amazon Bedrock AgentCore 결제 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
+      "date": "Thu, 07 May 2026 12:55:17 +0000",
+      "summary": "오늘 우리는 AI 에이전트가 즉시 액세스하고 사용한 만큼 비용을 지불할 수 있게 해주는 Amazon Bedrock AgentCore의 새로운 기능 세트인 Amazon Bedrock AgentCore Payments의 미리 보기를 발표합니다. AgentCor..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "AWS Inferentia2에서 애완동물 행동 감지를 위한 비전 언어 모델을 비용 효율적으로 배포",
       "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/",
       "date": "Wed, 06 May 2026 15:37:08 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights/",
       "date": "Tue, 05 May 2026 16:55:42 +0000",
       "summary": "함부르크와 그단스크에 분산되어 있는 Hapag-Lloyd의 디지털 고객 경험 및 엔지니어링 팀은 고객 대상 웹 및 모바일 제품을 개발하고 유지 관리하여 디지털 혁신을 주도합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI에서 MLflow v3.10을 사용하여 생성적 AI 개발 간소화",
-      "link": "https://aws.amazon.com/blogs/machine-learning/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai/",
-      "date": "Tue, 05 May 2026 16:55:18 +0000",
-      "summary": "오늘 Amazon SageMaker AI MLflow 앱이 이제 MLflow 버전 3.10을 지원하여 생성적 AI 개발 및 간소화된 실험 추적을 위한 향상된 기능을 제공한다는 소식을 발표하게 되어 기쁘게 생각합니다...."
     },
     {
       "company": "Hugging Face",
