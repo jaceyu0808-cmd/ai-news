@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07 15:46:51 (KST)",
+  "updated_at": "2026-05-07 18:41:52 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,10 +10,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Singular Bank는 ChatGPT와 Codex를 통해 은행원이 빠르게 움직일 수 있도록 지원합니다.",
-      "link": "https://openai.com/index/singular-bank",
+      "title": "선도적인 기업이 AI 이점을 구축하는 방법",
+      "link": "https://openai.com/index/introducing-b2b-signals",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "Singular Bank는 ChatGPT와 Codex를 사용하여 은행가가 회의 준비, 포트폴리오 분석 및 후속 조치에 매일 60~90분을 절약할 수 있도록 돕는 내부 비서인 Singularity를 ​​구축했습니다...."
+      "summary": "OpenAI의 B2B 신호 연구는 선구적인 기업이 AI 채택을 심화하고 Codex 기반 에이전트 워크플로를 확장하며 지속적인 경쟁 우위를 구축하는 방법을 보여줍니다...."
     },
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "클라우드 및 AI 확장: 유럽의 디지털 미래를 위한 Microsoft Azure의 약속",
+      "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+      "date": "Wed, 06 May 2026 14:00:00 +0000",
+      "summary": "<p>클라우드 및 AI에 대한 수요가 증가함에 따라 Microsoft는 혁신, 규정 준수, 성능을 지원하는 확장 가능하고 탄력적인 인프라를 제공하기 위해 Azure를 유럽 전역으로 확장하고 있습니다.</p>\n<p>게시물 <a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure IaaS: 보안 설계 원칙을 바탕으로 구축된 심층 방어",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
       "date": "Mon, 04 May 2026 16:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
       "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft는 IDC MarketScape: Worldwide API Management 2026 공급업체 평가에서 리더로 선정되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
-      "date": "Tue, 28 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure API Management는 기존 API부터 AI 모델, 도구, 에이전트까지 모든 것을 관리할 수 있는 단일 Azure 기반 플랫폼을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
     },
     {
       "company": "AWS Machine Learning",
