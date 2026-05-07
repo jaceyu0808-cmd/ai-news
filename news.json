@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 01:59:28 (KST)",
+  "updated_at": "2026-05-08 03:54:33 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "Singular Bank는 ChatGPT와 Codex를 통해 은행원이 빠르게 움직일 수 있도록 지원합니다.",
-      "link": "https://openai.com/index/singular-bank",
-      "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "Singular Bank는 ChatGPT와 Codex를 사용하여 은행가가 회의 준비, 포트폴리오 분석 및 후속 조치에 매일 60~90분을 절약할 수 있도록 돕는 내부 비서인 Singularity를 ​​구축했습니다...."
+      "title": "API의 새로운 모델을 통해 음성 지능 향상",
+      "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "date": "Thu, 07 May 2026 10:00:00 GMT",
+      "summary": "OpenAI API에서 음성을 추론, 번역, 전사하여 보다 자연스럽고 지능적인 음성 경험을 가능하게 하는 새로운 실시간 음성 모델을 살펴보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "Uber는 OpenAI를 사용하여 사람들이 더 스마트하게 수익을 창출하고 더 빠르게 예약하도록 돕습니다.",
-      "link": "https://openai.com/index/uber",
-      "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "Uber는 OpenAI를 사용하여 전 세계 실시간 시장에서 운전자가 더 스마트하게 돈을 벌고 승객이 더 빠르게 예약할 수 있도록 돕는 AI 도우미 및 음성 기능을 강화합니다...."
+      "title": "ChatGPT에서 광고 테스트",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "date": "Thu, 07 May 2026 00:00:00 GMT",
+      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "클라우드 및 AI 확장: 유럽의 디지털 미래를 위한 Microsoft Azure의 약속",
-      "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
-      "date": "Wed, 06 May 2026 14:00:00 +0000",
-      "summary": "<p>클라우드 및 AI에 대한 수요가 증가함에 따라 Microsoft는 혁신, 규정 준수, 성능을 지원하는 확장 가능하고 탄력적인 인프라를 제공하기 위해 Azure를 유럽 전역으로 확장하고 있습니다.</p>\n<p>게시물 <a..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Azure IaaS: 보안 설계 원칙을 바탕으로 구축된 심층 방어",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
       "date": "Mon, 04 May 2026 16:00:00 +0000",
-      "summary": "<p>클라우드 인프라의 보안은 더 이상 단일 제어, 제품 또는 경계로 정의되지 않습니다. 최신 위협은 신원, 소프트웨어 공급망, 제어 플레인, 네트워크 및 데이터를 동시에 표적으로 삼습니다...."
+      "summary": "<p>클라우드 인프라의 보안은 더 이상 단일 제어, 제품 또는 경계로 정의되지 않습니다. 현대의 위협은 신원, 소프트웨어 공급망, 제어 플레인, 네트워크 및 데이터를 동시에 표적으로 삼습니다...."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft는 IDC MarketScape: Worldwide API Management 2026 공급업체 평가에서 리더로 선정되었습니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
+      "date": "Tue, 28 Apr 2026 16:00:00 +0000",
+      "summary": "<p>Azure API Management는 기존 API부터 AI 모델, 도구, 에이전트까지 모든 것을 관리할 수 있는 단일 Azure 기반 플랫폼을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
     },
     {
       "company": "AWS Machine Learning",
