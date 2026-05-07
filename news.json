@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-08 05:21:13 (KST)",
+  "updated_at": "2026-05-08 07:10:29 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "GPT-5.5 및 GPT-5.5-Cyber를 통해 사이버에 대한 신뢰할 수 있는 액세스 확장",
+      "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "date": "Thu, 07 May 2026 13:00:00 GMT",
+      "summary": "OpenAI는 GPT-5.5 및 GPT-5.5-Cyber를 통해 사이버에 대한 신뢰할 수 있는 액세스를 확장하여 검증된 방어자가 취약성 연구를 가속화하고 중요한 인프라를 보호하도록 돕습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Parloa는 고객이 대화하고 싶어하는 서비스 상담원을 구축합니다.",
       "link": "https://openai.com/index/parloa",
       "date": "Thu, 07 May 2026 11:00:00 GMT",
-      "summary": "Parloa는 OpenAI 모델을 활용하여 확장 가능한 음성 기반 AI 고객 서비스 에이전트를 지원함으로써 기업이 안정적인 실시간 상호 작용을 설계, 시뮬레이션 및 배포할 수 있도록 지원합니다...."
+      "summary": "Parloa는 OpenAI 모델을 활용하여 확장 가능한 음성 기반 AI 고객 서비스 에이전트를 지원하므로 기업은 안정적인 실시간 상호 작용을 설계, 시뮬레이션 및 배포할 수 있습니다...."
     },
     {
       "company": "OpenAI",
       "title": "API의 새로운 모델을 통해 음성 지능 향상",
       "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
       "date": "Thu, 07 May 2026 10:00:00 GMT",
-      "summary": "OpenAI API에서 음성을 추론, 번역, 전사하여 보다 자연스럽고 지능적인 음성 경험을 가능하게 하는 새로운 실시간 음성 모델을 살펴보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT에서 광고 테스트",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "Thu, 07 May 2026 00:00:00 GMT",
-      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
+      "summary": "OpenAI API에서 음성을 추론하고, 번역하고, 기록하여 보다 자연스럽고 지능적인 음성 경험을 가능하게 하는 새로운 실시간 음성 모델을 살펴보세요...."
     },
     {
       "company": "Google AI",
@@ -62,7 +62,7 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
     },
     {
       "company": "AWS Machine Learning",
