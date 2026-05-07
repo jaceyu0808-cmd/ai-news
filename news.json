@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07 23:39:43 (KST)",
+  "updated_at": "2026-05-08 01:59:28 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,10 +10,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "ChatGPT 선물 소개: 2026년 졸업생",
-      "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "title": "Singular Bank는 ChatGPT와 Codex를 통해 은행원이 빠르게 움직일 수 있도록 지원합니다.",
+      "link": "https://openai.com/index/singular-bank",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "2026년 ChatGPT Futures Class를 만나보세요. 26명의 학생 혁신가가 AI를 사용하여 실제 세계에 영향을 미치고, 연구하고, 추진합니다. 이 세대가 학습, 창의성, 기회를 어떻게 재정의하고 있는지 알아보세요...."
+      "summary": "Singular Bank는 ChatGPT와 Codex를 사용하여 은행가가 회의 준비, 포트폴리오 분석 및 후속 조치에 매일 60~90분을 절약할 수 있도록 돕는 내부 비서인 Singularity를 ​​구축했습니다...."
     },
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "클라우드 및 AI 확장: 유럽의 디지털 미래를 위한 Microsoft Azure의 약속",
+      "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+      "date": "Wed, 06 May 2026 14:00:00 +0000",
+      "summary": "<p>클라우드 및 AI에 대한 수요가 증가함에 따라 Microsoft는 혁신, 규정 준수, 성능을 지원하는 확장 가능하고 탄력적인 인프라를 제공하기 위해 Azure를 유럽 전역으로 확장하고 있습니다.</p>\n<p>게시물 <a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure IaaS: 보안 설계 원칙을 바탕으로 구축된 심층 방어",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
       "date": "Mon, 04 May 2026 16:00:00 +0000",
@@ -55,14 +62,21 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft는 IDC MarketScape: Worldwide API Management 2026 공급업체 평가에서 리더로 선정되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/",
-      "date": "Tue, 28 Apr 2026 16:00:00 +0000",
-      "summary": "<p>Azure API Management는 기존 API부터 AI 모델, 도구, 에이전트까지 모든 것을 관리할 수 있는 단일 Azure 기반 플랫폼을 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
+      "company": "AWS Machine Learning",
+      "title": "ML용 EC2 용량 블록 및 SageMaker 교육 계획을 통해 ML 워크로드를 위한 단기 GPU 용량을 확보하세요.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans/",
+      "date": "Thu, 07 May 2026 15:59:50 +0000",
+      "summary": "이 게시물에서는 ML용 Amazon Elastic Compute Cloud(Amazon EC2) 용량 블록 및 Amazon SageMaker 교육 계획을 사용하여 단기 워크로드를 위해 예약된 GPU 용량을 확보하는 방법을 알아봅니다. 목..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "보상 신호 문제 극복: SageMaker AI에서 GRPO를 사용한 검증 가능한 보상 기반 강화 학습",
+      "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/",
+      "date": "Thu, 07 May 2026 15:53:30 +0000",
+      "summary": "이 게시물에서는 검증 가능한 보상(RLVR)을 사용하여 강화 학습을 구현하여 보상 신호에 검증 및 투명성을 도입하여 훈련 성능을 향상시키는 방법을 알아봅니다. 이것..."
     },
     {
       "company": "AWS Machine Learning",
@@ -70,20 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
       "date": "Thu, 07 May 2026 12:55:17 +0000",
       "summary": "오늘 우리는 AI 에이전트가 즉시 액세스하고 사용한 만큼 비용을 지불할 수 있게 해주는 Amazon Bedrock AgentCore의 새로운 기능 세트인 Amazon Bedrock AgentCore Payments의 미리 보기를 발표합니다. AgentCor..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "AWS Inferentia2에서 애완동물 행동 감지를 위한 비전 언어 모델을 비용 효율적으로 배포",
-      "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/",
-      "date": "Wed, 06 May 2026 15:37:08 +0000",
-      "summary": "Furbo Pet Camera를 개발한 대만에 본사를 둔 애완동물 기술 스타트업인 Tomofun은 애완동물 주인이 애완동물과 원격으로 상호 작용하는 방식을 재정의하고 있습니다. 비용을 절감하고 정확성을 유지하기 위해 Tomofun은 다음을 선택했습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Hapag-Lloyd가 Amazon Bedrock을 사용하여 고객 피드백을 실행 가능한 통찰력으로 변환하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights/",
-      "date": "Tue, 05 May 2026 16:55:42 +0000",
-      "summary": "함부르크와 그단스크에 분산되어 있는 Hapag-Lloyd의 디지털 고객 경험 및 엔지니어링 팀은 고객 대상 웹 및 모바일 제품을 개발하고 유지 관리하여 디지털 혁신을 주도합니다...."
     },
     {
       "company": "Hugging Face",
