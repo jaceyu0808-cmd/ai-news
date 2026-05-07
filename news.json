@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07 12:56:52 (KST)",
+  "updated_at": "2026-05-07 15:46:51 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,7 +10,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "Singular Bank는 ChatGPT와 Codex를 통해 은행가가 빠르게 움직일 수 있도록 지원합니다.",
+      "title": "Singular Bank는 ChatGPT와 Codex를 통해 은행원이 빠르게 움직일 수 있도록 지원합니다.",
       "link": "https://openai.com/index/singular-bank",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
       "summary": "Singular Bank는 ChatGPT와 Codex를 사용하여 은행가가 회의 준비, 포트폴리오 분석 및 후속 조치에 매일 60~90분을 절약할 수 있도록 돕는 내부 비서인 Singularity를 ​​구축했습니다...."
@@ -55,7 +55,7 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
     },
     {
       "company": "Microsoft Azure AI",
