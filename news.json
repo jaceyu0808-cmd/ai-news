@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 15:55:54 (KST)",
+  "updated_at": "2026-05-08 17:26:07 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "Parloa는 고객이 대화하고 싶어하는 서비스 상담원을 구축합니다.",
       "link": "https://openai.com/index/parloa",
       "date": "Thu, 07 May 2026 11:00:00 GMT",
-      "summary": "Parloa는 OpenAI 모델을 활용하여 확장 가능한 음성 기반 AI 고객 서비스 에이전트를 지원하므로 기업은 안정적인 실시간 상호 작용을 설계, 시뮬레이션 및 배포할 수 있습니다...."
+      "summary": "Parloa는 OpenAI 모델을 활용하여 확장 가능한 음성 기반 AI 고객 서비스 에이전트를 지원함으로써 기업이 안정적인 실시간 상호 작용을 설계, 시뮬레이션 및 배포할 수 있도록 지원합니다...."
     },
     {
       "company": "OpenAI",
@@ -44,6 +44,27 @@
       "summary": "mp4에는 수중 영상과 모바일 AI 영상 모형이 포함되어 있습니다...."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "클라우드 및 AI 확장: 유럽의 디지털 미래를 위한 Microsoft Azure의 약속",
+      "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+      "date": "Wed, 06 May 2026 14:00:00 +0000",
+      "summary": "<p>클라우드 및 AI에 대한 수요가 증가함에 따라 Microsoft는 혁신, 규정 준수, 성능을 지원하는 확장 가능하고 탄력적인 인프라를 제공하기 위해 Azure를 유럽 전역으로 확장하고 있습니다.</p>\n<p>게시물 <a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure IaaS: 보안 설계 원칙을 바탕으로 구축된 심층 방어",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
+      "date": "Mon, 04 May 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 인프라의 보안은 더 이상 단일 제어, 제품 또는 경계로 정의되지 않습니다. 최신 위협은 신원, 소프트웨어 공급망, 제어 플레인, 네트워크 및 데이터를 동시에 표적으로 삼습니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
+      "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
+      "date": "Thu, 30 Apr 2026 18:00:00 +0000",
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "ML용 EC2 용량 블록 및 SageMaker 교육 계획을 통해 ML 워크로드를 위한 단기 GPU 용량을 확보하세요.",
       "link": "https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans/",
@@ -66,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "MedQA: AMD ROCm에서 임상 AI 미세 조정 — CUDA 필요 없음",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+      "date": "Fri, 08 May 2026 07:54:18 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "vLLM V0~V1: RL 수정 전 정확성",
       "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "date": "Wed, 06 May 2026 19:06:55 GMT",
@@ -76,13 +104,6 @@
       "title": "Open ASR 순위표에 Benchmaxxer 방충제 추가",
       "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Granite 4.1 LLM: 구축 방법",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "date": "Wed, 29 Apr 2026 15:01:48 GMT",
       "summary": "..."
     }
   ]
