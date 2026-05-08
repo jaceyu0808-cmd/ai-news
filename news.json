@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 09:01:14 (KST)",
+  "updated_at": "2026-05-08 13:19:26 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "API의 새로운 모델을 통해 음성 지능 향상",
       "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
       "date": "Thu, 07 May 2026 10:00:00 GMT",
-      "summary": "OpenAI API에서 음성을 추론하고, 번역하고, 기록하여 보다 자연스럽고 지능적인 음성 경험을 가능하게 하는 새로운 실시간 음성 모델을 살펴보세요...."
+      "summary": "OpenAI API에서 음성을 추론, 번역, 전사하여 보다 자연스럽고 지능적인 음성 경험을 가능하게 하는 새로운 실시간 음성 모델을 살펴보세요...."
     },
     {
       "company": "Google AI",
