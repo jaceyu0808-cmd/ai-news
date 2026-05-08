@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-09 03:16:33 (KST)",
+  "updated_at": "2026-05-09 05:12:11 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI에서 Codex를 안전하게 실행",
+      "link": "https://openai.com/index/running-codex-safely",
+      "date": "Fri, 08 May 2026 12:30:00 GMT",
+      "summary": "OpenAI가 샌드박싱, 승인, 네트워크 정책 및 에이전트 기반 원격 측정을 통해 Codex를 안전하게 실행하여 안전하고 규정을 준수하는 코딩 에이전트 채택을 지원하는 방법입니다...."
+    },
     {
       "company": "OpenAI",
       "title": "GPT-5.5 및 GPT-5.5-Cyber를 통해 사이버에 대한 신뢰할 수 있는 액세스 확장",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/parloa",
       "date": "Thu, 07 May 2026 11:00:00 GMT",
       "summary": "Parloa는 OpenAI 모델을 활용하여 확장 가능한 음성 기반 AI 고객 서비스 에이전트를 지원함으로써 기업이 안정적인 실시간 상호 작용을 설계, 시뮬레이션 및 배포할 수 있도록 지원합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "API의 새로운 모델을 통해 음성 지능 향상",
-      "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "date": "Thu, 07 May 2026 10:00:00 GMT",
-      "summary": "OpenAI API에서 음성을 추론, 번역, 전사하여 보다 자연스럽고 지능적인 음성 경험을 가능하게 하는 새로운 실시간 음성 모델을 살펴보세요...."
     },
     {
       "company": "Google AI",
@@ -62,7 +62,7 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
     },
     {
       "company": "AWS Machine Learning",
