@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09 01:24:54 (KST)",
+  "updated_at": "2026-05-09 03:16:33 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,16 +87,16 @@
     },
     {
       "company": "Hugging Face",
-      "title": "EMO: 긴급 모듈화를 위한 전문가 사전 교육 혼합",
-      "link": "https://huggingface.co/blog/allenai/emo",
-      "date": "Fri, 08 May 2026 16:03:50 GMT",
+      "title": "CyberSecQwen-4B: 방어적인 사이버에 작고 전문적이며 로컬에서 실행 가능한 모델이 필요한 이유",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "date": "Fri, 08 May 2026 17:41:05 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "MedQA: AMD ROCm에서 임상 AI 미세 조정 — CUDA 필요 없음",
-      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
-      "date": "Fri, 08 May 2026 07:54:18 GMT",
+      "title": "EMO: 긴급 모듈화를 위한 전문가 사전 교육 혼합",
+      "link": "https://huggingface.co/blog/allenai/emo",
+      "date": "Fri, 08 May 2026 16:03:50 GMT",
       "summary": "..."
     },
     {
