@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 23:59:01 (KST)",
+  "updated_at": "2026-05-09 01:24:54 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "Parloa는 고객이 대화하고 싶어하는 서비스 상담원을 구축합니다.",
       "link": "https://openai.com/index/parloa",
       "date": "Thu, 07 May 2026 11:00:00 GMT",
-      "summary": "Parloa는 OpenAI 모델을 활용하여 확장 가능한 음성 기반 AI 고객 서비스 에이전트를 지원하므로 기업은 안정적인 실시간 상호 작용을 설계, 시뮬레이션 및 배포할 수 있습니다...."
+      "summary": "Parloa는 OpenAI 모델을 활용하여 확장 가능한 음성 기반 AI 고객 서비스 에이전트를 지원함으로써 기업이 안정적인 실시간 상호 작용을 설계, 시뮬레이션 및 배포할 수 있도록 지원합니다...."
     },
     {
       "company": "OpenAI",
@@ -21,6 +21,13 @@
       "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
       "date": "Thu, 07 May 2026 10:00:00 GMT",
       "summary": "OpenAI API에서 음성을 추론, 번역, 전사하여 보다 자연스럽고 지능적인 음성 경험을 가능하게 하는 새로운 실시간 음성 모델을 살펴보세요...."
+    },
+    {
+      "company": "Google AI",
+      "title": "창의적인 전설이 AI를 사용하여 중소기업을 위한 광고를 만들면 어떤 일이 일어나는지 알아보세요.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "date": "Fri, 08 May 2026 15:00:00 +0000",
+      "summary": "수잔 크레들, 자욘타 젠킨스, 티파니 롤프의 얼굴 사진이 있는 흑백 카드..."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
       "date": "Tue, 05 May 2026 16:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Google은 3달러로 XPRIZE 및 Range Media Partners와 파트너십을 맺었습니다...."
-    },
-    {
-      "company": "Google AI",
-      "title": "2026년 4월에 발표한 최신 AI 뉴스",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "date": "Mon, 04 May 2026 17:00:00 +0000",
-      "summary": "mp4에는 수중 영상과 모바일 AI 영상 모형이 포함되어 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -62,14 +62,14 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Halliburton은 Amazon Bedrock 및 Generative AI를 사용하여 지진 워크플로 생성을 향상합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/",
       "date": "Fri, 08 May 2026 13:20:30 +0000",
-      "summary": "이 게시물에서는 자연어 쿼리를 실행 가능한 지진 워크플로로 변환하는 동시에 Halliburton의 S에 대한 질문 답변 기능을 제공하는 개념 증명을 구축한 방법을 살펴보겠습니다...."
+      "summary": "이 게시물에서는 Halliburton의 S에 대한 질문 답변 기능을 제공하면서 자연어 쿼리를 실행 가능한 지진 워크플로로 변환하는 개념 증명을 구축한 방법을 살펴보겠습니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "EMO: 긴급 모듈화를 위한 전문가 사전 교육 혼합",
+      "link": "https://huggingface.co/blog/allenai/emo",
+      "date": "Fri, 08 May 2026 16:03:50 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "MedQA: AMD ROCm에서 임상 AI 미세 조정 — CUDA 필요 없음",
       "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
       "date": "Fri, 08 May 2026 07:54:18 GMT",
@@ -97,13 +104,6 @@
       "title": "vLLM V0~V1: RL 수정 전 정확성",
       "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "date": "Wed, 06 May 2026 19:06:55 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Open ASR 순위표에 Benchmaxxer 방충제 추가",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "date": "Wed, 06 May 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
