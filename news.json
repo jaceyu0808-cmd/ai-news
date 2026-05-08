@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-08 19:44:58 (KST)",
+  "updated_at": "2026-05-08 21:15:00 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "GPT-5.5 및 GPT-5.5-Cyber를 통해 사이버에 대한 신뢰할 수 있는 액세스 확장",
       "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
       "date": "Thu, 07 May 2026 13:00:00 GMT",
-      "summary": "OpenAI는 GPT-5.5 및 GPT-5.5-Cyber를 통해 사이버에 대한 신뢰할 수 있는 액세스를 확장하여 검증된 방어자가 취약성 연구를 가속화하고 중요한 인프라를 보호하도록 돕습니다...."
+      "summary": "OpenAI는 GPT-5.5 및 GPT-5.5-Cyber를 통해 사이버에 대한 Trusted Access를 확장하여 검증된 방어자가 취약성 연구를 가속화하고 중요한 인프라를 보호하도록 돕습니다...."
     },
     {
       "company": "OpenAI",
       "title": "Parloa는 고객이 대화하고 싶어하는 서비스 상담원을 구축합니다.",
       "link": "https://openai.com/index/parloa",
       "date": "Thu, 07 May 2026 11:00:00 GMT",
-      "summary": "Parloa는 OpenAI 모델을 활용하여 확장 가능한 음성 기반 AI 고객 서비스 에이전트를 지원하므로 기업은 안정적인 실시간 상호 작용을 설계, 시뮬레이션 및 배포할 수 있습니다...."
+      "summary": "Parloa는 OpenAI 모델을 활용하여 확장 가능한 음성 기반 AI 고객 서비스 에이전트를 지원함으로써 기업이 안정적인 실시간 상호 작용을 설계, 시뮬레이션 및 배포할 수 있도록 지원합니다...."
     },
     {
       "company": "OpenAI",
       "title": "API의 새로운 모델을 통해 음성 지능 향상",
       "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
       "date": "Thu, 07 May 2026 10:00:00 GMT",
-      "summary": "OpenAI API에서 음성을 추론하고, 번역하고, 기록하여 보다 자연스럽고 지능적인 음성 경험을 가능하게 하는 새로운 실시간 음성 모델을 살펴보세요...."
+      "summary": "OpenAI API에서 음성을 추론, 번역, 전사하여 보다 자연스럽고 지능적인 음성 경험을 가능하게 하는 새로운 실시간 음성 모델을 살펴보세요...."
     },
     {
       "company": "Google AI",
