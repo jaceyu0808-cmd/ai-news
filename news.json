@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09 16:15:01 (KST)",
+  "updated_at": "2026-05-09 18:40:22 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "GPT-5.5 및 GPT-5.5-Cyber를 통해 사이버에 대한 신뢰할 수 있는 액세스 확장",
       "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
       "date": "Thu, 07 May 2026 13:00:00 GMT",
-      "summary": "OpenAI는 GPT-5.5 및 GPT-5.5-Cyber를 통해 사이버에 대한 신뢰할 수 있는 액세스를 확장하여 검증된 방어자가 취약성 연구를 가속화하고 중요한 인프라를 보호하도록 돕습니다...."
+      "summary": "OpenAI는 GPT-5.5 및 GPT-5.5-Cyber를 통해 사이버에 대한 Trusted Access를 확장하여 검증된 방어자가 취약성 연구를 가속화하고 중요한 인프라를 보호하도록 돕습니다...."
     },
     {
       "company": "OpenAI",
@@ -55,21 +55,21 @@
       "title": "Azure IaaS: 보안 설계 원칙을 바탕으로 구축된 심층 방어",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/",
       "date": "Mon, 04 May 2026 16:00:00 +0000",
-      "summary": "<p>클라우드 인프라의 보안은 더 이상 단일 제어, 제품 또는 경계로 정의되지 않습니다. 최신 위협은 신원, 소프트웨어 공급망, 제어 플레인, 네트워크 및 데이터를 동시에 표적으로 삼습니다...."
+      "summary": "<p>클라우드 인프라의 보안은 더 이상 단일 제어, 제품 또는 경계로 정의되지 않습니다. 현대의 위협은 신원, 소프트웨어 공급망, 제어 플레인, 네트워크 및 데이터를 동시에 표적으로 삼습니다...."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Halliburton은 Amazon Bedrock 및 Generative AI를 사용하여 지진 워크플로 생성을 향상합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/",
       "date": "Fri, 08 May 2026 13:20:30 +0000",
-      "summary": "이 게시물에서는 Halliburton의 S에 대한 질문 답변 기능을 제공하면서 자연어 쿼리를 실행 가능한 지진 워크플로로 변환하는 개념 증명을 구축한 방법을 살펴보겠습니다...."
+      "summary": "이 게시물에서는 자연어 쿼리를 실행 가능한 지진 워크플로로 변환하는 동시에 Halliburton의 S에 대한 질문 답변 기능을 제공하는 개념 증명을 구축한 방법을 살펴보겠습니다...."
     },
     {
       "company": "AWS Machine Learning",
