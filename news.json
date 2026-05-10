@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10 22:47:28 (KST)",
+  "updated_at": "2026-05-11 00:02:12 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "클라우드 및 AI 확장: 유럽의 디지털 미래를 위한 Microsoft Azure의 약속",
       "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
       "date": "Wed, 06 May 2026 14:00:00 +0000",
-      "summary": "<p>클라우드 및 AI에 대한 수요가 증가함에 따라 Microsoft는 혁신, 규정 준수, 성능을 지원하는 확장 가능하고 탄력적인 인프라를 제공하기 위해 Azure를 유럽 전역으로 확장하고 있습니다.</p>\n<p>게시물 <a..."
+      "summary": "<p>클라우드 및 AI에 대한 수요가 증가함에 따라 Microsoft는 혁신, 규정 준수, 성능을 지원하는 확장 가능하고 탄력적인 인프라를 제공하기 위해 유럽 전역으로 Azure를 확장하고 있습니다.</p>\n<p>게시물 <a..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -69,7 +69,7 @@
       "title": "Halliburton은 Amazon Bedrock 및 Generative AI를 사용하여 지진 워크플로 생성을 향상합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/",
       "date": "Fri, 08 May 2026 13:20:30 +0000",
-      "summary": "이 게시물에서는 자연어 쿼리를 실행 가능한 지진 워크플로로 변환하는 동시에 Halliburton의 S에 대한 질문 답변 기능을 제공하는 개념 증명을 구축한 방법을 살펴보겠습니다...."
+      "summary": "이 게시물에서는 Halliburton의 S에 대한 질문 답변 기능을 제공하면서 자연어 쿼리를 실행 가능한 지진 워크플로로 변환하는 개념 증명을 구축한 방법을 살펴보겠습니다...."
     },
     {
       "company": "AWS Machine Learning",
