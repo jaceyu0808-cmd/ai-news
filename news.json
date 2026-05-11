@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-05-11 21:18:38 (KST)",
+  "updated_at": "2026-05-12 01:09:07 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 캠퍼스 네트워크: 학생 동아리 관심 양식",
-      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "date": "Mon, 11 May 2026 10:00:00 GMT",
-      "summary": "OpenAI 캠퍼스 네트워크에 가입하세요. 전 세계 학생 클럽을 연결하고, AI 도구에 액세스하고, 이벤트를 주최하고, AI 기반 캠퍼스 커뮤니티를 구축하세요...."
-    },
     {
       "company": "OpenAI",
       "title": "기업이 AI를 확장하는 방법",
@@ -17,10 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI에서 Codex를 안전하게 실행",
-      "link": "https://openai.com/index/running-codex-safely",
-      "date": "Fri, 08 May 2026 12:30:00 GMT",
-      "summary": "OpenAI가 샌드박싱, 승인, 네트워크 정책 및 에이전트 기반 원격 측정을 통해 Codex를 안전하게 실행하여 안전하고 규정을 준수하는 코딩 에이전트 채택을 지원하는 방법입니다...."
+      "title": "OpenAI 캠퍼스 네트워크: 학생 동아리 관심 양식",
+      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "date": "Mon, 11 May 2026 10:00:00 GMT",
+      "summary": "OpenAI 캠퍼스 네트워크에 가입하세요. 전 세계 학생 클럽을 연결하고, AI 도구에 액세스하고, 이벤트를 주최하고, AI 기반 캠퍼스 커뮤니티를 구축하세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI, 기업이 인텔리전스를 기반으로 구축할 수 있도록 DeployCo 출시",
+      "link": "https://openai.com/index/openai-launches-the-deployment-company",
+      "date": "Mon, 11 May 2026 06:00:00 GMT",
+      "summary": "OpenAI는 조직이 첨단 AI를 프로덕션에 도입하고 이를 측정 가능한 비즈니스 영향으로 전환할 수 있도록 지원하기 위해 구축된 새로운 엔터프라이즈 배포 회사인 DeployCo를 출시합니다...."
     },
     {
       "company": "Google AI",
@@ -62,7 +62,14 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Quick: 엔터프라이즈 데이터에서 AI 기반 의사결정으로의 경로 가속화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/",
+      "date": "Mon, 11 May 2026 15:56:33 +0000",
+      "summary": "Amazon Quick은 대규모 엔터프라이즈 데이터를 빠르고 정확한 AI 기반 의사결정으로 전환하는 데 도움이 됩니다. 이 게시물에서는 데이터 보호 방식을 가속화하는 Amazon Quick의 5가지 새로운 기능에 대해 알아봅니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,20 +86,6 @@
       "summary": "이 게시물에서는 ML용 Amazon Elastic Compute Cloud(Amazon EC2) 용량 블록 및 Amazon SageMaker 교육 계획을 사용하여 단기 워크로드를 위해 예약된 GPU 용량을 확보하는 방법을 알아봅니다. 목..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "보상 신호 문제 극복: SageMaker AI에서 GRPO를 사용한 검증 가능한 보상 기반 강화 학습",
-      "link": "https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/",
-      "date": "Thu, 07 May 2026 15:53:30 +0000",
-      "summary": "이 게시물에서는 검증 가능한 보상(RLVR)을 사용하여 강화 학습을 구현하여 보상 신호에 검증 및 투명성을 도입하여 훈련 성능을 향상시키는 방법을 알아봅니다. 이것..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "MachinaCheck: AMD MI300X에 다중 에이전트 CNC 제조 가능성 시스템 구축",
-      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-      "date": "Sun, 10 May 2026 18:44:11 GMT",
-      "summary": "..."
-    },
-    {
       "company": "Hugging Face",
       "title": "EMO: 긴급 모듈화를 위한 전문가 사전 교육 혼합",
       "link": "https://huggingface.co/blog/allenai/emo",
@@ -104,6 +97,13 @@
       "title": "vLLM V0~V1: RL 수정 전 정확성",
       "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "date": "Wed, 06 May 2026 19:06:55 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "Open ASR 순위표에 Benchmaxxer 방충제 추가",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
