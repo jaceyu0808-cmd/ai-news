@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-12 06:24:27 (KST)",
+  "updated_at": "2026-05-12 08:03:28 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "2026년 초에 ChatGPT 채택이 확대된 방법",
+      "link": "https://openai.com/signals/research/2026q1-update",
+      "date": "Mon, 11 May 2026 15:00:00 GMT",
+      "summary": "ChatGPT 채택은 2026년 1분기에 급증했으며, 35세 이상의 사용자 사이에서 가장 빠른 성장과 보다 균형 잡힌 성별 사용으로 인해 주류 AI 채택이 더욱 광범위해졌습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "기업이 AI를 확장하는 방법",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "date": "Mon, 11 May 2026 10:00:00 GMT",
       "summary": "OpenAI 캠퍼스 네트워크에 가입하세요. 전 세계 학생 클럽을 연결하고, AI 도구에 액세스하고, 이벤트를 주최하고, AI 기반 캠퍼스 커뮤니티를 구축하세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI, 기업이 인텔리전스 기반 구축을 지원하는 DeployCo 출시",
-      "link": "https://openai.com/index/openai-launches-the-deployment-company",
-      "date": "Mon, 11 May 2026 06:00:00 GMT",
-      "summary": "OpenAI는 조직이 첨단 AI를 프로덕션에 도입하고 이를 측정 가능한 비즈니스 영향으로 전환할 수 있도록 지원하기 위해 구축된 새로운 엔터프라이즈 배포 회사인 DeployCo를 출시합니다...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Strands 및 Exa를 사용하여 웹 검색 지원 에이전트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/",
+      "date": "Mon, 11 May 2026 21:58:16 +0000",
+      "summary": "이 게시물에서는 Strands Agents에서 Exa 통합을 설정하는 방법, Exa 통합이 제공하는 두 가지 핵심 도구를 이해하고 에이전트가 웹 검색을 사용하여 다음을 수행하는 방법을 보여주는 실제 사용 사례를 살펴보겠습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "AWS의 Claude Platform 소개: AWS 계정을 통한 Anthropic의 기본 플랫폼",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
       "date": "Mon, 11 May 2026 18:43:03 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
       "date": "Mon, 11 May 2026 17:08:24 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock 및 Amazon S3 벡터의 Amazon Nova 다중 모드 임베딩을 사용하여 항공우주 제조 문서를 위한 다중 모드 검색 시스템을 구축합니다. 26일 시스템 평가..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Miro가 Amazon Bedrock을 사용하여 소프트웨어 버그 라우팅 정확도를 높이고 해결 시간을 며칠에서 몇 시간으로 개선하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/",
-      "date": "Mon, 11 May 2026 17:03:00 +0000",
-      "summary": "이 게시물에서는 Miro의 버그 라우팅을 개선하여 팀 재할당 횟수를 6배 줄이고 해결 시간을 5배 단축하는 데 사용한 아키텍처와 기술에 대해 자세히 알아봅니다...."
     },
     {
       "company": "Hugging Face",
