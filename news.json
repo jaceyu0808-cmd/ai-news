@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12 15:44:54 (KST)",
+  "updated_at": "2026-05-12 18:46:36 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "기업이 AI를 확장하는 방법",
-      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "date": "Mon, 11 May 2026 10:00:00 GMT",
-      "summary": "기업이 AI를 확장하는 방법: 초기 실험부터 신뢰, 거버넌스, 워크플로우 설계 및 규모에 따른 품질을 통한 복합적인 영향까지...."
-    },
-    {
-      "company": "OpenAI",
       "title": "OpenAI 캠퍼스 네트워크: 학생 동아리 관심 양식",
       "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "date": "Mon, 11 May 2026 10:00:00 GMT",
       "summary": "OpenAI 캠퍼스 네트워크에 가입하세요. 전 세계 학생 클럽을 연결하고, AI 도구에 액세스하고, 이벤트를 주최하고, AI 기반 캠퍼스 커뮤니티를 구축하세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "기업이 AI를 확장하는 방법",
+      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "date": "Mon, 11 May 2026 10:00:00 GMT",
+      "summary": "기업이 AI를 확장하는 방법: 초기 실험부터 신뢰, 거버넌스, 워크플로우 설계 및 규모에 따른 품질을 통한 복합적인 영향까지...."
     },
     {
       "company": "Google AI",
