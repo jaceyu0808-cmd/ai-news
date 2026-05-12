@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-05-13 03:07:42 (KST)",
+  "updated_at": "2026-05-13 05:45:09 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Parameter Golf가 AI 지원 연구에 관해 우리에게 가르쳐 준 것",
+      "link": "https://openai.com/index/what-parameter-golf-taught-us",
+      "date": "Tue, 12 May 2026 00:00:00 GMT",
+      "summary": "Parameter Golf는 1,000명 이상의 참가자와 2,000개 이상의 제출물을 모아 엄격한 제약 조건 하에서 AI 지원 기계 학습 연구, 코딩 에이전트, 양자화 및 새로운 모델 설계를 탐색했습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "2026년 초에 ChatGPT 도입이 확대된 방법",
       "link": "https://openai.com/signals/research/2026q1-update",
       "date": "Mon, 11 May 2026 15:00:00 GMT",
       "summary": "ChatGPT 채택은 2026년 1분기에 급증했으며, 35세 이상의 사용자 사이에서 가장 빠른 성장과 보다 균형 잡힌 성별 사용으로 인해 주류 AI 채택이 더욱 광범위해졌습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 캠퍼스 네트워크: 학생 동아리 관심 양식",
-      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "date": "Mon, 11 May 2026 10:00:00 GMT",
-      "summary": "OpenAI 캠퍼스 네트워크에 가입하세요. 전 세계 학생 클럽을 연결하고, AI 도구에 액세스하고, 이벤트를 주최하고, AI 기반 캠퍼스 커뮤니티를 구축하세요...."
     },
     {
       "company": "OpenAI",
