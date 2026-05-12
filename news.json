@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12 08:03:28 (KST)",
+  "updated_at": "2026-05-12 12:58:45 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -62,7 +62,7 @@
       "title": "신뢰와 투명성 강화: Azure 통합 HSM 오픈 소싱",
       "link": "https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/",
       "date": "Thu, 30 Apr 2026 18:00:00 +0000",
-      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보안을 제공합니다...."
+      "summary": "<p>클라우드 워크로드가 더욱 강력해지고 AI 시스템이 점점 더 민감한 데이터를 처리함에 따라 인프라에 직접 신뢰를 구축해야 합니다. Azure 통합 HSM은 하드웨어 적용 키 보호 기능을 제공합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "AWS 기반 모델 훈련 및 추론을 위한 구성 요소",
+      "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "date": "Mon, 11 May 2026 23:18:26 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "EMO: 긴급 모듈화를 위한 전문가 사전 교육 혼합",
       "link": "https://huggingface.co/blog/allenai/emo",
       "date": "Fri, 08 May 2026 16:03:50 GMT",
@@ -97,13 +104,6 @@
       "title": "vLLM V0~V1: RL 수정 전 정확성",
       "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "date": "Wed, 06 May 2026 19:06:55 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Open ASR 순위표에 Benchmaxxer 방충제 추가",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "date": "Wed, 06 May 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
