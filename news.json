@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-13 00:43:58 (KST)",
+  "updated_at": "2026-05-13 03:07:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "2026년 초에 ChatGPT 채택이 확대된 방법",
+      "title": "2026년 초에 ChatGPT 도입이 확대된 방법",
       "link": "https://openai.com/signals/research/2026q1-update",
       "date": "Mon, 11 May 2026 15:00:00 GMT",
       "summary": "ChatGPT 채택은 2026년 1분기에 급증했으며, 35세 이상의 사용자 사이에서 가장 빠른 성장과 보다 균형 잡힌 성별 사용으로 인해 주류 AI 채택이 더욱 광범위해졌습니다...."
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Strands 및 Exa를 사용하여 웹 검색 지원 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/",
-      "date": "Mon, 11 May 2026 21:58:16 +0000",
-      "summary": "이 게시물에서는 Strands Agents에서 Exa 통합을 설정하는 방법, Exa 통합이 제공하는 두 가지 핵심 도구를 이해하고 에이전트가 웹 검색을 사용하여 다음을 수행하는 방법을 보여주는 실제 사용 사례를 살펴보겠습니다...."
+      "title": "Amazon Finance가 AWS에서 생성 AI를 사용하여 규제 문의를 간소화하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/",
+      "date": "Tue, 12 May 2026 16:41:33 +0000",
+      "summary": "이 게시물에서는 Amazon FinTech 팀이 Amazon Bedrock 및 기타 AWS 서비스를 사용하여 규제 문의 처리 방식을 변화시키는 확장 가능한 AI 애플리케이션을 구축하는 방법을 보여줍니다. 각 팀은 우리..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS의 Claude Platform 소개: AWS 계정을 통한 Anthropic의 기본 플랫폼",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
-      "date": "Mon, 11 May 2026 18:43:03 +0000",
-      "summary": "오늘 AWS에서 Claude 플랫폼의 정식 출시를 발표하게 되어 기쁘게 생각합니다. AWS의 Claude Platform은 고객이 Anthropic의 기본 Claude Platform ex에 직접 액세스할 수 있도록 하는 새로운 서비스입니다...."
+      "title": "지능형 문서 처리를 위한 스키마 생성 자동화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing/",
+      "date": "Tue, 12 May 2026 15:54:08 +0000",
+      "summary": "이 게시물에서는 다중 문서 검색 기능이 이 문제를 어떻게 해결하는지 보여 드리겠습니다. 자동화된 전처리 단계 역할을 하여 알려지지 않은 문서를 분석하고 이를 유형별, 유전자별로 클러스터링합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova 다중 모드 임베딩을 사용한 제조 인텔리전스",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
-      "date": "Mon, 11 May 2026 17:08:24 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock 및 Amazon S3 벡터의 Amazon Nova 다중 모드 임베딩을 사용하여 항공우주 제조 문서를 위한 다중 모드 검색 시스템을 구축합니다. 26일 시스템 평가..."
+      "title": "Amazon SageMaker AI에서 LLM 미세 조정을 위한 EU AI Act 요구 사항 탐색",
+      "link": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/",
+      "date": "Tue, 12 May 2026 15:48:52 +0000",
+      "summary": "이 게시물에서는 Amazon SageMaker AI에서 오픈 소스 Fine-Tuning FLOP 미터 도구 키트를 사용하여 LLM 미세 조정 중에 FLOP 추적을 설정하는 방법을 보여줍니다. 규정 준수 여부를 판단하는 방법을 배웁니다...."
     },
     {
       "company": "Hugging Face",
