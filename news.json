@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-14 04:01:33 (KST)",
+  "updated_at": "2026-05-14 06:41:04 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "Windows에서 Codex를 활성화하기 위한 안전하고 효과적인 샌드박스 구축",
       "link": "https://openai.com/index/building-codex-windows-sandbox",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
+      "date": "Wed, 13 May 2026 11:00:00 GMT",
       "summary": "OpenAI가 어떻게 Windows에서 Codex용 보안 샌드박스를 구축하여 파일 액세스 제어 및 네트워크 제한을 통해 안전하고 효율적인 코딩 에이전트를 활성화했는지 알아보세요...."
     },
     {
