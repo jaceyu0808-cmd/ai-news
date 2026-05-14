@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14 21:58:41 (KST)",
+  "updated_at": "2026-05-15 00:27:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
       "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정, 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "연속 일괄 처리에서 비동기성 잠금 해제",
+      "link": "https://huggingface.co/blog/continuous_async",
+      "date": "Thu, 14 May 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "AWS 기반 모델 훈련 및 추론을 위한 구성 요소",
       "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
       "date": "Mon, 11 May 2026 23:18:26 GMT",
@@ -97,13 +104,6 @@
       "title": "EMO: 긴급 모듈화를 위한 전문가 사전 교육 혼합",
       "link": "https://huggingface.co/blog/allenai/emo",
       "date": "Fri, 08 May 2026 16:03:50 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "vLLM V0~V1: RL 수정 전 정확성",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "date": "Wed, 06 May 2026 19:06:55 GMT",
       "summary": "..."
     }
   ]
