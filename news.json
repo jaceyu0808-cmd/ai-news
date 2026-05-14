@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14 13:06:00 (KST)",
+  "updated_at": "2026-05-14 16:49:22 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "TanStack npm 공급망 공격에 대한 우리의 대응",
+      "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "date": "Wed, 13 May 2026 00:00:00 GMT",
+      "summary": "OpenAI는 TanStack \"Mini Shai-Hulud\" 공급망 공격에 대한 대응을 자세히 설명하고, 시스템 보안 및 인증서 서명에 적용되는 보호 조치를 간략하게 설명하며, macOS 사용자가 OpenA를 업데이트해야 하는 이유를 설명합니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "재무팀이 Codex를 사용하는 방법",
       "link": "https://openai.com/academy/how-finance-teams-use-codex",
       "date": "Tue, 12 May 2026 15:00:00 GMT",
       "summary": "재무팀이 Codex를 사용하여 실제 작업 입력에서 MBR, 보고 팩, 차이 브리지, 모델 검사 및 계획 시나리오를 구축하는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "NVIDIA 엔지니어와 연구원이 Codex를 사용하여 구축하는 방법",
-      "link": "https://openai.com/index/nvidia",
-      "date": "Tue, 12 May 2026 00:00:00 GMT",
-      "summary": "팀은 GPT-5.5와 함께 Codex를 사용하여 생산 시스템을 출시하고 연구 아이디어를 실행 가능한 실험으로 전환합니다...."
     },
     {
       "company": "Google AI",
@@ -45,10 +45,17 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
+      "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
+      "date": "Wed, 13 May 2026 16:00:00 +0000",
+      "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
       "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정, 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
       "date": "Mon, 11 May 2026 19:00:00 +0000",
       "summary": "<p>Microsoft와 Red Hat은 Azure Red Hat OpenShift가 어떻게 안전하고 확장 가능한 엔터프라이즈 거버넌스를 통해 현대화 및 프로덕션 AI를 강화하는지 보여줍니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure Cosmos DB를 사용하여 AI 앱 빌드: Cosmos Conf 2026의 주요 동향",
-      "link": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
-      "date": "Mon, 11 May 2026 16:00:00 +0000",
-      "summary": "<p>AI가 애플리케이션 개발을 재편하고 있습니다. Cosmos DB Conf 2026의 주요 동향과 팀이 Azure Cosmos DB를 사용하여 확장 가능한 AI 기반 애플리케이션을 구축하는 방법을 살펴보세요.</p>\n<p>게시물 <a href=\"https..."
     },
     {
       "company": "AWS Machine Learning",
