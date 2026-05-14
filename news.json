@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15 05:40:34 (KST)",
+  "updated_at": "2026-05-15 07:17:09 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
       "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정, 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -83,7 +83,7 @@
       "title": "사일로화된 데이터에서 통합 통찰력으로: Amazon Quick을 위한 교차 계정 Athena 액세스",
       "link": "https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick/",
       "date": "Thu, 14 May 2026 17:17:50 +0000",
-      "summary": "오늘 Amazon Quick에 대한 교차 계정 Athena 액세스를 발표합니다. 이 기능을 통해 고객은 AWS Identity and Access Management(IAM) 역할 체인을 사용하여 다른 AWS 계정의 Athena 데이터를 쿼리할 수 있습니다...."
+      "summary": "오늘 우리는 Amazon Quick에 대한 교차 계정 Athena 액세스를 발표합니다. 이 기능을 통해 고객은 AWS Identity and Access Management(IAM) 역할 체인을 사용하여 다른 AWS 계정의 Athena 데이터를 쿼리할 수 있습니다...."
     },
     {
       "company": "Hugging Face",
