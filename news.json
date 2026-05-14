@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-15 03:03:38 (KST)",
+  "updated_at": "2026-05-15 05:40:34 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "어디서나 Codex로 작업하세요",
+      "link": "https://openai.com/index/work-with-codex-from-anywhere",
+      "date": "Thu, 14 May 2026 13:00:00 GMT",
+      "summary": "ChatGPT 모바일 앱으로 어디서나 Codex를 사용하세요. 장치 및 원격 환경 전체에서 실시간으로 코딩 작업을 모니터링, 조정 및 승인합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "ChatGPT가 민감한 대화에서 맥락을 더 잘 인식하도록 지원",
@@ -16,18 +23,11 @@
       "summary": "OpenAI가 어떻게 Windows에서 Codex용 보안 샌드박스를 구축하여 파일 액세스 제어 및 네트워크 제한을 통해 안전하고 효율적인 코딩 에이전트를 활성화했는지 알아보세요...."
     },
     {
-      "company": "OpenAI",
-      "title": "TanStack npm 공급망 공격에 대한 우리의 대응",
-      "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "date": "Wed, 13 May 2026 00:00:00 GMT",
-      "summary": "OpenAI는 TanStack \"Mini Shai-Hulud\" 공급망 공격에 대한 대응을 자세히 설명하고, 시스템 보안 및 인증서 서명에 적용되는 보호 조치를 간략하게 설명하며, macOS 사용자가 OpenA를 업데이트해야 하는 이유를 설명합니다...."
-    },
-    {
       "company": "Google AI",
       "title": "새로운 AI 기반 Google Finance가 유럽으로 확장되고 있습니다.",
       "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
       "date": "Mon, 11 May 2026 06:00:00 +0000",
-      "summary": "Google Finance의 AI 기반 경험 스크린샷..."
+      "summary": "Google Finance의 AI 기반 환경 스크린샷..."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
+      "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
+      "date": "Wed, 13 May 2026 16:00:00 +0000",
+      "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
       "date": "Tue, 12 May 2026 18:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
       "date": "Mon, 11 May 2026 19:00:00 +0000",
       "summary": "<p>Microsoft와 Red Hat은 Azure Red Hat OpenShift가 어떻게 안전하고 확장 가능한 엔터프라이즈 거버넌스를 통해 현대화 및 프로덕션 AI를 강화하는지 보여줍니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure Cosmos DB를 사용하여 AI 앱 빌드: Cosmos Conf 2026의 주요 동향",
-      "link": "https://azure.microsoft.com/en-us/blog/build-ai-apps-with-azure-cosmos-db-key-trends-from-cosmos-conf-2026/",
-      "date": "Mon, 11 May 2026 16:00:00 +0000",
-      "summary": "<p>AI가 애플리케이션 개발을 재편하고 있습니다. Cosmos DB Conf 2026의 주요 동향과 팀이 Azure Cosmos DB를 사용하여 확장 가능한 AI 기반 애플리케이션을 구축하는 방법을 살펴보세요.</p>\n<p>게시물 <a href=\"https..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "다국어 임베딩 R2: 32K 컨텍스트를 갖춘 개방형 Apache 2.0 다국어 임베딩 — 최고의 1억 미만 검색 품질",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "date": "Thu, 14 May 2026 18:55:01 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "연속 일괄 처리에서 비동기성 잠금 해제",
       "link": "https://huggingface.co/blog/continuous_async",
       "date": "Thu, 14 May 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "AWS 기반 모델 훈련 및 추론을 위한 구성 요소",
       "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
       "date": "Mon, 11 May 2026 23:18:26 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "EMO: 긴급 모듈화를 위한 전문가 사전 교육 혼합",
-      "link": "https://huggingface.co/blog/allenai/emo",
-      "date": "Fri, 08 May 2026 16:03:50 GMT",
       "summary": "..."
     }
   ]
