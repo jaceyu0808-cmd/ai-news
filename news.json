@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-16 15:29:02 (KST)",
+  "updated_at": "2026-05-16 17:53:58 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "ChatGPT의 새로운 개인 금융 경험",
-      "link": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "영업팀이 Codex를 사용하는 방법",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "미국의 Pro 사용자를 위한 ChatGPT에서 새로운 개인 금융 경험을 미리 보세요. 금융 계정을 안전하게 연결하고 금융 상황에 기반한 AI 기반 통찰력과 안내를 받으세요...."
+      "summary": "영업팀이 Codex를 사용하여 실제 작업 입력을 통해 파이프라인 개요, 회의 준비 패킷, 예측 검토, 계정 계획 및 지연된 거래 진단을 생성하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "Databricks는 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 도입합니다.",
-      "link": "https://openai.com/index/databricks",
+      "title": "비즈니스 운영팀이 Codex를 사용하는 방법",
+      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Databricks는 모델이 OfficeQA Pro 벤치마크에서 새로운 최첨단 기술을 설정한 후 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 사용합니다...."
+      "summary": "비즈니스 운영 팀이 Codex를 사용하여 실제 업무 입력에서 이니셔티브 개요, 전략 업데이트, 리더십 결정 패킷, 진행 상황 업데이트 등을 만드는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "Codex를 통한 Agentic 소프트웨어 개발의 미래에 대한 Sea의 견해",
-      "link": "https://openai.com/index/sea-david-chen",
-      "date": "Thu, 14 May 2026 20:30:00 GMT",
-      "summary": "Sea Limited의 CPO는 회사가 아시아에서 AI 기반 소프트웨어 개발을 가속화하기 위해 엔지니어링 팀 전반에 Codex를 배포하는 이유를 설명합니다...."
+      "title": "데이터 과학 팀이 Codex를 사용하는 방법",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "데이터 과학 팀이 Codex를 사용하여 실제 작업 입력에서 근본 원인 요약, 영향 판독, KPI 메모, 범위 분석 및 대시보드 사양을 구축하는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
