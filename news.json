@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16 09:00:15 (KST)",
+  "updated_at": "2026-05-16 12:56:11 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "Databricks는 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 도입합니다.",
+      "link": "https://openai.com/index/databricks",
+      "date": "Fri, 15 May 2026 00:00:00 GMT",
+      "summary": "Databricks는 모델이 OfficeQA Pro 벤치마크에서 새로운 최첨단 기술을 설정한 후 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 사용합니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "Codex를 통한 Agentic 소프트웨어 개발의 미래에 대한 Sea의 견해",
       "link": "https://openai.com/index/sea-david-chen",
       "date": "Thu, 14 May 2026 20:30:00 GMT",
       "summary": "Sea Limited의 CPO는 회사가 아시아에서 AI 기반 소프트웨어 개발을 가속화하기 위해 엔지니어링 팀 전체에 Codex를 배포하는 이유를 설명합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "어디서나 Codex로 작업하세요",
-      "link": "https://openai.com/index/work-with-codex-from-anywhere",
-      "date": "Thu, 14 May 2026 13:00:00 GMT",
-      "summary": "ChatGPT 모바일 앱으로 어디서나 Codex를 사용하세요. 장치 및 원격 환경 전체에서 실시간으로 코딩 작업을 모니터링, 조정 및 승인합니다...."
     },
     {
       "company": "Google AI",
