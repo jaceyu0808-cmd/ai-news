@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-18 06:03:45 (KST)",
+  "updated_at": "2026-05-18 08:00:50 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "OpenAI와 Malta가 협력하여 모든 시민에게 ChatGPT Plus 제공",
       "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "date": "Sat, 16 May 2026 00:00:00 GMT",
-      "summary": "OpenAI와 Malta는 파트너십을 통해 AI 액세스를 확장하고 시민들이 실용적인 AI 기술을 구축하고 책임감 있게 AI를 사용할 수 있도록 ChatGPT Plus 및 교육을 제공합니다...."
+      "summary": "OpenAI와 Malta는 파트너십을 통해 AI 액세스를 확장하고 ChatGPT Plus와 교육을 제공하여 시민들이 실용적인 AI 기술을 구축하고 책임감 있게 AI를 사용할 수 있도록 지원합니다...."
     },
     {
       "company": "OpenAI",
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
@@ -55,7 +55,7 @@
       "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
       "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정, 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
     },
     {
       "company": "Microsoft Azure AI",
