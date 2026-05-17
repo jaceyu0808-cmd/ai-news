@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17 16:37:41 (KST)",
+  "updated_at": "2026-05-17 18:55:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "새로운 AI 기반 Google Finance가 유럽으로 확장되고 있습니다.",
       "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
       "date": "Mon, 11 May 2026 06:00:00 +0000",
-      "summary": "Google Finance의 AI 기반 경험 스크린샷..."
+      "summary": "Google Finance의 AI 기반 환경 스크린샷..."
     },
     {
       "company": "Google AI",
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
