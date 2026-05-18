@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19 03:56:18 (KST)",
+  "updated_at": "2026-05-19 05:40:48 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Nova 2에 콘텐츠 조정 요청",
+      "link": "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/",
+      "date": "Mon, 18 May 2026 18:56:36 +0000",
+      "summary": "이 게시물에서는 MLCommons AILuminate 평가 표준을 기반으로 하는 구조화된 자유 형식 접근 방식을 사용하여 Amazon Nova 2 Lite에 콘텐츠 조정을 요청하는 방법을 알아봅니다. 촉구하는 기술..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Aderant는 Amazon Quick을 통해 클라우드 운영을 혁신합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/",
       "date": "Mon, 18 May 2026 17:26:40 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/",
       "date": "Mon, 18 May 2026 15:37:55 +0000",
       "summary": "이 게시물에서는 Quick과 Confluence Cloud 통합을 설정하는 방법을 알아봅니다. 여기에는 의미 검색을 위한 지식 기반 생성, Confluence p 쿼리 및 관리를 위한 작업 설정이 포함됩니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore에서 사용자 지정 코드 기반 평가기 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
-      "date": "Mon, 18 May 2026 15:07:15 +0000",
-      "summary": "이 게시물에서는 금융 시장 인텔리전스 에이전트를 위한 4개의 Lambda 기반 사용자 정의 코드 평가기를 구현하고 각각을 AgentCore에 등록한 후 온디맨드 및 온라인 모드에서 실행합니다. 당신은 것입니다..."
     },
     {
       "company": "Hugging Face",
