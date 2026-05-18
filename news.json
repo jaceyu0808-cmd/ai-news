@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-19 01:30:49 (KST)",
+  "updated_at": "2026-05-19 03:56:18 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI와 Dell의 파트너십을 통해 Codex를 하이브리드 및 온프레미스 엔터프라이즈 환경에 도입",
+      "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "date": "Mon, 18 May 2026 10:00:00 GMT",
+      "summary": "OpenAI와 Dell은 파트너십을 통해 Codex를 하이브리드 및 온프레미스 환경에 도입하여 기업이 데이터와 워크플로우 전반에 걸쳐 AI 코딩 에이전트를 안전하게 배포할 수 있도록 지원합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI와 Malta가 협력하여 모든 시민에게 ChatGPT Plus 제공",
@@ -10,17 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "비즈니스 운영팀이 Codex를 사용하는 방법",
-      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "title": "Databricks는 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 도입합니다.",
+      "link": "https://openai.com/index/databricks",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "비즈니스 운영 팀이 Codex를 사용하여 실제 업무 입력에서 이니셔티브 개요, 전략 업데이트, 리더십 결정 패킷, 진행 상황 업데이트 등을 만드는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "데이터 과학 팀이 Codex를 사용하는 방법",
-      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "데이터 과학 팀이 Codex를 사용하여 실제 작업 입력에서 근본 원인 요약, 영향 판독, KPI 메모, 범위 분석 및 대시보드 사양을 구축하는 방법을 알아보세요...."
+      "summary": "Databricks는 모델이 OfficeQA Pro 벤치마크에서 새로운 최첨단 기술을 설정한 후 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 사용합니다...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Aderant는 Amazon Quick을 통해 클라우드 운영을 혁신합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/",
+      "date": "Mon, 18 May 2026 17:26:40 +0000",
+      "summary": "이 게시물에서는 Aderant가 Amazon Quick의 AI 기반 기능을 사용하여 6개 공급업체 시스템 전반에 걸쳐 검색을 통합하고 문서 워크플로를 자동화하여 90% 더 빠른 검색 속도를 달성한 방법을 공유합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Atlassian Confluence Cloud를 Amazon Quick과 통합",
       "link": "https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/",
       "date": "Mon, 18 May 2026 15:37:55 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
       "date": "Mon, 18 May 2026 15:07:15 +0000",
       "summary": "이 게시물에서는 금융 시장 인텔리전스 에이전트를 위한 4개의 Lambda 기반 사용자 정의 코드 평가기를 구현하고 각각을 AgentCore에 등록한 후 온디맨드 및 온라인 모드에서 실행합니다. 당신은 것입니다..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon S3용 Amazon Quick 기술 자료의 민감한 문서에 대한 액세스를 제한합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/",
-      "date": "Fri, 15 May 2026 15:41:00 +0000",
-      "summary": "이 게시물에서는 Amazon Quick에서 S3 기술 자료에 대한 문서 수준 ACL을 구성하는 방법을 안내합니다. 문서 수준을 적용하는 ACL 구성을 설정하고 확인하는 방법을 배우게 됩니다...."
     },
     {
       "company": "Hugging Face",
