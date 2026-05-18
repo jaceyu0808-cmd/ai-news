@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18 17:50:12 (KST)",
+  "updated_at": "2026-05-18 21:41:20 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,10 +10,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "ChatGPT의 새로운 개인 금융 경험",
-      "link": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "Databricks는 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 도입합니다.",
+      "link": "https://openai.com/index/databricks",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "미국의 Pro 사용자를 위한 ChatGPT에서 새로운 개인 금융 경험을 미리 보세요. 금융 계정을 안전하게 연결하고 금융 상황에 기반한 AI 기반 통찰력과 안내를 받으세요...."
+      "summary": "Databricks는 모델이 OfficeQA Pro 벤치마크에서 새로운 최첨단 기술을 설정한 후 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 사용합니다...."
     },
     {
       "company": "OpenAI",
