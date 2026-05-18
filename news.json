@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18 21:41:20 (KST)",
+  "updated_at": "2026-05-19 01:30:49 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,10 +10,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Databricks는 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 도입합니다.",
-      "link": "https://openai.com/index/databricks",
+      "title": "비즈니스 운영팀이 Codex를 사용하는 방법",
+      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Databricks는 모델이 OfficeQA Pro 벤치마크에서 새로운 최첨단 기술을 설정한 후 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 사용합니다...."
+      "summary": "비즈니스 운영 팀이 Codex를 사용하여 실제 업무 입력에서 이니셔티브 개요, 전략 업데이트, 리더십 결정 패킷, 진행 상황 업데이트 등을 만드는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
@@ -55,7 +55,7 @@
       "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
       "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정, 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,44 +66,44 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Atlassian Confluence Cloud를 Amazon Quick과 통합",
+      "link": "https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/",
+      "date": "Mon, 18 May 2026 15:37:55 +0000",
+      "summary": "이 게시물에서는 Quick과 Confluence Cloud 통합을 설정하는 방법을 알아봅니다. 여기에는 의미 검색을 위한 지식 기반 생성, Confluence p 쿼리 및 관리를 위한 작업 설정이 포함됩니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore에서 사용자 지정 코드 기반 평가기 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
+      "date": "Mon, 18 May 2026 15:07:15 +0000",
+      "summary": "이 게시물에서는 금융 시장 인텔리전스 에이전트를 위한 4개의 Lambda 기반 사용자 정의 코드 평가기를 구현하고 각각을 AgentCore에 등록한 후 온디맨드 및 온라인 모드에서 실행합니다. 당신은 것입니다..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon S3용 Amazon Quick 기술 자료의 민감한 문서에 대한 액세스를 제한합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/",
       "date": "Fri, 15 May 2026 15:41:00 +0000",
       "summary": "이 게시물에서는 Amazon Quick에서 S3 기술 자료에 대한 문서 수준 ACL을 구성하는 방법을 안내합니다. 문서 수준을 적용하는 ACL 구성을 설정하고 확인하는 방법을 배우게 됩니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Lex Assisted NLU로 봇 정확도 향상",
-      "link": "https://aws.amazon.com/blogs/machine-learning/improve-bot-accuracy-with-amazon-lex-assisted-nlu/",
-      "date": "Thu, 14 May 2026 17:28:44 +0000",
-      "summary": "이번 포스팅에서는 Assisted NLU를 효과적으로 구현하는 방법을 알아봅니다. 효과적인 의도와 슬롯 설명으로 봇 디자인을 개선하고 Te를 사용하여 구현을 검증하는 방법을 배우게 됩니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Stream Vision Agents 및 Amazon Nova 2 Sonic을 사용한 실시간 음성 에이전트",
-      "link": "https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic/",
-      "date": "Thu, 14 May 2026 17:23:48 +0000",
-      "summary": "이 게시물에서는 Stream의 Vision Agents 오픈 소스 프레임워크를 Amazon Bedrock 및 Amazon Nova 2 Sonic과 결합하여 몇 분 만에 프로덕션 준비가 가능한 실시간 음성 에이전트를 구축하는 방법을 알아봅니다...."
-    },
-    {
       "company": "Hugging Face",
-      "title": "다국어 임베딩 R2: 32K 컨텍스트를 갖춘 개방형 Apache 2.0 다국어 임베딩 — 최고의 1억 미만 검색 품질",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "date": "Thu, 14 May 2026 18:55:01 GMT",
+      "title": "로봇 비디오 생성을 위한 LoRA/DoRA를 갖춘 NVIDIA Cosmos Predict 2.5 미세 조정",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "date": "Mon, 18 May 2026 16:00:21 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "연속 일괄 처리에서 비동기성 잠금 해제",
-      "link": "https://huggingface.co/blog/continuous_async",
-      "date": "Thu, 14 May 2026 00:00:00 GMT",
+      "title": "PaddleOCR 3.5: Transformers 백엔드로 OCR 및 문서 구문 분석 작업 실행",
+      "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "date": "Mon, 18 May 2026 15:12:46 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "AWS 기반 모델 훈련 및 추론을 위한 구성 요소",
-      "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "date": "Mon, 11 May 2026 23:18:26 GMT",
+      "title": "오픈 에이전트 리더보드",
+      "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "date": "Mon, 18 May 2026 14:12:58 GMT",
       "summary": "..."
     }
   ]
