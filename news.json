@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-20 01:56:08 (KST)",
+  "updated_at": "2026-05-20 04:09:58 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "더욱 안전하고 투명한 AI 생태계를 위한 콘텐츠 출처 발전",
+      "link": "https://openai.com/index/advancing-content-provenance",
+      "date": "Tue, 19 May 2026 10:45:00 GMT",
+      "summary": "OpenAI는 사람들이 AI 생성 미디어를 식별하고 신뢰할 수 있도록 돕는 콘텐츠 자격 증명, SynthID 및 확인 도구를 통해 AI 콘텐츠 출처를 향상시킵니다...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI와 Dell의 파트너십을 통해 Codex를 하이브리드 및 온프레미스 엔터프라이즈 환경에 도입",
@@ -16,32 +23,25 @@
       "summary": "OpenAI와 Malta는 파트너십을 통해 AI 액세스를 확장하고 시민들이 실용적인 AI 기술을 구축하고 책임감 있게 AI를 사용할 수 있도록 ChatGPT Plus 및 교육을 제공합니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "ChatGPT의 새로운 개인 금융 경험",
-      "link": "https://openai.com/index/personal-finance-chatgpt",
-      "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "미국의 Pro 사용자를 위한 ChatGPT에서 새로운 개인 금융 경험을 미리 보세요. 금융 계정을 안전하게 연결하고 금융 상황에 기반한 AI 기반 통찰력과 안내를 받으세요...."
+      "company": "Google AI",
+      "title": "I/O 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "date": "Tue, 19 May 2026 17:45:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif\" />Google I/O 2026에서 우리는 AI를 모든 사람에게 더욱 유용하게 만드는 방법을 공유했습니다. 우리가 하는 모든 것을 보세요..."
     },
     {
       "company": "Google AI",
-      "title": "새로운 AI 기반 Google Finance가 유럽으로 확장되고 있습니다.",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "date": "Mon, 11 May 2026 06:00:00 +0000",
-      "summary": "Google Finance의 AI 기반 환경 스크린샷..."
+      "title": "AI 모드가 미국 사람들의 검색 방식을 어떻게 변화시키고 있습니까?",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "date": "Tue, 19 May 2026 17:45:00 +0000",
+      "summary": "그래픽에는 \"미국에서 사람들이 AI 모드를 사용하는 방법\"이라는 텍스트가 있습니다. 밝은 bl에 연필, 행성, 바나나, 선물 상자, 커서, 게임 패드 및 립스틱을 그린 다채롭고 양식화된 그림으로 둘러싸여 있습니다...."
     },
     {
       "company": "Google AI",
-      "title": "창의적인 전설이 AI를 사용하여 중소기업을 위한 광고를 만들면 어떤 일이 일어나는지 알아보세요.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "date": "Fri, 08 May 2026 15:00:00 +0000",
-      "summary": "수잔 크레들, 자욘타 젠킨스, 티파니 롤프의 얼굴 사진이 있는 흑백 카드..."
-    },
-    {
-      "company": "Google AI",
-      "title": "검색에서 바로 시도할 수 있는 5가지 정원 가꾸기 팁",
-      "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "date": "Wed, 06 May 2026 16:00:00 +0000",
-      "summary": "파란색, 녹색, 빨간색의 밝은 팔레트에 꽃과 나비를 부드럽고 점묘로 표현한 추상적인 배경입니다. 이미지 중앙에는 확대경이 포함된 흰색 원이 있습니다...."
+      "title": "Google Workspace에서 작업을 만들고 처리하는 새로운 방법",
+      "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "date": "Tue, 19 May 2026 17:45:00 +0000",
+      "summary": "Google 작업공간..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "OlmoEarth v1.1: 더욱 효율적인 모델 제품군",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "date": "Tue, 19 May 2026 18:38:09 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Ettin Reranker 제품군 소개",
       "link": "https://huggingface.co/blog/ettin-reranker",
       "date": "Tue, 19 May 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "로봇 비디오 생성을 위한 LoRA/DoRA를 갖춘 NVIDIA Cosmos Predict 2.5 미세 조정",
       "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
       "date": "Mon, 18 May 2026 16:00:21 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "PaddleOCR 3.5: Transformers 백엔드로 OCR 및 문서 구문 분석 작업 실행",
-      "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "date": "Mon, 18 May 2026 15:12:46 GMT",
       "summary": "..."
     }
   ]
