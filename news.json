@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19 14:08:07 (KST)",
+  "updated_at": "2026-05-19 19:00:40 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Databricks는 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 도입합니다.",
-      "link": "https://openai.com/index/databricks",
+      "title": "ChatGPT의 새로운 개인 금융 경험",
+      "link": "https://openai.com/index/personal-finance-chatgpt",
       "date": "Fri, 15 May 2026 00:00:00 GMT",
-      "summary": "Databricks는 모델이 OfficeQA Pro 벤치마크에서 새로운 최첨단 기술을 설정한 후 엔터프라이즈 에이전트 워크플로에 GPT-5.5를 사용합니다...."
+      "summary": "미국의 Pro 사용자를 위한 ChatGPT에서 새로운 개인 금융 경험을 미리 보세요. 금융 계정을 안전하게 연결하고 금융 상황에 기반한 AI 기반 통찰력과 안내를 받으세요...."
     },
     {
       "company": "Google AI",
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
@@ -55,7 +55,7 @@
       "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
       "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정, 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
     },
     {
       "company": "Microsoft Azure AI",
