@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-20 08:13:45 (KST)",
+  "updated_at": "2026-05-20 13:20:23 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "싱가포르용 OpenAI 소개",
+      "link": "https://openai.com/index/introducing-openai-for-singapore",
+      "date": "Tue, 19 May 2026 20:30:00 GMT",
+      "summary": "싱가포르용 OpenAI는 배포를 확대하고 현지 인재를 구축하며 AI를 통해 비즈니스 및 공공 서비스를 지원하기 위해 다년간의 AI 파트너십을 시작합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "더욱 안전하고 투명한 AI 생태계를 위한 콘텐츠 출처 발전",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/dell-codex-enterprise-partnership",
       "date": "Mon, 18 May 2026 10:00:00 GMT",
       "summary": "OpenAI와 Dell은 파트너십을 통해 Codex를 하이브리드 및 온프레미스 환경에 도입하여 기업이 데이터와 워크플로우 전반에 걸쳐 AI 코딩 에이전트를 안전하게 배포할 수 있도록 지원합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI와 Malta가 협력하여 모든 시민에게 ChatGPT Plus 제공",
-      "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "date": "Sat, 16 May 2026 00:00:00 GMT",
-      "summary": "OpenAI와 Malta는 파트너십을 통해 AI 액세스를 확장하고 ChatGPT Plus와 교육을 제공하여 시민들이 실용적인 AI 기술을 구축하고 책임감 있게 AI를 사용할 수 있도록 지원합니다...."
     },
     {
       "company": "Google AI",
