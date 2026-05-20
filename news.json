@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20 13:20:23 (KST)",
+  "updated_at": "2026-05-20 17:32:56 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "AI 모드가 미국에서 사람들의 검색 방식을 어떻게 변화시키고 있습니까?",
+      "title": "AI 모드가 미국 사람들의 검색 방식을 어떻게 변화시키고 있습니까?",
       "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
       "date": "Tue, 19 May 2026 17:45:00 +0000",
       "summary": "그래픽에는 \"미국에서 사람들이 AI 모드를 사용하는 방법\"이라는 텍스트가 있습니다. 밝은 bl에 연필, 행성, 바나나, 선물 상자, 커서, 게임 패드 및 립스틱을 그린 다채롭고 양식화된 그림으로 둘러싸여 있습니다...."
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
@@ -62,11 +62,11 @@
       "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
       "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정, 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova Sonic을 사용한 확장 가능한 음성 에이전트 설계: 다중 에이전트, 도구 및 세션 세분화",
+      "title": "Amazon Nova Sonic을 사용한 확장 가능한 음성 에이전트 설계: 다중 에이전트, 도구 및 세션 분할",
       "link": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/",
       "date": "Tue, 19 May 2026 15:26:37 +0000",
       "summary": "이 게시물에서는 Amazon Nova Sonic, Amazon Bedrock AgentCore 및 Strands BidiAgent를 사용하여 이러한 문제를 효율적으로 처리하는 확장 가능하고 유지 관리가 가능한 음성 에이전트를 구축하는 방법을 알아봅니다...."
@@ -76,7 +76,7 @@
       "title": "Amazon Bedrock AgentCore 메모리를 사용하여 Kiro CLI에서 대화형 메모리 확장",
       "link": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/",
       "date": "Tue, 19 May 2026 15:23:22 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock AgentCore 메모리와 통합되는 사용자 지정 모델 컨텍스트 프로토콜(MCP) 서버를 구현하여 Kiro CLI의 대화 메모리를 확장할 수 있는 방법을 보여줍니다...."
+      "summary": "이 게시물에서는 Amazon Bedrock AgentCore 메모리와 통합되는 사용자 정의 MCP(모델 컨텍스트 프로토콜) 서버를 구현하여 Kiro CLI의 대화 메모리를 확장할 수 있는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
