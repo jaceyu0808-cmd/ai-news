@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21 06:04:23 (KST)",
+  "updated_at": "2026-05-21 08:20:34 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Azure IaaS: 시스템 수준 접근 방식으로 고성능 워크로드 배포",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+      "date": "Wed, 20 May 2026 16:00:00 +0000",
+      "summary": "<p>클라우드의 성능은 더 이상 개별 리소스로 정의되지 않고 컴퓨팅, 스토리지, 네트워킹이 함께 작동하는 방식에 따라 결정됩니다. Azure IaaS는 조직을 돕기 위해 시스템 수준 접근 방식을 취합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure Files 내부 전용 ID: 클라우드 네이티브 ID 및 보안 향상",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
+      "date": "Tue, 19 May 2026 19:00:00 +0000",
+      "summary": "<p>Azure Files SMB에 대한 Entra-Only ID의 일반 공급(GA)을 발표하게 되어 기쁘게 생각합니다. 기본 Microsoft Entra ID 인증을 통해 조직은 이제 안전한 ID를 부여할 수 있습니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
-      "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
-      "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Red Hat Summit 2026: Microsoft Azure Red Hat OpenShift의 플랫폼 현대화 및 AI",
-      "link": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
-      "date": "Mon, 11 May 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft와 Red Hat은 Azure Red Hat OpenShift가 어떻게 안전하고 확장 가능한 엔터프라이즈 거버넌스를 통해 현대화 및 프로덕션 AI를 강화하는지 보여줍니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us..."
     },
     {
       "company": "AWS Machine Learning",
