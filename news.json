@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-22 01:24:13 (KST)",
+  "updated_at": "2026-05-22 04:05:19 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "OpenAI 모델은 이산 기하학의 중심 추측을 반증했습니다.",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI 모델은 80년 된 단위 거리 문제를 해결하여 이산 기하학의 주요 추측을 반증하고 AI 기반 수학에 이정표를 세웠습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Ramp 엔지니어가 Codex를 사용하여 코드 검토를 가속화하는 방법",
-      "link": "https://openai.com/index/ramp",
-      "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "Ramp 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 코드를 검토하고 개선 사항을 출시하여 몇 시간이 아닌 몇 분 만에 실질적인 피드백을 얻을 수 있는 방법...."
+      "title": "AdventHealth는 OpenAI를 통해 전인적 진료를 발전시킵니다.",
+      "link": "https://openai.com/index/adventhealth",
+      "date": "Thu, 21 May 2026 12:00:00 GMT",
+      "summary": "AdventHealth는 의료용 ChatGPT를 사용하여 작업 흐름을 간소화하고 관리 부담을 줄이며 환자 치료에 더 많은 시간을 투자하고 있습니다...."
     },
     {
       "company": "OpenAI",
       "title": "OpenAI 국가 교육의 다음 단계",
       "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI는 국가를 위한 교육을 발전시키고 글로벌 학습 결과를 개선하기 위한 새로운 파트너십, 교사 교육 및 도구를 통해 학교의 AI 채택을 확대합니다...."
+      "summary": "OpenAI는 국가를 위한 교육을 발전시키고 글로벌 학습 결과를 개선하기 위한 새로운 파트너십, 교사 교육 및 도구를 통해 학교에서 AI 채택을 확대합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 모델은 이산 기하학의 중심 추측을 반증했습니다.",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "date": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "OpenAI 모델은 80년 된 단위 거리 문제를 해결하여 이산 기하학의 주요 추측을 반증하고 AI 기반 수학에 이정표를 세웠습니다...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore 런타임을 사용하여 AWS API MCP 서버를 Amazon Quick과 통합",
+      "link": "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/",
+      "date": "Thu, 21 May 2026 16:32:09 +0000",
+      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜) 지원과 함께 Amazon Bedrock AgentCore Runtime을 사용하여 AWS API MCP 서버를 통해 Amazon Quick을 AWS 서비스와 연결하여 대화를 생성하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock AgentCore를 사용하여 다중 테넌트 에이전트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore/",
       "date": "Thu, 21 May 2026 16:16:09 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/break-the-context-window-barrier-with-amazon-bedrock-agentcore/",
       "date": "Thu, 21 May 2026 16:08:54 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock AgentCore 코드 해석기 및 Strands Agents SDK를 사용하여 RLM(재귀 언어 모델)을 구현하는 방법을 알아봅니다. 마지막에는 문서 처리 방법을 알게 됩니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore를 사용하여 비즈니스 인텔리전스용 AI 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-for-business-intelligence-with-amazon-bedrock-agentcore/",
-      "date": "Thu, 21 May 2026 16:04:17 +0000",
-      "summary": "이 게시물에서는 OPLOG가 Strands Agents SDK를 사용하여 3개의 AI 에이전트를 개발하고 이를 Amazon Bedrock AgentCore에 배포하고 Amazon Bedrock을 Anthropic의 Claude Sonnet 및..."
     },
     {
       "company": "Hugging Face",
