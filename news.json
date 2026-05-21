@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22 04:05:19 (KST)",
+  "updated_at": "2026-05-22 06:43:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI 국가 교육의 다음 단계",
-      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "title": "Ramp 엔지니어가 Codex를 사용하여 코드 검토를 가속화하는 방법",
+      "link": "https://openai.com/index/ramp",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI는 국가를 위한 교육을 발전시키고 글로벌 학습 결과를 개선하기 위한 새로운 파트너십, 교사 교육 및 도구를 통해 학교에서 AI 채택을 확대합니다...."
+      "summary": "Ramp 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 코드를 검토하고 개선 사항을 출시하여 몇 시간이 아닌 몇 분 만에 실질적인 피드백을 얻을 수 있는 방법...."
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI 모델은 이산 기하학의 중심 추측을 반증했습니다.",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "title": "OpenAI 국가 교육의 다음 단계",
+      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI 모델은 80년 된 단위 거리 문제를 해결하여 이산 기하학의 주요 추측을 반증하고 AI 기반 수학에 이정표를 세웠습니다...."
+      "summary": "OpenAI는 국가를 위한 교육을 발전시키고 글로벌 학습 결과를 개선하기 위한 새로운 파트너십, 교사 교육 및 도구를 통해 학교의 AI 채택을 확대합니다...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure IaaS: 시스템 수준 접근 방식으로 고성능 워크로드 배포",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
-      "date": "Wed, 20 May 2026 16:00:00 +0000",
-      "summary": "<p>클라우드의 성능은 더 이상 개별 리소스로 정의되지 않고 컴퓨팅, 스토리지, 네트워킹이 함께 작동하는 방식에 따라 결정됩니다. Azure IaaS는 조직을 돕기 위해 시스템 수준 접근 방식을 취합니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Azure Files 내부 전용 ID: 클라우드 네이티브 ID 및 보안 향상",
       "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
       "date": "Tue, 19 May 2026 19:00:00 +0000",
@@ -65,11 +58,25 @@
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
+      "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
+      "date": "Tue, 12 May 2026 18:00:00 +0000",
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "AI 에이전트를 통한 지능형 방사선학 워크플로우 최적화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/",
+      "date": "Thu, 21 May 2026 19:11:09 +0000",
+      "summary": "많은 의료 기관에서는 기존 작업 목록 시스템이 중요한 상황, 방사선 전문의 전문화, 현재 작업량, 피로 수준 및 사례 복잡성을 무시하는 엄격한 규칙에 의존하고 있다고 보고합니다...."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "Amazon Bedrock AgentCore 런타임을 사용하여 AWS API MCP 서버를 Amazon Quick과 통합",
       "link": "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/",
       "date": "Thu, 21 May 2026 16:32:09 +0000",
-      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜) 지원과 함께 Amazon Bedrock AgentCore Runtime을 사용하여 AWS API MCP 서버를 통해 Amazon Quick을 AWS 서비스와 연결하여 대화를 생성하는 방법을 보여줍니다...."
+      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜) 지원과 함께 Amazon Bedrock AgentCore 런타임을 사용하여 AWS API MCP 서버를 통해 Amazon Quick을 AWS 서비스와 연결하여 대화를 생성하는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore/",
       "date": "Thu, 21 May 2026 16:16:09 +0000",
       "summary": "이 게시물에서는 다중 테넌트 에이전트 애플리케이션을 설계하기 위한 설계 고려 사항과 Amazon Bedrock AgentCore를 사용하여 SaaS 아키텍처 문제를 해결하는 데 필요한 프레임워크를 살펴봅니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore로 컨텍스트 창 장벽을 허물다",
-      "link": "https://aws.amazon.com/blogs/machine-learning/break-the-context-window-barrier-with-amazon-bedrock-agentcore/",
-      "date": "Thu, 21 May 2026 16:08:54 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock AgentCore 코드 해석기 및 Strands Agents SDK를 사용하여 RLM(재귀 언어 모델)을 구현하는 방법을 알아봅니다. 마지막에는 문서 처리 방법을 알게 됩니다...."
     },
     {
       "company": "Hugging Face",
