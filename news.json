@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21 21:23:03 (KST)",
+  "updated_at": "2026-05-22 01:24:13 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Azure IaaS: 시스템 수준 접근 방식으로 고성능 워크로드 배포",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+      "date": "Wed, 20 May 2026 16:00:00 +0000",
+      "summary": "<p>클라우드의 성능은 더 이상 개별 리소스로 정의되지 않고 컴퓨팅, 스토리지, 네트워킹이 함께 작동하는 방식에 따라 결정됩니다. Azure IaaS는 조직을 돕기 위해 시스템 수준 접근 방식을 취합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure Files 내부 전용 ID: 클라우드 네이티브 ID 및 보안 향상",
       "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
       "date": "Tue, 19 May 2026 19:00:00 +0000",
@@ -58,32 +65,25 @@
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
-      "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
-      "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore를 사용하여 다중 테넌트 에이전트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore/",
+      "date": "Thu, 21 May 2026 16:16:09 +0000",
+      "summary": "이 게시물에서는 다중 테넌트 에이전트 애플리케이션을 설계하기 위한 설계 고려 사항과 Amazon Bedrock AgentCore를 사용하여 SaaS 아키텍처 문제를 해결하는 데 필요한 프레임워크를 살펴봅니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI 엔드포인트에 대한 OpenAI 호환 API 지원 발표",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/",
-      "date": "Wed, 20 May 2026 23:59:57 +0000",
-      "summary": "오늘 Amazon SageMaker AI는 실시간 추론 엔드포인트를 위한 OpenAI 호환 API 지원을 도입합니다. OpenAI SDK, LangChain 또는 Strands 에이전트를 사용하는 경우 이제 SageMaker A에서 모델을 호출할 수 있습니다...."
+      "title": "Amazon Bedrock AgentCore로 컨텍스트 창 장벽을 허물다",
+      "link": "https://aws.amazon.com/blogs/machine-learning/break-the-context-window-barrier-with-amazon-bedrock-agentcore/",
+      "date": "Thu, 21 May 2026 16:08:54 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock AgentCore 코드 해석기 및 Strands Agents SDK를 사용하여 RLM(재귀 언어 모델)을 구현하는 방법을 알아봅니다. 마지막에는 문서 처리 방법을 알게 됩니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "다중 모드 평가기: Strands Evals의 이미지-텍스트 작업을 위한 심사관으로서의 MLLM",
-      "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-evaluators-mllm-as-a-judge-for-image-to-text-tasks-in-strands-evals/",
-      "date": "Wed, 20 May 2026 18:01:29 +0000",
-      "summary": "시각적 쇼핑, 이미지나 문서 이해, 차트 분석을 구축하는 경우 모델의 응답이 실제로 소스 이미지에 기반을 두고 있는지 확인하는 방법이 필요합니다. 텍스트 전용 에바..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI 및 vLLM을 사용하여 실시간 음성 애플리케이션 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/",
-      "date": "Wed, 20 May 2026 17:10:17 +0000",
-      "summary": "음성 에이전트, 라이브 캡션, 연락 센터 분석 및 접근성 도구는 모두 애플리케이션이 오디오를 스트리밍하고 동시에 텍스트 변환을 받는 실시간 음성-텍스트에 의존합니다...."
+      "title": "Amazon Bedrock AgentCore를 사용하여 비즈니스 인텔리전스용 AI 에이전트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-for-business-intelligence-with-amazon-bedrock-agentcore/",
+      "date": "Thu, 21 May 2026 16:04:17 +0000",
+      "summary": "이 게시물에서는 OPLOG가 Strands Agents SDK를 사용하여 3개의 AI 에이전트를 개발하고 이를 Amazon Bedrock AgentCore에 배포하고 Amazon Bedrock을 Anthropic의 Claude Sonnet 및..."
     },
     {
       "company": "Hugging Face",
