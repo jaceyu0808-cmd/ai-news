@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-05-21 13:37:24 (KST)",
+  "updated_at": "2026-05-21 17:40:16 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 모델은 이산 기하학의 중심 추측을 반증했습니다.",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI 모델은 80년 된 단위 거리 문제를 해결하여 이산 기하학의 주요 추측을 반증하고 AI 기반 수학에 이정표를 세웠습니다...."
-    },
     {
       "company": "OpenAI",
       "title": "OpenAI 국가 교육의 다음 단계",
       "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
       "summary": "OpenAI는 국가를 위한 교육을 발전시키고 글로벌 학습 결과를 개선하기 위한 새로운 파트너십, 교사 교육 및 도구를 통해 학교의 AI 채택을 확대합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 모델은 이산 기하학의 중심 추측을 반증했습니다.",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "date": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "OpenAI 모델은 80년 된 단위 거리 문제를 해결하여 이산 기하학의 주요 추측을 반박하고 AI 기반 수학에 이정표를 세웠습니다...."
     },
     {
       "company": "OpenAI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
@@ -69,7 +69,7 @@
       "title": "Amazon SageMaker AI 엔드포인트에 대한 OpenAI 호환 API 지원 발표",
       "link": "https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/",
       "date": "Wed, 20 May 2026 23:59:57 +0000",
-      "summary": "오늘 Amazon SageMaker AI는 실시간 추론 엔드포인트를 위한 OpenAI 호환 API 지원을 도입합니다. OpenAI SDK, LangChain 또는 Strands 에이전트를 사용하는 경우 이제 SageMaker A에서 모델을 호출할 수 있습니다...."
+      "summary": "오늘 Amazon SageMaker AI는 실시간 추론 엔드포인트에 대한 OpenAI 호환 API 지원을 도입합니다. OpenAI SDK, LangChain 또는 Strands 에이전트를 사용하는 경우 이제 SageMaker A에서 모델을 호출할 수 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
