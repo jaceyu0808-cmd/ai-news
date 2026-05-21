@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22 06:43:18 (KST)",
+  "updated_at": "2026-05-22 08:11:04 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Nova Act는 이제 HIPAA 적격입니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible/",
+      "date": "Thu, 21 May 2026 22:22:28 +0000",
+      "summary": "이 게시물에서는 Nova Act가 제공하는 내용, HIPAA 자격이 에이전트 AI에 어떻게 적용되는지, 시작하는 방법에 대해 알아봅니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "AI 에이전트를 통한 지능형 방사선학 워크플로우 최적화",
       "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/",
       "date": "Thu, 21 May 2026 19:11:09 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/",
       "date": "Thu, 21 May 2026 16:32:09 +0000",
       "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜) 지원과 함께 Amazon Bedrock AgentCore 런타임을 사용하여 AWS API MCP 서버를 통해 Amazon Quick을 AWS 서비스와 연결하여 대화를 생성하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore를 사용하여 다중 테넌트 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-tenant-agents-with-amazon-bedrock-agentcore/",
-      "date": "Thu, 21 May 2026 16:16:09 +0000",
-      "summary": "이 게시물에서는 다중 테넌트 에이전트 애플리케이션을 설계하기 위한 설계 고려 사항과 Amazon Bedrock AgentCore를 사용하여 SaaS 아키텍처 문제를 해결하는 데 필요한 프레임워크를 살펴봅니다...."
     },
     {
       "company": "Hugging Face",
