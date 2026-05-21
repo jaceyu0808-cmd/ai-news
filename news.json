@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21 08:20:34 (KST)",
+  "updated_at": "2026-05-21 13:37:24 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "OpenAI 국가 교육의 다음 단계",
+      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "date": "Wed, 20 May 2026 00:00:00 GMT",
+      "summary": "OpenAI는 국가를 위한 교육을 발전시키고 글로벌 학습 결과를 개선하기 위한 새로운 파트너십, 교사 교육 및 도구를 통해 학교의 AI 채택을 확대합니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "Ramp 엔지니어가 Codex를 사용하여 코드 검토를 가속화하는 방법",
       "link": "https://openai.com/index/ramp",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
       "summary": "Ramp 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 코드를 검토하고 개선 사항을 출시하여 몇 시간이 아닌 몇 분 만에 실질적인 피드백을 얻을 수 있는 방법...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 국가 교육의 다음 단계",
-      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI는 국가를 위한 교육을 발전시키고 글로벌 학습 결과를 개선하기 위한 새로운 파트너십, 교사 교육 및 도구를 통해 학교에서 AI 채택을 확대합니다...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure IaaS: 시스템 수준 접근 방식으로 고성능 워크로드 배포",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
-      "date": "Wed, 20 May 2026 16:00:00 +0000",
-      "summary": "<p>클라우드의 성능은 더 이상 개별 리소스로 정의되지 않고 컴퓨팅, 스토리지, 네트워킹이 함께 작동하는 방식에 따라 결정됩니다. Azure IaaS는 조직을 돕기 위해 시스템 수준 접근 방식을 취합니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Azure Files 내부 전용 ID: 클라우드 네이티브 ID 및 보안 향상",
       "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
       "date": "Tue, 19 May 2026 19:00:00 +0000",
@@ -63,6 +56,20 @@
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
+      "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
+      "date": "Tue, 12 May 2026 18:00:00 +0000",
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker AI 엔드포인트에 대한 OpenAI 호환 API 지원 발표",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/",
+      "date": "Wed, 20 May 2026 23:59:57 +0000",
+      "summary": "오늘 Amazon SageMaker AI는 실시간 추론 엔드포인트를 위한 OpenAI 호환 API 지원을 도입합니다. OpenAI SDK, LangChain 또는 Strands 에이전트를 사용하는 경우 이제 SageMaker A에서 모델을 호출할 수 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/",
       "date": "Wed, 20 May 2026 17:10:17 +0000",
       "summary": "음성 에이전트, 라이브 캡션, 연락 센터 분석 및 접근성 도구는 모두 애플리케이션이 오디오를 스트리밍하고 동시에 텍스트 변환을 받는 실시간 음성-텍스트에 의존합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova Sonic을 사용한 확장 가능한 음성 에이전트 설계: 다중 에이전트, 도구 및 세션 분할",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/",
-      "date": "Tue, 19 May 2026 15:26:37 +0000",
-      "summary": "이 게시물에서는 Amazon Nova Sonic, Amazon Bedrock AgentCore 및 Strands BidiAgent를 사용하여 이러한 문제를 효율적으로 처리하는 확장 가능하고 유지 관리가 가능한 음성 에이전트를 구축하는 방법을 알아봅니다...."
     },
     {
       "company": "Hugging Face",
