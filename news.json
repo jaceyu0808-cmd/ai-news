@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-22 23:56:13 (KST)",
+  "updated_at": "2026-05-23 02:16:45 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI는 Gartner의 엔터프라이즈 코딩 에이전트 부문 리더로 선정되었습니다.",
+      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "date": "Fri, 22 May 2026 00:00:00 GMT",
+      "summary": "OpenAI는 2026년 Gartner Magic Quadrant에서 엔터프라이즈 AI 코딩 에이전트 부문의 리더로 선정되었으며 Codex는 혁신과 엔터프라이즈 규모 배포로 인정을 받았습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "AdventHealth는 OpenAI를 통해 전인적 진료를 발전시킵니다.",
@@ -10,17 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI 모델은 이산 기하학의 중심 추측을 반증했습니다.",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI 모델은 80년 된 단위 거리 문제를 해결하여 이산 기하학의 주요 추측을 반증하고 AI 기반 수학에 이정표를 세웠습니다...."
-    },
-    {
-      "company": "OpenAI",
       "title": "OpenAI 국가 교육의 다음 단계",
       "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "OpenAI는 국가를 위한 교육을 발전시키고 글로벌 학습 결과를 개선하기 위한 새로운 파트너십, 교사 교육 및 도구를 통해 학교의 AI 채택을 확대합니다...."
+      "summary": "OpenAI는 국가를 위한 교육을 발전시키고 글로벌 학습 결과를 개선하기 위한 새로운 파트너십, 교사 교육 및 도구를 통해 학교에서 AI 채택을 확대합니다...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "EDA 워크로드용 Azure NetApp Files: 혁신에서 대규모 혁신까지",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
+      "date": "Fri, 22 May 2026 15:00:00 +0000",
+      "summary": "<p>Azure NetApp Files는 대규모 동시성, 짧은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure IaaS: 시스템 수준 접근 방식으로 고성능 워크로드 배포",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
+      "date": "Wed, 20 May 2026 16:00:00 +0000",
+      "summary": "<p>클라우드의 성능은 더 이상 개별 리소스로 정의되지 않고 컴퓨팅, 스토리지, 네트워킹이 함께 작동하는 방식에 따라 결정됩니다. Azure IaaS는 조직을 돕기 위해 시스템 수준 접근 방식을 취합니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure Files 내부 전용 ID: 클라우드 네이티브 ID 및 보안 향상",
       "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
       "date": "Tue, 19 May 2026 19:00:00 +0000",
       "summary": "<p>Azure Files SMB에 대한 Entra-Only ID의 일반 공급(GA)을 발표하게 되어 기쁘게 생각합니다. 기본 Microsoft Entra ID 인증을 통해 조직은 이제 안전한 ID를 부여할 수 있습니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
-      "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
-      "date": "Wed, 13 May 2026 16:00:00 +0000",
-      "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
-      "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
-      "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정, 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "전문화가 규모를 이긴다: 대부분의 AI 조달 결정에서 간과되는 전략적 변수",
+      "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "date": "Fri, 22 May 2026 15:25:59 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "OlmoEarth v1.1: 더욱 효율적인 지구 관측 모델 제품군",
       "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "date": "Tue, 19 May 2026 18:38:09 GMT",
@@ -97,13 +104,6 @@
       "title": "Ettin Reranker 제품군 소개",
       "link": "https://huggingface.co/blog/ettin-reranker",
       "date": "Tue, 19 May 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "로봇 비디오 생성을 위한 LoRA/DoRA를 갖춘 NVIDIA Cosmos Predict 2.5 미세 조정",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "date": "Mon, 18 May 2026 16:00:21 GMT",
       "summary": "..."
     }
   ]
