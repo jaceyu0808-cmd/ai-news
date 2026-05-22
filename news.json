@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22 08:11:04 (KST)",
+  "updated_at": "2026-05-22 13:22:31 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
@@ -62,7 +62,7 @@
       "title": "엔터프라이즈 AI 발전: SAP Sapphire 2026의 새로운 Azure 기반 SAP 발표",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
       "date": "Tue, 12 May 2026 18:00:00 +0000",
-      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정 및 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
+      "summary": "<p>Microsoft와 SAP는 함께 기업이 Azure에서 규모에 맞게 운영, 의사 결정, 혁신을 혁신하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/advancin..."
     },
     {
       "company": "AWS Machine Learning",
@@ -83,7 +83,7 @@
       "title": "Amazon Bedrock AgentCore 런타임을 사용하여 AWS API MCP 서버를 Amazon Quick과 통합",
       "link": "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/",
       "date": "Thu, 21 May 2026 16:32:09 +0000",
-      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜) 지원과 함께 Amazon Bedrock AgentCore 런타임을 사용하여 AWS API MCP 서버를 통해 Amazon Quick을 AWS 서비스와 연결하여 대화를 생성하는 방법을 보여줍니다...."
+      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜) 지원과 함께 Amazon Bedrock AgentCore Runtime을 사용하여 AWS API MCP 서버를 통해 Amazon Quick을 AWS 서비스와 연결하여 대화를 생성하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
