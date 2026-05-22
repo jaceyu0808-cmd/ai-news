@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23 05:00:21 (KST)",
+  "updated_at": "2026-05-23 06:20:58 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Ramp 엔지니어가 Codex를 사용하여 코드 검토를 가속화하는 방법",
-      "link": "https://openai.com/index/ramp",
+      "title": "OpenAI 국가 교육의 다음 단계",
+      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "summary": "Ramp 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 코드를 검토하고 개선 사항을 출시하여 몇 시간이 아닌 몇 분 만에 실질적인 피드백을 얻을 수 있는 방법...."
+      "summary": "OpenAI는 국가를 위한 교육을 발전시키고 새로운 파트너십, 교사 교육, 글로벌 학습 결과를 개선하는 도구를 통해 학교의 AI 채택을 확대합니다...."
     },
     {
       "company": "Google AI",
@@ -59,14 +59,14 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 강화",
+      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
       "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
       "date": "Wed, 13 May 2026 16:00:00 +0000",
       "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova Act는 이제 HIPAA 적격 대상입니다.",
+      "title": "Amazon Nova Act는 이제 HIPAA 적격입니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible/",
       "date": "Thu, 21 May 2026 22:22:28 +0000",
       "summary": "이 게시물에서는 Nova Act가 제공하는 내용, HIPAA 자격이 에이전트 AI에 어떻게 적용되는지, 시작하는 방법에 대해 알아봅니다...."
@@ -76,7 +76,7 @@
       "title": "AI 에이전트를 통한 지능형 방사선학 워크플로우 최적화",
       "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/",
       "date": "Thu, 21 May 2026 19:11:09 +0000",
-      "summary": "많은 의료 기관은 기존 작업 목록 시스템이 중요한 상황, 방사선 전문의, 현재 작업량, 피로 수준 및 사례 복잡성을 무시하는 엄격한 규칙에 의존하고 있다고 보고합니다...."
+      "summary": "많은 의료 기관에서는 기존 작업 목록 시스템이 중요한 상황, 방사선 전문의 전문화, 현재 작업량, 피로 수준 및 사례 복잡성을 무시하는 엄격한 규칙에 의존하고 있다고 보고합니다...."
     },
     {
       "company": "AWS Machine Learning",
