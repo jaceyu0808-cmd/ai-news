@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23 21:03:36 (KST)",
+  "updated_at": "2026-05-23 23:42:09 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "Virgin Atlantic이 Codex를 통해 더욱 빠르게 배송하는 방법",
       "link": "https://openai.com/index/virgin-atlantic",
       "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "Virgin Atlantic이 Codex를 사용하여 고정된 휴가 여행 마감일에 개선된 모바일 앱을 출시하여 거의 전체 단위 테스트 범위에 도달하고 P1 결함이 전혀 없는 상태를 달성한 방법입니다...."
+      "summary": "Virgin Atlantic이 Codex를 사용하여 고정된 휴가 여행 마감일에 개선된 모바일 앱을 출시하여 거의 전체 단위 테스트 범위에 도달하고 P1 결함 제로에 도달한 방법입니다...."
     },
     {
       "company": "OpenAI",
@@ -83,7 +83,7 @@
       "title": "Amazon Bedrock AgentCore 런타임을 사용하여 AWS API MCP 서버를 Amazon Quick과 통합",
       "link": "https://aws.amazon.com/blogs/machine-learning/integrating-aws-api-mcp-server-with-amazon-quick-suite-using-amazon-bedrock-agentcore-runtime/",
       "date": "Thu, 21 May 2026 16:32:09 +0000",
-      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜) 지원과 함께 Amazon Bedrock AgentCore 런타임을 사용하여 AWS API MCP 서버를 통해 Amazon Quick을 AWS 서비스와 연결하여 대화를 생성하는 방법을 보여줍니다...."
+      "summary": "이 게시물에서는 MCP(모델 컨텍스트 프로토콜) 지원과 함께 Amazon Bedrock AgentCore Runtime을 사용하여 AWS API MCP 서버를 통해 Amazon Quick을 AWS 서비스와 연결하여 대화를 생성하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
