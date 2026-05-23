@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24 07:00:17 (KST)",
+  "updated_at": "2026-05-24 08:05:17 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,7 +66,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova Act는 이제 HIPAA 적격 대상입니다.",
+      "title": "Amazon Nova Act는 이제 HIPAA 적격입니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible/",
       "date": "Thu, 21 May 2026 22:22:28 +0000",
       "summary": "이 게시물에서는 Nova Act가 제공하는 내용, HIPAA 자격이 에이전트 AI에 어떻게 적용되는지, 시작하는 방법에 대해 알아봅니다...."
