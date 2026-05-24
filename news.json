@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24 16:52:10 (KST)",
+  "updated_at": "2026-05-24 19:02:32 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "EDA 워크로드용 Azure NetApp Files: 혁신에서 대규모 혁신까지",
       "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
       "date": "Fri, 22 May 2026 15:00:00 +0000",
-      "summary": "<p>Azure NetApp Files는 대규모 동시성, 낮은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
+      "summary": "<p>Azure NetApp Files는 대규모 동시성, 짧은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
