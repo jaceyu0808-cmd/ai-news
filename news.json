@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24 13:21:42 (KST)",
+  "updated_at": "2026-05-24 16:52:10 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "Virgin Atlantic이 Codex를 통해 더욱 빠르게 배송하는 방법",
       "link": "https://openai.com/index/virgin-atlantic",
       "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "Virgin Atlantic이 Codex를 사용하여 고정된 휴가 여행 마감일에 개선된 모바일 앱을 출시하여 거의 전체 단위 테스트 범위에 도달하고 P1 결함 제로에 도달한 방법입니다...."
+      "summary": "Virgin Atlantic이 Codex를 사용하여 고정된 휴가 여행 마감일에 개선된 모바일 앱을 출시하여 거의 전체 단위 테스트 범위에 도달하고 P1 결함이 전혀 없는 상태를 달성한 방법입니다...."
     },
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "EDA 워크로드용 Azure NetApp Files: 혁신에서 대규모 혁신까지",
       "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
       "date": "Fri, 22 May 2026 15:00:00 +0000",
-      "summary": "<p>Azure NetApp Files는 대규모 동시성, 짧은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
+      "summary": "<p>Azure NetApp Files는 대규모 동시성, 낮은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,7 +66,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova Act는 이제 HIPAA 적격입니다.",
+      "title": "Amazon Nova Act는 이제 HIPAA 적격 대상입니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-nova-act-is-now-hipaa-eligible/",
       "date": "Thu, 21 May 2026 22:22:28 +0000",
       "summary": "이 게시물에서는 Nova Act가 제공하는 내용, HIPAA 자격이 에이전트 AI에 어떻게 적용되는지, 시작하는 방법에 대해 알아봅니다...."
@@ -76,7 +76,7 @@
       "title": "AI 에이전트를 통한 지능형 방사선학 워크플로우 최적화",
       "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/",
       "date": "Thu, 21 May 2026 19:11:09 +0000",
-      "summary": "많은 의료 기관에서는 기존 작업 목록 시스템이 중요한 상황, 방사선 전문의 전문화, 현재 작업량, 피로 수준 및 사례 복잡성을 무시하는 엄격한 규칙에 의존하고 있다고 보고합니다...."
+      "summary": "많은 의료 기관은 기존 작업 목록 시스템이 중요한 상황, 방사선 전문의, 현재 작업량, 피로 수준 및 사례 복잡성을 무시하는 엄격한 규칙에 의존하고 있다고 보고합니다...."
     },
     {
       "company": "AWS Machine Learning",
