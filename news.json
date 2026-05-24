@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24 23:41:19 (KST)",
+  "updated_at": "2026-05-25 01:08:14 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "Virgin Atlantic이 Codex를 통해 더욱 빠르게 배송하는 방법",
       "link": "https://openai.com/index/virgin-atlantic",
       "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "Virgin Atlantic이 Codex를 사용하여 고정된 휴가 여행 마감일에 개선된 모바일 앱을 출시하여 거의 전체 단위 테스트 범위에 도달하고 P1 결함 제로에 도달한 방법입니다...."
+      "summary": "Virgin Atlantic이 Codex를 사용하여 고정된 휴가 여행 마감일에 개선된 모바일 앱을 출시하여 거의 전체 단위 테스트 범위에 도달하고 P1 결함이 전혀 없는 상태를 달성한 방법입니다...."
     },
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "EDA 워크로드용 Azure NetApp Files: 혁신에서 대규모 혁신까지",
       "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
       "date": "Fri, 22 May 2026 15:00:00 +0000",
-      "summary": "<p>Azure NetApp Files는 대규모 동시성, 짧은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
+      "summary": "<p>Azure NetApp Files는 대규모 동시성, 낮은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
