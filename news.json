@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26 06:18:33 (KST)",
+  "updated_at": "2026-05-26 08:15:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -76,7 +76,7 @@
       "title": "AI 에이전트를 통한 지능형 방사선학 워크플로우 최적화",
       "link": "https://aws.amazon.com/blogs/machine-learning/intelligent-radiology-workflow-optimization-with-ai-agents-2/",
       "date": "Thu, 21 May 2026 19:11:09 +0000",
-      "summary": "많은 의료 기관은 기존 작업 목록 시스템이 중요한 상황, 방사선 전문의, 현재 작업량, 피로 수준 및 사례 복잡성을 무시하는 엄격한 규칙에 의존하고 있다고 보고합니다...."
+      "summary": "많은 의료 기관에서는 기존 작업 목록 시스템이 중요한 상황, 방사선 전문의 전문화, 현재 작업량, 피로 수준 및 사례 복잡성을 무시하는 엄격한 규칙에 의존하고 있다고 보고합니다...."
     },
     {
       "company": "AWS Machine Learning",
