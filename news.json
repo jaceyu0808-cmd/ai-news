@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-26 02:11:47 (KST)",
+  "updated_at": "2026-05-26 04:53:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "OpenAI는 Gartner의 엔터프라이즈 코딩 에이전트 부문 리더로 선정되었습니다.",
-      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "OpenAI는 2026년 Gartner Magic Quadrant에서 엔터프라이즈 AI 코딩 에이전트 부문의 리더로 선정되었으며 Codex는 혁신과 엔터프라이즈 규모 배포로 인정을 받았습니다...."
+      "title": "OpenAI, Grupo Folha 및 Grupo UOL, 전략적 콘텐츠 파트너십 발표",
+      "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "date": "Mon, 25 May 2026 00:00:00 GMT",
+      "summary": "OpenAI는 Grupo Folha 및 Grupo UOL과 협력하여 신뢰할 수 있는 브라질 저널리즘을 ChatGPT에 제공하고 귀속성과 투명성을 갖춘 뉴스에 대한 액세스를 확대합니다...."
     },
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "AdventHealth는 OpenAI를 통해 전인적 진료를 발전시킵니다.",
-      "link": "https://openai.com/index/adventhealth",
-      "date": "Thu, 21 May 2026 12:00:00 GMT",
-      "summary": "AdventHealth는 의료용 ChatGPT를 사용하여 작업 흐름을 간소화하고 관리 부담을 줄이며 환자 치료에 더 많은 시간을 투자하고 있습니다...."
+      "title": "OpenAI는 Gartner의 엔터프라이즈 코딩 에이전트 부문 리더로 선정되었습니다.",
+      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "date": "Fri, 22 May 2026 00:00:00 GMT",
+      "summary": "OpenAI는 2026년 Gartner Magic Quadrant에서 엔터프라이즈 AI 코딩 에이전트 부문의 리더로 선정되었으며 Codex는 혁신과 엔터프라이즈 규모 배포로 인정을 받았습니다...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Azure Kubernetes Fleet Manager를 위한 원활한 클러스터 간 네트워킹으로 다중 클러스터 워크로드 지원",
+      "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
+      "date": "Fri, 22 May 2026 17:00:00 +0000",
+      "summary": "<p>Cilium 기반 교차 클러스터 네트워킹을 통해 전체 차량을 포괄할 수 있는 관리형 고성능 네트워크를 제공하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/po..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "EDA 워크로드용 Azure NetApp Files: 혁신에서 대규모 혁신까지",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
+      "date": "Fri, 22 May 2026 15:00:00 +0000",
+      "summary": "<p>Azure NetApp Files는 대규모 동시성, 짧은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure IaaS: 시스템 수준 접근 방식으로 고성능 워크로드 배포",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/",
       "date": "Wed, 20 May 2026 16:00:00 +0000",
       "summary": "<p>클라우드의 성능은 더 이상 개별 리소스로 정의되지 않고 컴퓨팅, 스토리지, 네트워킹이 함께 작동하는 방식에 따라 결정됩니다. Azure IaaS는 조직을 돕기 위해 시스템 수준 접근 방식을 취합니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure Files 내부 전용 ID: 클라우드 네이티브 ID 및 보안 향상",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-files-entra-only-identities-advancing-cloud-native-identity-and-security/",
-      "date": "Tue, 19 May 2026 19:00:00 +0000",
-      "summary": "<p>Azure Files SMB에 대한 Entra-Only ID의 일반 공급(GA)을 발표하게 되어 기쁘게 생각합니다. 기본 Microsoft Entra ID 인증을 통해 조직은 이제 안전한 ID를 부여할 수 있습니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "커밋에서 클라우드까지: PostgreSQL의 차세대 기능 지원",
-      "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
-      "date": "Wed, 13 May 2026 16:00:00 +0000",
-      "summary": "<p>PostgreSQL은 최신 애플리케이션 구축 방식의 기초가 되었습니다. 이는 초기 단계의 스타트업부터 세계에서 가장 까다로운 생산 시스템에 이르기까지 모든 것을 지원합니다. 장수..."
     },
     {
       "company": "AWS Machine Learning",
