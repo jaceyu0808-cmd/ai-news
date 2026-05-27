@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-05-28 01:42:52 (KST)",
+  "updated_at": "2026-05-28 04:30:36 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "Codex를 사용하여 자기 개선 세무 대리인 구축",
       "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "date": "Wed, 27 May 2026 07:00:00 GMT",
-      "summary": "OpenAI, Thrive 및 Crete가 어떻게 Codex를 사용하여 자체 개선 세무 대리인을 구축하여 신고를 자동화하고 정확성을 향상시키며 워크플로를 가속화했는지 알아보세요...."
+      "summary": "OpenAI, Thrive 및 Crete가 어떻게 Codex를 사용하여 자체 개선 세무 대리인을 구축하여 신고를 자동화하고 정확성을 개선하며 워크플로를 가속화했는지 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "2026년 선거 정보 및 보호 조치",
+      "link": "https://openai.com/index/election-safeguards-2026",
+      "date": "Wed, 27 May 2026 00:00:00 GMT",
+      "summary": "세계 선거를 앞두고 우리는 사람들의 정보 접근을 돕고, 사이버 방어자를 지원하며, AI 투명성을 높이고 있습니다...."
     },
     {
       "company": "OpenAI",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "date": "Mon, 25 May 2026 00:00:00 GMT",
       "summary": "OpenAI는 Grupo Folha 및 Grupo UOL과 협력하여 신뢰할 수 있는 브라질 저널리즘을 ChatGPT에 제공하고 귀속성과 투명성을 갖춘 뉴스에 대한 액세스를 확대합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI는 Gartner의 엔터프라이즈 코딩 에이전트 부문 리더로 선정되었습니다.",
-      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "OpenAI는 2026년 Gartner Magic Quadrant에서 엔터프라이즈 AI 코딩 에이전트 부문의 리더로 선정되었으며, Codex는 혁신과 엔터프라이즈 규모 배포로 인정을 받았습니다...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "AWS SMGS가 AI 기반 대화 도우미를 사용하여 Amazon Bedrock AgentCore를 통해 비즈니스 관리를 혁신하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-aws-smgs-uses-an-ai-powered-conversational-assistant-to-transform-business-management-with-amazon-bedrock-agentcore/",
+      "date": "Wed, 27 May 2026 18:51:45 +0000",
+      "summary": "이 게시물에서는 AWS SMGS(영업, 마케팅 및 글로벌 서비스) 조직에 대규모 비즈니스 인텔리전스를 제공하기 위해 Amazon Bedrock AgentCore를 사용하여 NarrateAI를 구축한 방법을 공유합니다. 당신은 르..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore를 사용하여 에이전트적 AI 영업 전략 강화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/powering-agentic-ai-sales-strategy-with-amazon-bedrock-agentcore/",
+      "date": "Wed, 27 May 2026 18:00:07 +0000",
+      "summary": "에이전트 채택이 확대됨에 따라 자체 판매 조직을 포함하여 기업 전체에서 공통 패턴이 나타나는 것을 확인했습니다. 전문 에이전트는 가치를 제공하지만 조정 없이 사용자는 인지적 가치를 전달합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "기술 심층 분석: AgentCore 결제 및 에이전트 상거래의 혁신",
       "link": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/",
       "date": "Tue, 26 May 2026 17:57:18 +0000",
       "summary": "Amazon Bedrock AgentCore 결제는 이제 미리 보기로 제공됩니다. 공급자별 수동 청구 설정 없이 유료 외부 서비스에 대한 즉각적인 결제를 제공하고 비용 효율적인 결제를 위한 스테이블코인 지원을 제공합니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore를 사용하여 AWS에서 확장성이 뛰어난 서버리스 LangGraph 다중 에이전트 시스템 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/",
-      "date": "Tue, 26 May 2026 17:41:26 +0000",
-      "summary": "이 게시물에서는 LangGraph 에이전트를 Amazon Bedrock AgentCore Memor와 통합된 오케스트레이터로 사용하여 AWS에서 확장성이 뛰어난 서버리스 다중 에이전트 생성 AI 시스템을 구축하기 위한 솔루션을 제공합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Strands Agents, NVIDIA NIM 및 Amazon Bedrock AgentCore를 사용하여 고성능 생성 AI 시스템 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/",
-      "date": "Tue, 26 May 2026 17:39:46 +0000",
-      "summary": "이 게시물에서는 통합 아키텍처를 사용하여 병렬 추론, 컨텍스트 지속성 및 추적 가능한 실행 경로를 보여주는 다중 에이전트 캠페인 검토 시스템을 구축하는 방법을 배우게 됩니다...."
+      "company": "Hugging Face",
+      "title": "ITBench-AA: 프론티어 모델은 인공 분석 및 IBM의 Agentic Enterprise IT 작업에 대한 첫 번째 벤치마크에서 50% 미만의 점수를 받았습니다.",
+      "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "date": "Wed, 27 May 2026 17:20:29 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -94,16 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "허브 버킷을 사용하여 수조 개의 매개변수 배송: TRL의 델타 가중치 동기화",
+      "title": "허브 버킷으로 수조 개의 매개변수 배송: TRL의 델타 가중치 동기화",
       "link": "https://huggingface.co/blog/delta-weight-sync",
       "date": "Wed, 27 May 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "하네스, 비계 및 AI 에이전트 용어를 올바르게 이해해야 합니다.",
-      "link": "https://huggingface.co/blog/agent-glossary",
-      "date": "Mon, 25 May 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
