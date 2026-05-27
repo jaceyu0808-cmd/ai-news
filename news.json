@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-27 21:28:34 (KST)",
+  "updated_at": "2026-05-28 01:42:52 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Codex를 사용하여 자기 개선 세무 대리인 구축",
+      "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "date": "Wed, 27 May 2026 07:00:00 GMT",
+      "summary": "OpenAI, Thrive 및 Crete가 어떻게 Codex를 사용하여 자체 개선 세무 대리인을 구축하여 신고를 자동화하고 정확성을 향상시키며 워크플로를 가속화했는지 알아보세요...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI, Grupo Folha 및 Grupo UOL, 전략적 콘텐츠 파트너십 발표",
@@ -13,14 +20,7 @@
       "title": "OpenAI는 Gartner의 엔터프라이즈 코딩 에이전트 부문 리더로 선정되었습니다.",
       "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "OpenAI는 2026년 Gartner Magic Quadrant에서 엔터프라이즈 AI 코딩 에이전트 부문의 리더로 선정되었으며 Codex는 혁신과 엔터프라이즈 규모 배포로 인정을 받았습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Virgin Atlantic이 Codex를 통해 더욱 빠르게 배송하는 방법",
-      "link": "https://openai.com/index/virgin-atlantic",
-      "date": "Fri, 22 May 2026 00:00:00 GMT",
-      "summary": "Virgin Atlantic이 Codex를 사용하여 고정된 휴가 여행 마감일에 개선된 모바일 앱을 출시하여 거의 전체 단위 테스트 범위에 도달하고 P1 결함 제로에 도달한 방법입니다...."
+      "summary": "OpenAI는 2026년 Gartner Magic Quadrant에서 엔터프라이즈 AI 코딩 에이전트 부문의 리더로 선정되었으며, Codex는 혁신과 엔터프라이즈 규모 배포로 인정을 받았습니다...."
     },
     {
       "company": "Google AI",
@@ -87,23 +87,23 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Reachy Mini는 완전히 로컬로 작동합니다.",
+      "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "date": "Wed, 27 May 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "허브 버킷을 사용하여 수조 개의 매개변수 배송: TRL의 델타 가중치 동기화",
+      "link": "https://huggingface.co/blog/delta-weight-sync",
+      "date": "Wed, 27 May 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "하네스, 비계 및 AI 에이전트 용어를 올바르게 이해해야 합니다.",
       "link": "https://huggingface.co/blog/agent-glossary",
       "date": "Mon, 25 May 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Nemotron-Labs 확산 언어 모델을 사용한 광속 텍스트 생성을 향하여",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "date": "Sat, 23 May 2026 00:02:03 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "전문화가 규모를 이긴다: 대부분의 AI 조달 결정에서 간과되는 전략적 변수",
-      "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "date": "Fri, 22 May 2026 15:25:59 GMT",
       "summary": "..."
     }
   ]
