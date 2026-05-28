@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-28 23:42:31 (KST)",
+  "updated_at": "2026-05-29 03:17:54 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI의 프론티어 거버넌스 프레임워크",
+      "link": "https://openai.com/index/openai-frontier-governance-framework",
+      "date": "Thu, 28 May 2026 00:00:00 GMT",
+      "summary": "OpenAI의 프론티어 거버넌스 프레임워크와 AI 안전, 보안 및 위험 관행이 새로운 EU 및 캘리포니아 규정에 어떻게 부합하는지 살펴보세요...."
+    },
     {
       "company": "OpenAI",
       "title": "Cisco와 OpenAI는 Codex를 통해 엔터프라이즈 엔지니어링을 재정의합니다.",
@@ -13,14 +20,14 @@
       "title": "Codex를 사용하여 자기 개선 세무 대리인 구축",
       "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "date": "Wed, 27 May 2026 07:00:00 GMT",
-      "summary": "OpenAI, Thrive 및 Crete가 어떻게 Codex를 사용하여 자체 개선 세무 대리인을 구축하여 신고를 자동화하고 정확성을 개선하며 워크플로를 가속화했는지 알아보세요...."
+      "summary": "OpenAI, Thrive 및 Crete가 어떻게 Codex를 사용하여 자체 개선 세무 대리인을 구축하여 신고를 자동화하고 정확성을 향상시키며 워크플로를 가속화했는지 알아보세요...."
     },
     {
-      "company": "OpenAI",
-      "title": "GPT-5.5로 오픈 소스를 구축하는 데 Warp가 큰 투자를 했습니다.",
-      "link": "https://openai.com/index/warp",
-      "date": "Wed, 27 May 2026 00:00:00 GMT",
-      "summary": "Warp는 GPT-5.5 및 OpenAI 모델을 사용하여 로컬, 클라우드 및 오픈 소스 개발 워크플로 전반에서 코딩 에이전트를 조정합니다...."
+      "company": "Google AI",
+      "title": "2026년 주요 I/O 12가지 순간을 확인하세요",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "date": "Thu, 28 May 2026 15:00:00 +0000",
+      "summary": "I/O 기조연설의 스틸 이미지로 둘러싸인 검은색 배경의 다채로운 I/O 로고..."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
       "date": "Wed, 20 May 2026 20:40:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\" />우리는 주의 차세대 인력 구축을 돕고 에너지에 투자하고 있습니다...."
-    },
-    {
-      "company": "Google AI",
-      "title": "I/O 2026에서 발표한 100가지 사항",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "date": "Wed, 20 May 2026 19:30:00 +0000",
-      "summary": "\"Ready, Set, I/O\"라는 단어와 다채로운 Gemini 로고가 포함된 이미지..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock 데이터 자동화를 사용하여 재무 문서 처리",
-      "link": "https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/",
-      "date": "Wed, 27 May 2026 21:28:53 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock 데이터 자동화가 네 가지 일반적인 유형의 재무 문서(은행 명세서, W-2 양식, 1099-B 세금 양식 및 공급업체 C)에서 정보를 정확하게 추출하는 방법을 살펴봅니다...."
+      "title": "Amazon Bedrock AgentCore의 데이터 세트 관리를 통해 에이전트와 함께 성장하는 테스트 제품군 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/",
+      "date": "Thu, 28 May 2026 18:10:47 +0000",
+      "summary": "에이전트 평가는 빠르게 움직이는 온라인 신호와 안정적인 오프라인 기준을 결합할 때 가장 강력합니다. 시간이 지남에 따라 에이전트가 실제로 개선되고 있는지 이해하려면 고정된 벤치마크가 필요합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore를 사용하여 비즈니스 지원을 위한 AI 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-agents-for-business-support-using-amazon-bedrock-agentcore/",
-      "date": "Wed, 27 May 2026 20:06:34 +0000",
-      "summary": "이 게시물에서는 AWS GenAIIC(AWS Generative AI Innovation Center)가 WHI(Works Human Intelligence)와 협력하여 Amazon Bedrock AgentCore를 사용하여 두 개의 AI 에이전트를 구축한 방법을 공유합니다. 우리는 chal에 대해 논의합니다..."
+      "title": "이제 AWS에서 Claude Opus 4.8을 사용할 수 있습니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
+      "date": "Thu, 28 May 2026 17:51:32 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock의 에이전트 시스템 및 생산 추론 워크로드에 모델을 통합하는 AI 엔지니어를 위한 Opus 4.8의 개선 사항과 실제 지침을 다룹니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "데이터 과부하에서 실행 가능한 통찰력까지: Verizon Connect가 에이전트 AI를 사용자 100,000명으로 확장한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-overload-to-actionable-insights-how-verizon-connect-scaled-agentic-ai-to-100000-users/",
-      "date": "Wed, 27 May 2026 20:01:06 +0000",
-      "summary": "이 게시물에서는 Verizon Connect가 에이전트 AI 솔루션을 구축하고 확장하여 압도적인 차량 데이터를 매일 100,000명의 사용자를 위한 명확하고 실행 가능한 통찰력으로 변환하는 방법을 보여줍니다. 우리는 당신을 안내합니다..."
+      "title": "Amazon Quick 및 Snowflake Cortex AI를 사용하여 AML 알림 분류 자동화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/",
+      "date": "Thu, 28 May 2026 16:41:07 +0000",
+      "summary": "이 게시물에서는 금융 서비스에서 가장 노동 집약적인 워크플로 중 하나인 자금 세탁 방지(AML) 경고 분류를 자동화하여 통합이 실제로 이루어지는 것을 보여줍니다. 분류 작업을 구축합니다...."
     },
     {
       "company": "Hugging Face",
