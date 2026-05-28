@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28 09:06:25 (KST)",
+  "updated_at": "2026-05-28 14:15:46 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "GPT-5.5로 오픈 소스 구축에 Warp의 큰 투자",
+      "title": "GPT-5.5로 오픈 소스를 구축하는 데 Warp가 큰 투자를 했습니다.",
       "link": "https://openai.com/index/warp",
       "date": "Wed, 27 May 2026 00:00:00 GMT",
       "summary": "Warp는 GPT-5.5 및 OpenAI 모델을 사용하여 로컬, 클라우드 및 오픈 소스 개발 워크플로 전반에서 코딩 에이전트를 조정합니다...."
