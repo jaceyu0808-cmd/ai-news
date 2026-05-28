@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29 03:17:54 (KST)",
+  "updated_at": "2026-05-29 06:13:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "Codex를 사용하여 자기 개선 세무 대리인 구축",
       "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "date": "Wed, 27 May 2026 07:00:00 GMT",
-      "summary": "OpenAI, Thrive 및 Crete가 어떻게 Codex를 사용하여 자체 개선 세무 대리인을 구축하여 신고를 자동화하고 정확성을 향상시키며 워크플로를 가속화했는지 알아보세요...."
+      "summary": "OpenAI, Thrive 및 Crete가 어떻게 Codex를 사용하여 자체 개선 세무 대리인을 구축하여 신고를 자동화하고 정확성을 개선하며 워크플로를 가속화했는지 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore의 데이터 세트 관리를 통해 에이전트와 함께 성장하는 테스트 제품군 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/",
-      "date": "Thu, 28 May 2026 18:10:47 +0000",
-      "summary": "에이전트 평가는 빠르게 움직이는 온라인 신호와 안정적인 오프라인 기준을 결합할 때 가장 강력합니다. 시간이 지남에 따라 에이전트가 실제로 개선되고 있는지 이해하려면 고정된 벤치마크가 필요합니다...."
+      "title": "Amazon SageMaker AI MLflow 앱이 내장된 사용자 지정 포털 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/",
+      "date": "Thu, 28 May 2026 20:39:22 +0000",
+      "summary": "이 게시물에서는 SageMaker AI MLflow Apps UI가 내장된 사용자 지정 포털을 구축하는 방법을 알아봅니다. Flask 역방향 프록시와 쌍을 이루는 React 프런트 엔드 뒤의 아키텍처 패턴을 살펴봅니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "이제 AWS에서 Claude Opus 4.8을 사용할 수 있습니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
-      "date": "Thu, 28 May 2026 17:51:32 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock의 에이전트 시스템 및 생산 추론 워크로드에 모델을 통합하는 AI 엔지니어를 위한 Opus 4.8의 개선 사항과 실제 지침을 다룹니다...."
+      "title": "REST API 프록시를 사용하여 Amazon SageMaker MLflow에 대한 외부 액세스를 간소화합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/",
+      "date": "Thu, 28 May 2026 20:35:44 +0000",
+      "summary": "이 게시물에서는 MLflow SDK 없이 Amazon SageMaker MLflow에 대한 HTTPS 액세스를 제공하는 안전한 Flask 기반 MLflow 프록시 서비스를 구축하는 방법을 보여줍니다. 이 솔루션은 조직을 위한 것입니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Quick 및 Snowflake Cortex AI를 사용하여 AML 알림 분류 자동화",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/",
-      "date": "Thu, 28 May 2026 16:41:07 +0000",
-      "summary": "이 게시물에서는 금융 서비스에서 가장 노동 집약적인 워크플로 중 하나인 자금 세탁 방지(AML) 경고 분류를 자동화하여 통합이 실제로 이루어지는 것을 보여줍니다. 분류 작업을 구축합니다...."
+      "title": "AWS에서 LangSmith를 사용하여 Deep Agent 평가",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/",
+      "date": "Thu, 28 May 2026 20:32:23 +0000",
+      "summary": "이 게시물은 심층 에이전트 평가에 대한 LangChain의 작업에서 배운 내용과 AI 에이전트에 대한 평가를 이해하기 위한 Anthropic 가이드를 실용적인 가이드로 결합합니다. 이 게시물에서는 다음 방법을 배우게 됩니다. 1)..."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "허브 버킷으로 수조 개의 매개변수 배송: TRL의 델타 가중치 동기화",
+      "title": "허브 버킷을 사용하여 수조 개의 매개변수 배송: TRL의 델타 가중치 동기화",
       "link": "https://huggingface.co/blog/delta-weight-sync",
       "date": "Wed, 27 May 2026 00:00:00 GMT",
       "summary": "..."
