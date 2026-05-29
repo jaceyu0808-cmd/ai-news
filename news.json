@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29 13:24:49 (KST)",
+  "updated_at": "2026-05-29 17:48:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "MUFG는 OpenAI를 통해 AI 네이티브화를 목표로 합니다.",
+      "link": "https://openai.com/index/mufg",
+      "date": "Thu, 28 May 2026 00:00:00 GMT",
+      "summary": "MUFG는 ChatGPT Enterprise를 사용하여 AI 기반 조직을 구축하고 워크플로를 개선하며 새로운 AI 기반 금융 서비스를 대규모로 제공합니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "OpenAI의 프론티어 거버넌스 프레임워크",
       "link": "https://openai.com/index/openai-frontier-governance-framework",
       "date": "Thu, 28 May 2026 00:00:00 GMT",
       "summary": "OpenAI의 프론티어 거버넌스 프레임워크와 AI 안전, 보안 및 위험 관행이 새로운 EU 및 캘리포니아 규정에 어떻게 부합하는지 살펴보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Cisco와 OpenAI는 Codex를 통해 엔터프라이즈 엔지니어링을 재정의합니다.",
-      "link": "https://openai.com/index/cisco",
-      "date": "Wed, 27 May 2026 11:00:00 GMT",
-      "summary": "Cisco와 OpenAI는 Codex를 통해 엔터프라이즈 엔지니어링을 재정의하여 Cisco가 AI 기반 개발을 확장하고 AI 방어 작업을 가속화하며 결함 수정을 자동화하도록 돕습니다...."
     },
     {
       "company": "Google AI",
