@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30 01:50:52 (KST)",
+  "updated_at": "2026-05-30 04:37:19 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,31 @@
     },
     {
       "company": "OpenAI",
+      "title": "Braintrust가 Codex를 통해 고객 요청을 코드로 변환하는 방법",
+      "link": "https://openai.com/index/braintrust",
+      "date": "Fri, 29 May 2026 12:00:00 GMT",
+      "summary": "Braintrust 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 실험과 코드를 더 빠르게 실행하는 방법...."
+    },
+    {
+      "company": "OpenAI",
       "title": "Rosalind Biodefense로 사회적 회복력 강화",
       "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "date": "Fri, 29 May 2026 03:00:00 GMT",
       "summary": "OpenAI, Rosalind Biodefense 출시, 검증된 개발자와 미국 정부 파트너를 위해 GPT-Rosalind에 대한 신뢰할 수 있는 액세스 확대..."
     },
     {
-      "company": "OpenAI",
-      "title": "Endava가 Codex를 사용하여 에이전트 조직을 구축하는 방법",
-      "link": "https://openai.com/index/endava",
-      "date": "Thu, 28 May 2026 12:00:00 GMT",
-      "summary": "Endava가 Codex를 사용하여 에이전트 조직을 구축하고, 소프트웨어 제공을 가속화하고, 요구 사항 분석을 몇 주에서 몇 시간으로 단축하는 방법을 알아보세요...."
+      "company": "Google AI",
+      "title": "Google AI Studio에서 코딩된 I/O 2026 퀴즈를 풀어보세요.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "date": "Fri, 29 May 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />Google AI Studio를 사용하여 최고의 I/O 2026 발표에 대한 퀴즈를 코드에 반영했습니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "Gemini Omni 및 Gemini 3.5의 9가지 데모 실행",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "date": "Fri, 29 May 2026 17:30:00 +0000",
+      "summary": "제미니 옴니 & 제미니 3.5 히어로..."
     },
     {
       "company": "Google AI",
@@ -28,20 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
       "date": "Fri, 29 May 2026 12:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\" />워털루 대학교 학생들은 수화와 같은 AI 프로토타입을 개발합니다...."
-    },
-    {
-      "company": "Google AI",
-      "title": "2026년 주요 I/O 12가지 순간을 확인하세요",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "date": "Thu, 28 May 2026 15:00:00 +0000",
-      "summary": "I/O 기조연설의 스틸 이미지로 둘러싸인 검은색 배경의 다채로운 I/O 로고..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Google I/O 2026의 Dialogues 무대를 따라가세요.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-      "date": "Fri, 22 May 2026 18:00:00 +0000",
-      "summary": "I/O 2026 Dialogues 무대에서 대화하는 알파벳 CEO 순다르 피차이..."
     },
     {
       "company": "Microsoft Azure AI",
