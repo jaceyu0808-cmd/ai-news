@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-05-29 21:24:18 (KST)",
+  "updated_at": "2026-05-30 01:50:52 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Boston Children’s는 AI를 사용하여 새로운 진단을 밝힙니다.",
+      "link": "https://openai.com/index/boston-childrens-hospital",
+      "date": "Fri, 29 May 2026 12:00:00 GMT",
+      "summary": "Boston Children’s Hospital은 OpenAI 기술을 사용하여 환자 치료를 개선하고 운영 부담을 줄이며 40개 이상의 희귀 질환 사례를 진단하는 데 도움을 줍니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Rosalind Biodefense로 사회적 회복력 강화",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/endava",
       "date": "Thu, 28 May 2026 12:00:00 GMT",
       "summary": "Endava가 Codex를 사용하여 에이전트 조직을 구축하고, 소프트웨어 제공을 가속화하고, 요구 사항 분석을 몇 주에서 몇 시간으로 단축하는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI의 프론티어 거버넌스 프레임워크",
-      "link": "https://openai.com/index/openai-frontier-governance-framework",
-      "date": "Thu, 28 May 2026 00:00:00 GMT",
-      "summary": "OpenAI의 프론티어 거버넌스 프레임워크와 AI 안전, 보안 및 위험 관행이 새로운 EU 및 캘리포니아 규정에 어떻게 부합하는지 살펴보세요...."
     },
     {
       "company": "Google AI",
