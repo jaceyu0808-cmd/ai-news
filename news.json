@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30 08:25:01 (KST)",
+  "updated_at": "2026-05-30 13:09:59 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker AI LLM 추론에 대한 포괄적인 관찰 가능성: GPU 활용에서 LLM 품질까지",
+      "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
+      "date": "Fri, 29 May 2026 23:36:58 +0000",
+      "summary": "이 게시물은 Amazon SageMaker AI에서 제공되는 LLM의 품질과 수량에 대한 전체적인 보기를 제공하는 Amazon Managed Grafana 대시보드를 사용하는 포괄적인 관찰 솔루션을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon SageMaker AI에서 아제르바이잔어 언어 모델 훈련",
       "link": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
       "date": "Thu, 28 May 2026 21:54:06 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/",
       "date": "Thu, 28 May 2026 20:39:22 +0000",
       "summary": "이 게시물에서는 SageMaker AI MLflow Apps UI가 내장된 사용자 지정 포털을 구축하는 방법을 알아봅니다. Flask 역방향 프록시와 쌍을 이루는 React 프런트 엔드 뒤의 아키텍처 패턴을 살펴봅니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "REST API 프록시를 사용하여 Amazon SageMaker MLflow에 대한 외부 액세스를 간소화합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/",
-      "date": "Thu, 28 May 2026 20:35:44 +0000",
-      "summary": "이 게시물에서는 MLflow SDK 없이 Amazon SageMaker MLflow에 대한 HTTPS 액세스를 제공하는 안전한 Flask 기반 MLflow 프록시 서비스를 구축하는 방법을 보여줍니다. 이 솔루션은 조직을 위한 것입니다...."
     },
     {
       "company": "Hugging Face",
