@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31 14:24:35 (KST)",
+  "updated_at": "2026-05-31 18:16:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "Azure Kubernetes Fleet Manager를 위한 원활한 클러스터 간 네트워킹으로 다중 클러스터 워크로드 지원",
       "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
       "date": "Fri, 22 May 2026 17:00:00 +0000",
-      "summary": "<p>Cilium 기반 클러스터 간 네트워킹을 통해 전체 차량을 포괄할 수 있는 관리형 고성능 네트워크를 제공하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/po..."
+      "summary": "<p>Cilium 기반 교차 클러스터 네트워킹을 통해 전체 차량을 포괄할 수 있는 관리형 고성능 네트워크를 제공하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/po..."
     },
     {
       "company": "Microsoft Azure AI",
