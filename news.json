@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-06-02 03:44:40 (KST)",
+  "updated_at": "2026-06-02 07:13:52 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "미시간의 지능 시대를 위한 인프라 구축",
+      "link": "https://openai.com/index/stargate-michigan-data-center",
+      "date": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "summary": "OpenAI는 Stargate의 일환으로 미시간에서 1GW 데이터 센터 프로젝트를 시작하여 AI 인프라를 구축하여 액세스를 확대하고 일자리를 창출하며 커뮤니티를 지원합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "이제 AWS에서 OpenAI 프론티어 모델과 Codex를 사용할 수 있습니다.",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "date": "Mon, 01 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI 프론티어 모델과 Codex는 이제 AWS에서 정식 출시되어 기업이 이미 사용하고 있는 AWS 환경, 제어 및 조달 워크플로를 통해 OpenAI로 구축할 수 있는 새로운 경로를 제공합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Boston Children’s는 AI를 사용하여 새로운 진단을 밝힙니다.",
       "link": "https://openai.com/index/boston-childrens-hospital",
       "date": "Fri, 29 May 2026 12:00:00 GMT",
       "summary": "Boston Children’s Hospital은 OpenAI 기술을 사용하여 환자 치료를 개선하고 운영 부담을 줄이며 40개 이상의 희귀 질환 사례를 진단하는 데 도움을 줍니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Braintrust가 Codex를 통해 고객 요청을 코드로 변환하는 방법",
-      "link": "https://openai.com/index/braintrust",
-      "date": "Fri, 29 May 2026 12:00:00 GMT",
-      "summary": "Braintrust 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 실험과 코드를 더 빠르게 실행하는 방법...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Rosalind Biodefense로 사회적 회복력 강화",
-      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "date": "Fri, 29 May 2026 03:00:00 GMT",
-      "summary": "OpenAI, Rosalind Biodefense 출시, 검증된 개발자와 미국 정부 파트너를 위해 GPT-Rosalind에 대한 신뢰할 수 있는 액세스 확대..."
     },
     {
       "company": "Google AI",
@@ -55,7 +55,7 @@
       "title": "Azure Kubernetes Fleet Manager를 위한 원활한 클러스터 간 네트워킹으로 다중 클러스터 워크로드 지원",
       "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
       "date": "Fri, 22 May 2026 17:00:00 +0000",
-      "summary": "<p>Cilium 기반 교차 클러스터 네트워킹을 통해 전체 차량을 포괄할 수 있는 관리형 고성능 네트워크를 제공하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/po..."
+      "summary": "<p>Cilium 기반 클러스터 간 네트워킹을 통해 전체 차량을 포괄할 수 있는 관리형 고성능 네트워크를 제공하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/po..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Quick을 통해 희귀암 연구 혁신: 획기적인 발견을 위한 생의학 데이터베이스 통합",
+      "link": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
+      "date": "Mon, 01 Jun 2026 21:54:16 +0000",
+      "summary": "이 게시물에서는 Amazon Quick Research를 사용하여 희귀 암 연구를 위한 생물 의학 데이터 소스를 통합하는 방법을 안내합니다. 연습에서는 소아 육종을 연구 영역으로 사용하고 다음 사항을 활용합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "이제 Amazon Bedrock의 OpenAI 모델과 Codex가 정식 출시되었습니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
+      "date": "Mon, 01 Jun 2026 21:31:12 +0000",
+      "summary": "GPT-5.5, GPT-5.4 및 Codex는 이제 Amazon Bedrock에서 정식 출시되었습니다. 지금 Bedrock의 고성능 추론 엔진을 통해 프로덕션 애플리케이션과 에이전트에 배포하세요.&nbsp;..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock AgentCore Gateway에 대한 MCP 지원 확장",
       "link": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/",
       "date": "Mon, 01 Jun 2026 18:35:03 +0000",
       "summary": "MCP(Model Context Protocol) 서버를 프로덕션 환경에 배포하는 동안 기업은 서버 전체에 대한 세분화된 액세스 제어, 팀이 어떤 도구를 사용하는지에 대한 관찰 가능성, 보안 보장이 필요합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore 게이트웨이의 정책 및 Lambda 인터셉터를 사용하여 AI 에이전트를 보호하세요.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/",
-      "date": "Mon, 01 Jun 2026 17:54:22 +0000",
-      "summary": "이 게시물에서는 레이크하우스 데이터 에이전트를 사용하여 결정적 액세스 제어를 위한 정책과 동적 검증을 위한 Lambda 인터셉터를 사용하는 방법을 보여줍니다. 그런 다음 Lambda를 결합하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore 결제를 사용하여 내장된 가드레일로 안전한 에이전트 결제를 활성화하세요.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/",
-      "date": "Mon, 01 Jun 2026 17:30:12 +0000",
-      "summary": "이 게시물에서는 에이전트 결제 시스템을 설계할 때 나타나는 몇 가지 주요 위험과 AgentCore 결제 기능을 사용하여 이를 해결하는 방법을 설명합니다...."
     },
     {
       "company": "Hugging Face",
