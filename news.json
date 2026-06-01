@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01 21:44:49 (KST)",
+  "updated_at": "2026-06-02 03:44:40 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "Gemini를 사용하여 Google I/O 2026을 구축한 방법",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "date": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "summary": "Antigravity Coffee Co. 팝업, 다채로운 해파리, Timmy TPU 비디오 스틸을 포함한 I/O 관련 이미지의 콜라주입니다. AI라는 단어가 이미지 왼쪽에 3번 반복되고, t..."
+    },
+    {
+      "company": "Google AI",
       "title": "Google AI Studio에서 코딩된 I/O 2026 퀴즈를 풀어보세요.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
       "date": "Fri, 29 May 2026 19:00:00 +0000",
@@ -37,18 +44,11 @@
       "summary": "제미니 옴니 & 제미니 3.5 히어로..."
     },
     {
-      "company": "Google AI",
-      "title": "Futures Lab에서 실제 AI 프로토타입을 확인해보세요.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "date": "Fri, 29 May 2026 12:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\" />워털루 대학교 학생들은 수화와 같은 AI 프로토타입을 개발합니다...."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "이제 Claude Opus 4.8을 Microsoft Foundry에서 사용할 수 있습니다.",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
       "date": "Fri, 29 May 2026 14:46:32 +0000",
-      "summary": "<p>Claude Opus 4.8이 이제 Microsoft Foundry에서 제공됩니다. 이를 통해 개발자와 기업은 코딩, 에이전트 작업, 전문 작업을 위한 Anthropic의 가장 뛰어난 Opus 모델에 액세스할 수 있습니다.</p>\n<p>피..."
+      "summary": "<p>이제 Microsoft Foundry에서 Claude Opus 4.8을 사용할 수 있습니다. 이를 통해 개발자와 기업은 코딩, 에이전트 작업, 전문 작업을 위한 Anthropic의 가장 뛰어난 Opus 모델에 액세스할 수 있습니다.</p>\n<p>피..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,44 +66,44 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI LLM 추론에 대한 포괄적인 관찰 가능성: GPU 활용에서 LLM 품질까지",
-      "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
-      "date": "Fri, 29 May 2026 23:36:58 +0000",
-      "summary": "이 게시물은 Amazon SageMaker AI에서 제공되는 LLM의 품질과 수량에 대한 전체적인 보기를 제공하는 Amazon Managed Grafana 대시보드를 사용하는 포괄적인 관찰 솔루션을 보여줍니다...."
+      "title": "Amazon Bedrock AgentCore Gateway에 대한 MCP 지원 확장",
+      "link": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/",
+      "date": "Mon, 01 Jun 2026 18:35:03 +0000",
+      "summary": "MCP(Model Context Protocol) 서버를 프로덕션 환경에 배포하는 동안 기업은 서버 전체에 대한 세분화된 액세스 제어, 팀이 어떤 도구를 사용하는지에 대한 관찰 가능성, 보안 보장이 필요합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI에서 아제르바이잔어 언어 모델 훈련",
-      "link": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
-      "date": "Thu, 28 May 2026 21:54:06 +0000",
-      "summary": "아제르바이잔의 선도적인 통신 제공업체인 Azercell Telecom LLC는 통신 사용 사례 및 고객 대면 커뮤니케이션을 위해 Amazon SageMaker AI에 아제르바이잔어 LLM(대형 언어 모델)을 구축하고자 했습니다...."
+      "title": "Amazon Bedrock AgentCore 게이트웨이의 정책 및 Lambda 인터셉터를 사용하여 AI 에이전트를 보호하세요.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-and-lambda-interceptors-in-amazon-bedrock-agentcore-gateway/",
+      "date": "Mon, 01 Jun 2026 17:54:22 +0000",
+      "summary": "이 게시물에서는 레이크하우스 데이터 에이전트를 사용하여 결정적 액세스 제어를 위한 정책과 동적 검증을 위한 Lambda 인터셉터를 사용하는 방법을 보여줍니다. 그런 다음 Lambda를 결합하는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI MLflow 앱이 내장된 사용자 지정 포털 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/",
-      "date": "Thu, 28 May 2026 20:39:22 +0000",
-      "summary": "이 게시물에서는 SageMaker AI MLflow Apps UI가 내장된 사용자 지정 포털을 구축하는 방법을 알아봅니다. Flask 역방향 프록시와 쌍을 이루는 React 프런트 엔드 뒤의 아키텍처 패턴을 살펴봅니다...."
+      "title": "Amazon Bedrock AgentCore 결제를 사용하여 내장된 가드레일로 안전한 에이전트 결제를 활성화하세요.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/",
+      "date": "Mon, 01 Jun 2026 17:30:12 +0000",
+      "summary": "이 게시물에서는 에이전트 결제 시스템을 설계할 때 나타나는 몇 가지 주요 위험과 AgentCore 결제 기능을 사용하여 이를 해결하는 방법을 설명합니다...."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "Mellum2 소개: JetBrains의 12B 전문가 혼합 모델",
+      "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "date": "Mon, 01 Jun 2026 15:45:17 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "LLM을 넘어: 확장 가능한 엔터프라이즈 AI 채택이 에이전트 로직에 의존하는 이유",
+      "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "date": "Mon, 01 Jun 2026 13:51:18 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
       "title": "NVIDIA Cosmos 3에 오신 것을 환영합니다: 물리적 AI 추론 및 행동을 위한 최초의 개방형 옴니 모델",
       "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
       "date": "Mon, 01 Jun 2026 04:44:55 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "PyTorch에서 프로파일링(1부): torch.profiler 초보자 가이드",
-      "link": "https://huggingface.co/blog/torch-profiler",
-      "date": "Fri, 29 May 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "ITBench-AA: 프론티어 모델은 인공 분석 및 IBM의 Agentic Enterprise IT 작업에 대한 첫 번째 벤치마크에서 50% 미만의 점수를 받았습니다.",
-      "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "date": "Wed, 27 May 2026 17:20:29 GMT",
       "summary": "..."
     }
   ]
