@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01 09:13:11 (KST)",
+  "updated_at": "2026-06-01 15:11:36 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "Google AI Studio에서 코딩된 I/O 2026 퀴즈를 풀어보세요.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
       "date": "Fri, 29 May 2026 19:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />Google AI Studio를 사용하여 최고의 I/O 2026 발표에 대한 퀴즈를 코드에 반영했습니다...."
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />우리는 Google AI Studio를 사용하여 최고의 I/O 2026 발표에 대한 퀴즈를 코드화했습니다...."
     },
     {
       "company": "Google AI",
@@ -55,14 +55,14 @@
       "title": "Azure Kubernetes Fleet Manager를 위한 원활한 클러스터 간 네트워킹으로 다중 클러스터 워크로드 지원",
       "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
       "date": "Fri, 22 May 2026 17:00:00 +0000",
-      "summary": "<p>Cilium 기반 클러스터 간 네트워킹을 통해 전체 차량을 포괄할 수 있는 관리형 고성능 네트워크를 제공하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/po..."
+      "summary": "<p>Cilium 기반 교차 클러스터 네트워킹을 통해 전체 차량을 포괄할 수 있는 관리형 고성능 네트워크를 제공하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/po..."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "EDA 워크로드용 Azure NetApp Files: 혁신에서 대규모 혁신까지",
       "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
       "date": "Fri, 22 May 2026 15:00:00 +0000",
-      "summary": "<p>Azure NetApp Files는 대규모 동시성, 낮은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
+      "summary": "<p>Azure NetApp Files는 대규모 동시성, 짧은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "NVIDIA Cosmos 3에 오신 것을 환영합니다: 물리적 AI 추론 및 행동을 위한 최초의 개방형 옴니 모델",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "date": "Mon, 01 Jun 2026 04:44:55 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "PyTorch에서 프로파일링(1부): torch.profiler 초보자 가이드",
       "link": "https://huggingface.co/blog/torch-profiler",
       "date": "Fri, 29 May 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "ITBench-AA: 프론티어 모델은 인공 분석 및 IBM의 Agentic Enterprise IT 작업에 대한 첫 번째 벤치마크에서 50% 미만의 점수를 받았습니다.",
       "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
       "date": "Wed, 27 May 2026 17:20:29 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Reachy Mini는 완전히 로컬로 작동합니다.",
-      "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "date": "Wed, 27 May 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
