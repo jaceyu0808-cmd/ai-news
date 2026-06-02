@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-02 14:56:26 (KST)",
+  "updated_at": "2026-06-02 19:51:13 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Codex는 모두를 위한 생산성 도구가 되고 있습니다",
+      "link": "https://openai.com/index/codex-for-knowledge-work",
+      "date": "Tue, 02 Jun 2026 02:00:00 GMT",
+      "summary": "차세대 지식 작업 보고서에서는 Codex가 AI 기반 연구, 데이터 분석, 작업 흐름 자동화 및 콘텐츠 생성을 통해 생산성을 어떻게 변화시키고 있는지 살펴봅니다...."
+    },
     {
       "company": "OpenAI",
       "title": "AI 정책과 정치적 옹호에 대한 우리의 견해",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/stargate-michigan-data-center",
       "date": "Mon, 01 Jun 2026 12:00:00 GMT",
       "summary": "OpenAI는 Stargate의 일환으로 미시간에서 1GW 데이터 센터 프로젝트를 시작하여 AI 인프라를 구축하여 액세스를 확대하고 일자리를 창출하며 커뮤니티를 지원합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "이제 AWS에서 OpenAI 프론티어 모델과 Codex를 사용할 수 있습니다.",
-      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "date": "Mon, 01 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI 프론티어 모델과 Codex는 이제 AWS에서 정식 출시되어 기업이 이미 사용하고 있는 AWS 환경, 제어 및 조달 워크플로를 통해 OpenAI로 구축할 수 있는 새로운 경로를 제공합니다...."
     },
     {
       "company": "Google AI",
