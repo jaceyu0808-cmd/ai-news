@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-02 07:13:52 (KST)",
+  "updated_at": "2026-06-02 09:21:01 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "AI 정책과 정치적 옹호에 대한 우리의 견해",
+      "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "date": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "summary": "AI 정책과 정치적 옹호, 투명성, 사려 깊은 규제 및 AI 안전에 대한 지원, 외부 정치 단체가 회사를 대신하여 발언하지 않는다는 접근 방식입니다...."
+    },
     {
       "company": "OpenAI",
       "title": "미시간의 지능 시대를 위한 인프라 구축",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
       "date": "Mon, 01 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI 프론티어 모델과 Codex는 이제 AWS에서 정식 출시되어 기업이 이미 사용하고 있는 AWS 환경, 제어 및 조달 워크플로를 통해 OpenAI로 구축할 수 있는 새로운 경로를 제공합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Boston Children’s는 AI를 사용하여 새로운 진단을 밝힙니다.",
-      "link": "https://openai.com/index/boston-childrens-hospital",
-      "date": "Fri, 29 May 2026 12:00:00 GMT",
-      "summary": "Boston Children’s Hospital은 OpenAI 기술을 사용하여 환자 치료를 개선하고 운영 부담을 줄이며 40개 이상의 희귀 질환 사례를 진단하는 데 도움을 줍니다...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore ID에서 자신의 AWS Secrets Manager 비밀을 참조하십시오.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/",
+      "date": "Mon, 01 Jun 2026 22:16:28 +0000",
+      "summary": "오늘은 AWS Secrets Manager에서 AgentCore Identity용 비밀을 참조하는 기능을 발표하게 되어 기쁘게 생각합니다. 이제 Secrets Manager에서 사전 구성된 비밀을 참조하고 전체 정보를 유지할 수 있습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Quick을 통해 희귀암 연구 혁신: 획기적인 발견을 위한 생의학 데이터베이스 통합",
       "link": "https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/",
       "date": "Mon, 01 Jun 2026 21:54:16 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
       "date": "Mon, 01 Jun 2026 21:31:12 +0000",
       "summary": "GPT-5.5, GPT-5.4 및 Codex는 이제 Amazon Bedrock에서 정식 출시되었습니다. 지금 Bedrock의 고성능 추론 엔진을 통해 프로덕션 애플리케이션과 에이전트에 배포하세요.&nbsp;..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore Gateway에 대한 MCP 지원 확장",
-      "link": "https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/",
-      "date": "Mon, 01 Jun 2026 18:35:03 +0000",
-      "summary": "MCP(Model Context Protocol) 서버를 프로덕션 환경에 배포하는 동안 기업은 서버 전체에 대한 세분화된 액세스 제어, 팀이 어떤 도구를 사용하는지에 대한 관찰 가능성, 보안 보장이 필요합니다...."
     },
     {
       "company": "Hugging Face",
