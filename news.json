@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-02 19:51:13 (KST)",
+  "updated_at": "2026-06-03 00:00:06 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "글로벌 리더십을 통해 청소년 안전과 기회 증진",
+      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "date": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "summary": "OpenAI는 전용 AI 안전 연구소를 통해 청소년 AI 안전에 대한 글로벌 조치를 촉구합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Codex는 모두를 위한 생산성 도구가 되고 있습니다",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "date": "Mon, 01 Jun 2026 17:00:00 GMT",
       "summary": "AI 정책과 정치적 옹호, 투명성, 사려 깊은 규제 및 AI 안전에 대한 지원, 외부 정치 단체가 회사를 대신하여 발언하지 않는다는 접근 방식입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "미시간의 지능 시대를 위한 인프라 구축",
-      "link": "https://openai.com/index/stargate-michigan-data-center",
-      "date": "Mon, 01 Jun 2026 12:00:00 GMT",
-      "summary": "OpenAI는 Stargate의 일환으로 미시간에서 1GW 데이터 센터 프로젝트를 시작하여 AI 인프라를 구축하여 액세스를 확대하고 일자리를 창출하며 커뮤니티를 지원합니다...."
     },
     {
       "company": "Google AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Holo3.1: 빠른 및 로컬 컴퓨터 사용 에이전트",
+      "link": "https://huggingface.co/blog/Hcompany/holo31",
+      "date": "Tue, 02 Jun 2026 14:13:23 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Mellum2 소개: JetBrains의 12B 전문가 혼합 모델",
       "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
       "date": "Mon, 01 Jun 2026 15:45:17 GMT",
@@ -97,13 +104,6 @@
       "title": "LLM을 넘어서: 확장 가능한 엔터프라이즈 AI 채택이 에이전트 로직에 의존하는 이유",
       "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
       "date": "Mon, 01 Jun 2026 13:51:18 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "NVIDIA Cosmos 3에 오신 것을 환영합니다: 물리적 AI 추론 및 행동을 위한 최초의 개방형 옴니 모델",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "date": "Mon, 01 Jun 2026 04:44:55 GMT",
       "summary": "..."
     }
   ]
