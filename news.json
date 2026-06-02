@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03 06:55:20 (KST)",
+  "updated_at": "2026-06-03 08:54:58 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -84,27 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
       "date": "Tue, 02 Jun 2026 15:45:11 +0000",
       "summary": "이 게시물에서는 Baz가 Amazon Bedrock 및 Amazon Bedrock AgentCore를 사용하여 Spec Review 에이전트를 구축한 방법을 안내합니다. 아키텍처 결정, 구현 세부 사항 및 비즈니스 결과를 다루겠습니다...."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Holo3.1: 빠른 및 로컬 컴퓨터 사용 에이전트",
-      "link": "https://huggingface.co/blog/Hcompany/holo31",
-      "date": "Tue, 02 Jun 2026 14:13:23 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Mellum2 소개: JetBrains의 12B 전문가 혼합 모델",
-      "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "date": "Mon, 01 Jun 2026 15:45:17 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "LLM을 넘어서: 확장 가능한 엔터프라이즈 AI 채택이 에이전트 로직에 의존하는 이유",
-      "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "date": "Mon, 01 Jun 2026 13:51:18 GMT",
-      "summary": "..."
     }
   ]
 }
