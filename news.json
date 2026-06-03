@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-06-03 20:19:44 (KST)",
+  "updated_at": "2026-06-04 02:07:14 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "프론티어 AI의 민주적 거버넌스를 위한 청사진",
+      "link": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI는 미국의 프론티어 AI 거버넌스에 대한 청사진을 설명하고 안전, 탄력성 및 국가 안보를 위한 연방 프레임워크를 제안합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 공공 정책 의제",
+      "link": "https://openai.com/index/public-policy-agenda",
+      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI는 AI가 사회에 혜택을 줄 수 있도록 안전, 청소년 보호, 인력 전환, 글로벌 표준 등 AI에 대한 공공 정책 의제를 간략하게 설명합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Travelers는 OpenAI를 통해 전국적으로 AI 기반 청구를 배포합니다.",
@@ -9,18 +23,11 @@
       "summary": "Travelers는 OpenAI를 사용하여 AI 기반 청구 도우미를 구축하여 고객에게 청구서를 제출하도록 안내하고, 연중무휴 지원을 제공하며, 수요가 가장 많을 때 운영을 확장합니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "모든 역할, 도구 및 작업흐름을 위한 Codex",
-      "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "date": "Tue, 02 Jun 2026 09:00:00 GMT",
-      "summary": "분석가, 마케팅 담당자, 디자이너, 투자자 및 기타 팀이 AI로 더 많은 작업을 수행하는 데 도움이 되는 새로운 Codex 플러그인, 사이트 및 주석을 찾아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "글로벌 리더십을 통해 청소년 안전과 기회 증진",
-      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "date": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "OpenAI는 청소년 AI 안전에 대한 글로벌 조치를 촉구하고 청소년을 위한 안전 장치, 표준 및 기회를 강화하기 위한 국제 기관을 제안합니다...."
+      "company": "Google AI",
+      "title": "Google 검색을 통해 중고품 및 빈티지 쇼핑 수준을 높일 수 있는 5가지 방법",
+      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "date": "Wed, 03 Jun 2026 13:00:00 +0000",
+      "summary": "연한 파란색 배경에 흩어져 있는 다양한 항목의 다채로운 질감의 콜라주입니다. 항목에는 녹색 버킷 모자, 나무 옷걸이, 파란색과 빨간색 줄무늬 칼라, 파란색 선글라스가 포함됩니다...."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
       "date": "Fri, 29 May 2026 19:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />Google AI Studio를 사용하여 최고의 I/O 2026 발표에 대한 퀴즈를 코드에 반영했습니다...."
-    },
-    {
-      "company": "Google AI",
-      "title": "Gemini Omni 및 Gemini 3.5의 9가지 데모 실행",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "date": "Fri, 29 May 2026 17:30:00 +0000",
-      "summary": "제미니 옴니 & 제미니 3.5 히어로..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,44 +66,44 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "DLAMI 및 DLC에서 SOCI 인덱스를 사용하여 컨테이너 콜드 스타트 ​​시간 단축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reducing-container-cold-start-times-using-soci-index-on-dlami-and-dlc/",
+      "date": "Wed, 03 Jun 2026 16:26:35 +0000",
+      "summary": "이 게시물에서는 공개적으로 사용 가능한 딥 러닝 AMI 및 컨테이너에서 SOCI를 사용하는 방법, 도구에서 제공하는 다양한 SOCI 모드를 언제 사용해야 하는지, 이를 빠르고 효율적으로 사용하는 방법을 살펴봅니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker AI에서 SFT 및 DPO를 사용하여 에이전트의 도구 호출 정확도를 향상하세요.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
+      "date": "Wed, 03 Jun 2026 15:56:50 +0000",
+      "summary": "이 게시물에서는 SFT(Supervised Fine-Tuning)와 DPO(Direct Preference Optimization)를 함께 사용하여 SLM(Small Language Model)의 도구 호출 정확도를 향상시키는 방법을 알아봅니다. 예제에서는..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Nova Forge의 하이퍼파라미터 최적화 기술과 과학",
       "link": "https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/",
       "date": "Tue, 02 Jun 2026 17:39:03 +0000",
       "summary": "도메인별 작업을 미세 조정한다는 것은 모델의 일반적인 기능을 저하시키지 않고 한 영역에서 성능을 향상시키는 것을 의미하며, 균형을 올바르게 맞추는 것은 보기보다 어렵습니다. 이번 포스팅은 산책..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova 2 Lite를 사용한 객체 감지",
-      "link": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/",
-      "date": "Tue, 02 Jun 2026 17:31:11 +0000",
-      "summary": "이 게시물에서는 Amazon Nova 2 Lite를 사용하여 객체 감지를 구현하는 방법을 살펴보겠습니다. Amazon Bedrock, AWS Lambda 및 Amazon API Gate를 사용하여 객체 감지 애플리케이션을 배포하는 방법을 알아봅니다...."
+      "company": "Hugging Face",
+      "title": "챗봇을 넘어 직접 선호도 최적화",
+      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "date": "Wed, 03 Jun 2026 12:55:11 GMT",
+      "summary": "..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Baz가 Amazon Bedrock AgentCore를 사용하여 AI 에이전트 코드 검토 정확도를 향상한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/",
-      "date": "Tue, 02 Jun 2026 15:45:11 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "company": "Hugging Face",
+      "title": "Reachy Mini에 MCP 도구 추가",
+      "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "date": "Wed, 03 Jun 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
       "title": "Holo3.1: 빠른 및 로컬 컴퓨터 사용 에이전트",
       "link": "https://huggingface.co/blog/Hcompany/holo31",
       "date": "Tue, 02 Jun 2026 14:13:23 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Mellum2 소개: JetBrains의 12B 전문가 혼합 모델",
-      "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "date": "Mon, 01 Jun 2026 15:45:17 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "LLM을 넘어서: 확장 가능한 엔터프라이즈 AI 채택이 에이전트 로직에 의존하는 이유",
-      "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "date": "Mon, 01 Jun 2026 13:51:18 GMT",
       "summary": "..."
     }
   ]
