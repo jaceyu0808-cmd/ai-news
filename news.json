@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04 06:26:18 (KST)",
+  "updated_at": "2026-06-04 08:52:32 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "Wasmer가 Codex를 사용하여 엣지용 Node.js 런타임을 구축한 방법",
+      "link": "https://openai.com/index/wasmer",
+      "date": "Wed, 03 Jun 2026 12:00:00 GMT",
+      "summary": "Wasmer가 GPT-5.5와 함께 Codex를 사용하여 엣지용 Node.js 런타임을 구축하고 개발을 10배에서 20배로 가속화하고 몇 달이 아닌 몇 주 만에 출시하는 방법을 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
       "title": "프론티어 AI의 민주적 거버넌스를 위한 청사진",
       "link": "https://openai.com/index/frontier-safety-blueprint",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI는 미국의 프론티어 AI 거버넌스에 대한 청사진을 설명하고 안전, 탄력성 및 국가 안보를 위한 연방 프레임워크를 제안합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 공공 정책 의제",
-      "link": "https://openai.com/index/public-policy-agenda",
-      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 AI가 사회에 혜택을 줄 수 있도록 안전, 청소년 보호, 인력 전환, 글로벌 표준 등 AI에 대한 공공 정책 의제를 간략하게 설명합니다...."
     },
     {
       "company": "Google AI",
