@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04 17:56:18 (KST)",
+  "updated_at": "2026-06-04 21:09:25 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Nemotron 사전 훈련을 위한 작업 기반 합성 Q&A 생성",
+      "link": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
+      "date": "Thu, 04 Jun 2026 11:24:53 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "챗봇을 넘어 직접 선호도 최적화",
       "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
       "date": "Wed, 03 Jun 2026 12:55:11 GMT",
@@ -97,13 +104,6 @@
       "title": "Reachy Mini에 MCP 도구 추가",
       "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
       "date": "Wed, 03 Jun 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Holo3.1: 빠른 및 로컬 컴퓨터 사용 에이전트",
-      "link": "https://huggingface.co/blog/Hcompany/holo31",
-      "date": "Tue, 02 Jun 2026 14:13:23 GMT",
       "summary": "..."
     }
   ]
