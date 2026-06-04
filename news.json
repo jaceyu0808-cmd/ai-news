@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-04 13:56:36 (KST)",
+  "updated_at": "2026-06-04 17:56:18 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Endava가 AI 에이전트를 중심으로 소프트웨어 제공을 재설계하는 방법",
+      "link": "https://openai.com/index/endava-frontiers",
+      "date": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "summary": "Endava가 AI 에이전트, ChatGPT Enterprise 및 Codex를 사용하여 소프트웨어 제공을 가속화하고 워크플로를 자동화하며 기업 전체에 AI 기반 문화를 구축하는 방법을 알아보세요...."
+    },
     {
       "company": "OpenAI",
       "title": "GPT-Rosalind에 새로운 기능 소개",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/wasmer",
       "date": "Wed, 03 Jun 2026 12:00:00 GMT",
       "summary": "Wasmer가 GPT-5.5와 함께 Codex를 사용하여 엣지용 Node.js 런타임을 구축하고 개발을 10배에서 20배로 가속화하고 몇 달이 아닌 몇 주 만에 출시하는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "프론티어 AI의 민주적 거버넌스를 위한 청사진",
-      "link": "https://openai.com/index/frontier-safety-blueprint",
-      "date": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 미국의 프론티어 AI 거버넌스에 대한 청사진을 설명하고 안전, 탄력성 및 국가 안보를 위한 연방 프레임워크를 제안합니다...."
     },
     {
       "company": "Google AI",
