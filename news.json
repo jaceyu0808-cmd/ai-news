@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05 17:49:29 (KST)",
+  "updated_at": "2026-06-05 21:16:43 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "AI만으로는 비즈니스를 바꿀 수 없습니다. 이를 실행하는 시스템이 됩니다.",
-      "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
-      "date": "Tue, 02 Jun 2026 19:15:57 +0000",
-      "summary": "<p>우리는 다양한 모델을 지원하고 개방적이며 스택의 모든 계층에서 유연성을 제공하는 포괄적인 에이전트 플랫폼을 구축하고 있습니다.</p>\n<p>게시물 <a href=\"https://blogs.microsoft.com/b..."
+      "title": "이제 Claude Opus 4.8을 Microsoft Foundry에서 사용할 수 있습니다.",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "date": "Fri, 29 May 2026 14:46:32 +0000",
+      "summary": "<p>Claude Opus 4.8이 이제 Microsoft Foundry에서 제공됩니다. 이를 통해 개발자와 기업은 코딩, 에이전트 작업, 전문 작업을 위한 Anthropic의 가장 뛰어난 Opus 모델에 액세스할 수 있습니다.</p>\n<p>피..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Discovery 일반 공급 및 Microsoft Discovery 앱 미리 보기 발표",
-      "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
-      "date": "Tue, 02 Jun 2026 18:15:00 +0000",
-      "summary": "<p>Microsoft Build에서는 Microsoft Discovery가 이제 모든 조직에서 정식 출시되어 에이전트 AI 워크플로를 구축하고 관리하기 위한 포괄적인 플랫폼을 제공한다고 발표했습니다.<..."
+      "title": "Azure Kubernetes Fleet Manager를 위한 원활한 클러스터 간 네트워킹으로 다중 클러스터 워크로드 지원",
+      "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
+      "date": "Fri, 22 May 2026 17:00:00 +0000",
+      "summary": "<p>Cilium 기반 교차 클러스터 네트워킹을 통해 전체 차량을 포괄할 수 있는 관리형 고성능 네트워크를 제공하고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/po..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Build 2026: Microsoft Fabric 및 Microsoft 데이터베이스를 사용하여 에이전트 앱 구축",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/",
-      "date": "Tue, 02 Jun 2026 16:59:00 +0000",
-      "summary": "<p>Microsoft Build 2026은 확장 가능한 에이전트 애플리케이션을 위한 통합 데이터 및 AI 플랫폼을 강조하면서 Microsoft Fabric 및 Microsoft 데이터베이스를 사용한 앱 개발의 발전을 강조합니다.</p>\n<p>..."
+      "title": "EDA 워크로드용 Azure NetApp Files: 혁신에서 대규모 혁신까지",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/",
+      "date": "Fri, 22 May 2026 15:00:00 +0000",
+      "summary": "<p>Azure NetApp Files는 대규모 동시성, 짧은 대기 시간 및 일관된 프로덕션 성능을 지원하는 확장 가능한 고성능 스토리지를 제공하여 클라우드에서 EDA에 가능한 기능을 재정의하고 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -84,27 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/fundamentals-large-tabular-model-nexus-is-now-available-on-amazon-sagemaker-jumpstart/",
       "date": "Wed, 03 Jun 2026 17:55:37 +0000",
       "summary": "이 게시물에서는 Amazon SageMaker JumpStart에서 NEXUS를 시작하는 방법, 배포 프로세스를 안내하고 엔터프라이즈 데이터 세트에 대해 예측을 실행하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Nemotron 3.5 콘텐츠 안전: 글로벌 기업 AI를 위한 맞춤형 다중 모드 안전",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "date": "Thu, 04 Jun 2026 18:57:45 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "EVA-Bench Data 2.0: 3개 도메인, 121개 도구, 213개 시나리오",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "date": "Thu, 04 Jun 2026 12:24:58 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "허브와 작업하기 위한 에이전트 최적화 방식으로 hf CLI 설계",
-      "link": "https://huggingface.co/blog/hf-cli-for-agents",
-      "date": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "summary": "..."
     }
   ]
 }
