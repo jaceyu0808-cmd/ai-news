@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06 16:50:51 (KST)",
+  "updated_at": "2026-06-06 19:14:14 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Thousand Token Wood: 3B 모델로 다중 에이전트 경제 제공",
+      "title": "Thousand Token Wood: 3B 모델로 다중 에이전트 경제 출시",
       "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
       "date": "Fri, 05 Jun 2026 22:18:46 GMT",
       "summary": "..."
