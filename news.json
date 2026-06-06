@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06 23:49:10 (KST)",
+  "updated_at": "2026-06-07 01:14:29 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "지능화 시대의 생물방어",
+      "title": "지능 시대의 생물방어",
       "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
       "date": "Thu, 04 Jun 2026 00:00:00 GMT",
       "summary": "AI 기반 생물학적 복원력을 위한 실행 계획..."
@@ -27,7 +27,7 @@
       "title": "2026년 5월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "date": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "summary": "AI가 요약할 수 있음..."
+      "summary": "5월 AI 요약..."
     },
     {
       "company": "Google AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "구직자",
+      "link": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
+      "date": "Sat, 06 Jun 2026 15:36:51 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Nemotron 3.5 콘텐츠 안전: 글로벌 기업 AI를 위한 맞춤형 다중 모드 안전",
       "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
       "date": "Thu, 04 Jun 2026 18:57:45 GMT",
@@ -97,13 +104,6 @@
       "title": "EVA-Bench Data 2.0: 3개 도메인, 121개 도구, 213개 시나리오",
       "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
       "date": "Thu, 04 Jun 2026 12:24:58 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "허브와 작업하기 위한 에이전트 최적화 방식으로 hf CLI 설계",
-      "link": "https://huggingface.co/blog/hf-cli-for-agents",
-      "date": "Thu, 04 Jun 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
