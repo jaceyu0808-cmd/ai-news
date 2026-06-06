@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06 21:11:20 (KST)",
+  "updated_at": "2026-06-06 23:49:10 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,13 +87,6 @@
     },
     {
       "company": "Hugging Face",
-      "title": "페르소나 아틀라스: 유명인들이 생각하는 방식 매핑",
-      "link": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
-      "date": "Sat, 06 Jun 2026 11:42:01 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
       "title": "Nemotron 3.5 콘텐츠 안전: 글로벌 기업 AI를 위한 맞춤형 다중 모드 안전",
       "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
       "date": "Thu, 04 Jun 2026 18:57:45 GMT",
@@ -104,6 +97,13 @@
       "title": "EVA-Bench Data 2.0: 3개 도메인, 121개 도구, 213개 시나리오",
       "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
       "date": "Thu, 04 Jun 2026 12:24:58 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "허브와 작업하기 위한 에이전트 최적화 방식으로 hf CLI 설계",
+      "link": "https://huggingface.co/blog/hf-cli-for-agents",
+      "date": "Thu, 04 Jun 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
