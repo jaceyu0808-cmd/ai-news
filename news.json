@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08 03:11:28 (KST)",
+  "updated_at": "2026-06-08 05:20:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "지능 시대의 생물방어",
+      "title": "지능화 시대의 생물방어",
       "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
       "date": "Thu, 04 Jun 2026 00:00:00 GMT",
       "summary": "AI 기반 생물학적 복원력을 위한 실행 계획..."
@@ -87,9 +87,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "특히 코덱스에 대한 OPENAI CODEX 바우처 사용을 후원합니다 - openAI challange",
-      "link": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
-      "date": "Sun, 07 Jun 2026 11:38:54 GMT",
+      "title": "Amazing Digital Dentures (실패한 프로젝트)",
+      "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "date": "Sun, 07 Jun 2026 19:44:27 GMT",
       "summary": "..."
     },
     {
