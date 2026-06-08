@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-09 01:11:44 (KST)",
+  "updated_at": "2026-06-09 04:28:25 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 경제 연구 교류를 소개합니다",
+      "link": "https://openai.com/index/economic-research-exchange",
+      "date": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI는 AI가 일자리, 생산성 및 경제에 미치는 영향을 연구하기 위해 경제 연구 교류(Economic Research Exchange)를 시작합니다. 이제 선택된 연구 프로젝트에 대한 지원서가 공개되었습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Endava가 AI 에이전트를 중심으로 소프트웨어 제공을 재설계하는 방법",
@@ -16,18 +23,11 @@
       "summary": "ChatGPT는 선호도를 더 잘 기억하고 대화 전반에 걸쳐 컨텍스트를 신선하고 관련성 있게 유지하는 새로운 메모리 시스템을 도입합니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "지능화 시대의 생물방어",
-      "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "date": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "summary": "AI 기반 생물학적 복원력을 위한 실행 계획..."
-    },
-    {
       "company": "Google AI",
       "title": "2026년 5월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "date": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "summary": "5월 AI 요약..."
+      "summary": "AI가 요약할 수 있음..."
     },
     {
       "company": "Google AI",
@@ -55,7 +55,7 @@
       "title": "Microsoft Discovery 일반 공급 및 Microsoft Discovery 앱 미리 보기 발표",
       "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
       "date": "Tue, 02 Jun 2026 18:15:00 +0000",
-      "summary": "<p>Microsoft Build에서는 Microsoft Discovery가 이제 모든 조직에 일반 공급되어 에이전트 AI 워크플로를 구축하고 관리하기 위한 포괄적인 플랫폼을 제공한다고 발표했습니다.<..."
+      "summary": "<p>Microsoft Build에서는 Microsoft Discovery가 이제 모든 조직에서 정식 출시되어 에이전트 AI 워크플로를 구축하고 관리하기 위한 포괄적인 플랫폼을 제공한다고 발표했습니다.<..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,45 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Quick ARN: 교차 계정 마이그레이션 및 네임스페이스 권한",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/",
-      "date": "Mon, 08 Jun 2026 16:07:29 +0000",
-      "summary": "이 게시물에서는 Amazon Quick ARN의 구조를 다루고 이를 활용하기 위한 실용적인 정신 모델을 제공합니다. 결국 ARN을 보고 그것이 귀하에게 어떤 의미인지 즉시 이해할 수 있습니다...."
+      "title": "유럽의 AI 유연성 잠금 해제: EU 데이터 처리 및 모델 액세스를 위한 지역 간 추론 가이드",
+      "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/",
+      "date": "Mon, 08 Jun 2026 16:40:34 +0000",
+      "summary": "전 세계적으로 높은 수요가 있는 최신 생성 AI 모델과 고성능 가속화 컴퓨팅에 대한 액세스를 통해 AWS 고객은 다중 환경에서 모델 가용성과 용량을 활용할 수 있는 도구가 필요합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova Sonic 음성 에이전트를 규모에 맞게 평가하세요. 마이크는 필요하지 않습니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required/",
-      "date": "Mon, 08 Jun 2026 15:57:45 +0000",
-      "summary": "이 게시물에서는 두 가지 문제를 해결하기 위해 구축한 오픈 소스 프레임워크인 Nova Sonic Test Harness를 안내합니다. 시스템 프롬프트 및 도구 구성 조정을 위한 신속한 반복 도구 역할을 합니다...."
+      "title": "이제 노트북을 닫아도 안전합니다. Amazon Bedrock AgentCore에서 코딩 에이전트 호스팅",
+      "link": "https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/",
+      "date": "Mon, 08 Jun 2026 16:35:02 +0000",
+      "summary": "Amazon Bedrock AgentCore Runtime은 각 에이전트 세션에 영구 작업 공간, 게이트웨이를 통한 보안 도구 액세스 및 내장된 관찰 기능을 갖춘 격리된 자체 microVM을 제공하므로 Claude Cod를 실행할 수 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "이제 Amazon SageMaker JumpStart에서 NVIDIA Nemotron 3 Ultra를 사용할 수 있습니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
-      "date": "Thu, 04 Jun 2026 16:59:08 +0000",
-      "summary": "Amazon SageMaker JumpStart에 NVIDIA Nemotron 3 Ultra를 배포하세요. 이 프론티어 추론 모델을 사용하면 에이전트 AI 워크로드에 대해 추론 속도가 5배 빨라지고 비용이 30% 절감됩니다...."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "사라진 붕괴: 5개 모델 경제에서의 통제와 출현",
-      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-      "date": "Mon, 08 Jun 2026 13:10:48 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "오픈 소스 커뮤니티는 Agentic RL용 OpenEnv를 지원합니다.",
-      "link": "https://huggingface.co/blog/openenv-agentic-rl",
-      "date": "Mon, 08 Jun 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Nemotron 3.5 콘텐츠 안전: 글로벌 기업 AI를 위한 맞춤형 다중 모드 안전",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "date": "Thu, 04 Jun 2026 18:57:45 GMT",
-      "summary": "..."
+      "title": "규모에 따른 더 나은 의사결정: 직관이 실패할 때 수학적 최적화가 어떻게 제공되나요?",
+      "link": "https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/",
+      "date": "Mon, 08 Jun 2026 16:31:17 +0000",
+      "summary": "이 게시물에서는 수학적 최적화를 소개하고, 그것이 더 넓은 AI 환경에 어떻게 적용되는지 설명하고, 혁신 센터가 맞춤형 솔루션과 파트너십을 맺은 실제 성공 사례를 소개합니다...."
     }
   ]
 }
