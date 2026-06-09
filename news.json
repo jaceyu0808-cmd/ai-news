@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-10 04:23:35 (KST)",
+  "updated_at": "2026-06-10 06:55:16 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Nextdoor의 엔지니어가 Codex를 사용하여 제한 없이 구축하는 방법",
+      "link": "https://openai.com/index/nextdoor",
+      "date": "Tue, 09 Jun 2026 12:00:00 GMT",
+      "summary": "Nextdoor의 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 재현하기 어려운 문제를 조사하고, 플랫폼 전반에 걸쳐 구축하고, 제품 결과에 집중하는 방법입니다...."
+    },
     {
       "company": "OpenAI",
       "title": "S-1 초안을 SEC에 비밀로 제출",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
       "date": "Mon, 08 Jun 2026 01:30:00 GMT",
       "summary": "OpenAI가 AGI가 모든 사람에게 혜택을 줄 수 있도록 노력하면서 접근, 안전, 공동 번영에 초점을 맞춘 AI의 미래에 대한 비전입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 경제 연구 교류를 소개합니다",
-      "link": "https://openai.com/index/economic-research-exchange",
-      "date": "Mon, 08 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI는 AI가 일자리, 생산성 및 경제에 미치는 영향을 연구하기 위해 경제 연구 교류(Economic Research Exchange)를 시작합니다. 이제 선택된 연구 프로젝트에 대한 지원서가 공개되었습니다...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker AI의 NVIDIA Isaac Lab을 통해 로봇 강화 학습 확장",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/",
+      "date": "Tue, 09 Jun 2026 20:07:24 +0000",
+      "summary": "이 게시물에서는 Amazon SageMaker HyperPod와 Amazon SageMaker Tr의 두 가지 컴퓨팅 옵션에 걸쳐 Amazon SageMaker AI에서 NVIDIA Isaac Lab을 사용하여 Unitree H1 휴머노이드에 대한 로봇 정책을 훈련하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "핸즈프리 최초 손실 통지: 지능형 청구 접수를 위해 Strands Agents 및 Amazon Bedrock AgentCore 브라우저 도구 사용",
       "link": "https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/",
       "date": "Tue, 09 Jun 2026 16:43:28 +0000",
@@ -79,31 +86,24 @@
       "summary": "이 게시물에서는 엔지니어링 팀이 엔지니어링에서 가장 시간에 민감한 워크플로 중 하나인 사고 분류에 해당 원칙을 적용하는 방법을 보여줍니다. 다음을 사용하여 사용자 정의 사고 분류 보조 에이전트를 구축합니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "유럽의 AI 유연성 잠금 해제: EU 데이터 처리 및 모델 액세스를 위한 지역 간 추론 가이드",
-      "link": "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/",
-      "date": "Mon, 08 Jun 2026 16:40:34 +0000",
-      "summary": "전 세계적으로 높은 수요가 있는 최신 생성 AI 모델과 고성능 가속화 컴퓨팅에 대한 액세스를 통해 AWS 고객은 다중 환경에서 모델 가용성과 용량을 활용할 수 있는 도구가 필요합니다...."
+      "company": "Hugging Face",
+      "title": "음성 에이전트가 이중 언어 고객을 처리할 수 있습니까? 코드 전환 음성에 대한 Frontier ASR 벤치마킹",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "date": "Tue, 09 Jun 2026 19:38:28 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "North Mini Code 소개: 개발자를 위한 Cohere의 첫 번째 모델",
+      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "date": "Tue, 09 Jun 2026 15:56:23 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
       "title": "에이전트가 포옹하는 두 얼굴 공간을 연결하여 3D 파리 갤러리를 구축한 방법",
       "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
       "date": "Tue, 09 Jun 2026 10:46:19 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "오픈 소스 커뮤니티는 Agentic RL용 OpenEnv를 지원합니다.",
-      "link": "https://huggingface.co/blog/openenv-agentic-rl",
-      "date": "Mon, 08 Jun 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Nemotron 3.5 콘텐츠 안전: 글로벌 기업 AI를 위한 맞춤형 다중 모드 안전",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "date": "Thu, 04 Jun 2026 18:57:45 GMT",
       "summary": "..."
     }
   ]
