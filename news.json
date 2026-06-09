@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09 17:37:20 (KST)",
+  "updated_at": "2026-06-09 21:12:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "에이전트가 포옹하는 두 얼굴 공간을 연결하여 3D 파리 갤러리를 구축한 방법",
+      "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "date": "Tue, 09 Jun 2026 10:46:19 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "오픈 소스 커뮤니티는 Agentic RL용 OpenEnv를 지원합니다.",
       "link": "https://huggingface.co/blog/openenv-agentic-rl",
       "date": "Mon, 08 Jun 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "Nemotron 3.5 콘텐츠 안전: 글로벌 기업 AI를 위한 맞춤형 다중 모드 안전",
       "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
       "date": "Thu, 04 Jun 2026 18:57:45 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "EVA-Bench Data 2.0: 3개 도메인, 121개 도구, 213개 시나리오",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "date": "Thu, 04 Jun 2026 12:24:58 GMT",
       "summary": "..."
     }
   ]
