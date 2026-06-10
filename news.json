@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10 08:23:15 (KST)",
+  "updated_at": "2026-06-10 13:38:19 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "S-1 초안을 SEC에 기밀로 제출",
-      "link": "https://openai.com/index/openai-submits-confidential-s-1",
-      "date": "Mon, 08 Jun 2026 14:00:00 GMT",
-      "summary": "OpenAI는 SEC에 기밀 S-1 제출을 확인했지만 아직 추가 조치 시기를 결정하지 않았습니다...."
+      "title": "지능시대를 위한 산업정책",
+      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "date": "Tue, 09 Jun 2026 00:00:00 GMT",
+      "summary": "AI 시대를 위한 야심찬 사람 우선 산업 정책 아이디어를 살펴보세요. 고급 인텔리전스가 발전함에 따라 기회 확대, 번영 공유, 탄력적인 기관 구축에 중점을 두고 있습니다...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "현재 Microsoft Foundry에서 Claude Fable 5 사용 가능: 차세대 자율 에이전트 지원",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "date": "Tue, 09 Jun 2026 17:00:00 +0000",
+      "summary": "<p>Anthropic의 최신 Frontier 모델인 Claude Fable 5는 현재 Microsoft Foundry에서 사용할 수 있으며 GitHub Copilot 및 Foundry Agent Service의 에이전트를 지원합니다.</p>\n<p>게시물 <a href=\"https://azure.microsof..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "AI만으로는 비즈니스를 바꿀 수 없습니다. 이를 실행하는 시스템이 됩니다.",
       "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
       "date": "Tue, 02 Jun 2026 19:15:57 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
       "date": "Tue, 02 Jun 2026 18:15:00 +0000",
       "summary": "<p>Microsoft Build에서는 Microsoft Discovery가 이제 모든 조직에서 정식 출시되어 에이전트 AI 워크플로를 구축하고 관리하기 위한 포괄적인 플랫폼을 제공한다고 발표했습니다.<..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft Build 2026: Microsoft Fabric 및 Microsoft 데이터베이스를 사용하여 에이전트 앱 구축",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/",
-      "date": "Tue, 02 Jun 2026 16:59:00 +0000",
-      "summary": "<p>Microsoft Build 2026은 확장 가능한 에이전트 애플리케이션을 위한 통합 데이터 및 AI 플랫폼을 강조하면서 Microsoft Fabric 및 Microsoft 데이터베이스를 사용한 앱 개발의 발전을 강조합니다.</p>\n<p>..."
     },
     {
       "company": "AWS Machine Learning",
