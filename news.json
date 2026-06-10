@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10 21:32:54 (KST)",
+  "updated_at": "2026-06-11 01:41:12 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "Nextdoor의 엔지니어가 Codex를 사용하여 제한 없이 구축하는 방법",
       "link": "https://openai.com/index/nextdoor",
       "date": "Tue, 09 Jun 2026 12:00:00 GMT",
-      "summary": "Nextdoor의 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 재현하기 어려운 문제를 조사하고, 플랫폼 전반에 걸쳐 구축하고, 제품 결과에 집중하는 방법...."
+      "summary": "Nextdoor의 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 재현하기 어려운 문제를 조사하고, 플랫폼 전반에 걸쳐 구축하고, 제품 결과에 집중하는 방법입니다...."
     },
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "Microsoft Discovery 일반 공급 및 Microsoft Discovery 앱 미리 보기 발표",
       "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
       "date": "Tue, 02 Jun 2026 18:15:00 +0000",
-      "summary": "<p>Microsoft Build에서는 Microsoft Discovery가 이제 모든 조직에 일반 공급되어 에이전트 AI 워크플로를 구축하고 관리하기 위한 포괄적인 플랫폼을 제공한다고 발표했습니다.<..."
+      "summary": "<p>Microsoft Build에서는 Microsoft Discovery가 이제 모든 조직에서 정식 출시되어 에이전트 AI 워크플로를 구축하고 관리하기 위한 포괄적인 플랫폼을 제공한다고 발표했습니다.<..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "커널 수동 조정 중지: Neuron Agentic Development가 AWS Trainium 최적화를 가속화하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
+      "date": "Wed, 10 Jun 2026 15:26:45 +0000",
+      "summary": "오늘 우리는 AWS Trainium 및 AWS Inferentia를 기반으로 구축하는 개발자가 이를 가능하게 하는 AI 에이전트 및 기술 모음인 Neuron Agentic Development 기능을 발표합니다. 이 포에서는..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore를 사용하여 AI 기반 장비 수리 도우미 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
+      "date": "Wed, 10 Jun 2026 15:21:35 +0000",
+      "summary": "이 게시물에서는 농부와 현장 기술자가 장비 문제를 진단하고, 필요한 부품을 식별하고, 액세스하는 데 도움이 되는 Amazon Bedrock AgentCore를 사용하여 AI 기반 장비 수리 도우미를 구축합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon SageMaker AI의 NVIDIA Isaac Lab을 통해 로봇 강화 학습 확장",
       "link": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/",
       "date": "Tue, 09 Jun 2026 20:07:24 +0000",
       "summary": "이 게시물에서는 Amazon SageMaker HyperPod와 Amazon SageMaker Tr의 두 가지 컴퓨팅 옵션에 걸쳐 Amazon SageMaker AI에서 NVIDIA Isaac Lab을 사용하여 Unitree H1 휴머노이드에 대한 로봇 정책을 훈련하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "핸즈프리 최초 분실 통지: 지능적인 청구 접수를 위해 Strands Agents 및 Amazon Bedrock AgentCore Browser Tool 사용",
-      "link": "https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/",
-      "date": "Tue, 09 Jun 2026 16:43:28 +0000",
-      "summary": "이 게시물에서는 핸즈프리 FNOL 접수 시스템이 도메인 추론을 위해 Strands Agents SDK로 구축된 에이전트와 라이브 포털 간을 위한 Amazon Bedrock AgentCore 브라우저 도구를 결합하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Quick 및 New Relic을 사용하여 에이전트 사고 분류 도우미 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/",
-      "date": "Tue, 09 Jun 2026 16:10:37 +0000",
-      "summary": "이 게시물에서는 엔지니어링 팀이 엔지니어링에서 가장 시간에 민감한 워크플로 중 하나인 사고 분류에 해당 원칙을 적용하는 방법을 보여줍니다. 다음을 사용하여 사용자 정의 사고 분류 보조 에이전트를 구축합니다...."
     },
     {
       "company": "Hugging Face",
