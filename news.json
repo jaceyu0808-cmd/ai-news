@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-12 06:27:41 (KST)",
+  "updated_at": "2026-06-12 08:44:50 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "OpenAI, Ona 인수",
       "link": "https://openai.com/index/openai-to-acquire-ona",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에서 장기 실행 AI 에이전트를 지원할 계획입니다...."
+      "summary": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에 걸쳐 장기 실행 AI 에이전트를 지원할 계획입니다...."
     },
     {
       "company": "OpenAI",
@@ -46,7 +46,7 @@
     {
       "company": "Microsoft Azure AI",
       "title": "현재 Microsoft Foundry에서 Claude Fable 5 사용 가능: 차세대 자율 에이전트 지원",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "date": "Tue, 09 Jun 2026 17:00:00 +0000",
       "summary": "<p>Anthropic의 최신 Frontier 모델인 Claude Fable 5는 현재 Microsoft Foundry에서 사용할 수 있으며 GitHub Copilot 및 Foundry Agent Service의 에이전트를 지원합니다.</p>\n<p>게시물 <a href=\"https://azure.microsof..."
     },
