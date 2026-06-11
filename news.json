@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11 09:24:01 (KST)",
+  "updated_at": "2026-06-11 14:59:12 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "중국과 연계된 영향력 작전은 미국 내 AI 논쟁을 표적으로 삼고 있습니다.",
       "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "date": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "summary": "OpenAI의 새로운 보고서는 미국 기술 토론, 데이터 센터 설명, 관세 및 ChatGPT에 대한 허위 주장을 표적으로 삼기 위해 AI를 사용하는 중국과 연계된 영향력 작전을 자세히 설명합니다...."
+      "summary": "OpenAI의 새로운 보고서는 미국 기술 논쟁, 데이터 센터 설명, 관세 및 ChatGPT에 대한 허위 주장을 표적으로 삼기 위해 AI를 사용하는 중국과 연계된 영향력 작전을 자세히 설명합니다...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "프론티어 팀이 AI 기반 개발을 재창조하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/",
+      "date": "Thu, 11 Jun 2026 00:54:42 +0000",
+      "summary": "프론티어 팀은 단순히 코딩 속도를 높이기 위해 AI를 사용하는 것이 아닙니다. 그들은 소프트웨어 구축 방법을 재설계하고 있습니다. 그 결과 생산성이 4.5배, 어떤 경우에는 10배 이상 향상되었습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "커널 수동 조정 중지: Neuron Agentic Development가 AWS Trainium 최적화를 가속화하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
       "date": "Wed, 10 Jun 2026 15:26:45 +0000",
@@ -77,34 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
       "date": "Wed, 10 Jun 2026 15:21:35 +0000",
       "summary": "이 게시물에서는 농부와 현장 기술자가 장비 문제를 진단하고, 필요한 부품을 식별하고, 액세스하는 데 도움이 되는 Amazon Bedrock AgentCore를 사용하여 AI 기반 장비 수리 도우미를 구축합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI의 NVIDIA Isaac Lab을 통해 로봇 강화 학습 확장",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/",
-      "date": "Tue, 09 Jun 2026 20:07:24 +0000",
-      "summary": "이 게시물에서는 Amazon SageMaker HyperPod와 Amazon SageMaker Tr의 두 가지 컴퓨팅 옵션에 걸쳐 Amazon SageMaker AI에서 NVIDIA Isaac Lab을 사용하여 Unitree H1 휴머노이드에 대한 로봇 정책을 훈련하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "음성 에이전트가 이중 언어 고객을 처리할 수 있습니까? 코드 전환 음성에 대한 Frontier ASR 벤치마킹",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-      "date": "Tue, 09 Jun 2026 19:38:28 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "North Mini Code 소개: 개발자를 위한 Cohere의 첫 번째 모델",
-      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "date": "Tue, 09 Jun 2026 15:56:23 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "에이전트가 포옹하는 두 얼굴 공간을 연결하여 3D 파리 갤러리를 구축한 방법",
-      "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "date": "Tue, 09 Jun 2026 10:46:19 GMT",
-      "summary": "..."
     }
   ]
 }
