@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-06-11 07:12:11 (KST)",
+  "updated_at": "2026-06-11 09:24:01 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "천체물리학자가 Codex를 사용하여 블랙홀을 시뮬레이션하는 방법",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "천체 물리학자인 Chi-kwan Chan이 Codex를 사용하여 블랙홀 시뮬레이션을 구축하고 과학자들이 극한 물리학을 연구하고 아인슈타인의 일반 상대성 이론을 테스트하는 데 어떻게 도움이 되는지 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Oracle Cloud 약정을 통해 OpenAI 모델 및 Codex에 액세스하세요.",
+      "link": "https://openai.com/index/openai-on-oracle-cloud",
+      "date": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "summary": "엔터프라이즈 보안 및 거버넌스를 통해 AI를 구축하고 배포하기 위한 기존 약정을 사용하여 Oracle Cloud를 통해 OpenAI 모델 및 Codex에 액세스하세요...."
+    },
     {
       "company": "OpenAI",
       "title": "중국과 연계된 영향력 작전은 미국 내 AI 논쟁을 표적으로 삼고 있습니다.",
       "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "date": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "summary": "OpenAI의 새로운 보고서는 미국 기술 논쟁, 데이터 센터 설명, 관세 및 ChatGPT에 대한 허위 주장을 표적으로 삼기 위해 AI를 사용하는 중국과 연계된 영향력 작전을 자세히 설명합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "데이터에서 의사결정까지: LSEG가 신뢰할 수 있는 AI를 확장하는 방법",
-      "link": "https://openai.com/index/lseg",
-      "date": "Wed, 10 Jun 2026 00:00:00 GMT",
-      "summary": "LSEG가 OpenAI를 사용하여 글로벌 비즈니스 전반에 걸쳐 신뢰할 수 있는 AI를 확장하고 통찰력을 가속화하고 릴리스 주기를 단축하며 4,000명의 직원에게 역량을 부여하는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Nextdoor의 엔지니어가 Codex를 사용하여 제한 없이 구축하는 방법",
-      "link": "https://openai.com/index/nextdoor",
-      "date": "Tue, 09 Jun 2026 12:00:00 GMT",
-      "summary": "Nextdoor의 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 재현하기 어려운 문제를 조사하고, 플랫폼 전반에 걸쳐 구축하고, 제품 결과에 집중하는 방법입니다...."
+      "summary": "OpenAI의 새로운 보고서는 미국 기술 토론, 데이터 센터 설명, 관세 및 ChatGPT에 대한 허위 주장을 표적으로 삼기 위해 AI를 사용하는 중국과 연계된 영향력 작전을 자세히 설명합니다...."
     },
     {
       "company": "Google AI",
