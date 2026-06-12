@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12 18:07:12 (KST)",
+  "updated_at": "2026-06-12 22:34:08 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "내부부터 구축: AWS Professional Services가 최초로 선두 팀이 된 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
+      "date": "Fri, 12 Jun 2026 13:00:10 +0000",
+      "summary": "AWS Professional Services(AWS ProServe)는 기존 프로세스에 인공 지능(AI) 도구를 추가하는 것이 아니라 H를 근본적으로 재구축함으로써 참여 일정을 몇 개월에서 며칠로 단축했습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "온디맨드 및 배치 파이프라인을 사용하여 동적으로 데이터 추출",
       "link": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
       "date": "Thu, 11 Jun 2026 19:40:33 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
       "date": "Thu, 11 Jun 2026 15:49:47 +0000",
       "summary": "Agent-EvalKit은 Claude Code, Kiro CLI 및 Kilo Code를 포함한 AI 코딩 도우미와 통합하여 이 평가 인프라를 사용할 수 있게 만드는 오픈 소스 도구 키트(Apache 2.0)입니다. 이것..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "더 빠르게 추세를 파악하고 더 스마트하게 정렬: Amazon Quick에서 스파크라인 및 사용자 정의 정렬 잠금 해제",
-      "link": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
-      "date": "Thu, 11 Jun 2026 15:36:31 +0000",
-      "summary": "오늘 우리는 Quick Sight 대시보드를 더욱 풍부하고 비즈니스에 맞게 만드는 두 가지 새로운 기능인 스파크라인과 컨트롤에 대한 사용자 정의 정렬을 발표하게 되어 기쁘게 생각합니다. 이번 포스팅에서는..."
     },
     {
       "company": "Hugging Face",
