@@ -1,19 +1,12 @@
 {
-  "updated_at": "2026-06-12 13:54:23 (KST)",
+  "updated_at": "2026-06-12 18:07:12 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "천체물리학자가 Codex를 사용하여 블랙홀을 시뮬레이션하는 방법",
-      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "천체 물리학자인 Chi-kwan Chan이 Codex를 사용하여 블랙홀 시뮬레이션을 구축하고 과학자들이 극한 물리학을 연구하고 아인슈타인의 일반 상대성 이론을 테스트하는 데 어떻게 도움이 되는지 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "BBVA는 OpenAI를 통해 AI를 뱅킹의 핵심으로 활용합니다.",
-      "link": "https://openai.com/index/bbva",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "BBVA가 ChatGPT Enterprise를 직원 100,000명으로 확장하고 OpenAI와 협력하여 전 세계적으로 AI 기반 은행 혁신을 가속화한 방법을 알아보세요...."
+      "title": "Preply가 AI와 인간 교사를 결합하여 학습을 개인화하는 방법",
+      "link": "https://openai.com/index/preply",
+      "date": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "summary": "Preply는 OpenAI를 사용하여 AI로 생성된 강의 요약을 시작하고 맞춤형 피드백과 언어 학습 연습을 제공합니다...."
     },
     {
       "company": "OpenAI",
@@ -21,6 +14,13 @@
       "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "OpenAI는 AI 콘텐츠 투명성에 대한 EU 실천 강령을 지원하고 사람들이 AI 생성 콘텐츠를 이해하는 데 도움이 되는 출처 표준 및 도구를 발전시킵니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "BBVA는 OpenAI를 통해 AI를 뱅킹의 핵심으로 활용합니다.",
+      "link": "https://openai.com/index/bbva",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "BBVA가 ChatGPT Enterprise를 직원 100,000명으로 확장하고 OpenAI와 협력하여 전 세계적으로 AI 기반 은행 혁신을 가속화한 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -34,7 +34,7 @@
       "title": "2026년 5월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "date": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "summary": "AI가 요약할 수 있음..."
+      "summary": "5월 AI 요약..."
     },
     {
       "company": "Google AI",
