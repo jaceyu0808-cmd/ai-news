@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-13 01:51:27 (KST)",
+  "updated_at": "2026-06-13 04:14:36 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "차세대 업무를 위한 새로운 OpenAI Academy 과정",
+      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "date": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 생성하고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Preply가 AI와 인간 교사를 결합하여 학습을 개인화하는 방법",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/openai-to-acquire-ona",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에 걸쳐 장기 실행 AI 에이전트를 지원할 계획입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "신뢰할 수 있는 AI 생태계를 보장하기 위한 유럽의 노력을 지원합니다.",
-      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI는 AI 콘텐츠 투명성에 대한 EU 실천 강령을 지원하고 사람들이 AI 생성 콘텐츠를 이해하는 데 도움이 되는 출처 표준 및 도구를 발전시킵니다...."
     },
     {
       "company": "Google AI",
