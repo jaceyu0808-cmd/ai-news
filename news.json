@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13 04:14:36 (KST)",
+  "updated_at": "2026-06-13 06:57:24 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "OpenAI, Ona 인수",
       "link": "https://openai.com/index/openai-to-acquire-ona",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에 걸쳐 장기 실행 AI 에이전트를 지원할 계획입니다...."
+      "summary": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에서 장기 실행 AI 에이전트를 지원할 계획입니다...."
     },
     {
       "company": "Google AI",
@@ -34,7 +34,7 @@
       "title": "2026년 5월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "date": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "summary": "AI가 요약할 수 있음..."
+      "summary": "5월 AI 요약..."
     },
     {
       "company": "Google AI",
@@ -46,7 +46,7 @@
     {
       "company": "Microsoft Azure AI",
       "title": "현재 Microsoft Foundry에서 Claude Fable 5 사용 가능: 차세대 자율 에이전트 지원",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "date": "Tue, 09 Jun 2026 17:00:00 +0000",
       "summary": "<p>Anthropic의 최신 Frontier 모델인 Claude Fable 5는 현재 Microsoft Foundry에서 사용할 수 있으며 GitHub Copilot 및 Foundry Agent Service의 에이전트를 지원합니다.</p>\n<p>게시물 <a href=\"https://azure.microsof..."
     },
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Supercharger 구축: Rocket Close가 에이전트 AI를 사용하여 타이틀 운영을 최적화한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+      "date": "Fri, 12 Jun 2026 20:43:56 +0000",
+      "summary": "이 게시물에서는 Rocket Close가 Strands Agent, LLM(대형 언어 모델), Amazon Bedrock, Amazon Bedrock Knowledge Bases 및 MCP(Model Context Protocol) 도구를 사용하여 솔루션을 구축한 방법을 살펴봅니다. 여..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Quick 및 Cisco Webex MCP 서버를 사용하여 회의 준비 및 후속 조치 도우미 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
       "date": "Fri, 12 Jun 2026 14:49:40 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
       "date": "Fri, 12 Jun 2026 14:43:11 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock과 그 기능을 기반으로 AWS에서 비용 효율적이고 확장 가능한 지능형 문서 처리 파이프라인을 개발하는 방법을 간략하게 설명합니다. BDA는 Amazon 내 관리형 서비스입니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "내부부터 구축: AWS Professional Services가 최초로 선두 팀이 된 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
-      "date": "Fri, 12 Jun 2026 13:00:10 +0000",
-      "summary": "AWS Professional Services(AWS ProServe)는 기존 프로세스에 인공 지능(AI) 도구를 추가하는 것이 아니라 H를 근본적으로 재구축함으로써 참여 일정을 몇 개월에서 며칠로 단축했습니다...."
     },
     {
       "company": "Hugging Face",
