@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12 22:34:08 (KST)",
+  "updated_at": "2026-06-13 01:51:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "OpenAI, Ona 인수",
+      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에 걸쳐 장기 실행 AI 에이전트를 지원할 계획입니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "신뢰할 수 있는 AI 생태계를 보장하기 위한 유럽의 노력을 지원합니다.",
       "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "date": "Thu, 11 Jun 2026 00:00:00 GMT",
       "summary": "OpenAI는 AI 콘텐츠 투명성에 대한 EU 실천 강령을 지원하고 사람들이 AI 생성 콘텐츠를 이해하는 데 도움이 되는 출처 표준 및 도구를 발전시킵니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "BBVA는 OpenAI를 통해 AI를 뱅킹의 핵심으로 활용합니다.",
-      "link": "https://openai.com/index/bbva",
-      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "summary": "BBVA가 ChatGPT Enterprise를 직원 100,000명으로 확장하고 OpenAI와 협력하여 전 세계적으로 AI 기반 은행 혁신을 가속화한 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -34,7 +34,7 @@
       "title": "2026년 5월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "date": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "summary": "5월 AI 요약..."
+      "summary": "AI가 요약할 수 있음..."
     },
     {
       "company": "Google AI",
@@ -46,7 +46,7 @@
     {
       "company": "Microsoft Azure AI",
       "title": "현재 Microsoft Foundry에서 Claude Fable 5 사용 가능: 차세대 자율 에이전트 지원",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "date": "Tue, 09 Jun 2026 17:00:00 +0000",
       "summary": "<p>Anthropic의 최신 Frontier 모델인 Claude Fable 5는 현재 Microsoft Foundry에서 사용할 수 있으며 GitHub Copilot 및 Foundry Agent Service의 에이전트를 지원합니다.</p>\n<p>게시물 <a href=\"https://azure.microsof..."
     },
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Quick 및 Cisco Webex MCP 서버를 사용하여 회의 준비 및 후속 조치 도우미 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+      "date": "Fri, 12 Jun 2026 14:49:40 +0000",
+      "summary": "이 게시물은 Amazon Quick 및 Cisco Webex MCP 서버를 사용하여 맞춤형 회의 준비 및 후속 조치 도우미를 구축하는 방법을 보여줍니다. 단일 프롬프트에서 상담원은 예정된 Webex 미팅을 찾고 사전에 검토합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "PDF에서 통찰력까지: AWS 생성 AI 서비스를 사용하여 지능형 문서 처리 파이프라인 설계",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
+      "date": "Fri, 12 Jun 2026 14:43:11 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock과 그 기능을 기반으로 AWS에서 비용 효율적이고 확장 가능한 지능형 문서 처리 파이프라인을 개발하는 방법을 간략하게 설명합니다. BDA는 Amazon 내 관리형 서비스입니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "내부부터 구축: AWS Professional Services가 최초로 선두 팀이 된 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
       "date": "Fri, 12 Jun 2026 13:00:10 +0000",
       "summary": "AWS Professional Services(AWS ProServe)는 기존 프로세스에 인공 지능(AI) 도구를 추가하는 것이 아니라 H를 근본적으로 재구축함으로써 참여 일정을 몇 개월에서 며칠로 단축했습니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "온디맨드 및 배치 파이프라인을 사용하여 동적으로 데이터 추출",
-      "link": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
-      "date": "Thu, 11 Jun 2026 19:40:33 +0000",
-      "summary": "이 게시물은 문서 전문가의 유연성을 지원하기 위해 Amazon Bedrock의 주문형 추론 및 배치 추론 옵션으로 구성된 지능형 문서 처리 파이프라인을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Agent-EvalKit을 사용하여 AI 에이전트를 체계적으로 평가합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
-      "date": "Thu, 11 Jun 2026 15:49:47 +0000",
-      "summary": "Agent-EvalKit은 Claude Code, Kiro CLI 및 Kilo Code를 포함한 AI 코딩 도우미와 통합하여 이 평가 인프라를 사용할 수 있게 만드는 오픈 소스 도구 키트(Apache 2.0)입니다. 이것..."
+      "company": "Hugging Face",
+      "title": "olmo-eval: 모델 개발 루프를 위한 평가 워크벤치",
+      "link": "https://huggingface.co/blog/allenai/olmo-eval",
+      "date": "Fri, 12 Jun 2026 15:56:10 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "North Mini Code 소개: 개발자를 위한 Cohere의 첫 번째 모델",
       "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
       "date": "Tue, 09 Jun 2026 15:56:23 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "에이전트가 포옹하는 두 얼굴 공간을 연결하여 3D 파리 갤러리를 구축한 방법",
-      "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "date": "Tue, 09 Jun 2026 10:46:19 GMT",
       "summary": "..."
     }
   ]
