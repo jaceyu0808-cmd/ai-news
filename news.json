@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13 13:41:37 (KST)",
+  "updated_at": "2026-06-13 17:28:46 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -84,6 +84,27 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
       "date": "Fri, 12 Jun 2026 14:43:11 +0000",
       "summary": "이 게시물에서는 Amazon Bedrock과 그 기능을 기반으로 AWS에서 비용 효율적이고 확장 가능한 지능형 문서 처리 파이프라인을 개발하는 방법을 간략하게 설명합니다. BDA는 Amazon 내 관리형 서비스입니다...."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "olmo-eval: 모델 개발 루프를 위한 평가 워크벤치",
+      "link": "https://huggingface.co/blog/allenai/olmo-eval",
+      "date": "Fri, 12 Jun 2026 15:56:10 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "PyTorch 프로파일링(2부): nn.Linear에서 Fused MLP까지",
+      "link": "https://huggingface.co/blog/torch-mlp-fusion",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "North Mini Code 소개: 개발자를 위한 Cohere의 첫 번째 모델",
+      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "date": "Tue, 09 Jun 2026 15:56:23 GMT",
+      "summary": "..."
     }
   ]
 }
