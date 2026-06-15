@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16 02:58:53 (KST)",
+  "updated_at": "2026-06-16 06:16:12 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock에 Gemma 4 모델 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
+      "date": "Mon, 15 Jun 2026 20:24:15 +0000",
+      "summary": "오늘 우리는 Amazon Bedrock에서 Gemma 4 제품군을 사용할 수 있음을 발표합니다. Google DeepMind에서 구축하고 Apache 2.0 라이센스에 따라 출시된 Gemma 4는 개방형 모델 설계 제품군입니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "스트랜드 평가를 통한 AI 에이전트 오류 감지 및 근본 원인 분석",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
+      "date": "Mon, 15 Jun 2026 18:07:59 +0000",
+      "summary": "이 게시물에서는 감지기 기능을 호출하여 실제 에이전트 오류를 ​​진단하는 방법을 안내합니다. 구조화된 출력(신뢰도 점수, 원인으로 분류된 실패)을 해석하는 방법을 알아봅니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Deep Agents 및 Bedrock AgentCore를 사용하여 상황에 맞는 연구 에이전트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
       "date": "Mon, 15 Jun 2026 13:56:33 +0000",
       "summary": "이 게시물에서는 이러한 패턴을 처음부터 끝까지 보여주는 경쟁력 있는 연구 에이전트를 구축하게 됩니다. 이 연습은 격리된 실행 환경이 필요한 다단계 AI 워크플로를 구축하는 개발자를 대상으로 합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Supercharger 구축: Rocket Close가 에이전트 AI를 사용하여 타이틀 운영을 최적화한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
-      "date": "Fri, 12 Jun 2026 20:43:56 +0000",
-      "summary": "이 게시물에서는 Rocket Close가 Strands Agent, LLM(대형 언어 모델), Amazon Bedrock, Amazon Bedrock Knowledge Bases 및 MCP(Model Context Protocol) 도구를 사용하여 솔루션을 구축한 방법을 살펴봅니다. 여..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Quick 및 Cisco Webex MCP 서버를 사용하여 회의 준비 및 후속 조치 도우미 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
-      "date": "Fri, 12 Jun 2026 14:49:40 +0000",
-      "summary": "이 게시물은 Amazon Quick 및 Cisco Webex MCP 서버를 사용하여 맞춤형 회의 준비 및 후속 조치 도우미를 구축하는 방법을 보여줍니다. 단일 프롬프트에서 상담원은 예정된 Webex 미팅을 찾고 사전에 검토합니다...."
     },
     {
       "company": "Hugging Face",
