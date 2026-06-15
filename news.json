@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15 21:36:40 (KST)",
+  "updated_at": "2026-06-16 02:58:53 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,10 +10,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "차세대 업무를 위한 새로운 OpenAI Academy 과정",
+      "title": "차세대 작업 시대를 위한 새로운 OpenAI Academy 과정",
       "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "date": "Fri, 12 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 만들고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다...."
+      "summary": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 생성하고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다...."
     },
     {
       "company": "OpenAI",
@@ -21,6 +21,13 @@
       "link": "https://openai.com/index/preply",
       "date": "Fri, 12 Jun 2026 00:00:00 GMT",
       "summary": "Preply는 OpenAI를 사용하여 AI로 생성된 강의 요약을 시작하고 맞춤형 피드백과 언어 학습 연습을 제공합니다...."
+    },
+    {
+      "company": "Google AI",
+      "title": "우리는 새로운 투자와 지역사회 지원을 통해 앨라배마에서의 입지를 강화하고 있습니다.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "date": "Mon, 15 Jun 2026 15:00:00 +0000",
+      "summary": "Google은 앨라배마주 잭슨 카운티의 데이터 센터 캠퍼스를 확장하기 위해 2026년과 2027년에 15억 달러를 투자한다고 발표했습니다. 2019년부터 용도가 변경된 이전 모델로 운영 중…..."
     },
     {
       "company": "Google AI",
@@ -34,14 +41,7 @@
       "title": "2026년 5월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "date": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "summary": "5월 AI 요약..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Google 검색을 통해 중고품 및 빈티지 쇼핑 수준을 높일 수 있는 5가지 방법",
-      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "date": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "summary": "연한 파란색 배경에 흩어져 있는 다양한 항목의 다채로운 질감의 콜라주입니다. 항목에는 녹색 버킷 모자, 나무 옷걸이, 파란색과 빨간색 줄무늬 칼라, 파란색 선글라스가 포함됩니다...."
+      "summary": "AI가 요약할 수 있음..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Deep Agents 및 Bedrock AgentCore를 사용하여 상황에 맞는 연구 에이전트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
+      "date": "Mon, 15 Jun 2026 13:56:33 +0000",
+      "summary": "이 게시물에서는 이러한 패턴을 처음부터 끝까지 보여주는 경쟁력 있는 연구 에이전트를 구축하게 됩니다. 이 연습은 격리된 실행 환경이 필요한 다단계 AI 워크플로를 구축하는 개발자를 대상으로 합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Supercharger 구축: Rocket Close가 에이전트 AI를 사용하여 타이틀 운영을 최적화한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
       "date": "Fri, 12 Jun 2026 20:43:56 +0000",
@@ -79,11 +86,25 @@
       "summary": "이 게시물은 Amazon Quick 및 Cisco Webex MCP 서버를 사용하여 맞춤형 회의 준비 및 후속 조치 도우미를 구축하는 방법을 보여줍니다. 단일 프롬프트에서 상담원은 예정된 Webex 미팅을 찾고 사전에 검토합니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "PDF에서 통찰력까지: AWS 생성 AI 서비스를 사용하여 지능형 문서 처리 파이프라인 설계",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
-      "date": "Fri, 12 Jun 2026 14:43:11 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock과 그 기능을 기반으로 AWS에서 비용 효율적이고 확장 가능한 지능형 문서 처리 파이프라인을 개발하는 방법을 간략하게 설명합니다. BDA는 Amazon 내 관리형 서비스입니다...."
+      "company": "Hugging Face",
+      "title": "olmo-eval: 모델 개발 루프를 위한 평가 워크벤치",
+      "link": "https://huggingface.co/blog/allenai/olmo-eval",
+      "date": "Fri, 12 Jun 2026 15:56:10 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "PyTorch 프로파일링(2부): nn.Linear에서 Fused MLP까지",
+      "link": "https://huggingface.co/blog/torch-mlp-fusion",
+      "date": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "에이전트가 포옹하는 두 얼굴 공간을 연결하여 3D 파리 갤러리를 구축한 방법",
+      "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "date": "Tue, 09 Jun 2026 10:46:19 GMT",
+      "summary": "..."
     }
   ]
 }
