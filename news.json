@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17 06:14:16 (KST)",
+  "updated_at": "2026-06-17 08:41:25 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "차세대 업무를 위한 새로운 OpenAI Academy 과정",
       "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "date": "Fri, 12 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 만들고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다...."
+      "summary": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 생성하고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다...."
     },
     {
       "company": "Google AI",
@@ -41,14 +41,14 @@
       "title": "2026년 5월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "date": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "summary": "AI가 요약할 수 있음..."
+      "summary": "5월 AI 요약..."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 이동했습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반을 둔 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock Guardrails InvokeGuardrailChecks API를 사용하여 에이전트 AI 애플리케이션을 보호하세요.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
+      "date": "Tue, 16 Jun 2026 22:46:46 +0000",
+      "summary": "오늘 우리는 Amazon Bedrock Guardrails가 포함된 새로운 API를 발표합니다. 이 API를 사용하면 에이전트 AI 애플리케이션의 어느 시점에서든 안전 검사라고도 하는 개별 보호 조치를 적용할 수 있습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "더 빠른 모델 확장을 위해 Amazon SageMaker AI에 컨테이너 캐싱 도입",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
       "date": "Tue, 16 Jun 2026 20:16:02 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
       "date": "Tue, 16 Jun 2026 17:47:09 +0000",
       "summary": "이 게시물에서는 Amazon SageMaker AI 내에서 직접 P-EAGLE을 사용하는 방법을 안내합니다. SageMaker JumpStart 카탈로그에서 호환 모델을 선택하고 병렬 드라이브를 구성하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock에 Gemma 4 모델 소개",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
-      "date": "Mon, 15 Jun 2026 20:24:15 +0000",
-      "summary": "오늘 우리는 Amazon Bedrock에서 Gemma 4 제품군을 사용할 수 있음을 발표합니다. Google DeepMind에서 구축하고 Apache 2.0 라이센스에 따라 출시된 Gemma 4는 개방형 모델 설계 제품군입니다...."
     },
     {
       "company": "Hugging Face",
