@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16 08:53:40 (KST)",
+  "updated_at": "2026-06-16 14:23:36 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,7 +10,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "차세대 작업 시대를 위한 새로운 OpenAI Academy 과정",
+      "title": "차세대 업무를 위한 새로운 OpenAI Academy 과정",
       "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "date": "Fri, 12 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 생성하고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다...."
@@ -41,7 +41,7 @@
       "title": "2026년 5월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "date": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "summary": "AI가 요약할 수 있음..."
+      "summary": "5월 AI 요약..."
     },
     {
       "company": "Microsoft Azure AI",
