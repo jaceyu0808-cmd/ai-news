@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-17 02:16:05 (KST)",
+  "updated_at": "2026-06-17 06:14:16 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "배포 시뮬레이션을 통해 출시 전 모델 동작 예측",
+      "link": "https://openai.com/index/deployment-simulation",
+      "date": "Tue, 16 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI는 실제 대화 데이터를 사용하여 AI 모델 동작을 배포하기 전에 예측하여 안전성과 평가 정확도를 향상시키는 방법인 배포 시뮬레이션을 도입합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI 파트너 네트워크 소개",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "date": "Fri, 12 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 만들고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Preply가 AI와 인간 교사를 결합하여 학습을 개인화하는 방법",
-      "link": "https://openai.com/index/preply",
-      "date": "Fri, 12 Jun 2026 00:00:00 GMT",
-      "summary": "Preply는 OpenAI를 사용하여 AI로 생성된 강의 요약을 시작하고 맞춤형 피드백과 언어 학습 연습을 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "더 빠른 모델 확장을 위해 Amazon SageMaker AI에 컨테이너 캐싱 도입",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
+      "date": "Tue, 16 Jun 2026 20:16:02 +0000",
+      "summary": "오늘 우리는 더 빠른 확장 최적화 여정의 다음 주요 발전인 Amazon SageMaker AI 추론을 위한 컨테이너 이미지 캐싱을 발표하게 되어 기쁘게 생각합니다. 이를 통해 엔드투엔드 대기 시간이 단축됩니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker AI에서 P-EAGLE을 사용하여 추측 디코딩 병렬화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
+      "date": "Tue, 16 Jun 2026 17:47:09 +0000",
+      "summary": "이 게시물에서는 Amazon SageMaker AI 내에서 직접 P-EAGLE을 사용하는 방법을 안내합니다. SageMaker JumpStart 카탈로그에서 호환 모델을 선택하고 병렬 드라이브를 구성하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock에 Gemma 4 모델 소개",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
       "date": "Mon, 15 Jun 2026 20:24:15 +0000",
       "summary": "오늘 우리는 Amazon Bedrock에서 Gemma 4 제품군을 사용할 수 있음을 발표합니다. Google DeepMind에서 구축하고 Apache 2.0 라이센스에 따라 출시된 Gemma 4는 개방형 모델 설계 제품군입니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "스트랜드 평가를 통한 AI 에이전트 오류 감지 및 근본 원인 분석",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-agent-failure-detection-and-root-cause-analysis-with-strands-evals/",
-      "date": "Mon, 15 Jun 2026 18:07:59 +0000",
-      "summary": "이 게시물에서는 감지기 기능을 호출하여 실제 에이전트 오류를 ​​진단하는 방법을 안내합니다. 구조화된 출력(신뢰도 점수, 원인으로 분류된 실패)을 해석하는 방법을 알아봅니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Deep Agents 및 Bedrock AgentCore를 사용하여 상황에 맞는 연구 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
-      "date": "Mon, 15 Jun 2026 13:56:33 +0000",
-      "summary": "이 게시물에서는 이러한 패턴을 처음부터 끝까지 보여주는 경쟁력 있는 연구 에이전트를 구축하게 됩니다. 이 연습은 격리된 실행 환경이 필요한 다단계 AI 워크플로를 구축하는 개발자를 대상으로 합니다...."
     },
     {
       "company": "Hugging Face",
