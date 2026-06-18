@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18 18:21:41 (KST)",
+  "updated_at": "2026-06-18 22:34:29 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "충분히 에이전트적인가요? 자체 툴링에서 개방형 모델 벤치마킹",
+      "link": "https://huggingface.co/blog/is-it-agentic-enough",
+      "date": "Thu, 18 Jun 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "MolmoMotion: 언어 기반 3D 모션 예측",
       "link": "https://huggingface.co/blog/allenai/molmomotion",
       "date": "Wed, 17 Jun 2026 15:26:44 GMT",
@@ -94,16 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Hugging Face Hub부터 Strands Agents 및 LeRobot을 갖춘 로봇 하드웨어까지",
+      "title": "Hugging Face Hub부터 Strands Agents 및 LeRobot을 사용한 로봇 하드웨어까지",
       "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
       "date": "Wed, 17 Jun 2026 10:18:05 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "GLM-5.2: 장거리 작업을 위해 구축됨",
-      "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "date": "Wed, 17 Jun 2026 09:01:25 GMT",
       "summary": "..."
     }
   ]
