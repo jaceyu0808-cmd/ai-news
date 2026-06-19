@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19 07:59:43 (KST)",
+  "updated_at": "2026-06-19 10:50:07 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 이동했습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -63,6 +63,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "date": "Tue, 09 Jun 2026 17:00:00 +0000",
       "summary": "<p>Anthropic의 최신 Frontier 모델인 Claude Fable 5는 현재 Microsoft Foundry에서 사용할 수 있으며 GitHub Copilot 및 Foundry Agent Service의 에이전트를 지원합니다.</p>\n<p>게시물 <a href=\"https://azure.microsof..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "CloudWatch의 SageMaker 세부 지표 및 Insights 대시보드를 사용하여 생성적 AI 추론을 모니터링하고 디버깅합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+      "date": "Thu, 18 Jun 2026 23:31:58 +0000",
+      "summary": "Amazon SageMaker AI는 기계 학습 모델을 위한 완전관리형 실시간 추론 호스팅을 제공합니다. 하나 이상의 컴퓨팅 인스턴스가 지원되는 SageMaker 엔드포인트에 모델을 배포하고 SageMaker ha..."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,15 +86,8 @@
       "summary": "오늘 우리는 Amazon SageMaker AI Async Inference에 대한 인라인 페이로드 지원을 발표합니다. 이제 고객은 InvokeEndpointAsync API의 요청 본문에서 직접 추론 페이로드를 보낼 수 있습니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Quick의 자율 에이전트를 통해 매일 업무 시간을 단축하세요",
-      "link": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
-      "date": "Wed, 17 Jun 2026 20:35:39 +0000",
-      "summary": "오늘날 Quick은 더욱 강력해졌습니다. 사용자를 대신해 지속적으로 작업하는 새로운 자동 에이전트, 가장 중요한 작업의 우선순위를 지정하는 데 도움이 되는 활동 피드,..."
-    },
-    {
       "company": "Hugging Face",
-      "title": "mosaicLeaks: 연구 대리인이 비밀을 지킬 수 있나요?",
+      "title": "모자이크리크스(MosaicLeaks): 연구 대리인이 비밀을 지킬 수 있나요?",
       "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
       "date": "Thu, 18 Jun 2026 18:13:13 GMT",
       "summary": "..."
