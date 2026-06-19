@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19 21:15:16 (KST)",
+  "updated_at": "2026-06-20 01:11:13 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,17 +45,10 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure Storage를 사용하여 데이터 현대화: 자신 있게 계획하고 마이그레이션하세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
-      "date": "Tue, 16 Jun 2026 16:00:00 +0000",
-      "summary": "<p>엔터프라이즈 스토리지 마이그레이션이 단지 데이터 복사에 관한 것만은 아닙니다. 이는 비즈니스 연속성을 보호하고, 성능을 유지하고, 비용을 관리하고, 테라바이트 규모의 데이터가 부족할 때 팀에 자신감을 주는 것입니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반을 둔 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -65,25 +58,32 @@
       "summary": "<p>Anthropic의 최신 Frontier 모델인 Claude Fable 5는 현재 Microsoft Foundry에서 사용할 수 있으며 GitHub Copilot 및 Foundry Agent Service의 에이전트를 지원합니다.</p>\n<p>게시물 <a href=\"https://azure.microsof..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "AI만으로는 비즈니스를 바꿀 수 없습니다. 이를 실행하는 시스템이 됩니다.",
+      "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+      "date": "Tue, 02 Jun 2026 19:15:57 +0000",
+      "summary": "<p>우리는 다양한 모델을 지원하고 개방적이며 스택의 모든 계층에서 유연성을 제공하는 포괄적인 에이전트 플랫폼을 구축하고 있습니다.</p>\n<p>게시물 <a href=\"https://blogs.microsoft.com/b..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore의 웹 검색 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+      "date": "Fri, 19 Jun 2026 14:15:24 +0000",
+      "summary": "이제 Amazon Bedrock AgentCore의 웹 검색이 정식 출시되었습니다. 이 게시물에서는 Amazon Bedrock AgentCore의 웹 검색이 다른 점과 그것이 중요한 이유, 그리고 이를 연결하는 방법을 살펴보겠습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Quick용 Adobe Marketing Agent의 통찰력으로 캠페인 워크플로우 가속화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+      "date": "Fri, 19 Jun 2026 14:05:04 +0000",
+      "summary": "이 게시물에서는 MCP(Model Context Protocol)를 사용하여 Amazon Quick용 Adobe Marketing Agent를 활성화하는 방법을 보여줍니다. 통합을 구성하고 Adobe 자격 증명을 사용하여 인증하는 방법을 안내합니다...."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "CloudWatch의 SageMaker 세부 지표 및 Insights 대시보드를 사용하여 생성적 AI 추론을 모니터링하고 디버깅합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
       "date": "Thu, 18 Jun 2026 23:31:58 +0000",
-      "summary": "Amazon SageMaker AI는 기계 학습 모델을 위한 완전관리형 실시간 추론 호스팅을 제공합니다. 하나 이상의 컴퓨팅 인스턴스가 지원되는 SageMaker 엔드포인트에 모델을 배포하고 SageMaker ha..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore 하네스가 이제 일반 공급됩니다. 몇 분 만에 아이디어에서 프로덕션 등급 에이전트로 전환됩니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
-      "date": "Thu, 18 Jun 2026 17:32:22 +0000",
-      "summary": "현재 Amazon Bedrock AgentCore 하네스가 정식 출시되었습니다. 두 개의 API 호출(에이전트를 정의하는 CreateHarness 및 이를 실행하는 InvokeHarness)을 사용하면 몇 초 만에 에이전트가 실행됩니다. 에이전트가 실행됩니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI 비동기 추론, 이제 인라인 요청 페이로드 지원",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
-      "date": "Wed, 17 Jun 2026 20:56:36 +0000",
-      "summary": "오늘 우리는 Amazon SageMaker AI Async Inference에 대한 인라인 페이로드 지원을 발표합니다. 이제 고객은 InvokeEndpointAsync API의 요청 본문에서 직접 추론 페이로드를 보낼 수 있습니다...."
+      "summary": "Amazon SageMaker AI는 기계 학습 모델을 위한 완전 관리형 실시간 추론 호스팅을 제공합니다. 하나 이상의 컴퓨팅 인스턴스가 지원되는 SageMaker 엔드포인트에 모델을 배포하고 SageMaker ha..."
     },
     {
       "company": "Hugging Face",
