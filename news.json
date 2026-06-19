@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19 10:50:07 (KST)",
+  "updated_at": "2026-06-19 16:20:41 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 이동했습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "모자이크리크스(MosaicLeaks): 연구 대리인이 비밀을 지킬 수 있나요?",
+      "title": "mosaicLeaks: 연구 대리인이 비밀을 지킬 수 있나요?",
       "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
       "date": "Thu, 18 Jun 2026 18:13:13 GMT",
       "summary": "..."
