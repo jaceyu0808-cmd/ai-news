@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21 01:26:14 (KST)",
+  "updated_at": "2026-06-21 03:20:00 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "모자이크리크스(MosaicLeaks): 연구 대리인이 비밀을 지킬 수 있나요?",
+      "title": "mosaicLeaks: 연구 대리인이 비밀을 지킬 수 있나요?",
       "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
       "date": "Thu, 18 Jun 2026 18:13:13 GMT",
       "summary": "..."
