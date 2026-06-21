@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21 07:17:22 (KST)",
+  "updated_at": "2026-06-21 09:16:54 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반을 둔 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -83,7 +83,7 @@
       "title": "CloudWatch의 SageMaker 세부 지표 및 Insights 대시보드를 사용하여 생성적 AI 추론을 모니터링하고 디버깅합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
       "date": "Thu, 18 Jun 2026 23:31:58 +0000",
-      "summary": "Amazon SageMaker AI는 기계 학습 모델을 위한 완전 관리형 실시간 추론 호스팅을 제공합니다. 하나 이상의 컴퓨팅 인스턴스가 지원되는 SageMaker 엔드포인트에 모델을 배포하고 SageMaker ha..."
+      "summary": "Amazon SageMaker AI는 기계 학습 모델을 위한 완전관리형 실시간 추론 호스팅을 제공합니다. 하나 이상의 컴퓨팅 인스턴스가 지원되는 SageMaker 엔드포인트에 모델을 배포하고 SageMaker ha..."
     },
     {
       "company": "Hugging Face",
