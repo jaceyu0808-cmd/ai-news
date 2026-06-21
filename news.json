@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 01:01:45 (KST)",
+  "updated_at": "2026-06-22 03:23:56 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -83,7 +83,7 @@
       "title": "CloudWatch의 SageMaker 세부 지표 및 Insights 대시보드를 사용하여 생성적 AI 추론을 모니터링하고 디버깅합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
       "date": "Thu, 18 Jun 2026 23:31:58 +0000",
-      "summary": "Amazon SageMaker AI는 기계 학습 모델을 위한 완전 관리형 실시간 추론 호스팅을 제공합니다. 하나 이상의 컴퓨팅 인스턴스가 지원되는 SageMaker 엔드포인트에 모델을 배포하고 SageMaker ha..."
+      "summary": "Amazon SageMaker AI는 기계 학습 모델을 위한 완전관리형 실시간 추론 호스팅을 제공합니다. 하나 이상의 컴퓨팅 인스턴스가 지원되는 SageMaker 엔드포인트에 모델을 배포하고 SageMaker ha..."
     },
     {
       "company": "Hugging Face",
