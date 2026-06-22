@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-06-23 02:45:08 (KST)",
+  "updated_at": "2026-06-23 06:09:21 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
-      "link": "https://openai.com/index/patch-the-planet",
-      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 지원하는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다...."
-    },
     {
       "company": "OpenAI",
       "title": "Daybreak: 전 세계 모든 조직의 보안을 유지하기 위한 도구",
@@ -17,10 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "삼성전자, 직원들에게 ChatGPT와 Codex 제공",
-      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "date": "Sun, 21 Jun 2026 23:00:00 GMT",
-      "summary": "삼성전자는 전 세계 직원들에게 ChatGPT Enterprise와 Codex를 배포하여 OpenAI의 최대 규모의 엔터프라이즈 AI 출시 중 하나를 기록했습니다...."
+      "title": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
+      "link": "https://openai.com/index/patch-the-planet",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 지원하는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "장기 실행 작업을 위한 Codex-maxxing",
+      "link": "https://openai.com/index/codex-maxxing-long-running-work",
+      "date": "Mon, 22 Jun 2026 00:00:00 GMT",
+      "summary": "Jason Liu가 Codex를 사용하여 컨텍스트를 보존하고, 복잡한 프로젝트를 관리하고, 단일 프롬프트를 넘어 작업을 계속하도록 돕는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "AI 에이전트를 위한 지능당 지불 구축: Ampersend가 Amazon Bedrock AgentCore 결제를 사용하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
+      "date": "Mon, 22 Jun 2026 17:53:40 +0000",
+      "summary": "이 게시물에서는 Ampersend가 Amazon Bedrock AgentCore Payments 위에 지능당 지불 라우팅 계층을 구축한 방법에 대해 알아봅니다. AI 에이전트는 작업을 가장 효과적인 모델인 Pay p로 자동 라우팅합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "세상을 담아보세요: 규모에 맞게 검색 가능한 항공 이미지를 위한 멀티모달 AI",
       "link": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
       "date": "Mon, 22 Jun 2026 16:32:15 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
       "date": "Mon, 22 Jun 2026 16:28:46 +0000",
       "summary": "이 게시물에서는 Amazon SageMaker AI 처리 작업에 ComfyUI 워크플로를 배포하여 단일 배치로 수백 개의 고품질 이미지를 생성하는 방법을 안내합니다. IFR을 설정하는 방법을 배웁니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore의 웹 검색 소개",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
-      "date": "Fri, 19 Jun 2026 14:15:24 +0000",
-      "summary": "이제 Amazon Bedrock AgentCore의 웹 검색이 정식 출시되었습니다. 이 게시물에서는 Amazon Bedrock AgentCore의 웹 검색이 다른 점과 그것이 중요한 이유, 그리고 이를 연결하는 방법을 살펴보겠습니다...."
     },
     {
       "company": "Hugging Face",
