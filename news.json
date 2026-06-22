@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-06-22 21:54:59 (KST)",
+  "updated_at": "2026-06-23 02:45:08 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
+      "link": "https://openai.com/index/patch-the-planet",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 지원하는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Daybreak: 전 세계 모든 조직의 보안을 유지하기 위한 도구",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다...."
+    },
     {
       "company": "OpenAI",
       "title": "삼성전자, 직원들에게 ChatGPT와 Codex 제공",
       "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "date": "Sun, 21 Jun 2026 23:00:00 GMT",
       "summary": "삼성전자는 전 세계 직원들에게 ChatGPT Enterprise와 Codex를 배포하여 OpenAI의 최대 규모의 엔터프라이즈 AI 출시 중 하나를 기록했습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "기업을 위한 새로운 사용량 분석 및 업데이트된 지출 관리",
-      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "date": "Thu, 18 Jun 2026 17:00:00 GMT",
-      "summary": "OpenAI는 ChatGPT Enterprise에 대한 새로운 지출 제어 및 사용 분석을 도입하여 조직이 자신 있게 비용을 관리하고 AI를 확장할 수 있도록 돕습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT의 건강 인텔리전스 개선",
-      "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "date": "Thu, 18 Jun 2026 11:00:00 GMT",
-      "summary": "GPT-5.5 Instant가 더 강력한 추론, 더 나은 상황, 더 명확한 의사소통, 의사 정보 평가를 통해 ChatGPT의 건강 및 웰니스 응답을 어떻게 개선하는지 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -55,7 +55,7 @@
       "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 이동했습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반을 둔 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "세상을 담아보세요: 규모에 맞게 검색 가능한 항공 이미지를 위한 멀티모달 AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
+      "date": "Mon, 22 Jun 2026 16:32:15 +0000",
+      "summary": "이 게시물에서는 문제 공간, Amazon Bedrock 및 Amazon OpenSearch Serverless의 아키텍처, OpenStreetMap Ground Truth를 기반으로 구축한 평가 방법론, 네 가지 실험을 살펴봅니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker AI 처리 작업에서 ComfyUI 워크플로 실행",
+      "link": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
+      "date": "Mon, 22 Jun 2026 16:28:46 +0000",
+      "summary": "이 게시물에서는 Amazon SageMaker AI 처리 작업에 ComfyUI 워크플로를 배포하여 단일 배치로 수백 개의 고품질 이미지를 생성하는 방법을 안내합니다. IFR을 설정하는 방법을 배웁니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock AgentCore의 웹 검색 소개",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
       "date": "Fri, 19 Jun 2026 14:15:24 +0000",
       "summary": "이제 Amazon Bedrock AgentCore의 웹 검색이 정식 출시되었습니다. 이 게시물에서는 Amazon Bedrock AgentCore의 웹 검색이 다른 점과 그것이 중요한 이유, 그리고 이를 연결하는 방법을 살펴보겠습니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Quick용 Adobe Marketing Agent의 통찰력으로 캠페인 워크플로우 가속화",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
-      "date": "Fri, 19 Jun 2026 14:05:04 +0000",
-      "summary": "이 게시물에서는 MCP(Model Context Protocol)를 사용하여 Amazon Quick용 Adobe Marketing Agent를 활성화하는 방법을 보여줍니다. 통합을 구성하고 Adobe 자격 증명을 사용하여 인증하는 방법을 안내합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "CloudWatch의 SageMaker 세부 지표 및 Insights 대시보드를 사용하여 생성적 AI 추론을 모니터링하고 디버깅합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
-      "date": "Thu, 18 Jun 2026 23:31:58 +0000",
-      "summary": "Amazon SageMaker AI는 기계 학습 모델을 위한 완전관리형 실시간 추론 호스팅을 제공합니다. 하나 이상의 컴퓨팅 인스턴스가 지원되는 SageMaker 엔드포인트에 모델을 배포하고 SageMaker ha..."
+      "company": "Hugging Face",
+      "title": "포옹 얼굴의 PP-OCRv6: 1.5M에서 34.5M까지 50개 언어 OCR",
+      "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "date": "Mon, 22 Jun 2026 13:18:56 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -96,13 +103,6 @@
       "company": "Hugging Face",
       "title": "LoRA를 넘어서: 가장 인기 있는 미세 조정 기술을 이길 수 있습니까?",
       "link": "https://huggingface.co/blog/peft-beyond-lora",
-      "date": "Thu, 18 Jun 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "충분히 에이전트적인가요? 자체 툴링에서 개방형 모델 벤치마킹",
-      "link": "https://huggingface.co/blog/is-it-agentic-enough",
       "date": "Thu, 18 Jun 2026 00:00:00 GMT",
       "summary": "..."
     }
