@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-22 07:20:03 (KST)",
+  "updated_at": "2026-06-22 09:19:21 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "삼성전자, 직원들에게 ChatGPT와 Codex 제공",
+      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "date": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "summary": "삼성전자는 전 세계 직원들에게 ChatGPT Enterprise와 Codex를 배포하여 OpenAI의 최대 규모의 엔터프라이즈 AI 출시 중 하나를 기록했습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "기업을 위한 새로운 사용량 분석 및 업데이트된 지출 관리",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "date": "Thu, 18 Jun 2026 11:00:00 GMT",
       "summary": "GPT-5.5 Instant가 더 강력한 추론, 더 나은 상황, 더 명확한 의사소통, 의사 정보 평가를 통해 ChatGPT의 건강 및 웰니스 응답을 어떻게 개선하는지 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "의사가 어린이에게 영향을 미치는 희귀 유전병을 진단하는 데 AI를 사용",
-      "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "date": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "summary": "연구원들은 OpenAI 추론 모델을 사용하여 희귀 질환 진단을 돕고 이전에 해결되지 않은 사례에서 18개의 새로운 진단을 식별했습니다...."
     },
     {
       "company": "Google AI",
