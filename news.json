@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-06-24 00:58:16 (KST)",
+  "updated_at": "2026-06-24 03:07:56 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "GPT-5가 면역학자인 Derya Unutmaz가 3년 된 수수께끼를 풀도록 도운 방법",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "date": "Tue, 23 Jun 2026 17:00:00 GMT",
+      "summary": "GPT-5 Pro는 T 세포 행동에 대한 통찰력을 제공하여 3년간의 면역학 미스터리를 해결하는 데 도움을 주었습니다. 이 획기적인 발전은 암과 자가면역 연구를 지원할 수 있습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Omio가 대화형 여행의 미래를 구축하는 방법",
       "link": "https://openai.com/index/omio",
       "date": "Tue, 23 Jun 2026 00:00:00 GMT",
       "summary": "Omio가 OpenAI를 사용하여 대화형 여행 경험을 강화하고 제품 개발을 가속화하며 AI 기반 회사로 변모하는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Daybreak: 전 세계 모든 조직의 보안을 위한 도구",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
-      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다...."
     },
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore를 사용하여 단백질 연구 부조종사 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/",
+      "date": "Tue, 23 Jun 2026 16:39:34 +0000",
+      "summary": "이 게시물에서는 구조화된 검색 매개변수를 추출하기 위한 자연어 쿼리 구문 분석, 벡터 유사성이라는 세 가지 기능을 결합한 대화형 단백질 연구 보조 도구를 구축하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "공유 인프라, 격리된 테넌트: Amazon Bedrock AgentCore를 사용한 풀 모델 다중 테넌시",
       "link": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
       "date": "Tue, 23 Jun 2026 15:43:59 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
       "date": "Mon, 22 Jun 2026 17:53:40 +0000",
       "summary": "이 게시물에서는 Ampersend가 Amazon Bedrock AgentCore Payments 위에 지능당 지불 라우팅 계층을 구축한 방법에 대해 알아봅니다. AI 에이전트는 자동으로 작업을 가장 효과적인 모델인 Pay p로 라우팅합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "세상을 담아보세요: 규모에 맞게 검색 가능한 항공 이미지를 위한 멀티모달 AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
-      "date": "Mon, 22 Jun 2026 16:32:15 +0000",
-      "summary": "이 게시물에서는 문제 공간, Amazon Bedrock 및 Amazon OpenSearch Serverless의 아키텍처, OpenStreetMap Ground Truth를 기반으로 구축한 평가 방법론, 네 가지 실험을 살펴봅니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,9 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "포옹 얼굴의 PP-OCRv6: 1.5M에서 34.5M까지 50개 언어 OCR",
-      "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "date": "Mon, 22 Jun 2026 13:18:56 GMT",
+      "title": "Transformers.js에서 제안된 Cross-Origin Storage API 실험",
+      "link": "https://huggingface.co/blog/cross-origin-storage",
+      "date": "Tue, 23 Jun 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
