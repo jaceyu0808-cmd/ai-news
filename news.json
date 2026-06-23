@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-06-23 08:27:15 (KST)",
+  "updated_at": "2026-06-23 13:14:28 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "Daybreak: 전 세계 모든 조직의 보안을 위한 도구",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
-      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다...."
-    },
     {
       "company": "OpenAI",
       "title": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
       "link": "https://openai.com/index/patch-the-planet",
       "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 돕는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다...."
+      "summary": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 지원하는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Daybreak: 전 세계 모든 조직의 보안을 유지하기 위한 도구",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다...."
     },
     {
       "company": "OpenAI",
@@ -69,7 +69,7 @@
       "title": "AI 에이전트를 위한 지능당 지불 구축: Ampersend가 Amazon Bedrock AgentCore 결제를 사용하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
       "date": "Mon, 22 Jun 2026 17:53:40 +0000",
-      "summary": "이 게시물에서는 Ampersend가 Amazon Bedrock AgentCore Payments 위에 지능당 지불 라우팅 계층을 구축한 방법에 대해 알아봅니다. AI 에이전트는 자동으로 작업을 가장 효과적인 모델인 Pay p로 라우팅합니다...."
+      "summary": "이 게시물에서는 Ampersend가 Amazon Bedrock AgentCore Payments 위에 지능당 지불 라우팅 계층을 구축한 방법에 대해 알아봅니다. AI 에이전트는 작업을 가장 효과적인 모델인 Pay p로 자동 라우팅합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "mosaicLeaks: 연구 대리인이 비밀을 지킬 수 있나요?",
+      "title": "모자이크리크스(MosaicLeaks): 연구 대리인이 비밀을 지킬 수 있나요?",
       "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
       "date": "Thu, 18 Jun 2026 18:13:13 GMT",
       "summary": "..."
