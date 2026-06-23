@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-23 13:14:28 (KST)",
+  "updated_at": "2026-06-23 17:33:50 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
-      "link": "https://openai.com/index/patch-the-planet",
-      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 지원하는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다...."
+      "title": "Omio가 대화형 여행의 미래를 구축하는 방법",
+      "link": "https://openai.com/index/omio",
+      "date": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "summary": "Omio가 OpenAI를 사용하여 대화형 여행 경험을 강화하고 제품 개발을 가속화하며 AI 기반 회사로 변모하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "장기 실행 작업을 위한 Codex-maxxing",
-      "link": "https://openai.com/index/codex-maxxing-long-running-work",
-      "date": "Mon, 22 Jun 2026 00:00:00 GMT",
-      "summary": "Jason Liu가 Codex를 사용하여 컨텍스트를 보존하고, 복잡한 프로젝트를 관리하고, 단일 프롬프트를 넘어 작업을 계속하도록 돕는 방법을 알아보세요...."
+      "title": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
+      "link": "https://openai.com/index/patch-the-planet",
+      "date": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 지원하는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다...."
     },
     {
       "company": "Google AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "AI, 개방형 도구, 인간이 루프에 참여하는 Huggingface_hub를 매주 배송합니다.",
+      "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "date": "Tue, 23 Jun 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "포옹 얼굴의 PP-OCRv6: 1.5M에서 34.5M까지 50개 언어 OCR",
       "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
       "date": "Mon, 22 Jun 2026 13:18:56 GMT",
@@ -94,16 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "모자이크리크스(MosaicLeaks): 연구 대리인이 비밀을 지킬 수 있나요?",
-      "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "date": "Thu, 18 Jun 2026 18:13:13 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "LoRA를 넘어서: 가장 인기 있는 미세 조정 기술을 이길 수 있습니까?",
-      "link": "https://huggingface.co/blog/peft-beyond-lora",
-      "date": "Thu, 18 Jun 2026 00:00:00 GMT",
+      "title": "OpenClaw 저장소를 무료로 선별할 수 있는 현지 모델이 있습니다!*",
+      "link": "https://huggingface.co/blog/local-models-pr-triage",
+      "date": "Mon, 22 Jun 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
