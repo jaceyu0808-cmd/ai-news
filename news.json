@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23 21:12:13 (KST)",
+  "updated_at": "2026-06-24 00:58:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "공유 인프라, 격리된 테넌트: Amazon Bedrock AgentCore를 사용한 풀 모델 다중 테넌시",
+      "link": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
+      "date": "Tue, 23 Jun 2026 15:43:59 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock AgentCore를 사용하여 프로덕션에 즉시 사용 가능한 다중 테넌트 시스템을 구현하기 위한 패턴을 알아봅니다. 의료 AI 에이전트를 통해 이러한 패턴을 확인할 수 있습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "AI 에이전트를 위한 지능당 지불 구축: Ampersend가 Amazon Bedrock AgentCore 결제를 사용하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
       "date": "Mon, 22 Jun 2026 17:53:40 +0000",
@@ -79,11 +86,11 @@
       "summary": "이 게시물에서는 문제 공간, Amazon Bedrock 및 Amazon OpenSearch Serverless의 아키텍처, OpenStreetMap Ground Truth를 기반으로 구축한 평가 방법론, 네 가지 실험을 살펴봅니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI 처리 작업에서 ComfyUI 워크플로 실행",
-      "link": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
-      "date": "Mon, 22 Jun 2026 16:28:46 +0000",
-      "summary": "이 게시물에서는 Amazon SageMaker AI 처리 작업에 ComfyUI 워크플로를 배포하여 단일 배치로 수백 개의 고품질 이미지를 생성하는 방법을 안내합니다. IFR을 설정하는 방법을 배웁니다...."
+      "company": "Hugging Face",
+      "title": "CUGA를 사용하여 실제 에이전트 앱 구축: 경량 하네스에 대한 24개의 작업 예제",
+      "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "date": "Tue, 23 Jun 2026 12:51:55 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "포옹 얼굴의 PP-OCRv6: 1.5M에서 34.5M까지 50개 언어 OCR",
       "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
       "date": "Mon, 22 Jun 2026 13:18:56 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "OpenClaw 저장소를 무료로 선별할 수 있는 현지 모델이 있습니다!*",
-      "link": "https://huggingface.co/blog/local-models-pr-triage",
-      "date": "Mon, 22 Jun 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
