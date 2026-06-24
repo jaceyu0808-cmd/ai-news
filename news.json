@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25 06:43:38 (KST)",
+  "updated_at": "2026-06-25 08:14:33 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통찰력에서 실행까지: 에이전트 클라우드 운영의 다음 단계",
-      "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-      "date": "Tue, 23 Jun 2026 15:45:00 +0000",
-      "summary": "<p>클라우드 환경이 시스템이 이미 다음 단계의 결정을 진행하면서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Azure Storage를 사용하여 데이터 현대화: 자신 있게 계획하고 마이그레이션하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
       "date": "Tue, 16 Jun 2026 16:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
       "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 이동했습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "현재 Microsoft Foundry에서 Claude Fable 5 사용 가능: 차세대 자율 에이전트 지원",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "date": "Tue, 09 Jun 2026 17:00:00 +0000",
+      "summary": "<p>Anthropic의 최신 Frontier 모델인 Claude Fable 5는 현재 Microsoft Foundry에서 사용할 수 있으며 GitHub Copilot 및 Foundry Agent Service의 에이전트를 지원합니다.</p>\n<p>게시물 <a href=\"https://azure.microsof..."
     },
     {
       "company": "AWS Machine Learning",
