@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25 04:59:27 (KST)",
+  "updated_at": "2026-06-25 06:43:38 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "통찰력에서 실행까지: 에이전트 클라우드 운영의 다음 단계",
       "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
       "date": "Tue, 23 Jun 2026 15:45:00 +0000",
-      "summary": "<p>클라우드 환경이 시스템이 이미 다음 결정을 진행하고 있는 상황에서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
+      "summary": "<p>클라우드 환경이 시스템이 이미 다음 단계의 결정을 진행하면서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
     },
     {
       "company": "Microsoft Azure AI",
