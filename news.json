@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24 23:49:24 (KST)",
+  "updated_at": "2026-06-25 02:11:33 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "통찰력에서 실행까지: 에이전트 클라우드 운영의 다음 단계",
+      "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
+      "date": "Tue, 23 Jun 2026 15:45:00 +0000",
+      "summary": "<p>클라우드 환경이 시스템이 이미 다음 결정을 진행하고 있는 상황에서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure Storage를 사용하여 데이터 현대화: 자신 있게 계획하고 마이그레이션하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
       "date": "Tue, 16 Jun 2026 16:00:00 +0000",
@@ -58,11 +65,11 @@
       "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "현재 Microsoft Foundry에서 Claude Fable 5 사용 가능: 차세대 자율 에이전트 지원",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
-      "date": "Tue, 09 Jun 2026 17:00:00 +0000",
-      "summary": "<p>Anthropic의 최신 Frontier 모델인 Claude Fable 5는 현재 Microsoft Foundry에서 사용할 수 있으며 GitHub Copilot 및 Foundry Agent Service의 에이전트를 지원합니다.</p>\n<p>게시물 <a href=\"https://azure.microsof..."
+      "company": "AWS Machine Learning",
+      "title": "Loka가 Amazon Nova 2 Sonic을 사용하여 지연 시간이 짧은 자연적인 음성 에이전트를 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/",
+      "date": "Wed, 24 Jun 2026 16:56:24 +0000",
+      "summary": "이 게시물에서는 고객이 전화를 끊게 만들고 브랜드 평판을 손상시키며 운전을 방해하는 로봇식의 느린 음성 비서와 같은 일반적인 불만 사항을 해결하는 데 Loka가 사용한 아키텍처와 접근 방식을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,31 +86,24 @@
       "summary": "이 게시물에서는 Amazon Bedrock AgentCore를 사용하여 프로덕션에 즉시 사용 가능한 다중 테넌트 시스템을 구현하기 위한 패턴을 알아봅니다. 의료 AI 에이전트를 통해 이러한 패턴을 확인할 수 있습니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "AI 에이전트를 위한 지능당 지불 구축: Ampersend가 Amazon Bedrock AgentCore 결제를 사용하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/",
-      "date": "Mon, 22 Jun 2026 17:53:40 +0000",
-      "summary": "이 게시물에서는 Ampersend가 Amazon Bedrock AgentCore Payments 위에 지능당 지불 라우팅 계층을 구축한 방법에 대해 알아봅니다. AI 에이전트는 자동으로 작업을 가장 효과적인 모델인 Pay p로 라우팅합니다...."
+      "company": "Hugging Face",
+      "title": "NVIDIA NeMo AutoModel을 통한 Transformer 미세 조정 가속화",
+      "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "date": "Wed, 24 Jun 2026 16:00:13 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "FFASR 리더보드 소개: 실제 세계에서 ASR 벤치마킹",
+      "link": "https://huggingface.co/blog/ffasr-leaderboard",
+      "date": "Wed, 24 Jun 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
       "title": "CUGA를 사용하여 실제 에이전트 앱 구축: 경량 하네스에 대한 24개의 작업 예제",
       "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
       "date": "Tue, 23 Jun 2026 12:51:55 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "AI, 개방형 도구, 인간이 루프에 참여하는 Huggingface_hub를 매주 배송합니다.",
-      "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "date": "Tue, 23 Jun 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Transformers.js에서 제안된 Cross-Origin Storage API 실험",
-      "link": "https://huggingface.co/blog/cross-origin-storage",
-      "date": "Tue, 23 Jun 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
