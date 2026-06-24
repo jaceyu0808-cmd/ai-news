@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25 02:11:33 (KST)",
+  "updated_at": "2026-06-25 04:59:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -62,28 +62,28 @@
       "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 이동했습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Loka가 Amazon Nova 2 Sonic을 사용하여 지연 시간이 짧은 자연적인 음성 에이전트를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-loka-built-a-natural-low-latency-voice-agent-with-amazon-nova-2-sonic/",
-      "date": "Wed, 24 Jun 2026 16:56:24 +0000",
-      "summary": "이 게시물에서는 고객이 전화를 끊게 만들고 브랜드 평판을 손상시키며 운전을 방해하는 로봇식의 느린 음성 비서와 같은 일반적인 불만 사항을 해결하는 데 Loka가 사용한 아키텍처와 접근 방식을 보여줍니다...."
+      "title": "Huntington Bank: AWS를 사용하여 4억 개 이상의 문서에서 민감한 데이터 수정",
+      "link": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
+      "date": "Wed, 24 Jun 2026 18:24:50 +0000",
+      "summary": "이 게시물에서는 Huntington이 4억 개가 넘는 문서에서 개인 식별 정보(PII) 및 결제 카드 산업(PCI) 데이터를 탐지하고 수정하기 위해 확장 가능한 AWS 솔루션을 구축한 방법을 안내합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore를 사용하여 단백질 연구 부조종사 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/",
-      "date": "Tue, 23 Jun 2026 16:39:34 +0000",
-      "summary": "이 게시물에서는 구조화된 검색 매개변수를 추출하기 위한 자연어 쿼리 구문 분석, 벡터 유사성이라는 세 가지 기능을 결합한 대화형 단백질 연구 보조 도구를 구축하는 방법을 보여줍니다...."
+      "title": "Amazon Nova 2 Sonic을 사용하여 의료 약속 에이전트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
+      "date": "Wed, 24 Jun 2026 18:20:27 +0000",
+      "summary": "이 게시물에서는 Amazon Nova 2 Sonic 및 Amazon Bedrock AgentCore를 사용하여 약속 알림 대화를 처리하는 음성 에이전트를 구축하는 방법을 알아봅니다. 상담원이 음성으로 환자를 인증합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "공유 인프라, 격리된 테넌트: Amazon Bedrock AgentCore를 사용한 풀 모델 다중 테넌시",
-      "link": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
-      "date": "Tue, 23 Jun 2026 15:43:59 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock AgentCore를 사용하여 프로덕션에 즉시 사용 가능한 다중 테넌트 시스템을 구현하기 위한 패턴을 알아봅니다. 의료 AI 에이전트를 통해 이러한 패턴을 확인할 수 있습니다...."
+      "title": "Snowflake 및 Amazon Quick을 사용한 AI 기반 BI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick/",
+      "date": "Wed, 24 Jun 2026 18:19:35 +0000",
+      "summary": "이 게시물에서는 Snowflake 의미 체계 보기와 Amazon Quick 간의 엔드투엔드 통합을 구축하는 방법을 알아봅니다. 샘플 데이터는 미디어 회사의 사용자 리뷰 데이터입니다. mov를 로드하는 것으로 시작합니다...."
     },
     {
       "company": "Hugging Face",
