@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 05:16:04 (KST)",
+  "updated_at": "2026-06-26 07:26:52 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "고급 AI에 대한 공유 표준 구축 지원",
       "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "date": "Tue, 23 Jun 2026 13:00:00 GMT",
-      "summary": "OpenAI는 고급 AI에 대한 공유 표준을 구축하고 Appia Foundation을 통해 평가 프레임워크, 안전 관행 및 글로벌 협력을 지원합니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Google AI",
@@ -34,7 +34,7 @@
       "title": "새로운 연구에 따르면 당사의 의료 AI인 AMIE가 건강 상태 관리에 어떻게 도움이 될 수 있는지 보여줍니다.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "date": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\" />'Nature'의 연구에 따르면 대화형 AI 시스템이 일치하는 것으로 나타났습니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Google AI",
@@ -52,17 +52,17 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure Storage를 사용하여 데이터 현대화: 자신 있게 계획하고 마이그레이션하세요.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
       "date": "Tue, 16 Jun 2026 16:00:00 +0000",
       "summary": "<p>엔터프라이즈 스토리지 마이그레이션이 단지 데이터 복사에 관한 것만은 아닙니다. 이는 비즈니스 연속성을 보호하고, 성능을 유지하고, 비용을 관리하고, 테라바이트 규모의 데이터가 부족할 때 팀에 자신감을 주는 것입니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 이동했습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "하나의 명령으로 HF 작업에서 vLLM 서버 실행",
+      "link": "https://huggingface.co/blog/vllm-jobs",
+      "date": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "하이브리드 모델은 어떤 토큰을 더 잘 예측합니까?",
       "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
       "date": "Thu, 25 Jun 2026 16:11:42 GMT",
@@ -97,13 +104,6 @@
       "title": "NVIDIA NeMo AutoModel을 통한 Transformer 미세 조정 가속화",
       "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
       "date": "Wed, 24 Jun 2026 16:00:13 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "FFASR 리더보드 소개: 실제 세계에서 ASR 벤치마킹",
-      "link": "https://huggingface.co/blog/ffasr-leaderboard",
-      "date": "Wed, 24 Jun 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
