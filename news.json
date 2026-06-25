@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25 23:52:42 (KST)",
+  "updated_at": "2026-06-26 02:20:06 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "새로운 앱을 포함한 최신 Google Finance 업그레이드",
+      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "date": "Thu, 25 Jun 2026 16:00:00 +0000",
+      "summary": "사용자 인터페이스 요소로 둘러싸인 Google Finance 로고..."
+    },
+    {
+      "company": "Google AI",
       "title": "새로운 연구에 따르면 당사의 의료 AI인 AMIE가 건강 상태 관리에 어떻게 도움이 될 수 있는지 보여줍니다.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "date": "Wed, 17 Jun 2026 15:00:00 +0000",
@@ -37,18 +44,11 @@
       "summary": "Google은 앨라배마주 잭슨 카운티의 데이터 센터 캠퍼스를 확장하기 위해 2026년과 2027년에 15억 달러를 투자한다고 발표했습니다. 2019년부터 용도가 변경된 이전 모델로 운영 중…..."
     },
     {
-      "company": "Google AI",
-      "title": "버지니아에 대한 우리의 새로운 지역 사회 투자는 지역 일자리를 지원하고 에너지 경제성을 확대합니다.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "date": "Thu, 11 Jun 2026 20:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />우리는 주의 차세대 인력 구축을 돕고 에너지에 투자하고 있습니다...."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "통찰력에서 실행까지: 에이전트 클라우드 운영의 다음 단계",
       "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
       "date": "Tue, 23 Jun 2026 15:45:00 +0000",
-      "summary": "<p>클라우드 환경이 시스템이 이미 다음 결정을 진행하고 있는 상황에서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
+      "summary": "<p>클라우드 환경이 시스템이 이미 다음 단계의 결정을 진행하면서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Huntington Bank: AWS를 사용하여 4억 개 이상의 문서에서 민감한 데이터 수정",
-      "link": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
-      "date": "Wed, 24 Jun 2026 18:24:50 +0000",
-      "summary": "이 게시물에서는 Huntington이 4억 개가 넘는 문서에서 개인 식별 정보(PII) 및 결제 카드 산업(PCI) 데이터를 탐지하고 수정하기 위해 확장 가능한 AWS 솔루션을 구축한 방법을 안내합니다...."
+      "title": "NVIDIA Blackwell을 사용하여 Amazon SageMaker AI에서 모델 훈련 최적화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/",
+      "date": "Thu, 25 Jun 2026 16:41:47 +0000",
+      "summary": "이 게시물에서는 AWS에서 Blackwell의 아키텍처를 최대한 활용하기 위해 Amazon SageMaker AI에서 훈련 작업을 구성하는 방법을 보여줍니다. 사전에 필요한 배치 크기와 시퀀스 길이를 선택하는 방법을 알아봅니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Nova 2 Sonic을 사용하여 의료 약속 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-healthcare-appointment-agent-with-amazon-nova-2-sonic/",
-      "date": "Wed, 24 Jun 2026 18:20:27 +0000",
-      "summary": "이 게시물에서는 Amazon Nova 2 Sonic 및 Amazon Bedrock AgentCore를 사용하여 약속 알림 대화를 처리하는 음성 에이전트를 구축하는 방법을 알아봅니다. 상담원이 음성으로 환자를 인증합니다...."
+      "title": "Amazon SageMaker AI에 SeedVR2를 배포하여 초해상도 구현",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai/",
+      "date": "Thu, 25 Jun 2026 16:40:13 +0000",
+      "summary": "이 게시물에서는 SageMaker AI에서 SeedVR2를 사용하여 비디오 업스케일링을 구현하는 방법을 보여줍니다. 솔루션 아키텍처를 다루고 배포 단계를 안내하며 다음과 같은 성능 비교를 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Snowflake 및 Amazon Quick을 사용한 AI 기반 BI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-bi-with-snowflake-and-amazon-quick/",
-      "date": "Wed, 24 Jun 2026 18:19:35 +0000",
-      "summary": "이 게시물에서는 Snowflake 의미 체계 보기와 Amazon Quick 간의 엔드투엔드 통합을 구축하는 방법을 알아봅니다. 샘플 데이터는 미디어 회사의 사용자 리뷰 데이터입니다. mov를 로드하는 것으로 시작합니다...."
+      "title": "Amazon Bedrock에서 지원하는 AI 에이전트를 통해 셀프 서비스 AWS 상태 분석을 구축하여 실행 가능한 건강 통찰력을 찾습니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
+      "date": "Thu, 25 Jun 2026 16:38:12 +0000",
+      "summary": "이 게시물에서는 MCP(Model Context Protocol)를 통해 노출된 AI 에이전트를 사용하는 오픈 소스 솔루션인 Chaplin(Customer Health 및 Planned Lifecycle Intelligence Nexus)을 구축하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "하이브리드 모델은 어떤 토큰을 더 잘 예측합니까?",
+      "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "date": "Thu, 25 Jun 2026 16:11:42 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "FFASR 리더보드 소개: 실제 세계에서 ASR 벤치마킹",
       "link": "https://huggingface.co/blog/ffasr-leaderboard",
       "date": "Wed, 24 Jun 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "CUGA를 사용하여 실제 에이전트 앱 구축: 경량 하네스에 대한 24개의 작업 예제",
-      "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "date": "Tue, 23 Jun 2026 12:51:55 GMT",
       "summary": "..."
     }
   ]
