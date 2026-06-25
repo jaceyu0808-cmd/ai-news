@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-25 17:28:42 (KST)",
+  "updated_at": "2026-06-25 20:46:35 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "상담원이 업무를 혁신하는 방법",
+      "link": "https://openai.com/index/how-agents-are-transforming-work",
+      "date": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "summary": "새로운 OpenAI 연구 논문은 AI 에이전트가 업무를 어떻게 변화시켜 더 길고 복잡한 작업을 가능하게 하며 역할 전반에 걸쳐 생산성을 확대하는지 보여줍니다...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI와 Broadcom, LLM에 최적화된 추론 칩 공개",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "date": "Tue, 23 Jun 2026 13:00:00 GMT",
       "summary": "OpenAI는 고급 AI에 대한 공유 표준을 구축하고 Appia Foundation을 통해 평가 프레임워크, 안전 관행 및 글로벌 협력을 지원합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5가 면역학자인 Derya Unutmaz가 3년 된 수수께끼를 풀도록 도운 방법",
-      "link": "https://openai.com/index/gpt-5-immunology-mystery",
-      "date": "Tue, 23 Jun 2026 17:00:00 GMT",
-      "summary": "GPT-5 Pro는 T 세포 행동에 대한 통찰력을 제공하여 3년간의 면역학 미스터리를 해결하는 데 도움을 주었습니다. 이 획기적인 발전은 암과 자가면역 연구를 지원할 수 있습니다...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "통찰력에서 실행까지: 에이전트 클라우드 운영의 다음 단계",
+      "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
+      "date": "Tue, 23 Jun 2026 15:45:00 +0000",
+      "summary": "<p>클라우드 환경이 시스템이 이미 다음 결정을 진행하고 있는 상황에서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure Storage를 사용하여 데이터 현대화: 자신 있게 계획하고 마이그레이션하세요.",
       "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
       "date": "Tue, 16 Jun 2026 16:00:00 +0000",
@@ -55,14 +62,7 @@
       "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반을 둔 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "현재 Microsoft Foundry에서 Claude Fable 5 사용 가능: 차세대 자율 에이전트 지원",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
-      "date": "Tue, 09 Jun 2026 17:00:00 +0000",
-      "summary": "<p>Anthropic의 최신 Frontier 모델인 Claude Fable 5는 현재 Microsoft Foundry에서 사용할 수 있으며 GitHub Copilot 및 Foundry Agent Service의 에이전트를 지원합니다.</p>\n<p>게시물 <a href=\"https://azure.microsof..."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
     },
     {
       "company": "AWS Machine Learning",
