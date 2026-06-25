@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 02:20:06 (KST)",
+  "updated_at": "2026-06-26 05:16:04 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "통찰력에서 실행까지: 에이전트 클라우드 운영의 다음 단계",
       "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
       "date": "Tue, 23 Jun 2026 15:45:00 +0000",
-      "summary": "<p>클라우드 환경이 시스템이 이미 다음 단계의 결정을 진행하면서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
+      "summary": "<p>클라우드 환경이 시스템이 이미 다음 결정을 진행하고 있는 상황에서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -62,7 +62,14 @@
       "title": "리더들이 Microsoft Build 2026에서 알아야 할 3가지",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
       "date": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 이동했습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+      "summary": "<p>Microsoft Build 2026에서 AI는 실험에서 실행으로 전환되었습니다. 즉, 격리된 도구에서 비즈니스 데이터에 기반한 연결된 시스템으로 전환되었습니다. 승리하는 조직은 워크플로 전반에 AI를 내장하게 됩니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "재구축이 아닌 개조: 레거시 엔터프라이즈 서비스 변환을 위한 에이전트 기반 오버레이",
+      "link": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+      "date": "Thu, 25 Jun 2026 17:55:10 +0000",
+      "summary": "AWS와 작성자 간의 기술 협력에서 우리는 에이전트 오버레이라는 실용적인 솔루션을 제시합니다. 에이전트 오버레이는 기존 REST 기반 서비스를 변환하는 얇은 래퍼 레이어입니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai/",
       "date": "Thu, 25 Jun 2026 16:40:13 +0000",
       "summary": "이 게시물에서는 SageMaker AI에서 SeedVR2를 사용하여 비디오 업스케일링을 구현하는 방법을 보여줍니다. 솔루션 아키텍처를 다루고 배포 단계를 안내하며 다음과 같은 성능 비교를 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock에서 지원하는 AI 에이전트를 통해 셀프 서비스 AWS 상태 분석을 구축하여 실행 가능한 건강 통찰력을 찾습니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/",
-      "date": "Thu, 25 Jun 2026 16:38:12 +0000",
-      "summary": "이 게시물에서는 MCP(Model Context Protocol)를 통해 노출된 AI 에이전트를 사용하는 오픈 소스 솔루션인 Chaplin(Customer Health 및 Planned Lifecycle Intelligence Nexus)을 구축하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
