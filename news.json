@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-06-27 00:28:54 (KST)",
+  "updated_at": "2026-06-27 02:58:35 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "How agents are transforming work",
-      "link": "https://openai.com/index/how-agents-are-transforming-work",
-      "date": "Thu, 25 Jun 2026 02:00:00 GMT",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles...."
+      "title": "GPT-5.6 Sol 미리보기: 차세대 모델",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "date": "Fri, 26 Jun 2026 10:00:00 GMT",
+      "summary": "OpenAI는 코딩, 과학, 사이버 보안 분야에서 더욱 강력한 기능과 가장 진보된 안전 스택을 결합한 차세대 모델인 GPT-5.6 Sol을 미리 선보입니다...."
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "title": "상담원이 업무를 혁신하는 방법",
+      "link": "https://openai.com/index/how-agents-are-transforming-work",
+      "date": "Thu, 25 Jun 2026 02:00:00 GMT",
+      "summary": "새로운 OpenAI 연구 논문은 AI 에이전트가 업무를 어떻게 변화시켜 더 길고 복잡한 작업을 가능하게 하며 역할 전반에 걸쳐 생산성을 확대하는지 보여줍니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI와 Broadcom, LLM에 최적화된 추론 칩 공개",
       "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "date": "Wed, 24 Jun 2026 06:00:00 GMT",
       "summary": "OpenAI와 Broadcom은 AI 시스템 전반에서 성능, 효율성 및 확장성을 개선하기 위해 LLM 추론용으로 제작된 맞춤형 AI 칩인 Jalapeño를 출시합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "고급 AI에 대한 공유 표준 구축 지원",
-      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "date": "Tue, 23 Jun 2026 13:00:00 GMT",
-      "summary": "OpenAI는 고급 AI에 대한 공유 표준을 구축하고 Appia Foundation을 통해 평가 프레임워크, 안전 관행 및 글로벌 협력을 지원합니다...."
     },
     {
       "company": "Google AI",
