@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 02:58:35 (KST)",
+  "updated_at": "2026-06-27 05:03:54 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "OpenAI와 Broadcom, LLM에 최적화된 추론 칩 공개",
       "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "date": "Wed, 24 Jun 2026 06:00:00 GMT",
-      "summary": "OpenAI와 Broadcom은 AI 시스템 전반에서 성능, 효율성 및 확장성을 개선하기 위해 LLM 추론용으로 제작된 맞춤형 AI 칩인 Jalapeño를 출시합니다...."
+      "summary": "OpenAI와 Broadcom은 AI 시스템 전반에 걸쳐 성능, 효율성 및 확장성을 개선하기 위해 LLM 추론용으로 제작된 맞춤형 AI 칩인 Jalapeño를 출시합니다...."
     },
     {
       "company": "Google AI",
@@ -66,14 +66,14 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon S3에서 대화형 PDF 텍스트 추출 구축",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/",
       "date": "Fri, 26 Jun 2026 14:47:45 +0000",
       "summary": "이 게시물에서는 Amazon S3의 PDF 파일에서 실시간으로 텍스트를 추출하는 서버를 구축합니다. 이 프로토콜 기반 접근 방식은 프로그래밍 방식의 문서 액세스를 제공합니다. 당신은 건축을 따라 걸을 것입니다..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Cara가 AWS를 통해 기업 보험 중개업체를 위한 도메인별 AI를 개척하는 방법",
+      "title": "Cara가 AWS를 통해 기업 보험 중개를 위한 도메인별 AI를 개척하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
       "date": "Fri, 26 Jun 2026 14:42:20 +0000",
       "summary": "이 게시물에서는 AWS와 협력하여 구축된 Cara가 이러한 문제를 어떻게 해결하는지 살펴봅니다. 기술 설계 결정과 솔루션을 지원하는 AWS 서비스를 살펴봅니다. 우리도 샤..."
