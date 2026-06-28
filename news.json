@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29 01:20:24 (KST)",
+  "updated_at": "2026-06-29 03:11:58 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -73,7 +73,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Cara가 AWS를 통해 기업 보험 중개업체를 위한 도메인별 AI를 개척하는 방법",
+      "title": "Cara가 AWS를 통해 기업 보험 중개를 위한 도메인별 AI를 개척하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
       "date": "Fri, 26 Jun 2026 14:42:20 +0000",
       "summary": "이 게시물에서는 AWS와 협력하여 구축된 Cara가 이러한 문제를 어떻게 해결하는지 살펴봅니다. 기술 설계 결정과 솔루션을 지원하는 AWS 서비스를 살펴봅니다. 우리도 샤..."
