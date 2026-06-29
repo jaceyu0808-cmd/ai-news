@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-29 14:58:50 (KST)",
+  "updated_at": "2026-06-29 20:20:39 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "유럽의 AI 인력 기회 매핑",
+      "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "date": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "새로운 OpenAI 보고서는 AI가 EU 전역에서 일자리를 어떻게 재구성할 수 있는지 보여주며 어떤 직업이 자동화, 성장 또는 워크플로 변화에 직면할 수 있는지 강조합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "HP Inc., OpenAI와 Frontier 전략적 파트너십 개시",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/previewing-gpt-5-6-sol",
       "date": "Fri, 26 Jun 2026 10:00:00 GMT",
       "summary": "OpenAI는 코딩, 과학, 사이버 보안 분야에서 더욱 강력한 기능과 가장 진보된 안전 스택을 결합한 차세대 모델인 GPT-5.6 Sol을 미리 선보입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "상담원이 업무를 혁신하는 방법",
-      "link": "https://openai.com/index/how-agents-are-transforming-work",
-      "date": "Thu, 25 Jun 2026 02:00:00 GMT",
-      "summary": "새로운 OpenAI 연구 논문은 AI 에이전트가 업무를 어떻게 변화시켜 더 길고 복잡한 작업을 가능하게 하며 역할 전반에 걸쳐 생산성을 확대하는지 보여줍니다...."
     },
     {
       "company": "Google AI",
@@ -73,7 +73,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Cara가 AWS를 통해 기업 보험 중개업체를 위한 도메인별 AI를 개척하는 방법",
+      "title": "Cara가 AWS를 통해 기업 보험 중개를 위한 도메인별 AI를 개척하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
       "date": "Fri, 26 Jun 2026 14:42:20 +0000",
       "summary": "이 게시물에서는 AWS와 협력하여 구축된 Cara가 이러한 문제를 어떻게 해결하는지 살펴봅니다. 기술 설계 결정과 솔루션을 지원하는 AWS 서비스를 살펴봅니다. 우리도 샤..."
