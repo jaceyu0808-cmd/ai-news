@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29 20:20:39 (KST)",
+  "updated_at": "2026-06-30 01:03:28 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "AI 전문가에게 물어보세요: 풀 스택이란 정확히 무엇입니까?",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "date": "Mon, 29 Jun 2026 16:00:00 +0000",
+      "summary": "어두운 배경을 배경으로 풀스택 AI 인프라를 묘사한 그림..."
+    },
+    {
+      "company": "Google AI",
       "title": "새로운 앱을 포함한 최신 Google Finance 업그레이드",
       "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "date": "Thu, 25 Jun 2026 16:00:00 +0000",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "date": "Wed, 17 Jun 2026 15:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\" />'Nature'의 연구에 따르면 대화형 AI 시스템이 일치하는 것으로 나타났습니다...."
-    },
-    {
-      "company": "Google AI",
-      "title": "우리는 새로운 투자와 지역사회 지원을 통해 앨라배마에서의 입지를 강화하고 있습니다.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "date": "Mon, 15 Jun 2026 15:00:00 +0000",
-      "summary": "Google은 앨라배마주 잭슨 카운티의 데이터 센터 캠퍼스를 확장하기 위해 2026년과 2027년에 15억 달러를 투자한다고 발표했습니다. 2019년부터 용도가 변경된 이전 모델로 운영 중…..."
     },
     {
       "company": "Microsoft Azure AI",
