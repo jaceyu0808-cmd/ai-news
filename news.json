@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-06-29 07:08:44 (KST)",
+  "updated_at": "2026-06-29 09:16:14 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "HP Inc., OpenAI와 Frontier 전략적 파트너십 개시",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "date": "Sun, 28 Jun 2026 17:00:00 GMT",
+      "summary": "HP Inc.는 OpenAI Frontier 파트너십을 확장하여 고객 경험, 소프트웨어 개발, 기업 운영 전반에 걸쳐 AI를 배포합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "GPT-5.6 Sol 미리보기: 차세대 모델",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/how-agents-are-transforming-work",
       "date": "Thu, 25 Jun 2026 02:00:00 GMT",
       "summary": "새로운 OpenAI 연구 논문은 AI 에이전트가 업무를 어떻게 변화시켜 더 길고 복잡한 작업을 가능하게 하며 역할 전반에 걸쳐 생산성을 확대하는지 보여줍니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI와 Broadcom, LLM에 최적화된 추론 칩 공개",
-      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "date": "Wed, 24 Jun 2026 06:00:00 GMT",
-      "summary": "OpenAI와 Broadcom은 AI 시스템 전반에서 성능, 효율성 및 확장성을 개선하기 위해 LLM 추론용으로 제작된 맞춤형 AI 칩인 Jalapeño를 출시합니다...."
     },
     {
       "company": "Google AI",
