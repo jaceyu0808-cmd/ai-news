@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 01:03:28 (KST)",
+  "updated_at": "2026-06-30 04:11:26 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,37 +66,37 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon S3에서 대화형 PDF 텍스트 추출 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/",
-      "date": "Fri, 26 Jun 2026 14:47:45 +0000",
-      "summary": "이 게시물에서는 Amazon S3의 PDF 파일에서 실시간으로 텍스트를 추출하는 서버를 구축합니다. 이 프로토콜 기반 접근 방식은 프로그래밍 방식의 문서 액세스를 제공합니다. 당신은 건축을 따라 걸을 것입니다..."
+      "title": "Amazon Quick Sight BI 자산에 대한 백업 전략 구현",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/",
+      "date": "Mon, 29 Jun 2026 18:15:14 +0000",
+      "summary": "이 게시물에서는 Quick Sight에서 BI 자산에 대한 효과적인 백업 전략을 구현하기 위한 모범 사례를 다룹니다. 먼저 백업에 포함할 자산을 선택하는 옵션부터 살펴보겠습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Cara가 AWS를 통해 기업 보험 중개를 위한 도메인별 AI를 개척하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
-      "date": "Fri, 26 Jun 2026 14:42:20 +0000",
-      "summary": "이 게시물에서는 AWS와 협력하여 구축된 Cara가 이러한 문제를 어떻게 해결하는지 살펴봅니다. 기술 설계 결정과 솔루션을 지원하는 AWS 서비스를 살펴봅니다. 우리도 샤..."
+      "title": "비용 최적화된 문서 처리를 위해 Nova 2 Lite를 Claude와 페어링하세요",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/",
+      "date": "Mon, 29 Jun 2026 17:52:33 +0000",
+      "summary": "이 게시물에서는 Amazon Nova 2 Lite와 Anthropic의 Claude Sonnet 4.6을 결합하여 스캔한 문서를 대규모로 디지털화하기 위한 효율적인 솔루션을 제공하는 방법을 보여줍니다. 우리는 Amazo에 2가지 모델 파이프라인을 구축했습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "금융 규정 준수를 위한 프로덕션 등급 AI 에이전트: Stripe에서 얻은 교훈",
-      "link": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
-      "date": "Fri, 26 Jun 2026 14:38:01 +0000",
-      "summary": "이 게시물에서는 Stripe가 금융 규정 준수를 위해 프로덕션급 AI 에이전트 시스템을 구축한 방법을 알아봅니다. Stripe의 ReAct 에이전트 프레임워크의 기술 아키텍처와 인프라 결정을 다룹니다...."
+      "title": "행 수준 보안을 갖춘 멀티 테넌트 LLM 분석: AWS에서 보안 에이전트를 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
+      "date": "Mon, 29 Jun 2026 17:39:29 +0000",
+      "summary": "이 게시물에서는 PAR이 3계층 아키텍처(AWS를 사용한 암호화 요청 서명)를 통해 행 수준 보안을 시행하는 프로덕션 지원 멀티 테넌트 LLM 분석 시스템을 구축한 방법을 보여줍니다...."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "DiScoFormer: 분포 전반에 걸쳐 밀도 및 점수를 위한 단일 변환기",
+      "link": "https://huggingface.co/blog/allenai/discoformer",
+      "date": "Mon, 29 Jun 2026 18:02:48 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
       "title": "하나의 명령으로 HF 작업에서 vLLM 서버 실행",
       "link": "https://huggingface.co/blog/vllm-jobs",
       "date": "Fri, 26 Jun 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "하이브리드 모델은 어떤 토큰을 더 잘 예측합니까?",
-      "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "date": "Thu, 25 Jun 2026 16:11:42 GMT",
       "summary": "..."
     },
     {
