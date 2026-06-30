@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-06-30 23:36:49 (KST)",
+  "updated_at": "2026-07-01 02:10:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "유럽의 AI 인력 기회 매핑",
-      "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "date": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "새로운 OpenAI 보고서는 AI가 EU 전역에서 일자리를 어떻게 재구성할 수 있는지 보여주며 어떤 직업이 자동화, 성장 또는 워크플로 변화에 직면할 수 있는지 강조합니다...."
+      "title": "ChatGPT 채택이 확장된 방법",
+      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "date": "Tue, 30 Jun 2026 09:00:00 GMT",
+      "summary": "새로운 OpenAI 신호 데이터는 사용자가 사용량을 늘리고 더 많은 기능을 탐색하며 지역과 언어 전반에 걸쳐 성장을 주도하면서 ChatGPT 채택이 전 세계적으로 어떻게 증가하고 있는지 보여줍니다...."
     },
     {
       "company": "OpenAI",
-      "title": "HP Inc., OpenAI와 Frontier 전략적 파트너십 개시",
-      "link": "https://openai.com/index/hp-frontier-partnership",
-      "date": "Sun, 28 Jun 2026 17:00:00 GMT",
-      "summary": "HP Inc.는 OpenAI Frontier 파트너십을 확장하여 고객 경험, 소프트웨어 개발, 기업 운영 전반에 걸쳐 AI를 배포합니다...."
+      "title": "GeneBench-Pro 소개",
+      "link": "https://openai.com/index/introducing-genebench-pro",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "복잡한 실제 데이터 세트를 사용하여 유전체학, 생물학 및 과학 연구에서 AI 성능을 테스트하는 새로운 벤치마크인 GeneBench-Pro를 소개합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "GPT-5.6 Sol 미리보기: 차세대 모델",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "date": "Fri, 26 Jun 2026 10:00:00 GMT",
-      "summary": "OpenAI는 코딩, 과학, 사이버 보안 분야에서 더욱 강력한 기능과 가장 진보된 안전 스택을 결합한 차세대 모델인 GPT-5.6 Sol을 미리 선보입니다...."
+      "title": "코어 덤프 역학: 18년 된 버그 수정",
+      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "OpenAI 엔지니어는 대규모 코어 덤프 분석을 사용하여 드물게 발생하는 인프라 충돌을 디버깅하고 하드웨어 결함과 오랫동안 지속된 소프트웨어 버그를 모두 찾아냈습니다...."
     },
     {
       "company": "Google AI",
@@ -66,45 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Quick Sight BI 자산에 대한 백업 전략 구현",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/",
-      "date": "Mon, 29 Jun 2026 18:15:14 +0000",
-      "summary": "이 게시물에서는 Quick Sight에서 BI 자산에 대한 효과적인 백업 전략을 구현하기 위한 모범 사례를 다룹니다. 먼저 백업에 포함할 자산을 선택하는 옵션부터 살펴보겠습니다...."
+      "title": "AG-UI 프로토콜을 사용하여 Amazon Bedrock AgentCore에서 AI 에이전트용 생성 UI 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/",
+      "date": "Tue, 30 Jun 2026 16:46:17 +0000",
+      "summary": "이 게시물에서는 AG-UI가 Fullstack AgentCore 솔루션 템플릿(FAST)에 통합되어 Amazon Bedrock AgentCore에서 대화형 에이전트 프런트엔드를 구축하는 방법을 안내합니다. 그런 다음 CopilotKit이 어떻게 확장되는지 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "비용 최적화된 문서 처리를 위해 Nova 2 Lite를 Claude와 페어링하세요",
-      "link": "https://aws.amazon.com/blogs/machine-learning/pair-nova-2-lite-with-claude-for-cost-optimized-document-processing/",
-      "date": "Mon, 29 Jun 2026 17:52:33 +0000",
-      "summary": "이 게시물에서는 Amazon Nova 2 Lite와 Anthropic의 Claude Sonnet 4.6을 결합하여 스캔한 문서를 대규모로 디지털화하기 위한 효율적인 솔루션을 제공하는 방법을 보여줍니다. 우리는 Amazo에 2가지 모델 파이프라인을 구축했습니다...."
+      "title": "관리형 권한을 통해 Amazon Bedrock 모델에 대한 다중 계정 액세스를 단순화합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/simplify-multi-account-access-to-amazon-bedrock-models-with-managed-entitlements/",
+      "date": "Tue, 30 Jun 2026 16:42:49 +0000",
+      "summary": "이 게시물에서는 Amazon Bedrock에 대한 관리형 자격을 사용하여 중앙 계정에서 한 번 구독하고 조직 전체에 모델 액세스를 배포하는 방법을 보여줍니다. 이 접근법은 네거티브를 제거합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "행 수준 보안을 갖춘 멀티 테넌트 LLM 분석: AWS에서 보안 에이전트를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
-      "date": "Mon, 29 Jun 2026 17:39:29 +0000",
-      "summary": "이 게시물에서는 PAR이 3계층 아키텍처(AWS를 사용한 암호화 요청 서명)를 통해 행 수준 보안을 시행하는 프로덕션 지원 멀티 테넌트 LLM 분석 시스템을 구축한 방법을 보여줍니다...."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "포옹 얼굴 모델 페이지에 모든 평가 결과 표시",
-      "link": "https://huggingface.co/blog/eee-community-evals",
-      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "DiScoFormer: 분포 전반에 걸쳐 밀도 및 점수를 위한 단일 변환기",
-      "link": "https://huggingface.co/blog/allenai/discoformer",
-      "date": "Mon, 29 Jun 2026 18:02:48 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "하나의 명령으로 HF 작업에서 vLLM 서버 실행",
-      "link": "https://huggingface.co/blog/vllm-jobs",
-      "date": "Fri, 26 Jun 2026 00:00:00 GMT",
-      "summary": "..."
+      "title": "Amazon Bedrock 및 LLM 게이트웨이를 사용하여 복원력 패턴 구현",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/",
+      "date": "Tue, 30 Jun 2026 16:40:47 +0000",
+      "summary": "이 게시물에서는 기본 Amazon Bedrock 기능에서 LLM을 사용한 다중 모델 오케스트레이션으로 진행하면서 AWS에서 탄력적인 생성 AI 애플리케이션을 구축하기 위한 5가지 실용적인 패턴을 배우게 됩니다...."
     }
   ]
 }
