@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 13:18:40 (KST)",
+  "updated_at": "2026-06-30 17:34:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "영국의 차세대 생산성 시대를 열다: AI 선구자의 국가 건설",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "date": "Tue, 30 Jun 2026 06:00:00 +0000",
+      "summary": "과학자, 기술자, 탐험가, 관찰자를 포함하여 다양한 직업적 역할을 나타내는 4명의 일러스트 캐릭터입니다...."
+    },
+    {
+      "company": "Google AI",
       "title": "AI 전문가에게 물어보세요: 풀 스택이란 정확히 무엇입니까?",
       "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "date": "Mon, 29 Jun 2026 16:00:00 +0000",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "date": "Thu, 25 Jun 2026 16:00:00 +0000",
       "summary": "사용자 인터페이스 요소로 둘러싸인 Google Finance 로고..."
-    },
-    {
-      "company": "Google AI",
-      "title": "새로운 연구에 따르면 당사의 의료 AI인 AMIE가 건강 상태 관리에 어떻게 도움이 될 수 있는지 보여줍니다.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "date": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\" />'Nature'의 연구에 따르면 대화형 AI 시스템이 일치하는 것으로 나타났습니다...."
     },
     {
       "company": "Microsoft Azure AI",
