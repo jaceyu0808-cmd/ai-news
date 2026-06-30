@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 02:10:15 (KST)",
+  "updated_at": "2026-07-01 05:09:21 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,31 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "성능 이점: Visual Studio Code에서 직접 Azure의 PostgreSQL 최적화",
-      "link": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-      "date": "Fri, 26 Jun 2026 17:00:00 +0000",
-      "summary": "<p>낮은 데이터베이스 성능은 단순한 데이터베이스 문제가 아닙니다. 엔터프라이즈 팀에서는 SLA 누락, 릴리스 지연, 개발 팀의 좌절, 운영 위험 증가 등으로 나타납니다. 공연하다..."
+      "title": "Microsoft Foundry의 Claude가 이제 일반 공급됩니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+      "date": "Mon, 29 Jun 2026 17:00:00 +0000",
+      "summary": "<p>Microsoft Foundry의 Claude는 이제 정식 출시되어 Azure에서 호스팅되고 NVIDIA GB300 Blackwell Ultra에서 실행되므로 팀이 에이전트 실험에서 프로덕션까지 더 빠른 경로를 제공할 수 있습니다.</p>\n<p>..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통찰력에서 실행까지: 에이전트 클라우드 운영의 다음 단계",
-      "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-      "date": "Tue, 23 Jun 2026 15:45:00 +0000",
-      "summary": "<p>클라우드 환경이 시스템이 이미 다음 단계의 결정을 진행하면서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
+      "title": "2026년 에이전트 신뢰 지수: 300명의 빌더가 실제 추진력을 보는 곳",
+      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
+      "date": "Mon, 29 Jun 2026 15:15:00 +0000",
+      "summary": "<p>Microsoft에서는 신뢰할 수 있는 AI 에이전트를 구축하는 것이 강력한 AI 에이전트를 구축하는 것만큼 중요합니다. 2026 Agent Confidence Index의 새로운 연구는 오늘날 팀이 상담사를 신뢰하는 부분과 인간이 판단하는 이유를 보여줍니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure Storage를 사용하여 데이터 현대화: 자신 있게 계획하고 마이그레이션하세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
-      "date": "Tue, 16 Jun 2026 16:00:00 +0000",
-      "summary": "<p>엔터프라이즈 스토리지 마이그레이션이 단지 데이터 복사에 관한 것만은 아닙니다. 이는 비즈니스 연속성을 보호하고, 성능을 유지하고, 비용을 관리하고, 테라바이트 규모의 데이터가 부족할 때 팀에 자신감을 주는 것입니다...."
+      "title": "Azure Files를 사용하여 최신 Linux 워크로드 가속화",
+      "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+      "date": "Mon, 29 Jun 2026 15:00:00 +0000",
+      "summary": "<p>Azure Files는 익숙한 파일 액세스와 기본 제공 성능, 데이터 보호, 보안 및 Azure 서비스 통합을 결합합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/accele..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "AWS의 Claude Sonnet 5 소개: Anthropic의 가장 유능한 Sonnet 모델",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
+      "date": "Tue, 30 Jun 2026 18:40:09 +0000",
+      "summary": "오늘 Amazon Bedrock 및 AWS의 Claude Platform에서 Anthropic의 가장 발전된 Sonnet 모델인 Claude Sonnet 5를 사용할 수 있다는 소식을 발표하게 되어 기쁘게 생각합니다. 클로드 소네트 5(Claude Sonnet 5)는 최초의 소네트 모델입니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,11 +86,25 @@
       "summary": "이 게시물에서는 Amazon Bedrock에 대한 관리형 자격을 사용하여 중앙 계정에서 한 번 구독하고 조직 전체에 모델 액세스를 배포하는 방법을 보여줍니다. 이 접근법은 네거티브를 제거합니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock 및 LLM 게이트웨이를 사용하여 복원력 패턴 구현",
-      "link": "https://aws.amazon.com/blogs/machine-learning/implementing-resilience-patterns-with-amazon-bedrock-and-llm-gateway/",
-      "date": "Tue, 30 Jun 2026 16:40:47 +0000",
-      "summary": "이 게시물에서는 기본 Amazon Bedrock 기능에서 LLM을 사용한 다중 모델 오케스트레이션으로 진행하면서 AWS에서 탄력적인 생성 AI 애플리케이션을 구축하기 위한 5가지 실용적인 패턴을 배우게 됩니다...."
+      "company": "Hugging Face",
+      "title": "ScarfBench: Enterprise Java Framework 마이그레이션을 위한 AI 에이전트 벤치마킹",
+      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "date": "Tue, 30 Jun 2026 18:32:50 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "전문화가 불가피한 이유",
+      "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "date": "Tue, 30 Jun 2026 14:39:11 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "포옹 얼굴 모델 페이지에 모든 평가 결과 표시",
+      "link": "https://huggingface.co/blog/eee-community-evals",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "..."
     }
   ]
 }
