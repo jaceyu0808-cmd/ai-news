@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 01:33:01 (KST)",
+  "updated_at": "2026-07-02 04:03:33 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,24 @@
     },
     {
       "company": "OpenAI",
+      "title": "Genebench-Pro 내부",
+      "link": "https://openai.com/index/genebench-pro/case-studies",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "OpenAI",
       "title": "GeneBench-Pro 소개",
       "link": "https://openai.com/index/introducing-genebench-pro",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "summary": "복잡한 실제 데이터 세트를 사용하여 유전체학, 생물학 및 과학 연구에서 AI 성능을 테스트하는 새로운 벤치마크인 GeneBench-Pro를 소개합니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "코어 덤프 역학: 18년 된 버그 수정",
-      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI 엔지니어는 대규모 코어 덤프 분석을 사용하여 드물게 발생하는 인프라 충돌을 디버깅하고 하드웨어 결함과 오랫동안 지속된 소프트웨어 버그를 모두 찾아냈습니다...."
+      "company": "Google AI",
+      "title": "2026년 6월 발표한 AI 최신 소식",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "date": "Wed, 01 Jul 2026 18:15:00 +0000",
+      "summary": "6월 픽셀드롭 히어로..."
     },
     {
       "company": "Google AI",
@@ -37,53 +44,46 @@
       "summary": "과학자, 기술자, 탐험가, 관찰자를 포함하여 다양한 직업적 역할을 나타내는 4명의 일러스트 캐릭터입니다...."
     },
     {
-      "company": "Google AI",
-      "title": "AI 전문가에게 물어보세요: 풀 스택이란 정확히 무엇입니까?",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "date": "Mon, 29 Jun 2026 16:00:00 +0000",
-      "summary": "어두운 배경을 배경으로 풀스택 AI 인프라를 묘사한 그림..."
+      "company": "Microsoft Azure AI",
+      "title": "Azure IaaS: 장기적인 비용 최적화 효율성을 위해 클라우드 인프라를 설계, 구축 및 최적화하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
+      "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "성능 이점: Visual Studio Code에서 직접 Azure의 PostgreSQL 최적화",
-      "link": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-      "date": "Fri, 26 Jun 2026 17:00:00 +0000",
-      "summary": "<p>낮은 데이터베이스 성능은 단순한 데이터베이스 문제가 아닙니다. 엔터프라이즈 팀에서는 SLA 누락, 릴리스 지연, 개발 팀의 좌절, 운영 위험 증가 등으로 나타납니다. 공연하다..."
+      "title": "Microsoft Foundry의 Claude가 이제 일반 공급됩니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+      "date": "Mon, 29 Jun 2026 17:00:00 +0000",
+      "summary": "<p>Microsoft Foundry의 Claude는 이제 정식 출시되어 Azure에서 호스팅되고 NVIDIA GB300 Blackwell Ultra에서 실행되므로 팀이 에이전트 실험에서 프로덕션까지 더 빠른 경로를 제공할 수 있습니다.</p>\n<p>..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통찰력에서 실행까지: 에이전트 클라우드 운영의 다음 단계",
-      "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-      "date": "Tue, 23 Jun 2026 15:45:00 +0000",
-      "summary": "<p>클라우드 환경이 시스템이 이미 다음 결정을 진행하고 있는 상황에서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure Storage를 사용하여 데이터 현대화: 자신 있게 계획하고 마이그레이션하세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
-      "date": "Tue, 16 Jun 2026 16:00:00 +0000",
-      "summary": "<p>엔터프라이즈 스토리지 마이그레이션이 단지 데이터 복사에 관한 것만은 아닙니다. 이는 비즈니스 연속성을 보호하고, 성능을 유지하고, 비용을 관리하고, 테라바이트 규모의 데이터가 부족할 때 팀에 자신감을 주는 것입니다...."
+      "title": "2026년 에이전트 신뢰 지수: 300명의 빌더가 실제 추진력을 보는 곳",
+      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
+      "date": "Mon, 29 Jun 2026 15:15:00 +0000",
+      "summary": "<p>Microsoft에서는 신뢰할 수 있는 AI 에이전트를 구축하는 것이 강력한 AI 에이전트를 구축하는 것만큼 중요합니다. 2026 Agent Confidence Index의 새로운 연구는 오늘날 팀이 상담사를 신뢰하는 부분과 인간이 판단하는 이유를 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "프론티어 모델을 고객에게 안전하게 출시",
-      "link": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/",
-      "date": "Wed, 01 Jul 2026 03:13:19 +0000",
-      "summary": "AWS가 모든 워크로드를 실행할 수 있는 가장 안전한 장소가 되는 것이 우리의 목표이며, 이를 지원하기 위해 우리는 AWS가 창립된 이후 2년 이상 서비스 전반의 보안에 막대한 투자를 해왔습니다...."
+      "title": "AWS GovCloud(미국)의 Amazon Bedrock에서 NVIDIA Nemotron 및 OpenAI GPT OSS 모델 실행",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
+      "date": "Wed, 01 Jul 2026 18:14:34 +0000",
+      "summary": "AWS GovCloud(US)에 미국 기반의 프론티어 개방형 모델을 도입하게 되어 기쁘게 생각합니다. 이번 릴리스를 통해 Amazon Bedrock은 이제 OpenAI의 개방형 GPT OSS 모델(120B 및 20B)과 NVIDIA Nemot를 지원합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS의 Claude Sonnet 5 소개: Anthropic의 가장 유능한 Sonnet 모델",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
-      "date": "Tue, 30 Jun 2026 18:40:09 +0000",
-      "summary": "오늘 Amazon Bedrock 및 AWS의 Claude Platform에서 Anthropic의 가장 발전된 Sonnet 모델인 Claude Sonnet 5를 사용할 수 있다는 소식을 발표하게 되어 기쁘게 생각합니다. 클로드 소네트 5(Claude Sonnet 5)는 최초의 소네트 모델입니다...."
+      "title": "에이전트 검색, 라우팅, 액세스 제어를 위한 서버리스 A2A 게이트웨이 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/",
+      "date": "Wed, 01 Jul 2026 18:07:06 +0000",
+      "summary": "이 게시물에서는 경로 기반 라우팅(/agents/{agentId})을 사용하여 단일 도메인 뒤에 여러 에이전트를 호스팅하는 AWS에서 서버리스 A2A 게이트웨이를 구축하는 방법을 알아봅니다. 표준 A2A 클라이언트는 다음과 함께 작동합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AG-UI 프로토콜을 사용하여 Amazon Bedrock AgentCore에서 AI 에이전트용 생성 UI 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/",
-      "date": "Tue, 30 Jun 2026 16:46:17 +0000",
-      "summary": "이 게시물에서는 AG-UI가 Fullstack AgentCore 솔루션 템플릿(FAST)에 통합되어 Amazon Bedrock AgentCore에 대화형 에이전트 프런트엔드를 구축하는 방법을 안내합니다. 그런 다음 CopilotKit이 어떻게 확장되는지 보여줍니다...."
+      "title": "AgentCore 메모리의 메타데이터를 사용한 구조화된 메모리 필터링",
+      "link": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
+      "date": "Wed, 01 Jul 2026 18:03:10 +0000",
+      "summary": "이 게시물에서는 구성, 수집 및 검색 전반에 걸쳐 메타데이터가 작동하는 방식을 알아보고, 다중 에이전트 및 다중 테넌트 아키텍처를 포함한 기업 사용 사례를 탐색하고, 최고의 솔루션을 발견합니다...."
     },
     {
       "company": "Hugging Face",
