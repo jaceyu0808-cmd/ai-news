@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 14:47:36 (KST)",
+  "updated_at": "2026-07-01 19:05:25 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "코어 덤프 역학: 18년 된 버그 수정",
       "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI 엔지니어는 대규모 코어 덤프 분석을 사용하여 드물게 발생하는 인프라 충돌을 디버그하고 하드웨어 결함과 오랫동안 지속된 소프트웨어 버그를 모두 찾아냈습니다...."
+      "summary": "OpenAI 엔지니어는 대규모 코어 덤프 분석을 사용하여 드물게 발생하는 인프라 충돌을 디버깅하고 하드웨어 결함과 오랫동안 지속된 소프트웨어 버그를 모두 찾아냈습니다...."
     },
     {
       "company": "Google AI",
