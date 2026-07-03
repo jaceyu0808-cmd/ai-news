@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03 20:39:04 (KST)",
+  "updated_at": "2026-07-03 23:27:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure IaaS: 장기적인 비용 최적화 효율성을 위해 클라우드 인프라를 설계, 구축 및 최적화하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
-      "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft Foundry의 Claude가 이제 일반 공급됩니다.",
       "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
       "date": "Mon, 29 Jun 2026 17:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
       "date": "Mon, 29 Jun 2026 15:15:00 +0000",
       "summary": "<p>Microsoft에서는 신뢰할 수 있는 AI 에이전트를 구축하는 것이 강력한 AI 에이전트를 구축하는 것만큼 중요합니다. 2026 Agent Confidence Index의 새로운 연구는 오늘날 팀이 상담사를 신뢰하는 부분과 인간이 판단하는 이유를 보여줍니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure Files를 사용하여 최신 Linux 워크로드 가속화",
+      "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+      "date": "Mon, 29 Jun 2026 15:00:00 +0000",
+      "summary": "<p>Azure Files는 익숙한 파일 액세스와 기본 제공 성능, 데이터 보호, 보안 및 Azure 서비스 통합을 결합합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/accele..."
     },
     {
       "company": "AWS Machine Learning",
