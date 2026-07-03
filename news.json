@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-04 01:41:38 (KST)",
+  "updated_at": "2026-07-04 03:18:37 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ChatGPT 채택이 확장된 방법",
       "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "date": "Tue, 30 Jun 2026 09:00:00 GMT",
       "summary": "새로운 OpenAI 신호 데이터는 사용자가 사용량을 늘리고 더 많은 기능을 탐색하며 지역과 언어 전반에 걸쳐 성장을 주도하면서 ChatGPT 채택이 전 세계적으로 어떻게 증가하고 있는지 보여줍니다...."
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "GeneBench-Pro 소개",
       "link": "https://openai.com/index/introducing-genebench-pro",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "summary": "복잡한 실제 데이터 세트를 사용하여 유전체학, 생물학 및 과학 연구에서 AI 성능을 테스트하는 새로운 벤치마크인 GeneBench-Pro를 소개합니다...."
@@ -31,10 +31,10 @@
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "뉴욕시 교육자와 업계 리더들이 교실에서 AI의 미래를 만들기 위해 Google 사무실에 모였습니다.",
       "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "date": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\" />Google, New York Jobs CEO Council 및 Urban Assembly가 AI 서밋을 주최했습니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry의 Claude가 이제 일반 공급됩니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-      "date": "Mon, 29 Jun 2026 17:00:00 +0000",
-      "summary": "<p>Microsoft Foundry의 Claude는 이제 정식 출시되어 Azure에서 호스팅되고 NVIDIA GB300 Blackwell Ultra에서 실행되므로 팀이 에이전트 실험에서 프로덕션까지 더 빠른 경로를 제공할 수 있습니다.</p>\n<p>..."
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "date": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-      "date": "Mon, 29 Jun 2026 15:15:00 +0000",
+      "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+      "date": "Wed, 01 Jul 2026 16:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure Files를 사용하여 최신 Linux 워크로드 가속화",
-      "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-      "date": "Mon, 29 Jun 2026 15:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
+      "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -76,7 +76,7 @@
       "title": "Amazon SageMaker AI의 다중 턴 강화 학습 모범 사례",
       "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
       "date": "Thu, 02 Jul 2026 17:50:23 +0000",
-      "summary": "이 게시물에서는 안정적인 다중 회전 RL 훈련을 위한 모범 사례를 공유합니다. 신뢰할 수 있는 교육 환경을 구축하고, 외부 평가를 설정하고, 교육 환경에 맞는 보상을 설계하는 방법을 다룹니다...."
+      "summary": "이 게시물에서는 안정적인 다중 회전 RL 훈련을 위한 모범 사례를 공유합니다. 신뢰할 수 있는 교육 환경을 구축하는 방법, 외부 평가를 설정하는 방법, e에 부합하는 보상을 설계하는 방법을 다룹니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Hugging Face와 Cerebras는 Gemma 4를 실시간 음성 AI로 구현합니다.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "date": "Wed, 01 Jul 2026 00:00:00 GMT",
       "summary": "..."
