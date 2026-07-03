@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04 03:18:37 (KST)",
+  "updated_at": "2026-07-04 05:19:54 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -34,7 +34,7 @@
       "title": "뉴욕시 교육자와 업계 리더들이 교실에서 AI의 미래를 만들기 위해 Google 사무실에 모였습니다.",
       "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "date": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\" />Google, New York Jobs CEO Council 및 Urban Assembly가 AI 서밋을 주최했습니다...."
     },
     {
       "company": "Google AI",
@@ -45,21 +45,21 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Brain을 만나보세요: Azure 안정성을 뒷받침하는 AI 시스템",
       "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
       "date": "Thu, 02 Jul 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>Microsoft가 Azure Service Health의 디지털 트윈을 구축하는 방법과 하이퍼스케일 운영 방식을 변경하는 이유를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Chaos Studio를 사용하여 Azure에서 애플리케이션 복원력 입증",
       "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
       "date": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>Azure Chaos Studio는 운영 중단, 장애 조치, 네트워크 중단, 인프라 오류가 프로덕션에 영향을 미치기 전에 시뮬레이션하여 조직이 애플리케이션 탄력성을 검증하는 데 도움이 됩니다.</p>\n<p>피..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Azure IaaS: 장기적인 비용 효율성을 위해 클라우드 인프라를 설계, 구축 및 최적화하는 방법",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
       "date": "Tue, 30 Jun 2026 16:00:00 +0000",
       "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
@@ -76,7 +76,7 @@
       "title": "Amazon SageMaker AI의 다중 턴 강화 학습 모범 사례",
       "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
       "date": "Thu, 02 Jul 2026 17:50:23 +0000",
-      "summary": "이 게시물에서는 안정적인 다중 회전 RL 훈련을 위한 모범 사례를 공유합니다. 신뢰할 수 있는 교육 환경을 구축하는 방법, 외부 평가를 설정하는 방법, e에 부합하는 보상을 설계하는 방법을 다룹니다...."
+      "summary": "이 게시물에서는 안정적인 다중 회전 RL 훈련을 위한 모범 사례를 공유합니다. 신뢰할 수 있는 교육 환경을 구축하고, 외부 평가를 설정하고, 교육 환경에 맞는 보상을 설계하는 방법을 다룹니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Hugging Face와 Cerebras는 Gemma 4를 실시간 음성 AI로 구현합니다.",
       "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "date": "Wed, 01 Jul 2026 00:00:00 GMT",
       "summary": "..."
