@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 18:18:24 (KST)",
+  "updated_at": "2026-07-05 20:41:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -55,7 +55,7 @@
       "title": "Chaos Studio를 사용하여 Azure에서 애플리케이션 복원력 입증",
       "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
       "date": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "summary": "<p>Azure Chaos Studio는 운영 중단, 장애 조치, 네트워크 중단, 인프라 오류가 프로덕션에 영향을 미치기 전에 시뮬레이션하여 조직이 애플리케이션 복원력을 검증하는 데 도움이 됩니다.</p>\n<p>피..."
+      "summary": "<p>Azure Chaos Studio는 운영 중단, 장애 조치, 네트워크 중단, 인프라 오류가 프로덕션에 영향을 미치기 전에 시뮬레이션하여 조직이 애플리케이션 탄력성을 검증하는 데 도움이 됩니다.</p>\n<p>피..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -76,7 +76,7 @@
       "title": "Amazon SageMaker AI의 다중 턴 강화 학습 모범 사례",
       "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
       "date": "Thu, 02 Jul 2026 17:50:23 +0000",
-      "summary": "이 게시물에서는 안정적인 다중 회전 RL 훈련을 위한 모범 사례를 공유합니다. 신뢰할 수 있는 교육 환경을 구축하고, 외부 평가를 설정하고, 교육 환경에 맞는 보상을 설계하는 방법을 다룹니다...."
+      "summary": "이 게시물에서는 안정적인 다중 회전 RL 훈련을 위한 모범 사례를 공유합니다. 신뢰할 수 있는 교육 환경을 구축하는 방법, 외부 평가를 설정하는 방법, e에 부합하는 보상을 설계하는 방법을 다룹니다...."
     },
     {
       "company": "AWS Machine Learning",
