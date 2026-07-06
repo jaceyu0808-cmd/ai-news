@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06 22:54:42 (KST)",
+  "updated_at": "2026-07-07 01:56:55 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Brain을 만나보세요: Azure 안정성을 뒷받침하는 AI 시스템",
+      "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "date": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Microsoft가 Azure Service Health의 디지털 트윈을 구축하는 방법과 하이퍼스케일 운영 방식을 변경하는 이유를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Chaos Studio를 사용하여 Azure에서 애플리케이션 복원력 입증",
       "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
       "date": "Wed, 01 Jul 2026 16:00:00 +0000",
@@ -58,11 +65,18 @@
       "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry의 Claude가 이제 일반 공급됩니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-      "date": "Mon, 29 Jun 2026 17:00:00 +0000",
-      "summary": "<p>Microsoft Foundry의 Claude는 이제 정식 출시되어 Azure에서 호스팅되고 NVIDIA GB300 Blackwell Ultra에서 실행되므로 팀이 에이전트 실험에서 프로덕션까지 더 빠른 경로를 제공할 수 있습니다.</p>\n<p>..."
+      "company": "AWS Machine Learning",
+      "title": "Amazon Nova를 사용하여 이미지의 PII를 자동으로 수정합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
+      "date": "Mon, 06 Jul 2026 16:55:02 +0000",
+      "summary": "이 게시물에서는 상황별 비전 추론을 사용하여 Meta의 오픈 소스 Segment Anything 모드를 포함한 보완 도구를 조정하는 Amazon Nova가 지시하는 다단계 파이프라인을 제시합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker AI를 사용하여 벤치마크 및 권장 결과를 MLflow로 스트리밍",
+      "link": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
+      "date": "Mon, 06 Jul 2026 16:53:38 +0000",
+      "summary": "이 게시물에서는 Amazon SageMaker AI 최적화 추론 추천 작업 및 Amazon SageMaker AI 벤치마크 작업과의 새로운 MLflow 통합을 사용하여 실험을 자동으로 스트리밍하는 방법을 알아봅니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -70,20 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-catches-ai-generated-phishing/",
       "date": "Thu, 02 Jul 2026 17:55:41 +0000",
       "summary": "피싱을 통한 사회 공학은 여전히 ​​사이버 공격을 시작하는 가장 일반적인 전술 중 하나입니다. AI가 생성한 피싱 이메일 메시지는 이제 이메일을 관리하는 보안 팀에 새로운 과제를 제시합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker AI의 다중 턴 강화 학습 모범 사례",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/",
-      "date": "Thu, 02 Jul 2026 17:50:23 +0000",
-      "summary": "이 게시물에서는 안정적인 다중 회전 RL 훈련을 위한 모범 사례를 공유합니다. 신뢰할 수 있는 교육 환경을 구축하고, 외부 평가를 설정하고, 교육 환경에 맞는 보상을 설계하는 방법을 다룹니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "AWS GovCloud(미국)의 Amazon Bedrock에서 NVIDIA Nemotron 및 OpenAI GPT OSS 모델 실행",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
-      "date": "Wed, 01 Jul 2026 18:14:34 +0000",
-      "summary": "AWS GovCloud(US)에 미국 기반의 프론티어 개방형 모델을 도입하게 되어 기쁘게 생각합니다. 이번 릴리스를 통해 Amazon Bedrock은 이제 OpenAI의 개방형 GPT OSS 모델(120B 및 20B)과 NVIDIA Nemot를 지원합니다...."
     },
     {
       "company": "Hugging Face",
@@ -94,16 +94,16 @@
     },
     {
       "company": "Hugging Face",
-      "title": "🤗 커널: 주요 업데이트",
-      "link": "https://huggingface.co/blog/revamped-kernels",
-      "date": "Mon, 06 Jul 2026 00:00:00 GMT",
+      "title": "PRX 4부: 데이터 전략",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "date": "Mon, 06 Jul 2026 15:30:55 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "Hugging Face와 Cerebras는 Gemma 4를 실시간 음성 AI로 구현합니다.",
-      "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "date": "Wed, 01 Jul 2026 00:00:00 GMT",
+      "title": "🤗 커널: 주요 업데이트",
+      "link": "https://huggingface.co/blog/revamped-kernels",
+      "date": "Mon, 06 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
