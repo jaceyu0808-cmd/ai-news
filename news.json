@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06 18:06:36 (KST)",
+  "updated_at": "2026-07-06 22:54:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Brain을 만나보세요: Azure 안정성을 뒷받침하는 AI 시스템",
-      "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-      "date": "Thu, 02 Jul 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft가 Azure Service Health의 디지털 트윈을 구축하는 방법과 하이퍼스케일 운영 방식을 변경하는 이유를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Chaos Studio를 사용하여 Azure에서 애플리케이션 복원력 입증",
       "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
       "date": "Wed, 01 Jul 2026 16:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
       "date": "Tue, 30 Jun 2026 16:00:00 +0000",
       "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry의 Claude가 이제 일반 공급됩니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+      "date": "Mon, 29 Jun 2026 17:00:00 +0000",
+      "summary": "<p>Microsoft Foundry의 Claude는 이제 정식 출시되어 Azure에서 호스팅되고 NVIDIA GB300 Blackwell Ultra에서 실행되므로 팀이 에이전트 실험에서 프로덕션까지 더 빠른 경로를 제공할 수 있습니다.</p>\n<p>..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "🤗 커널: 주요 업데이트",
       "link": "https://huggingface.co/blog/revamped-kernels",
       "date": "Mon, 06 Jul 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "Hugging Face와 Cerebras는 Gemma 4를 실시간 음성 AI로 구현합니다.",
       "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "date": "Wed, 01 Jul 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "ScarfBench: Enterprise Java Framework 마이그레이션을 위한 AI 에이전트 벤치마킹",
-      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "date": "Tue, 30 Jun 2026 18:32:50 GMT",
       "summary": "..."
     }
   ]
