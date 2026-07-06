@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 06:43:13 (KST)",
+  "updated_at": "2026-07-07 08:15:12 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Brain을 만나보세요: Azure 안정성을 뒷받침하는 AI 시스템",
-      "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
-      "date": "Thu, 02 Jul 2026 16:00:00 +0000",
-      "summary": "<p>Microsoft가 Azure Service Health의 디지털 트윈을 구축하는 방법과 하이퍼스케일 운영 방식을 변경하는 이유를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Chaos Studio를 사용하여 Azure에서 애플리케이션 복원력 입증",
       "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
       "date": "Wed, 01 Jul 2026 16:00:00 +0000",
@@ -65,25 +58,32 @@
       "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft Foundry의 Claude가 이제 일반 공급됩니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+      "date": "Mon, 29 Jun 2026 17:00:00 +0000",
+      "summary": "<p>Microsoft Foundry의 Claude는 이제 정식 출시되어 Azure에서 호스팅되고 NVIDIA GB300 Blackwell Ultra에서 실행되므로 팀이 에이전트 실험에서 프로덕션까지 더 빠른 경로를 제공할 수 있습니다.</p>\n<p>..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "한 번의 클릭으로 Hugging Face에서 Amazon SageMaker Studio까지",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
+      "date": "Mon, 06 Jul 2026 22:35:55 +0000",
+      "summary": "오늘 우리는 Hugging Face와 Amazon SageMaker AI 간의 딥 링크 통합을 발표하게 되어 기쁘게 생각합니다. 이제 개발자는 SageMaker Studio에서 모델 검색부터 실습 실험까지 진행할 수 있습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "잊어버리도록 모델 교육: Amazon Nova를 사용한 선택적 학습 해제",
+      "link": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
+      "date": "Mon, 06 Jul 2026 22:23:45 +0000",
+      "summary": "이 게시물에서는 Amazon Nova CCMS(사용자 정의 가능한 콘텐츠 조정 설정)의 새로운 언러닝 기술인 rDPO(Reverse Direct Preference Optimization)를 소개하고 이를 통해 부담을 줄이는 방법을 보여줍니다...."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "Amazon Bedrock에서 MiniMax 모델 실행",
       "link": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
       "date": "Mon, 06 Jul 2026 17:00:44 +0000",
       "summary": "이 게시물에서는 이러한 모델이 지원하는 기능, 사용 가능한 서비스 계층, 주문형 추론 확장 방법을 포함하여 Amazon Bedrock에서 MiniMax 모델을 시작하는 방법을 안내합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker HyperPod에 Amazon Nova용 Multi-Turn RL 인프라 배포",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
-      "date": "Mon, 06 Jul 2026 16:58:13 +0000",
-      "summary": "이 게시물에서는 Amazon SageMaker HyperPod에서 Amazon Nova Forge를 사용하여 다중 회전 RL을 위한 2단계 인프라를 배포합니다. 결국에는 다음과 같은 경우 학습을 시작하는 이벤트 기반 파이프라인이 완성됩니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova를 사용하여 이미지의 PII를 자동으로 수정합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
-      "date": "Mon, 06 Jul 2026 16:55:02 +0000",
-      "summary": "이 게시물에서는 상황별 비전 추론을 사용하여 Meta의 오픈 소스 Segment Anything 모드를 포함한 보완 도구를 조정하는 Amazon Nova가 지시하는 다단계 파이프라인을 제시합니다...."
     },
     {
       "company": "Hugging Face",
