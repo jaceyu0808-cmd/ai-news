@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08 05:53:57 (KST)",
+  "updated_at": "2026-07-08 07:17:55 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Genebench-Pro 내부",
-      "link": "https://openai.com/index/genebench-pro/case-studies",
+      "title": "코어 덤프 역학: 18년 된 버그 수정",
+      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "..."
+      "summary": "OpenAI 엔지니어는 대규모 코어 덤프 분석을 사용하여 드물게 발생하는 인프라 충돌을 디버깅하고 하드웨어 결함과 오랫동안 지속된 소프트웨어 버그를 모두 찾아냈습니다...."
     },
     {
       "company": "Google AI",
@@ -69,7 +69,7 @@
       "title": "비즈니스 컨텍스트로 데이터 세트 강화: Amazon Quick의 레거시 주제에서 의미 체계 데이터 세트로 마이그레이션",
       "link": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/",
       "date": "Tue, 07 Jul 2026 17:07:57 +0000",
-      "summary": "이 게시물에서는 데이터세트 강화가 무엇인지, 레거시 주제와 어떻게 다른지 살펴보고, 비즈니스 컨텍스트를..."
+      "summary": "이 게시물에서는 데이터 세트 강화가 무엇인지, 레거시 주제와 어떻게 다른지 살펴보고, 비즈니스 컨텍스트를..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "한 번의 클릭으로 Hugging Face에서 Amazon SageMaker Studio까지",
+      "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "date": "Tue, 07 Jul 2026 21:15:33 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Foundry 관리형 컴퓨팅에서 얼굴 모델 포옹",
       "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "date": "Tue, 07 Jul 2026 15:20:06 GMT",
@@ -96,13 +103,6 @@
       "company": "Hugging Face",
       "title": "모든 클라우드에서 AI 워크로드를 실행하고 Hugging Face에 저장: SkyPilot을 통한 제로 송신 스토리지",
       "link": "https://huggingface.co/blog/skypilot-hf-storage",
-      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
-      "link": "https://huggingface.co/blog/lerobot-release-v060",
       "date": "Tue, 07 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
