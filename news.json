@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 21:03:47 (KST)",
+  "updated_at": "2026-07-08 00:47:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "2026년 에이전트 신뢰 지수: 300명의 빌더가 진정한 추진력을 보는 곳",
+      "title": "2026년 에이전트 신뢰 지수: 300명의 빌더가 실제 추진력을 보는 곳",
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
       "date": "Mon, 29 Jun 2026 15:15:00 +0000",
       "summary": "<p>Microsoft에서는 신뢰할 수 있는 AI 에이전트를 구축하는 것이 강력한 AI 에이전트를 구축하는 것만큼 중요합니다. 2026 Agent Confidence Index의 새로운 연구는 오늘날 팀이 상담사를 신뢰하는 부분과 인간이 판단하는 이유를 보여줍니다...."
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Foundry 관리형 컴퓨팅에서 얼굴 모델 포옹",
+      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "date": "Tue, 07 Jul 2026 15:20:06 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
       "link": "https://huggingface.co/blog/lerobot-release-v060",
       "date": "Tue, 07 Jul 2026 00:00:00 GMT",
@@ -94,16 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "PRX 파트 4: 데이터 전략",
+      "title": "PRX 4부: 데이터 전략",
       "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
       "date": "Mon, 06 Jul 2026 15:30:55 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "🤗 커널: 주요 업데이트",
-      "link": "https://huggingface.co/blog/revamped-kernels",
-      "date": "Mon, 06 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
