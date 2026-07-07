@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-08 03:08:24 (KST)",
+  "updated_at": "2026-07-08 05:53:57 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Australian Payments Plus는 ChatGPT 및 Codex를 통해 더욱 빠르게 발전합니다.",
+      "link": "https://openai.com/index/australian-payments-plus",
+      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary": "Australian Payments Plus가 어떻게 ChatGPT Enterprise 및 Codex를 사용하여 결제 복잡성을 더욱 빠르게 처리하는지 알아보세요. AP+는 시간을 절약하고, 품질을 향상시키며, 인간의 판단을 중심으로 유지합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "ChatGPT 채택이 확장된 방법",
@@ -10,17 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "코어 덤프 역학: 18년 된 버그 수정",
-      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "title": "Genebench-Pro 내부",
+      "link": "https://openai.com/index/genebench-pro/case-studies",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "OpenAI 엔지니어는 대규모 코어 덤프 분석을 사용하여 드물게 발생하는 인프라 충돌을 디버깅하고 하드웨어 결함과 오랫동안 지속된 소프트웨어 버그를 모두 찾아냈습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GeneBench-Pro 소개",
-      "link": "https://openai.com/index/introducing-genebench-pro",
-      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "summary": "복잡한 실제 데이터 세트를 사용하여 유전체학, 생물학 및 과학 연구에서 AI 성능을 테스트하는 새로운 벤치마크인 GeneBench-Pro를 소개합니다...."
+      "summary": "..."
     },
     {
       "company": "Google AI",
@@ -94,16 +94,16 @@
     },
     {
       "company": "Hugging Face",
-      "title": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
-      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "title": "모든 클라우드에서 AI 워크로드를 실행하고 Hugging Face에 저장: SkyPilot을 통한 제로 송신 스토리지",
+      "link": "https://huggingface.co/blog/skypilot-hf-storage",
       "date": "Tue, 07 Jul 2026 00:00:00 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "PRX 4부: 데이터 전략",
-      "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "date": "Mon, 06 Jul 2026 15:30:55 GMT",
+      "title": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
