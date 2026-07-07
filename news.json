@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08 00:47:02 (KST)",
+  "updated_at": "2026-07-08 03:08:24 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "Gemini API에서 관리형 에이전트 확장: 백그라운드 작업, 원격 MCP 등",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "date": "Tue, 07 Jul 2026 08:54:00 +0000",
+      "summary": "관리형 에이전트 기능 번들 출시..."
+    },
+    {
+      "company": "Google AI",
       "title": "2026년 6월 발표한 AI 최신 소식",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
       "date": "Wed, 01 Jul 2026 18:15:00 +0000",
@@ -37,53 +44,46 @@
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp\" />Google, New York Jobs CEO Council 및 Urban Assembly가 AI 서밋을 주최했습니다...."
     },
     {
-      "company": "Google AI",
-      "title": "영국의 차세대 생산성 시대를 열다: AI 선구자의 국가 건설",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "date": "Tue, 30 Jun 2026 06:00:00 +0000",
-      "summary": "과학자, 기술자, 탐험가, 관찰자를 포함하여 다양한 직업적 역할을 나타내는 4명의 일러스트 캐릭터입니다...."
+      "company": "Microsoft Azure AI",
+      "title": "Brain을 만나보세요: Azure 안정성을 뒷받침하는 AI 시스템",
+      "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "date": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Microsoft가 Azure Service Health의 디지털 트윈을 구축하는 방법과 하이퍼스케일 운영 방식을 변경하는 이유를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft Foundry의 Claude가 이제 일반 공급됩니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-      "date": "Mon, 29 Jun 2026 17:00:00 +0000",
-      "summary": "<p>Microsoft Foundry의 Claude는 이제 정식 출시되어 Azure에서 호스팅되고 NVIDIA GB300 Blackwell Ultra에서 실행되므로 팀이 에이전트 실험에서 프로덕션까지 더 빠른 경로를 제공할 수 있습니다.</p>\n<p>..."
+      "title": "Chaos Studio를 사용하여 Azure에서 애플리케이션 복원력 입증",
+      "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+      "date": "Wed, 01 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Azure Chaos Studio는 운영 중단, 장애 조치, 네트워크 중단, 인프라 오류가 프로덕션에 영향을 미치기 전에 시뮬레이션하여 조직이 애플리케이션 복원력을 검증하는 데 도움이 됩니다.</p>\n<p>피..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "2026년 에이전트 신뢰 지수: 300명의 빌더가 실제 추진력을 보는 곳",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-      "date": "Mon, 29 Jun 2026 15:15:00 +0000",
-      "summary": "<p>Microsoft에서는 신뢰할 수 있는 AI 에이전트를 구축하는 것이 강력한 AI 에이전트를 구축하는 것만큼 중요합니다. 2026 Agent Confidence Index의 새로운 연구는 오늘날 팀이 상담사를 신뢰하는 부분과 인간이 판단하는 이유를 보여줍니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure Files를 사용하여 최신 Linux 워크로드 가속화",
-      "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-      "date": "Mon, 29 Jun 2026 15:00:00 +0000",
-      "summary": "<p>Azure Files는 익숙한 파일 액세스와 기본 제공 성능, 데이터 보호, 보안 및 Azure 서비스 통합을 결합합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/accele..."
+      "title": "Azure IaaS: 장기적인 비용 효율성을 위해 클라우드 인프라를 설계, 구축 및 최적화하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
+      "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "한 번의 클릭으로 Hugging Face에서 Amazon SageMaker Studio까지",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-hugging-face-to-amazon-sagemaker-studio-in-one-click-2/",
-      "date": "Mon, 06 Jul 2026 22:35:55 +0000",
-      "summary": "오늘 우리는 Hugging Face와 Amazon SageMaker AI 간의 딥 링크 통합을 발표하게 되어 기쁘게 생각합니다. 이제 개발자는 SageMaker Studio에서 모델 검색부터 실습 실험까지 진행할 수 있습니다...."
+      "title": "비즈니스 컨텍스트로 데이터 세트 강화: Amazon Quick의 레거시 주제에서 의미 체계 데이터 세트로 마이그레이션",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/",
+      "date": "Tue, 07 Jul 2026 17:07:57 +0000",
+      "summary": "이 게시물에서는 데이터세트 강화가 무엇인지, 레거시 주제와 어떻게 다른지 살펴보고, 비즈니스 컨텍스트를..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "잊어버리도록 모델 교육: Amazon Nova를 사용한 선택적 학습 해제",
-      "link": "https://aws.amazon.com/blogs/machine-learning/teaching-models-to-forget-selective-unlearning-with-amazon-nova/",
-      "date": "Mon, 06 Jul 2026 22:23:45 +0000",
-      "summary": "이 게시물에서는 Amazon Nova CCMS(사용자 정의 가능한 콘텐츠 조정 설정)의 새로운 언러닝 기술인 rDPO(Reverse Direct Preference Optimization)를 소개하고 이를 통해 부담을 줄이는 방법을 보여줍니다...."
+      "title": "Amazon Quick Sight 다중 데이터 세트 관계에 대한 데이터 모델링 모범 사례",
+      "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
+      "date": "Tue, 07 Jul 2026 17:07:49 +0000",
+      "summary": "오늘 Amazon Quick Sight의 다중 데이터 세트 관계를 발표하게 되어 기쁘게 생각합니다. 이 새로운 기능을 사용하면 Quick Sight 데이터 세트 간의 논리적 관계를 정의하고 런타임 조인을 수행할 수 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock에서 MiniMax 모델 실행",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
-      "date": "Mon, 06 Jul 2026 17:00:44 +0000",
-      "summary": "이 게시물에서는 이러한 모델이 지원하는 기능, 사용 가능한 서비스 계층, 주문형 추론 확장 방법을 포함하여 Amazon Bedrock에서 MiniMax 모델을 시작하는 방법을 안내합니다...."
+      "title": "Amazon Quick Sight 다중 데이터 세트 관계를 위한 데이터 모델링 패턴",
+      "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/",
+      "date": "Tue, 07 Jul 2026 17:07:39 +0000",
+      "summary": "이 게시물에서는 개념에서 패턴으로 전환합니다. 각 스키마에 대해 테이블 ​​구조, 사용 사례, 구현 단계 및 샘플 SQL 쿼리를 찾을 수 있습니다. 고급 시나리오에 대한 해결 방법도 다룹니다...."
     },
     {
       "company": "Hugging Face",
