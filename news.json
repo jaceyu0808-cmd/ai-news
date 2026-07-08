@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-07-09 00:28:33 (KST)",
+  "updated_at": "2026-07-09 02:47:01 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "K~12 교육자가 실용적인 AI 기술을 구축할 수 있도록 지원",
+      "link": "https://openai.com/index/k-12-educators-practical-skills",
+      "date": "Wed, 08 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI Academy와 Walton Family Foundation은 K~12 교육자가 교실에서 실용적인 AI 기술을 구축할 수 있도록 실습형 AI Skills Jam을 선보입니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-Live 소개",
+      "link": "https://openai.com/index/introducing-gpt-live",
+      "date": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "summary": "자연스러운 인간-AI ​​상호 작용을 위한 차세대 음성 모델이 이제 ChatGPT Voice를 지원합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "Australian Payments Plus는 ChatGPT 및 Codex를 통해 더욱 빠르게 발전합니다.",
       "link": "https://openai.com/index/australian-payments-plus",
       "date": "Tue, 07 Jul 2026 00:00:00 GMT",
       "summary": "Australian Payments Plus가 어떻게 ChatGPT Enterprise 및 Codex를 사용하여 결제 복잡성을 더욱 빠르게 처리하는지 알아보세요. AP+는 시간을 절약하고, 품질을 향상시키며, 인간의 판단을 중심으로 유지합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "MUFG는 OpenAI를 통해 AI 네이티브화를 목표로 합니다.",
-      "link": "https://openai.com/index/mufg",
-      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "summary": "MUFG는 ChatGPT Enterprise를 사용하여 AI 기반 조직을 구축하고 워크플로를 개선하며 새로운 AI 기반 금융 서비스를 대규모로 제공합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT 채택이 확장된 방법",
-      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "date": "Tue, 30 Jun 2026 09:00:00 GMT",
-      "summary": "새로운 OpenAI 신호 데이터는 사용자가 사용량을 늘리고 더 많은 기능을 탐색하며 지역과 언어 전반에 걸쳐 성장을 주도하면서 ChatGPT 채택이 전 세계적으로 어떻게 증가하고 있는지 보여줍니다...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "비즈니스 컨텍스트로 데이터 세트 강화: Amazon Quick의 레거시 주제에서 의미 체계 데이터 세트로 마이그레이션",
-      "link": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/",
-      "date": "Tue, 07 Jul 2026 17:07:57 +0000",
-      "summary": "이 게시물에서는 데이터세트 강화가 무엇인지, 레거시 주제와 어떻게 다른지 살펴보고, 비즈니스 컨텍스트를..."
+      "title": "과학적 발견 강화: 지능형 제약 연구를 위한 BYOKG 및 GraphRAG",
+      "link": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/",
+      "date": "Wed, 08 Jul 2026 16:57:12 +0000",
+      "summary": "이 게시물에서는 그래프 기반 검색 증강 생성(GraphRAG)이 그래프 데이터베이스와 생성 AI를 결합하여 과학 연구를 어떻게 변화시키고 있는지 살펴봅니다. 이 접근 방식을 사용하면 액세스할 수 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Quick Sight 다중 데이터 세트 관계에 대한 데이터 모델링 모범 사례",
-      "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
-      "date": "Tue, 07 Jul 2026 17:07:49 +0000",
-      "summary": "오늘 Amazon Quick Sight의 다중 데이터 세트 관계를 발표하게 되어 기쁘게 생각합니다. 이 새로운 기능을 사용하면 Quick Sight 데이터 세트 간의 논리적 관계를 정의하고 런타임 조인을 수행할 수 있습니다...."
+      "title": "Amazon Bedrock을 사용하여 사서함을 자동으로 정렬하고 우선순위를 지정합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/",
+      "date": "Wed, 08 Jul 2026 16:55:48 +0000",
+      "summary": "이 게시물에서는 공공 부문의 조직이 Amazon Bedrock에서 제공하는 생성적 AI 솔루션을 사용하여 이메일 관리를 자동화하는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Quick Sight 다중 데이터 세트 관계를 위한 데이터 모델링 패턴",
-      "link": "https://aws.amazon.com/blogs/machine-learning/data-modeling-patterns-for-amazon-quick-sight-multi-dataset-relationships/",
-      "date": "Tue, 07 Jul 2026 17:07:39 +0000",
-      "summary": "이 게시물에서는 개념에서 패턴으로 전환합니다. 각 스키마에 대해 테이블 ​​구조, 사용 사례, 구현 단계 및 샘플 SQL 쿼리를 찾을 수 있습니다. 고급 시나리오에 대한 해결 방법도 다룹니다...."
+      "title": "Amazon Bedrock AgentCore 및 Mistral AI Studio를 사용하여 프로덕션에 즉시 사용 가능한 전자상거래 MCP 서버 구축 및 연결",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/",
+      "date": "Wed, 08 Jul 2026 16:51:35 +0000",
+      "summary": "이 게시물에서는 해당 서버를 엔드 투 엔드로 구축하고 연결합니다. MCP 도구를 구현하고, 2계층 JSON 웹 토큰(JWT) 인증을 설정하고, AWS 클라우드 개발 키트(AWS CDK)를 사용하여 배포하고,..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "에이전트를 위한 데이터",
+      "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "date": "Wed, 08 Jul 2026 17:16:05 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "한 번의 클릭으로 Hugging Face에서 Amazon SageMaker Studio까지",
       "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "date": "Tue, 07 Jul 2026 21:15:33 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Foundry 관리형 컴퓨팅에서 얼굴 모델 포옹",
-      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "date": "Tue, 07 Jul 2026 15:20:06 GMT",
       "summary": "..."
     }
   ]
