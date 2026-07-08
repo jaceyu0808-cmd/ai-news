@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-07-09 04:46:40 (KST)",
+  "updated_at": "2026-07-09 06:17:47 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "정부와 국가 안보 파트너십에 대한 우리의 접근 방식",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "date": "Wed, 08 Jul 2026 13:30:00 GMT",
+      "summary": "책임 있는 AI 사용, 민주적 책임 및 공공 안전에 대한 원칙을 통해 OpenAI가 정부 및 국가 보안 파트너십에 접근하는 방법을 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "코딩 평가에서 신호와 잡음 분리",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "date": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "summary": "OpenAI의 새로운 분석에서는 인기 있는 코딩 벤치마크인 SWE-Bench Pro의 문제를 밝혀 AI 모델 평가의 신뢰성과 정확성에 대한 우려를 불러일으켰습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "K~12 교육자가 실용적인 AI 기술을 구축할 수 있도록 지원",
       "link": "https://openai.com/index/k-12-educators-practical-skills",
       "date": "Wed, 08 Jul 2026 10:00:00 GMT",
       "summary": "OpenAI Academy와 Walton Family Foundation은 K~12 교육자가 교실에서 실용적인 AI 기술을 구축할 수 있도록 실습형 AI Skills Jam을 선보입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-Live 소개",
-      "link": "https://openai.com/index/introducing-gpt-live",
-      "date": "Wed, 08 Jul 2026 00:00:00 GMT",
-      "summary": "자연스러운 인간-AI ​​상호 작용을 위한 차세대 음성 모델이 이제 ChatGPT Voice를 지원합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Australian Payments Plus는 ChatGPT 및 Codex를 통해 더욱 빠르게 발전합니다.",
-      "link": "https://openai.com/index/australian-payments-plus",
-      "date": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "summary": "Australian Payments Plus가 어떻게 ChatGPT Enterprise 및 Codex를 사용하여 결제 복잡성을 더욱 빠르게 처리하는지 알아보세요. AP+는 시간을 절약하고, 품질을 향상시키며, 인간의 판단을 중심으로 유지합니다...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "AWS용 Claude 앱 게이트웨이 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
+      "date": "Wed, 08 Jul 2026 19:49:22 +0000",
+      "summary": "오늘 우리는 Claude Code 및 Claude Desktop에 대한 액세스, 비용 및 정책에 대한 단일 제어 지점을 조직에 제공하는 자체 호스팅 제어 플레인인 AWS용 Claude 앱 게이트웨이를 발표합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "과학적 발견 강화: 지능형 제약 연구를 위한 BYOKG 및 GraphRAG",
       "link": "https://aws.amazon.com/blogs/machine-learning/powering-scientific-discovery-byokg-and-graphrag-for-intelligent-pharmaceutical-research/",
       "date": "Wed, 08 Jul 2026 16:57:12 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/automatically-sort-and-prioritize-your-mailboxes-by-using-amazon-bedrock/",
       "date": "Wed, 08 Jul 2026 16:55:48 +0000",
       "summary": "이 게시물에서는 공공 부문의 조직이 Amazon Bedrock에서 제공하는 생성적 AI 솔루션을 사용하여 이메일 관리를 자동화하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore 및 Mistral AI Studio를 사용하여 프로덕션에 즉시 사용 가능한 전자상거래 MCP 서버 구축 및 연결",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-and-connecting-a-production-ready-ecommerce-mcp-server-using-amazon-bedrock-agentcore-and-mistral-ai-studio/",
-      "date": "Wed, 08 Jul 2026 16:51:35 +0000",
-      "summary": "이 게시물에서는 해당 서버를 엔드 투 엔드로 구축하고 연결합니다. MCP 도구를 구현하고, 2계층 JSON 웹 토큰(JWT) 인증을 설정하고, AWS 클라우드 개발 키트(AWS CDK)를 사용하여 배포하고,..."
     },
     {
       "company": "Hugging Face",
