@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-10 03:53:59 (KST)",
+  "updated_at": "2026-07-10 05:52:36 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "GPT-5.6은 이제 Microsoft 365 Copilot의 기본 모델입니다.",
+      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "date": "Thu, 09 Jul 2026 13:00:00 GMT",
+      "summary": "GPT-5.6이 Word, Excel, PowerPoint, Chat, Cowork 전반에 걸쳐 더욱 강력한 AI 기능을 통해 Microsoft 365 Copilot을 강화하여 보다 빠르고 고품질의 작업을 수행하는 방법을 알아보세요...."
+    },
     {
       "company": "OpenAI",
       "title": "ChatGPT는 이제 가장 야심찬 작업을 위한 파트너입니다",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/bio-bug-bounty",
       "date": "Thu, 09 Jul 2026 10:00:00 GMT",
       "summary": "OpenAI Bio Bounty 프로그램에 대한 세부 정보..."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.6: 당신의 야망에 맞춰 확장되는 프론티어 인텔리전스",
-      "link": "https://openai.com/index/gpt-5-6",
-      "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "모든 토큰에서 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다...."
     },
     {
       "company": "Google AI",
