@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 08:17:20 (KST)",
+  "updated_at": "2026-07-09 13:05:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "K~12 교육자가 실용적인 AI 기술을 구축할 수 있도록 지원",
       "link": "https://openai.com/index/k-12-educators-practical-skills",
       "date": "Wed, 08 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI Academy와 Walton Family Foundation은 K~12 교육자가 교실에서 실용적인 AI 기술을 구축할 수 있도록 실습형 AI Skills Jam을 선보입니다...."
+      "summary": "OpenAI Academy와 Walton Family Foundation은 K~12 교육자가 교실에서 실용적인 AI 기술을 구축할 수 있도록 실습형 AI Skills Jam을 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "성능 이점: Visual Studio Code에서 직접 Azure의 PostgreSQL 최적화",
-      "link": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
-      "date": "Fri, 26 Jun 2026 17:00:00 +0000",
-      "summary": "<p>낮은 데이터베이스 성능은 단순한 데이터베이스 문제가 아닙니다. 엔터프라이즈 팀에서는 SLA 누락, 릴리스 지연, 개발 팀의 좌절, 운영 위험 증가 등으로 나타납니다. 공연하다..."
+      "title": "Brain을 만나보세요: Azure 안정성을 뒷받침하는 AI 시스템",
+      "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "date": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Microsoft가 Azure Service Health의 디지털 트윈을 구축하는 방법과 하이퍼스케일 운영 방식을 변경하는 이유를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "통찰력에서 실행까지: 에이전트 클라우드 운영의 다음 단계",
-      "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
-      "date": "Tue, 23 Jun 2026 15:45:00 +0000",
-      "summary": "<p>클라우드 환경이 시스템이 이미 다음 단계의 결정을 진행하면서 통찰력을 실시간으로 실행하는 데 도움이 된다면 어떨까요?</p>\n<p>게시물 <a href=\"https://azure.micros..."
+      "title": "Chaos Studio를 사용하여 Azure에서 애플리케이션 복원력 입증",
+      "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+      "date": "Wed, 01 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Azure Chaos Studio는 운영 중단, 장애 조치, 네트워크 중단, 인프라 오류가 프로덕션에 영향을 미치기 전에 시뮬레이션하여 조직이 애플리케이션 복원력을 검증하는 데 도움이 됩니다.</p>\n<p>피..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure Storage를 사용하여 데이터 현대화: 자신 있게 계획하고 마이그레이션하세요.",
-      "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
-      "date": "Tue, 16 Jun 2026 16:00:00 +0000",
-      "summary": "<p>엔터프라이즈 스토리지 마이그레이션이 단지 데이터 복사에 관한 것만은 아닙니다. 이는 비즈니스 연속성을 보호하고, 성능을 유지하고, 비용을 관리하고, 테라바이트 규모의 데이터가 부족할 때 팀에 자신감을 주는 것입니다...."
+      "title": "Azure IaaS: 장기적인 비용 효율성을 위해 클라우드 인프라를 설계, 구축 및 최적화하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
+      "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
