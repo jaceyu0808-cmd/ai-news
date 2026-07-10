@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 07:38:22 (KST)",
+  "updated_at": "2026-07-10 09:13:25 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "에이전트용 데이터",
+      "title": "에이전트를 위한 데이터",
       "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "date": "Wed, 08 Jul 2026 17:16:05 GMT",
       "summary": "..."
