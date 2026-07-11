@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 20:58:26 (KST)",
+  "updated_at": "2026-07-11 22:46:33 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "GPT-5.6: 당신의 야망에 맞춰 확장되는 프론티어 인텔리전스",
       "link": "https://openai.com/index/gpt-5-6",
       "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "모든 토큰에서 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다...."
+      "summary": "모든 토큰의 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "회복을 위해 구축됨: Azure 복원력이 발전한 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
+      "date": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 탄력성은 시스템이 실제 제약 조건 내에서 적응, 복구, 계속 작동할 수 있도록 보장하는 것입니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/build-to-bounce-ba..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure Managed HSM에 대한 외부 키 관리는 이제 공개 미리 보기로 제공됩니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
+      "date": "Tue, 07 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Azure Key Vault 관리형 하드웨어 보안 모듈(HSM)은 암호화 키에 대한 강력한 주권을 제공합니다. 키는 사용자만 사용할 수 있는 단일 테넌트 FIPS 140-3 레벨 3 HSM에 생성되고 저장됩니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Brain을 만나보세요: Azure 안정성을 뒷받침하는 AI 시스템",
       "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
       "date": "Thu, 02 Jul 2026 16:00:00 +0000",
       "summary": "<p>Microsoft가 Azure Service Health의 디지털 트윈을 구축하는 방법과 하이퍼스케일 운영 방식을 변경하는 이유를 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Chaos Studio를 사용하여 Azure에서 애플리케이션 복원력 입증",
-      "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
-      "date": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "summary": "<p>Azure Chaos Studio는 운영 중단, 장애 조치, 네트워크 중단, 인프라 오류가 프로덕션에 영향을 미치기 전에 시뮬레이션하여 조직이 애플리케이션 복원력을 검증하는 데 도움이 됩니다.</p>\n<p>피..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure IaaS: 장기적인 비용 효율성을 위해 클라우드 인프라를 설계, 구축 및 최적화하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
-      "date": "Tue, 30 Jun 2026 16:00:00 +0000",
-      "summary": "<p>조직이 인프라를 현대화하고, 미션 크리티컬 워크로드를 마이그레이션하고, 클라우드 기반 애플리케이션을 구축하고, AI를 확장함에 따라 비용 효율성은 여전히 ​​클라우드 아키텍처의 기본 원칙으로 남아 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
