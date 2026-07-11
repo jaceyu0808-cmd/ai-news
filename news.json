@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 17:53:48 (KST)",
+  "updated_at": "2026-07-11 19:21:40 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -76,7 +76,7 @@
       "title": "Henry Schein One에서 Amazon SageMaker AI를 사용한 실시간 치과 이미지 검증",
       "link": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
       "date": "Fri, 10 Jul 2026 15:33:47 +0000",
-      "summary": "이 게시물에서는 Henry Schein One이 치과 X-Ray 품질을 평가하는 Amazon SageMaker AI에 AI 기반 품질 확인 시스템인 Image verify를 구축하여 이러한 격차를 어떻게 해소했는지 설명합니다...."
+      "summary": "이 게시물에서는 Henry Schein One이 치과 X-Ray 품질을 평가하는 Amazon SageMaker AI에 AI 기반 품질 검증 시스템인 Image verify를 구축하여 이러한 격차를 어떻게 해소했는지 설명합니다...."
     },
     {
       "company": "AWS Machine Learning",
