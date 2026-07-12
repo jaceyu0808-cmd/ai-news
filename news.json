@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 00:05:15 (KST)",
+  "updated_at": "2026-07-13 02:09:29 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "GPT-5.6: 당신의 야망에 맞춰 확장되는 프론티어 인텔리전스",
       "link": "https://openai.com/index/gpt-5-6",
       "date": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "summary": "모든 토큰에서 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다...."
+      "summary": "모든 토큰의 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -76,7 +76,7 @@
       "title": "Henry Schein One에서 Amazon SageMaker AI를 사용한 실시간 치과 이미지 검증",
       "link": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
       "date": "Fri, 10 Jul 2026 15:33:47 +0000",
-      "summary": "이 게시물에서는 Henry Schein One이 치과 X-Ray 품질을 평가하는 Amazon SageMaker AI에 AI 기반 품질 검증 시스템인 Image verify를 구축하여 이러한 격차를 어떻게 해소했는지 설명합니다...."
+      "summary": "이 게시물에서는 Henry Schein One이 치과 X-Ray 품질을 평가하는 Amazon SageMaker AI에 AI 기반 품질 확인 시스템인 Image verify를 구축하여 이러한 격차를 어떻게 해소했는지 설명합니다...."
     },
     {
       "company": "AWS Machine Learning",
