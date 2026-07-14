@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 03:10:34 (KST)",
+  "updated_at": "2026-07-15 05:18:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Strands Agents 및 Amazon Bedrock을 사용한 다중 에이전트 소셜 인텔리전스",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
+      "date": "Tue, 14 Jul 2026 18:44:26 +0000",
+      "summary": "이 게시물은 Thrad.ai가 개인화된 이메일 생성을 통해 잠재 고객 발견부터 파이프라인을 자동화하는 Strands Agents 및 Amazon Bedrock AgentCore와 함께 다중 에이전트 시스템을 배포한 방법을 보여줍니다. 티..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Nova Act를 사용한 에이전트적 QA 자동화로 소프트웨어 제공 가속화 – 2부",
       "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/",
       "date": "Tue, 14 Jul 2026 16:47:32 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/",
       "date": "Tue, 14 Jul 2026 16:43:41 +0000",
       "summary": "생성적 AI를 사용하면 포괄적인 사용자 흐름 테스트를 대규모로 병렬 실행할 수 있습니다. 이 솔루션은 TE를 자동으로 생성하는 클라우드 배포 UX 테스트 플랫폼을 구축하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock을 사용하여 Flo Health에서 의료 콘텐츠 검토 확장 – 2부",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-medical-content-review-at-flo-health-with-amazon-bedrock-part-2/",
-      "date": "Tue, 14 Jul 2026 16:33:08 +0000",
-      "summary": "이 게시물에서는 Flo Health의 엔지니어링 팀이 AWS Generative AI 혁신 센터의 개념 증명(PoC)을 프로덕션 수준의 AI 기반 의료 콘텐츠 검토 및 생성으로 전환한 방법을 공유합니다...."
     },
     {
       "company": "Hugging Face",
