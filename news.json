@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 12:25:28 (KST)",
+  "updated_at": "2026-07-14 15:19:26 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,7 +66,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "OpenAI GPT-5.6 Sol, Terra 및 Luna는 이제 Amazon Bedrock에서 정식 출시됩니다.",
+      "title": "OpenAI GPT-5.6 Sol, Terra 및 Luna가 이제 Amazon Bedrock에서 정식 출시됩니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
       "date": "Mon, 13 Jul 2026 21:01:20 +0000",
       "summary": "현재 OpenAI의 GPT-5.6 Sol, Terra 및 Luna는 Amazon Bedrock에서 정식 출시되어 OpenAI의 가장 스마트한 모델 제품군을 Amazon Bedrock의 차세대 추론 엔진 b에 제공합니다...."
