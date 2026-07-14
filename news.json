@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 05:18:42 (KST)",
+  "updated_at": "2026-07-15 07:05:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "영업팀이 ChatGPT Work를 사용하는 방법",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "영업팀이 ChatGPT 작업을 사용하여 실제 작업 입력을 통해 파이프라인 개요, 회의 준비 패킷, 예측 검토, 계정 계획 및 지연된 거래 진단을 생성하는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
       "title": "데이터 과학 팀이 ChatGPT 작업을 사용하는 방법",
       "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "date": "Tue, 14 Jul 2026 00:00:00 GMT",
       "summary": "데이터 과학 팀이 ChatGPT 작업을 사용하여 실제 작업 입력에서 근본 원인 요약, 영향 판독, KPI 메모, 범위 분석 및 대시보드 사양을 구축하는 방법을 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "영업팀이 ChatGPT Work를 사용하는 방법",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "summary": "영업팀이 ChatGPT 작업을 사용하여 실제 작업 입력을 통해 파이프라인 개요, 회의 준비 패킷, 예측 검토, 계정 계획 및 지연된 거래 진단을 생성하는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
