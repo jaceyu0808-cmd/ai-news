@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 01:39:15 (KST)",
+  "updated_at": "2026-07-16 03:14:00 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "GPT-Red: 견고성을 위한 자기 개선 잠금 해제",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "date": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "summary": "셀프 플레이를 사용하여 AI 안전, 정렬 및 신속한 주입 견고성을 향상시키는 OpenAI의 자동화된 레드 팀 구성 시스템인 GPT-Red를 살펴보세요...."
+    },
+    {
+      "company": "OpenAI",
       "title": "에이전트 시대의 AI 투자 관리 방법",
       "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "date": "Tue, 14 Jul 2026 10:00:00 GMT",
       "summary": "기업이 달러당 유용한 작업량을 측정하고, 효율성을 개선하고, 고가치 워크플로를 확장하여 에이전트 시대에 AI 투자를 관리할 수 있는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "영업팀이 ChatGPT Work를 사용하는 방법",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "영업팀이 ChatGPT 작업을 사용하여 실제 작업 입력을 통해 파이프라인 개요, 회의 준비 패킷, 예측 검토, 계정 계획 및 지연된 거래 진단을 생성하는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -66,44 +66,44 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "에이전트 비전: Amazon Bedrock 및 MCP 서버를 사용하여 시각적 인텔리전스 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
+      "date": "Wed, 15 Jul 2026 18:11:57 +0000",
+      "summary": "이 게시물에서는 AI 시스템이 시각적 정보를 처리하고 s를 통해 지능적인 결정을 내릴 수 있는 방법을 보여주는 이러한 접근 방식을 설명하는 Computer Vision MCP 서버를 안내합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "사용자 지정 Amazon CloudWatch 대시보드를 사용하여 Amazon SageMaker 파이프라인 교차 계정을 모니터링합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/",
+      "date": "Wed, 15 Jul 2026 18:08:50 +0000",
+      "summary": "이 게시물에서는 Amazon CloudWatch 사용자 정의 대시보드를 사용하여 AWS 계정 및 지역 전반에 걸쳐 SageMaker 파이프라인 모니터링을 중앙 집중화하도록 설계된 솔루션을 제시합니다. 함께 제공되는 GitHub 저장소..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Strands Agents 및 Amazon Bedrock을 사용한 다중 에이전트 소셜 인텔리전스",
       "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
       "date": "Tue, 14 Jul 2026 18:44:26 +0000",
-      "summary": "이 게시물은 Thrad.ai가 개인화된 이메일 생성을 통해 잠재 고객 발굴부터 파이프라인을 자동화하는 Strands Agents 및 Amazon Bedrock AgentCore와 함께 다중 에이전트 시스템을 배포한 방법을 보여줍니다. 티..."
+      "summary": "이 게시물은 Thrad.ai가 개인화된 이메일 생성을 통해 잠재 고객 발견부터 파이프라인을 자동화하는 Strands Agents 및 Amazon Bedrock AgentCore와 함께 다중 에이전트 시스템을 배포한 방법을 보여줍니다. 티..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova Act를 사용한 에이전트적 QA 자동화로 소프트웨어 제공 가속화 – 2부",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-2/",
-      "date": "Tue, 14 Jul 2026 16:47:32 +0000",
-      "summary": "이 게시물에서는 QA Studio가 실행을 구성하고 병렬화하는 테스트 스위트와 통신을 통해 배치 회귀 테스트 및 파이프라인 통합을 처리하는 방법을 보여주기 위해 해당 기반을 확장합니다...."
+      "company": "Hugging Face",
+      "title": "Shippy가 빌딩 에이전트에 관해 우리에게 가르쳐 준 것",
+      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "date": "Wed, 15 Jul 2026 17:29:41 GMT",
+      "summary": "..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova Act를 사용한 UX 테스트 확장: 사용자 흐름 분석에 대한 새로운 접근 방식",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-ux-testing-with-amazon-nova-act-a-new-approach-to-user-flow-analysis/",
-      "date": "Tue, 14 Jul 2026 16:43:41 +0000",
-      "summary": "생성적 AI를 사용하면 포괄적인 사용자 흐름 테스트를 대규모로 병렬 실행할 수 있습니다. 이 솔루션은 TE를 자동으로 생성하는 클라우드 배포 UX 테스트 플랫폼을 구축하는 방법을 보여줍니다...."
+      "company": "Hugging Face",
+      "title": "모델 라우팅은 간단합니다. 그렇지 않을 때까지.",
+      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "date": "Wed, 15 Jul 2026 17:27:01 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
       "title": "Real World VoiceEQ 소개: 음성 AI의 인간 품질 측정",
       "link": "https://huggingface.co/blog/real-world-voiceeq",
       "date": "Wed, 15 Jul 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "PyTorch에서 프로파일링(3부): 프로파일링에는 관심이 전부입니다.",
-      "link": "https://huggingface.co/blog/torch-attention-profile",
-      "date": "Fri, 10 Jul 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "에이전트를 위한 데이터",
-      "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "date": "Wed, 08 Jul 2026 17:16:05 GMT",
       "summary": "..."
     }
   ]
