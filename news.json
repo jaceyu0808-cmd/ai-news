@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 20:41:32 (KST)",
+  "updated_at": "2026-07-15 23:00:50 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Real World VoiceEQ 소개: 음성 AI의 인간 품질 측정",
+      "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "date": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "PyTorch에서 프로파일링(3부): 프로파일링에는 관심이 전부입니다.",
       "link": "https://huggingface.co/blog/torch-attention-profile",
       "date": "Fri, 10 Jul 2026 00:00:00 GMT",
@@ -94,16 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "에이전트를 위한 데이터",
+      "title": "에이전트용 데이터",
       "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "date": "Wed, 08 Jul 2026 17:16:05 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "기본 속도 vLLM 변환기 모델링 백엔드",
-      "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "date": "Wed, 08 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
