@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 03:14:00 (KST)",
+  "updated_at": "2026-07-16 05:16:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,10 +66,17 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Build Technologies는 AWS에서 AI 기반 문서 인텔리전스 솔루션을 구축하여 부동산 금융 전반에 걸쳐 에이전트를 지원합니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
+      "date": "Wed, 15 Jul 2026 18:14:31 +0000",
+      "summary": "AWS GenAIIC(AWS Generative AI Innovation Center), AWS 파트너 AND 디지털 및 AWS 계정 팀과 협력하여 구축되어 SP를 분류할 수 있는 확장 가능한 AI 기반 문서 처리 엔진을 만들었습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "에이전트 비전: Amazon Bedrock 및 MCP 서버를 사용하여 시각적 인텔리전스 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
       "date": "Wed, 15 Jul 2026 18:11:57 +0000",
-      "summary": "이 게시물에서는 AI 시스템이 시각적 정보를 처리하고 s를 통해 지능적인 결정을 내릴 수 있는 방법을 보여주는 이러한 접근 방식을 설명하는 Computer Vision MCP 서버를 안내합니다...."
+      "summary": "이 게시물에서는 AI 시스템이 시각적 정보를 처리하고 AI를 통해 지능적인 결정을 내릴 수 있는 방법을 보여주는 이러한 접근 방식을 설명하는 Computer Vision MCP 서버를 안내합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/",
       "date": "Wed, 15 Jul 2026 18:08:50 +0000",
       "summary": "이 게시물에서는 Amazon CloudWatch 사용자 정의 대시보드를 사용하여 AWS 계정 및 지역 전반에 걸쳐 SageMaker 파이프라인 모니터링을 중앙 집중화하도록 설계된 솔루션을 제시합니다. 함께 제공되는 GitHub 저장소..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Strands Agents 및 Amazon Bedrock을 사용한 다중 에이전트 소셜 인텔리전스",
-      "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
-      "date": "Tue, 14 Jul 2026 18:44:26 +0000",
-      "summary": "이 게시물은 Thrad.ai가 개인화된 이메일 생성을 통해 잠재 고객 발견부터 파이프라인을 자동화하는 Strands Agents 및 Amazon Bedrock AgentCore와 함께 다중 에이전트 시스템을 배포한 방법을 보여줍니다. 티..."
     },
     {
       "company": "Hugging Face",
@@ -101,8 +101,8 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Real World VoiceEQ 소개: 음성 AI의 인간 품질 측정",
-      "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "title": "Thinking Machines의 Inkling을 환영합니다",
+      "link": "https://huggingface.co/blog/thinkingmachines-inkling",
       "date": "Wed, 15 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
