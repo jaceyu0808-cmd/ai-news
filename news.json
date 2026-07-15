@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-07-15 23:00:50 (KST)",
+  "updated_at": "2026-07-16 01:39:15 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "미국은 주 및 연방 조치를 통해 AI 안전을 발전시키고 있습니다.",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "date": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "summary": "OpenAI는 AI 거버넌스에 대한 \"역연방주의\" 접근 방식을 설명합니다. 여기서 주법은 안전하고 민주적인 AI를 위한 국가적 프레임워크를 구축하는 데 도움이 됩니다...."
+    },
     {
       "company": "OpenAI",
       "title": "에이전트 시대의 AI 투자 관리 방법",
       "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "date": "Tue, 14 Jul 2026 10:00:00 GMT",
       "summary": "기업이 달러당 유용한 작업량을 측정하고, 효율성을 개선하고, 고가치 워크플로를 확장하여 에이전트 시대에 AI 투자를 관리할 수 있는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "데이터 과학 팀이 ChatGPT 작업을 사용하는 방법",
-      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "summary": "데이터 과학 팀이 ChatGPT 작업을 사용하여 실제 작업 입력에서 근본 원인 요약, 영향 판독, KPI 메모, 범위 분석 및 대시보드 사양을 구축하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
@@ -69,7 +69,7 @@
       "title": "Strands Agents 및 Amazon Bedrock을 사용한 다중 에이전트 소셜 인텔리전스",
       "link": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
       "date": "Tue, 14 Jul 2026 18:44:26 +0000",
-      "summary": "이 게시물은 Thrad.ai가 개인화된 이메일 생성을 통해 잠재 고객 발견부터 파이프라인을 자동화하는 Strands Agents 및 Amazon Bedrock AgentCore와 함께 다중 에이전트 시스템을 배포한 방법을 보여줍니다. 티..."
+      "summary": "이 게시물은 Thrad.ai가 개인화된 이메일 생성을 통해 잠재 고객 발굴부터 파이프라인을 자동화하는 Strands Agents 및 Amazon Bedrock AgentCore와 함께 다중 에이전트 시스템을 배포한 방법을 보여줍니다. 티..."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "에이전트용 데이터",
+      "title": "에이전트를 위한 데이터",
       "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
       "date": "Wed, 08 Jul 2026 17:16:05 GMT",
       "summary": "..."
