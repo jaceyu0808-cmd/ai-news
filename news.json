@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 05:16:02 (KST)",
+  "updated_at": "2026-07-16 07:08:34 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -76,7 +76,7 @@
       "title": "에이전트 비전: Amazon Bedrock 및 MCP 서버를 사용하여 시각적 인텔리전스 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
       "date": "Wed, 15 Jul 2026 18:11:57 +0000",
-      "summary": "이 게시물에서는 AI 시스템이 시각적 정보를 처리하고 AI를 통해 지능적인 결정을 내릴 수 있는 방법을 보여주는 이러한 접근 방식을 설명하는 Computer Vision MCP 서버를 안내합니다...."
+      "summary": "이 게시물에서는 AI 시스템이 시각적 정보를 처리하고 s를 통해 지능적인 결정을 내릴 수 있는 방법을 보여주는 이러한 접근 방식을 설명하는 Computer Vision MCP 서버를 안내합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Thinking Machines의 Inkling을 환영합니다",
+      "title": "Thinking Machines의 Inkling을 환영합니다.",
       "link": "https://huggingface.co/blog/thinkingmachines-inkling",
       "date": "Wed, 15 Jul 2026 00:00:00 GMT",
       "summary": "..."
