@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 19:18:40 (KST)",
+  "updated_at": "2026-07-16 21:25:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,23 +87,23 @@
     },
     {
       "company": "Hugging Face",
+      "title": "최신 모델, 동일한 장점",
+      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "date": "Thu, 16 Jul 2026 11:49:48 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "보안 사고 공개 - 2026년 7월",
+      "link": "https://huggingface.co/blog/security-incident-july-2026",
+      "date": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Shippy가 빌딩 에이전트에 관해 우리에게 가르쳐 준 것",
       "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
       "date": "Wed, 15 Jul 2026 17:29:41 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "모델 라우팅은 간단합니다. 그렇지 않을 때까지.",
-      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "date": "Wed, 15 Jul 2026 17:27:01 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Thinking Machines의 Inkling을 환영합니다",
-      "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "date": "Wed, 15 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
