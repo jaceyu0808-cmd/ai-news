@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17 06:10:52 (KST)",
+  "updated_at": "2026-07-17 08:04:04 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock Managed Knowledge Base를 사용하여 에이전트에 대한 엔터프라이즈 검색 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
+      "date": "Thu, 16 Jul 2026 21:29:14 +0000",
+      "summary": "이 게시물에서는 이를 가능하게 하는 세 가지 요소, 즉 단순화된 설정, 스마트한 검색, 생산 준비에 대해 살펴보겠습니다. 또한 지식 기반을 설정하기 위한 코드 예제도 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock의 Grok 소개",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
       "date": "Thu, 16 Jul 2026 19:29:26 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
       "date": "Thu, 16 Jul 2026 15:50:52 +0000",
       "summary": "이 게시물에서는 전화번호에 응답하고 인사말부터 확인까지 주문을 받는 음성 주문 시스템을 구축하는 방법을 보여줍니다. 시스템은 Amazon Bedrock AgentCore를 사용하여 t를 호스팅하고 실행합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Build Technologies는 AWS에서 AI 기반 문서 인텔리전스 솔루션을 구축하여 부동산 금융 전반에 걸쳐 에이전트를 지원합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
-      "date": "Wed, 15 Jul 2026 18:14:31 +0000",
-      "summary": "AWS GenAIIC(AWS Generative AI Innovation Center), AWS 파트너 AND 디지털 및 AWS 계정 팀과 협력하여 구축되어 SP를 분류할 수 있는 확장 가능한 AI 기반 문서 처리 엔진을 만들었습니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "보안 사고 공개 — 2026년 7월",
+      "title": "보안 사고 공개 - 2026년 7월",
       "link": "https://huggingface.co/blog/security-incident-july-2026",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
       "summary": "..."
