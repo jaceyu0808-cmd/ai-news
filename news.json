@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-17 00:08:45 (KST)",
+  "updated_at": "2026-07-17 02:26:32 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "십대들이 안전한 AI에 접근할 자격이 있는 이유",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "date": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "summary": "OpenAI가 연령에 맞는 보호, 학습 도구, 자녀 보호 기능, 전문가 파트너십을 통해 청소년을 위한 ChatGPT를 더욱 안전하게 만드는 방법을 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
+      "link": "https://openai.com/index/cars24",
+      "date": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "summary": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "미국은 주 및 연방 조치를 통해 AI 안전을 발전시키고 있습니다.",
@@ -9,18 +23,18 @@
       "summary": "OpenAI는 AI 거버넌스에 대한 \"역연방주의\" 접근 방식을 설명합니다. 여기서 주법은 안전하고 민주적인 AI를 위한 국가적 프레임워크를 구축하는 데 도움이 됩니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "GPT-Red: 견고성을 위한 자기 개선 잠금 해제",
-      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "date": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "summary": "셀프 플레이를 사용하여 AI 안전, 정렬 및 신속한 주입 견고성을 향상시키는 OpenAI의 자동화된 레드 팀 구성 시스템인 GPT-Red를 살펴보세요...."
+      "company": "Google AI",
+      "title": "더 많은 앱을 검색에 연결하세요",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "date": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "summary": "연결된 앱 렌더링..."
     },
     {
-      "company": "OpenAI",
-      "title": "에이전트 시대의 AI 투자 관리 방법",
-      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "date": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "summary": "기업이 달러당 유용한 작업량을 측정하고, 효율성을 개선하고, 고가치 워크플로를 확장하여 에이전트 시대에 AI 투자를 관리할 수 있는 방법을 알아보세요...."
+      "company": "Google AI",
+      "title": "두 가지 Google Vids 업데이트로 동영상 제작, 편집 및 별표 표시",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "date": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "summary": "다양한 이미지로 둘러싸인 'Google 동영상의 Gemini Omni 및 개인 아바타'라는 텍스트..."
     },
     {
       "company": "Google AI",
@@ -28,20 +42,6 @@
       "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
       "date": "Tue, 14 Jul 2026 16:00:00 +0000",
       "summary": "다양한 이미지를 검색하는 사람들의 그림으로 둘러싸인 Google 이미지 로고..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Gemini API에서 관리형 에이전트 확장: 백그라운드 작업, 원격 MCP 등",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "date": "Tue, 07 Jul 2026 08:54:00 +0000",
-      "summary": "관리형 에이전트 기능 번들 출시..."
-    },
-    {
-      "company": "Google AI",
-      "title": "2026년 6월 발표한 AI 최신 소식",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "date": "Wed, 01 Jul 2026 18:15:00 +0000",
-      "summary": "6월 픽셀드롭 히어로..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore 및 Amazon Nova 2 Sonic을 사용하여 레스토랑 전화 통신 AI 호스트 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
+      "date": "Thu, 16 Jul 2026 15:50:52 +0000",
+      "summary": "이 게시물에서는 전화번호에 응답하고 인사말부터 확인까지 주문을 받는 음성 주문 시스템을 구축하는 방법을 보여줍니다. 시스템은 Amazon Bedrock AgentCore를 사용하여 t를 호스팅하고 실행합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Build Technologies는 AWS에서 AI 기반 문서 인텔리전스 솔루션을 구축하여 부동산 금융 전반에 걸쳐 에이전트를 지원합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
       "date": "Wed, 15 Jul 2026 18:14:31 +0000",
@@ -76,14 +83,14 @@
       "title": "에이전트 비전: Amazon Bedrock 및 MCP 서버를 사용하여 시각적 인텔리전스 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/agentic-vision-building-visual-intelligence-with-amazon-bedrock-and-mcp-servers/",
       "date": "Wed, 15 Jul 2026 18:11:57 +0000",
-      "summary": "이 게시물에서는 AI 시스템이 시각적 정보를 처리하고 AI를 통해 지능적인 결정을 내릴 수 있는 방법을 보여주는 이러한 접근 방식을 설명하는 Computer Vision MCP 서버를 안내합니다...."
+      "summary": "이 게시물에서는 AI 시스템이 시각적 정보를 처리하고 s를 통해 지능적인 결정을 내릴 수 있는 방법을 보여주는 이러한 접근 방식을 설명하는 Computer Vision MCP 서버를 안내합니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "사용자 지정 Amazon CloudWatch 대시보드를 사용하여 Amazon SageMaker 파이프라인 교차 계정을 모니터링합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-amazon-sagemaker-pipelines-cross-account-with-custom-amazon-cloudwatch-dashboards/",
-      "date": "Wed, 15 Jul 2026 18:08:50 +0000",
-      "summary": "이 게시물에서는 Amazon CloudWatch 사용자 정의 대시보드를 사용하여 AWS 계정 및 지역 전반에 걸쳐 SageMaker 파이프라인 모니터링을 중앙 집중화하도록 설계된 솔루션을 제시합니다. 함께 제공되는 GitHub 저장소..."
+      "company": "Hugging Face",
+      "title": "NVIDIA Nemotron 3 Embed는 RTEB에서 전체 1위를 차지하여 에이전트 검색을 향상시킵니다.",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "date": "Thu, 16 Jul 2026 16:01:21 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "보안 사고 공개 - 2026년 7월",
       "link": "https://huggingface.co/blog/security-incident-july-2026",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Shippy가 빌딩 에이전트에 관해 우리에게 가르쳐 준 것",
-      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "date": "Wed, 15 Jul 2026 17:29:41 GMT",
       "summary": "..."
     }
   ]
