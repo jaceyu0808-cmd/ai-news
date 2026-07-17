@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 00:20:20 (KST)",
+  "updated_at": "2026-07-18 02:18:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
       "link": "https://openai.com/index/cars24",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "summary": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 1백만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체 팀에 에이전트 워크플로를 제공합니다...."
+      "summary": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -66,30 +66,30 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Quick 대시보드용 모바일 레이아웃 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
+      "date": "Fri, 17 Jul 2026 17:13:15 +0000",
+      "summary": "일상적인 결정을 위해 대시보드에 의존하는 팀은 원래 대형 디스플레이용으로 설계된 컨트롤과 상호 작용하기 위해 핀치 및 확대/축소를 수행해야 하는 경우가 많습니다. 아침 대기 중 수익 확인, 파이프 검토..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Smartsheet가 AWS에 원격 MCP 서버를 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
+      "date": "Fri, 17 Jul 2026 16:32:06 +0000",
+      "summary": "이 게시물에서는 그 뒤에 있는 AWS 인프라에 중점을 두고 Smartsheet 원격 MCP 아키텍처에 대한 높은 수준의 보기를 다룹니다. 여기에는 보안, 거버넌스, 확장 및 배포 등이 포함됩니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock Managed Knowledge Base를 사용하여 에이전트에 대한 엔터프라이즈 검색 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
       "date": "Thu, 16 Jul 2026 21:29:14 +0000",
       "summary": "이 게시물에서는 이를 가능하게 하는 세 가지 요소, 즉 단순화된 설정, 스마트한 검색, 생산 준비에 대해 살펴보겠습니다. 또한 지식 기반을 설정하기 위한 코드 예제도 보여줍니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock의 Grok 소개",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
-      "date": "Thu, 16 Jul 2026 19:29:26 +0000",
-      "summary": "이 게시물에서는 Grok 4.3이 에이전트 및 엔터프라이즈 워크로드에 매우 적합한 이유, Amazon Bedrock을 통해 액세스하는 방법, 대부분의 팀이 처음으로 도달하는 기능인 기본 차를 사용하는 방법을 다룹니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore 및 Amazon Nova 2 Sonic을 사용하여 레스토랑 전화 통신 AI 호스트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
-      "date": "Thu, 16 Jul 2026 15:50:52 +0000",
-      "summary": "이 게시물에서는 전화번호에 응답하고 인사말부터 확인까지 주문을 받는 음성 주문 시스템을 구축하는 방법을 보여줍니다. 시스템은 Amazon Bedrock AgentCore를 사용하여 t를 호스팅하고 실행합니다...."
-    },
-    {
       "company": "Hugging Face",
-      "title": "NVIDIA Nemotron 3 Embed는 RTEB에서 전체 1위를 차지하여 에이전트 검색을 향상시킵니다.",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "date": "Thu, 16 Jul 2026 16:01:21 GMT",
+      "title": "NVIDIA NeMo Automodel 및 🤗 디퓨저를 사용하여 규모에 맞게 비디오 및 이미지 모델을 미세 조정하세요.",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "date": "Fri, 17 Jul 2026 15:57:54 GMT",
       "summary": "..."
     },
     {
