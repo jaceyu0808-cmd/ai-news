@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-17 20:26:09 (KST)",
+  "updated_at": "2026-07-17 22:56:05 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "AI 시대의 스코어카드",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "date": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "summary": "OpenaAI의 CFO인 Sarah Friar는 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익을 통해 ROI를 측정하는 실용적인 AI 스코어카드를 소개합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "십대들이 안전한 AI에 접근할 자격이 있는 이유",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/cars24",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
       "summary": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "미국은 주 및 연방 조치를 통해 AI 안전을 발전시키고 있습니다.",
-      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "date": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "summary": "OpenAI는 AI 거버넌스에 대한 \"역연방주의\" 접근 방식을 설명합니다. 여기서 주법은 안전하고 민주적인 AI를 위한 국가적 프레임워크를 구축하는 데 도움이 됩니다...."
     },
     {
       "company": "Google AI",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "보안 사고 공개 — 2026년 7월",
+      "title": "보안 사고 공개 - 2026년 7월",
       "link": "https://huggingface.co/blog/security-incident-july-2026",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
       "summary": "..."
