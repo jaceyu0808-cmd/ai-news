@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-18 02:18:42 (KST)",
+  "updated_at": "2026-07-18 04:21:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "AI 시대의 스코어카드",
       "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "date": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "summary": "OpenaAI의 CFO인 Sarah Friar는 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익을 통해 ROI를 측정하는 실용적인 AI 스코어카드를 소개합니다...."
+      "summary": "OpenAI의 CFO인 Sarah Friar는 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익을 통해 ROI를 측정하는 실용적인 AI 스코어카드를 소개합니다...."
     },
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "새로운 에이전트 AI 팀원인 Amazon Quick을 통해 영업 조직을 혁신하십시오.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
+      "date": "Fri, 17 Jul 2026 18:42:36 +0000",
+      "summary": "이 게시물에서는 Quick이 이 약속을 이행하는 몇 가지 방법을 살펴보겠습니다. 우리는 가장 우선순위가 높은 잠재 고객 식별부터 연락, 거래 성사, 클로닝까지 전체 영업 주기를 다룹니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Quick 대시보드용 모바일 레이아웃 소개",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
       "date": "Fri, 17 Jul 2026 17:13:15 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
       "date": "Fri, 17 Jul 2026 16:32:06 +0000",
       "summary": "이 게시물에서는 그 뒤에 있는 AWS 인프라에 중점을 두고 Smartsheet 원격 MCP 아키텍처에 대한 높은 수준의 보기를 다룹니다. 여기에는 보안, 거버넌스, 확장 및 배포 등이 포함됩니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock Managed Knowledge Base를 사용하여 에이전트에 대한 엔터프라이즈 검색 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
-      "date": "Thu, 16 Jul 2026 21:29:14 +0000",
-      "summary": "이 게시물에서는 이를 가능하게 하는 세 가지 요소, 즉 단순화된 설정, 스마트한 검색, 생산 준비에 대해 살펴보겠습니다. 또한 지식 기반을 설정하기 위한 코드 예제도 보여줍니다...."
     },
     {
       "company": "Hugging Face",
