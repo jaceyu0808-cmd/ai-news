@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19 04:15:40 (KST)",
+  "updated_at": "2026-07-19 06:00:26 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
       "link": "https://openai.com/index/cars24",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "summary": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다...."
+      "summary": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 1백만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체 팀에 에이전트 워크플로를 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
-      "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "프론티어 모델 및 프로덕션 에이전트: 에이전트 시대를 위한 Microsoft Foundry 발전",
       "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
       "date": "Thu, 09 Jul 2026 17:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
       "date": "Wed, 08 Jul 2026 16:00:00 +0000",
       "summary": "<p>클라우드 탄력성은 시스템이 실제 제약 조건 내에서 적응, 복구, 계속 작동할 수 있도록 보장하는 것입니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/build-to-bounce-ba..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure Managed HSM에 대한 외부 키 관리는 이제 공개 미리 보기로 제공됩니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/",
+      "date": "Tue, 07 Jul 2026 16:00:00 +0000",
+      "summary": "<p>Azure Key Vault 관리형 하드웨어 보안 모듈(HSM)은 암호화 키에 대한 강력한 주권을 제공합니다. 키는 사용자만 사용할 수 있는 단일 테넌트 FIPS 140-3 레벨 3 HSM에 생성되고 저장됩니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "보안 사고 공개 — 2026년 7월",
+      "title": "보안 사고 공개 - 2026년 7월",
       "link": "https://huggingface.co/blog/security-incident-july-2026",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
       "summary": "..."
