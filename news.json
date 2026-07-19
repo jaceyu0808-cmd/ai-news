@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20 00:04:17 (KST)",
+  "updated_at": "2026-07-20 02:07:35 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
       "link": "https://openai.com/index/cars24",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "summary": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다...."
+      "summary": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 1백만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체 팀에 에이전트 워크플로를 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "보안 사고 공개 — 2026년 7월",
+      "title": "보안 사고 공개 - 2026년 7월",
       "link": "https://huggingface.co/blog/security-incident-july-2026",
       "date": "Thu, 16 Jul 2026 00:00:00 GMT",
       "summary": "..."
