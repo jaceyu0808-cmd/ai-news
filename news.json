@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-21 01:39:03 (KST)",
+  "updated_at": "2026-07-21 03:59:32 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "장거리 모델 시대의 안전과 정렬",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "date": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 반복 배포를 통해 새로운 안전 위험, 관찰된 오류, 향상된 보호 조치를 강조합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "AI 시대의 스코어카드",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
       "date": "Thu, 16 Jul 2026 16:00:00 GMT",
       "summary": "OpenAI가 연령에 맞는 보호, 학습 도구, 자녀 보호 기능, 전문가 파트너십을 통해 청소년을 위한 ChatGPT를 더욱 안전하게 만드는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
-      "link": "https://openai.com/index/cars24",
-      "date": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "summary": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 1백만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체 팀에 에이전트 워크플로를 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "새로운 에이전트 AI 팀원인 Amazon Quick을 통해 영업 조직을 혁신하십시오.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
-      "date": "Fri, 17 Jul 2026 18:42:36 +0000",
-      "summary": "이 게시물에서는 Quick이 이 약속을 이행하는 몇 가지 방법을 살펴보겠습니다. 우리는 가장 우선순위가 높은 잠재 고객 식별부터 연락, 거래 성사, 클로닝까지 전체 영업 주기를 다룹니다...."
+      "title": "이제 AWS DeepRacer 디바이스에서 사용자 지정 OS 설치 가능",
+      "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
+      "date": "Mon, 20 Jul 2026 17:25:24 +0000",
+      "summary": "개발자는 기본 펌웨어와 소프트웨어를 사용하여 최신 운영 체제를 사용하도록 AWS DeepRacer 디바이스를 수정할 수 없었습니다. 이제 개발자는 맞춤형 운영 체제(OS)를 업그레이드하거나 설치할 수 있습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Quick 대시보드용 모바일 레이아웃 소개",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-mobile-layout-for-amazon-quick-dashboards/",
-      "date": "Fri, 17 Jul 2026 17:13:15 +0000",
-      "summary": "일상적인 결정을 위해 대시보드에 의존하는 팀은 원래 대형 디스플레이용으로 설계된 컨트롤과 상호 작용하기 위해 핀치 및 확대/축소를 수행해야 하는 경우가 많습니다. 아침 대기 중 수익 확인, 파이프 검토..."
+      "title": "Amazon Quick 및 NVIDIA NeMo Agent Toolkit을 사용하여 비즈니스를 위한 전문 에이전트 워크플로를 구축하세요.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
+      "date": "Mon, 20 Jul 2026 17:01:32 +0000",
+      "summary": "이 게시물에서는 Amazon Quick이 어떻게 전문 에이전트 워크플로를 위한 비즈니스 사용자 현관 역할을 할 수 있는지 보여줍니다. 우리는 NVIDIA NeMo Agent Toolkit을 사용하여 다음과 같은 공급망 위험 사례를 구축합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Smartsheet가 AWS에 원격 MCP 서버를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-smartsheet-built-a-remote-mcp-server-on-aws/",
-      "date": "Fri, 17 Jul 2026 16:32:06 +0000",
-      "summary": "이 게시물에서는 그 뒤에 있는 AWS 인프라에 중점을 두고 Smartsheet 원격 MCP 아키텍처에 대한 높은 수준의 보기를 다룹니다. 여기에는 보안, 거버넌스, 확장 및 배포 등이 포함됩니다...."
+      "title": "Couchbase가 Amazon Bedrock을 사용하여 Capella iQ용 다중 모델 AI 아키텍처를 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
+      "date": "Mon, 20 Jul 2026 16:58:52 +0000",
+      "summary": "이 게시물에서는 Couchbase가 Anthropic의 Claude 모델 제품군을 통해 Capella iQ를 지원하기 위해 Amazon Bedrock을 채택한 방법, 다중 모델 접근 방식의 아키텍처 결정 및 운영을 설명합니다...."
     },
     {
       "company": "Hugging Face",
