@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-21 19:31:43 (KST)",
+  "updated_at": "2026-07-21 21:41:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "장거리 모델 시대의 안전과 정렬",
       "link": "https://openai.com/index/safety-alignment-long-horizon-models",
       "date": "Mon, 20 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 반복 배포를 통해 새로운 안전 위험, 관찰된 오류, 향상된 보호 조치를 강조합니다...."
+      "summary": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 새로운 안전 위험, 관찰된 오류, 반복 배포를 통한 향상된 보호 조치를 강조합니다...."
     },
     {
       "company": "OpenAI",
