@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-21 16:37:53 (KST)",
+  "updated_at": "2026-07-21 19:31:43 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "장거리 모델 시대의 안전과 정렬",
       "link": "https://openai.com/index/safety-alignment-long-horizon-models",
       "date": "Mon, 20 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 새로운 안전 위험, 관찰된 오류, 반복 배포를 통한 향상된 보호 조치를 강조합니다...."
+      "summary": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 반복 배포를 통해 새로운 안전 위험, 관찰된 오류, 향상된 보호 조치를 강조합니다...."
     },
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Grabette: 로봇 조작 데이터를 기록하는 개방형 시스템",
+      "link": "https://huggingface.co/blog/grabette",
+      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "코스모스 3 엣지 소개",
       "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
       "date": "Mon, 20 Jul 2026 15:58:51 GMT",
@@ -97,13 +104,6 @@
       "title": "최신 모델, 동일한 장점",
       "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "date": "Thu, 16 Jul 2026 11:49:48 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "보안 사고 공개 — 2026년 7월",
-      "link": "https://huggingface.co/blog/security-incident-july-2026",
-      "date": "Thu, 16 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
