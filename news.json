@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-21 21:41:18 (KST)",
+  "updated_at": "2026-07-22 00:09:36 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "장거리 모델 시대의 안전과 정렬",
       "link": "https://openai.com/index/safety-alignment-long-horizon-models",
       "date": "Mon, 20 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 새로운 안전 위험, 관찰된 오류, 반복 배포를 통한 향상된 보호 조치를 강조합니다...."
+      "summary": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 반복 배포를 통해 새로운 안전 위험, 관찰된 오류, 향상된 보호 조치를 강조합니다...."
     },
     {
       "company": "OpenAI",
@@ -83,7 +83,7 @@
       "title": "Couchbase가 Amazon Bedrock을 사용하여 Capella iQ용 다중 모델 AI 아키텍처를 구축한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
       "date": "Mon, 20 Jul 2026 16:58:52 +0000",
-      "summary": "이 게시물에서는 Couchbase가 Anthropic의 Claude 모델 제품군을 통해 Capella iQ를 강화하기 위해 Amazon Bedrock을 채택한 방법, 다중 모델 접근 방식의 아키텍처 결정 및 운영을 설명합니다...."
+      "summary": "이 게시물에서는 Couchbase가 Anthropic의 Claude 모델 제품군을 통해 Capella iQ를 지원하기 위해 Amazon Bedrock을 채택한 방법, 다중 모델 접근 방식의 아키텍처 결정 및 운영을 설명합니다...."
     },
     {
       "company": "Hugging Face",
