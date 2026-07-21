@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-22 00:09:36 (KST)",
+  "updated_at": "2026-07-22 02:37:53 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "중소기업을 위한 ChatGPT 프로그램을 소개합니다",
+      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "date": "Tue, 21 Jul 2026 17:00:00 GMT",
+      "summary": "OpenAI는 중소기업을 위한 ChatGPT 프로그램을 출시하여 기업가가 AI 기술을 구축하고 작업을 자동화하며 ChatGPT Work를 통해 성장할 수 있도록 지원합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "장거리 모델 시대의 안전과 정렬",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "date": "Fri, 17 Jul 2026 10:00:00 GMT",
       "summary": "OpenAI의 CFO인 Sarah Friar는 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익을 통해 ROI를 측정하는 실용적인 AI 스코어카드를 소개합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "십대들이 안전한 AI에 접근할 자격이 있는 이유",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "date": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "summary": "OpenAI가 연령에 맞는 보호, 학습 도구, 자녀 보호 기능, 전문가 파트너십을 통해 청소년을 위한 ChatGPT를 더욱 안전하게 만드는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon Nova를 사용한 감독 미세 조정을 위한 자체 증류 추론 탐색",
+      "link": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
+      "date": "Tue, 21 Jul 2026 16:23:12 +0000",
+      "summary": "이 게시물에서는 SFT 사용자 정의에서 추론 추적이 부족한 데이터 세트에 대한 사고 토큰을 생성하는 아이디어를 살펴봅니다. 먼저 추론 억제 문제를 살펴본 후 Self-Di를 소개합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "이제 AWS DeepRacer 디바이스에서 사용자 지정 OS 설치 가능",
       "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
       "date": "Mon, 20 Jul 2026 17:25:24 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
       "date": "Mon, 20 Jul 2026 17:01:32 +0000",
       "summary": "이 게시물에서는 Amazon Quick이 어떻게 전문 에이전트 워크플로를 위한 비즈니스 사용자 현관 역할을 할 수 있는지 보여줍니다. 우리는 NVIDIA NeMo Agent Toolkit을 사용하여 다음과 같은 공급망 위험 사례를 구축합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Couchbase가 Amazon Bedrock을 사용하여 Capella iQ용 다중 모델 AI 아키텍처를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-couchbase-built-a-multi-model-ai-architecture-for-capella-iq-with-amazon-bedrock/",
-      "date": "Mon, 20 Jul 2026 16:58:52 +0000",
-      "summary": "이 게시물에서는 Couchbase가 Anthropic의 Claude 모델 제품군을 통해 Capella iQ를 지원하기 위해 Amazon Bedrock을 채택한 방법, 다중 모델 접근 방식의 아키텍처 결정 및 운영을 설명합니다...."
     },
     {
       "company": "Hugging Face",
