@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 04:43:39 (KST)",
+  "updated_at": "2026-07-22 06:19:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "장거리 모델 시대의 안전과 정렬",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "date": "Mon, 20 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 새로운 안전 위험, 관찰된 오류, 반복 배포를 통한 향상된 보호 조치를 강조합니다...."
+      "title": "OpenAI와 Hugging Face가 협력하여 모델 평가 중 보안 사고 해결",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "summary": "OpenAI와 Hugging Face는 AI 모델 평가 중 보안 사고의 초기 조사 결과를 공유하여 고급 사이버 기능과 방어자를 위한 교훈을 강조합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "AI 시대의 스코어카드",
-      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "date": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI의 CFO인 Sarah Friar는 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익을 통해 ROI를 측정하는 실용적인 AI 스코어카드를 소개합니다...."
+      "title": "David Vélez와 Robin Vince가 OpenAI Foundation 및 OpenAI Group PBC 이사회에 합류",
+      "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "summary": "David Vélez와 Robin Vince는 OpenAI Foundation 및 OpenAI Group PBC 이사회에 합류하여 금융, 기술 및 거버넌스 분야에서 글로벌 리더십을 발휘하고 있습니다...."
     },
     {
       "company": "Google AI",
@@ -87,16 +87,16 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Grabette: 로봇 조작 데이터를 기록하는 개방형 시스템",
-      "link": "https://huggingface.co/blog/grabette",
-      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "title": "물리적 AI 시뮬레이션 상태: 개요",
+      "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "date": "Tue, 21 Jul 2026 20:00:27 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "코스모스 3 엣지 소개",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "date": "Mon, 20 Jul 2026 15:58:51 GMT",
+      "title": "Grabette: 로봇 조작 데이터를 기록하는 개방형 시스템",
+      "link": "https://huggingface.co/blog/grabette",
+      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
       "summary": "..."
     },
     {
