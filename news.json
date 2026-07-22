@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 23:14:59 (KST)",
+  "updated_at": "2026-07-23 01:26:50 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "국가과학의 다음 시대를 앞당기다",
+      "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "date": "Wed, 22 Jul 2026 12:00:00 GMT",
+      "summary": "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 개척 AI를 사용하여 발견을 가속화하는 미국 과학을 발전시키겠다는 약속을 간략하게 설명합니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "OpenAI 존재 소개",
       "link": "https://openai.com/index/introducing-openai-presence",
       "date": "Wed, 22 Jul 2026 05:30:00 GMT",
       "summary": "조직이 고객 및 내부 워크플로를 위해 신뢰할 수 있는 음성 및 채팅 에이전트를 배포하는 데 도움이 되는 검증된 엔터프라이즈 AI 에이전트 플랫폼인 OpenAI Presence를 소개합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "중소기업을 위한 ChatGPT 프로그램을 소개합니다",
-      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "date": "Tue, 21 Jul 2026 17:00:00 GMT",
-      "summary": "OpenAI는 중소기업을 위한 ChatGPT 프로그램을 출시하여 기업가가 AI 기술을 구축하고 작업을 자동화하며 ChatGPT Work를 통해 성장할 수 있도록 지원합니다...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "AI 팀원: monday.com이 Amazon Bedrock에서 프로덕션 AI 에이전트를 실행하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/",
+      "date": "Wed, 22 Jul 2026 15:54:28 +0000",
+      "summary": "AI 팀원은 Amazon Bedrock의 에이전트 AI이며, monday.com만큼 규모로 이를 프로덕션에서 실행하는 엔지니어링 조직은 거의 없습니다. 빌더 10명 중 9명은 매달 AI 코딩 도구를 사용합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Nova를 사용한 감독 미세 조정을 위한 자체 증류 추론 탐색",
       "link": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
       "date": "Tue, 21 Jul 2026 16:23:12 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
       "date": "Mon, 20 Jul 2026 17:25:24 +0000",
       "summary": "개발자는 기본 펌웨어와 소프트웨어를 사용하여 최신 운영 체제를 사용하도록 AWS DeepRacer 디바이스를 수정할 수 없었습니다. 이제 개발자는 맞춤형 운영 체제(OS)를 업그레이드하거나 설치할 수 있습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Quick 및 NVIDIA NeMo Agent Toolkit을 사용하여 비즈니스를 위한 전문 에이전트 워크플로를 구축하세요.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-specialized-agent-workflows-for-your-business-with-amazon-quick-and-nvidia-nemo-agent-toolkit/",
-      "date": "Mon, 20 Jul 2026 17:01:32 +0000",
-      "summary": "이 게시물에서는 Amazon Quick이 어떻게 전문 에이전트 워크플로를 위한 비즈니스 사용자 현관 역할을 할 수 있는지 보여줍니다. 우리는 NVIDIA NeMo Agent Toolkit을 사용하여 다음과 같은 공급망 위험 사례를 구축합니다...."
     },
     {
       "company": "Hugging Face",
