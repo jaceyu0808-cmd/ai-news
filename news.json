@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23 03:15:02 (KST)",
+  "updated_at": "2026-07-23 05:16:50 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "언론 기관이 AI를 사용하여 중요한 임무를 수행하는 방법",
+      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "summary": "뉴스 조직은 전 세계 언론인과 출판사를 지원하는 OpenAI 도구를 통해 AI를 사용하여 보도를 강화하고, 청중을 늘리고, 비즈니스 운영을 개선하고 있습니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "국가과학의 다음 시대를 앞당기다",
       "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "date": "Wed, 22 Jul 2026 12:00:00 GMT",
       "summary": "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 개척 AI를 사용하여 발견을 가속화하는 미국 과학을 발전시키겠다는 약속을 간략하게 설명합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI 존재 소개",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "date": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "summary": "조직이 고객 및 내부 워크플로를 위해 신뢰할 수 있는 음성 및 채팅 에이전트를 배포하는 데 도움이 되는 검증된 엔터프라이즈 AI 에이전트 플랫폼인 OpenAI Presence를 소개합니다...."
     },
     {
       "company": "Google AI",
