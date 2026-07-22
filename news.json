@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-22 20:55:02 (KST)",
+  "updated_at": "2026-07-22 23:14:59 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Effingham 카운티 커뮤니티와 함께 ​​AI 인프라 구축",
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "summary": "OpenAI는 조지아주 에핑햄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 존재 소개",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "date": "Wed, 22 Jul 2026 05:30:00 GMT",
+      "summary": "조직이 고객 및 내부 워크플로를 위해 신뢰할 수 있는 음성 및 채팅 에이전트를 배포하는 데 도움이 되는 검증된 엔터프라이즈 AI 에이전트 플랫폼인 OpenAI Presence를 소개합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "중소기업을 위한 ChatGPT 프로그램을 소개합니다",
@@ -9,18 +23,11 @@
       "summary": "OpenAI는 중소기업을 위한 ChatGPT 프로그램을 출시하여 기업가가 AI 기술을 구축하고 작업을 자동화하며 ChatGPT Work를 통해 성장할 수 있도록 지원합니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "OpenAI와 Hugging Face가 협력하여 모델 평가 중 보안 사고 해결",
-      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "date": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "OpenAI와 Hugging Face는 AI 모델 평가 중 보안 사고의 초기 조사 결과를 공유하여 고급 사이버 기능과 방어자를 위한 교훈을 강조합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "David Vélez와 Robin Vince가 OpenAI Foundation 및 OpenAI Group PBC 이사회에 합류",
-      "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
-      "summary": "David Vélez와 Robin Vince는 OpenAI Foundation 및 OpenAI Group PBC의 이사회에 합류하여 금융, 기술 및 거버넌스 분야에서 글로벌 리더십을 발휘하고 있습니다...."
+      "company": "Google AI",
+      "title": "갤럭시 언팩 2026의 3가지 Google 업데이트",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "date": "Wed, 22 Jul 2026 13:00:00 +0000",
+      "summary": "젠틀몬스터 안경, 와비파커 안경, 사진 속 건물의 역사를 묻는 메시지, 사진 속 레스토랑에 테이블 예약을 요청하는 메시지..."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
       "date": "Thu, 16 Jul 2026 16:00:00 +0000",
       "summary": "다양한 이미지로 둘러싸인 'Google 동영상의 Gemini Omni 및 개인 아바타'라는 텍스트..."
-    },
-    {
-      "company": "Google AI",
-      "title": "시각적 검색 혁신 25주년 기념",
-      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "date": "Tue, 14 Jul 2026 16:00:00 +0000",
-      "summary": "다양한 이미지를 검색하는 사람들의 그림으로 둘러싸인 Google 이미지 로고..."
     },
     {
       "company": "Microsoft Azure AI",
