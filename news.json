@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24 06:14:19 (KST)",
+  "updated_at": "2026-07-24 08:04:44 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "Effingham 카운티 커뮤니티와 함께 ​​AI 인프라 구축",
       "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "OpenAI는 조지아주 에핑엄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다...."
+      "summary": "OpenAI는 조지아주 에핑햄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다...."
     },
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "갤럭시 언팩 2026의 3가지 Google 업데이트",
       "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "date": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "summary": "젠틀몬스터 안경, 와비파커 안경, 사진 속 건물의 역사를 묻는 프롬프트, 사진 속 레스토랑에 테이블 예약을 요청하는 프롬프트..."
+      "summary": "젠틀몬스터 안경, 와비파커 안경, 사진 속 건물의 역사를 묻는 메시지, 사진 속 레스토랑에 테이블 예약을 요청하는 메시지..."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "코드 생성 워크플로에 Amazon Bedrock Guardrails를 적용하는 모범 사례",
+      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
+      "date": "Thu, 23 Jul 2026 23:03:44 +0000",
+      "summary": "이 게시물에서는 이러한 제약을 극복하기 위해 코딩 도우미를 사용하여 코드 생성 워크플로에 대해 Amazon Bedrock Guardrails를 구성하는 방법을 설명합니다. 이러한 모범 사례를 사용하면..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "AI 에이전트 평가: Strands 및 AgentCore를 사용한 프로덕션 청사진",
       "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
       "date": "Thu, 23 Jul 2026 17:00:20 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/",
       "date": "Thu, 23 Jul 2026 16:42:54 +0000",
       "summary": "이 게시물에서는 Jefferies가 CA를 조정하여 추론하고, 계획하고, 행동할 수 있는 AI 에이전트를 구축하기 위한 에이전트 하네스 SDK인 Strands Agents 기반 솔루션을 통해 이러한 문제를 어떻게 극복했는지 살펴봅니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Quick에서 Highcharts를 사용하여 다중 지역 시각화 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/",
-      "date": "Thu, 23 Jul 2026 16:40:59 +0000",
-      "summary": "이 게시물에서는 Highcharts 사용자 정의 시각화를 사용하여 Quick Sight에서 다중 지역 운송업체 성과 대시보드를 구축하여 기본 차트 제한 사항을 극복하는 방법을 보여줍니다. 유지하는 방법을 배우게 됩니다...."
     },
     {
       "company": "Hugging Face",
