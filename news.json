@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24 23:03:01 (KST)",
+  "updated_at": "2026-07-25 01:48:19 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "AWS 뱅킹을 위한 설명 가능한 차선책 상품 추천 시스템 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
+      "date": "Fri, 24 Jul 2026 15:42:11 +0000",
+      "summary": "Amazon SageMaker AI 및 PyTorch를 사용하여 구축된 설명 가능한 은행용 차기 최고 제품 추천 시스템 뒤에 있는 아키텍처 및 설계 결정에 대해 알아보세요. lea를 사용한 다중 타워 신경망..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock에서 OpenAI GPT-5.6 Sol, Terra 및 Luna 시작하기",
+      "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
+      "date": "Fri, 24 Jul 2026 15:40:08 +0000",
+      "summary": "OpenAI GPT-5.6 Sol, Terra 및 Luna는 이제 Amazon Bedrock에서 정식 출시됩니다. 모델을 선택하고, 기반 엔드포인트에서 Responses API를 통해 추론을 실행하고, 비용을 절감하는 방법을 알아보세요...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "코드 생성 워크플로에 Amazon Bedrock Guardrails를 적용하는 모범 사례",
       "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
       "date": "Thu, 23 Jul 2026 23:03:44 +0000",
       "summary": "이 게시물에서는 이러한 제약을 극복하기 위해 코딩 도우미를 사용하여 코드 생성 워크플로에 대해 Amazon Bedrock Guardrails를 구성하는 방법을 설명합니다. 이러한 모범 사례를 사용하면..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "AI 에이전트 평가: Strands 및 AgentCore를 사용한 프로덕션 청사진",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
-      "date": "Thu, 23 Jul 2026 17:00:20 +0000",
-      "summary": "Motorway와 AWS는 함께 잘못된 결과를 쿼리 8개 중 1개에서 50개 중 1개로 줄이고 문제 감지 시간을 몇 시간에서 몇 분으로 단축하는 엔드 투 엔드 평가 파이프라인을 구축했습니다. 파이프라인..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "무역 보조원 구축: Jefferies가 AI로 프론트 오피스 거래 운영을 최적화한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/",
-      "date": "Thu, 23 Jul 2026 16:42:54 +0000",
-      "summary": "이 게시물에서는 Jefferies가 CA를 조정하여 추론하고, 계획하고, 행동할 수 있는 AI 에이전트를 구축하기 위한 에이전트 하네스 SDK인 Strands Agents 기반 솔루션을 통해 이러한 문제를 어떻게 극복했는지 살펴봅니다...."
     },
     {
       "company": "Hugging Face",
