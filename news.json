@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27 12:53:45 (KST)",
+  "updated_at": "2026-07-27 16:41:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -48,7 +48,7 @@
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -76,7 +76,7 @@
       "title": "AWS 뱅킹을 위한 설명 가능한 차선책 상품 추천 시스템 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
       "date": "Fri, 24 Jul 2026 15:42:11 +0000",
-      "summary": "Amazon SageMaker AI 및 PyTorch를 기반으로 구축된 설명 가능한 은행용 차세대 최고 제품 추천 시스템 뒤에 있는 아키텍처 및 설계 결정에 대해 알아보세요. lea를 사용한 다중 타워 신경망..."
+      "summary": "Amazon SageMaker AI 및 PyTorch를 사용하여 구축된 설명 가능한 은행용 차기 최고 제품 추천 시스템 뒤에 있는 아키텍처 및 설계 결정에 대해 알아보세요. lea를 사용한 다중 타워 신경망..."
     },
     {
       "company": "AWS Machine Learning",
