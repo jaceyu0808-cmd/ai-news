@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27 23:54:24 (KST)",
+  "updated_at": "2026-07-28 02:04:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "ChatGPT에서 건강 관리 시작하기",
       "link": "https://openai.com/index/health-in-chatgpt",
       "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "summary": "이제 ChatGPT의 건강 기능을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다...."
+      "summary": "이제 ChatGPT의 건강을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다...."
     },
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "갤럭시 언팩 2026의 3가지 Google 업데이트",
       "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "date": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "summary": "젠틀몬스터 안경, 와비파커 안경, 사진 속 건물의 역사를 묻는 프롬프트, 사진 속 레스토랑에 테이블 예약을 요청하는 프롬프트..."
+      "summary": "젠틀몬스터 안경, 와비파커 안경, 사진 속 건물의 역사를 묻는 메시지, 사진 속 레스토랑에 테이블 예약을 요청하는 메시지..."
     },
     {
       "company": "Google AI",
@@ -55,39 +55,39 @@
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "이제 Microsoft Foundry에서 GPT-5.6을 사용할 수 있습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
+      "title": "프론티어 모델 및 프로덕션 에이전트: 에이전트 시대를 위한 Microsoft Foundry 발전",
+      "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
       "date": "Thu, 09 Jul 2026 17:00:00 +0000",
       "summary": "<p>OpenAI의 최신 프론티어 모델 시리즈, 아시아 태평양 데이터 존, 제품 에이전트 기능을 소개합니다. 모두 Microsoft Foundry에서 사용할 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.m..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS의 Claude Opus 5 소개: Anthropic의 가장 유능한 Opus 모델",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
-      "date": "Fri, 24 Jul 2026 17:59:03 +0000",
-      "summary": "이 게시물에서는 Amazon Bedrock의 에이전트 시스템 및 생산 추론 워크로드에 모델을 통합하는 AI 엔지니어를 위한 Opus 5의 개선 사항과 실제 지침을 다룹니다. 문서를 참조하세요..."
+      "title": "RAG를 넘어서: AWS 기반 엔터프라이즈 AI를 위한 작업 인식 지식 압축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
+      "date": "Mon, 27 Jul 2026 16:11:32 +0000",
+      "summary": "기존 RAG는 수백 개의 문서에 걸쳐 있는 분석 작업의 한계에 도달했습니다. 이 게시물에서는 AWS에서 TAKC(작업 인식 지식 압축)를 사용하여 전체 지식 기반을 사전 압축하는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AWS 뱅킹을 위한 설명 가능한 차선책 상품 추천 시스템 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
-      "date": "Fri, 24 Jul 2026 15:42:11 +0000",
-      "summary": "Amazon SageMaker AI 및 PyTorch를 기반으로 구축된 설명 가능한 은행용 차기 최고 제품 추천 시스템 뒤에 있는 아키텍처 및 설계 결정에 대해 알아보세요. lea를 사용한 다중 타워 신경망..."
+      "title": "Deepgram, AWS IAM 임시 위임을 통해 Amazon SageMaker AI 지원 강화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
+      "date": "Mon, 27 Jul 2026 16:07:44 +0000",
+      "summary": "이 게시물에서는 Deepgram이 IAM 임시 위임을 기반으로 구축한 이유, 통합이 어떻게 엔드 투 엔드로 작동하는지, SageMaker AI에서 Deepgram 음성 모델을 실행하는 고객을 위해 무엇을 얻을 수 있는지를 다룹니다. 이것으로..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock에서 OpenAI GPT-5.6 Sol, Terra 및 Luna 시작하기",
-      "link": "https://aws.amazon.com/blogs/machine-learning/get-started-with-openai-gpt-5-6-sol-terra-and-luna-on-amazon-bedrock/",
-      "date": "Fri, 24 Jul 2026 15:40:08 +0000",
-      "summary": "OpenAI GPT-5.6 Sol, Terra 및 Luna는 이제 Amazon Bedrock에서 정식 출시됩니다. 모델을 선택하고, 기반 엔드포인트에서 Responses API를 통해 추론을 실행하고, 비용을 절감하는 방법을 알아보세요...."
+      "title": "Guardoc이 Amazon Nova 모델을 사용하여 의료 문서 처리를 혁신하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
+      "date": "Mon, 27 Jul 2026 16:05:00 +0000",
+      "summary": "이 게시물에서는 Guardoc Health가 Amazon Bedrock을 통해 제공되는 Amazon Nova 모델 제품군을 사용하여 장기 치료의 임상 문서를 변환하는 방법을 살펴봅니다...."
     },
     {
       "company": "Hugging Face",
-      "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇 공학에 실시간 생성 시뮬레이션 도입",
+      "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
       "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
       "summary": "..."
