@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-27 08:04:27 (KST)",
+  "updated_at": "2026-07-27 12:53:45 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "ChatGPT에서 건강 관리 시작하기",
       "link": "https://openai.com/index/health-in-chatgpt",
       "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "summary": "이제 ChatGPT의 건강 기능을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다...."
+      "summary": "이제 ChatGPT의 건강을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다...."
     },
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "갤럭시 언팩 2026의 3가지 Google 업데이트",
       "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "date": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "summary": "젠틀몬스터 안경, 와비파커 안경, 사진 속 건물의 역사를 묻는 프롬프트, 사진 속 레스토랑에 테이블 예약을 요청하는 프롬프트..."
+      "summary": "젠틀몬스터 안경, 와비파커 안경, 사진 속 건물의 역사를 묻는 메시지, 사진 속 레스토랑에 테이블 예약을 요청하는 메시지..."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-      "date": "Thu, 23 Jul 2026 18:30:00 +0000",
-      "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "이제 Microsoft Foundry에서 GPT-5.6을 사용할 수 있습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
+      "title": "프론티어 모델 및 프로덕션 에이전트: 에이전트 시대를 위한 Microsoft Foundry 발전",
+      "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
       "date": "Thu, 09 Jul 2026 17:00:00 +0000",
       "summary": "<p>OpenAI의 최신 프론티어 모델 시리즈, 아시아 태평양 데이터 존, 제품 에이전트 기능을 소개합니다. 모두 Microsoft Foundry에서 사용할 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.m..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "회복을 위해 구축됨: Azure 복원력이 발전한 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
+      "date": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 탄력성은 시스템이 실제 제약 조건 내에서 적응, 복구, 계속 작동할 수 있도록 보장하는 것입니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/build-to-bounce-ba..."
     },
     {
       "company": "AWS Machine Learning",
@@ -76,7 +76,7 @@
       "title": "AWS 뱅킹을 위한 설명 가능한 차선책 상품 추천 시스템 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-an-explainable-next-best-product-recommendation-system-for-banking-on-aws/",
       "date": "Fri, 24 Jul 2026 15:42:11 +0000",
-      "summary": "Amazon SageMaker AI 및 PyTorch를 기반으로 구축된 설명 가능한 은행용 차기 최고 제품 추천 시스템 뒤에 있는 아키텍처 및 설계 결정에 대해 알아보세요. lea를 사용한 다중 타워 신경망..."
+      "summary": "Amazon SageMaker AI 및 PyTorch를 기반으로 구축된 설명 가능한 은행용 차세대 최고 제품 추천 시스템 뒤에 있는 아키텍처 및 설계 결정에 대해 알아보세요. lea를 사용한 다중 타워 신경망..."
     },
     {
       "company": "AWS Machine Learning",
