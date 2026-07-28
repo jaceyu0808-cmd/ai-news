@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28 21:02:55 (KST)",
+  "updated_at": "2026-07-29 00:27:14 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,24 +24,24 @@
     },
     {
       "company": "Google AI",
+      "title": "검색의 AI 모드가 현실 세계를 즐기는 데 도움이 되는 5가지 방법",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "summary": "테니스나 게임과 같은 재미있는 활동과 관련된 항목으로 둘러싸인 푸른 잔디 위의 흰색 원 안에 검은색 돋보기 그림..."
+    },
+    {
+      "company": "Google AI",
+      "title": "Google 검색으로 최고의 디너 파티를 주최하는 5가지 방법",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "summary": "디너 파티 테이블 풍경으로 둘러싸인 흰색 원 안에 반짝이는 검은색 돋보기 그림..."
+    },
+    {
+      "company": "Google AI",
       "title": "갤럭시 언팩 2026의 3가지 Google 업데이트",
       "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
       "date": "Wed, 22 Jul 2026 13:00:00 +0000",
       "summary": "젠틀몬스터 안경, 와비파커 안경, 사진 속 건물의 역사를 묻는 프롬프트, 사진 속 레스토랑에 테이블 예약을 요청하는 프롬프트..."
-    },
-    {
-      "company": "Google AI",
-      "title": "더 많은 앱을 검색에 연결하세요",
-      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "date": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "summary": "연결된 앱 렌더링..."
-    },
-    {
-      "company": "Google AI",
-      "title": "두 가지 Google Vids 업데이트로 동영상 제작, 편집 및 별표 표시",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "date": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "summary": "다양한 이미지로 둘러싸인 'Google 동영상의 Gemini Omni 및 개인 아바타'라는 텍스트..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "CPU에서 빠른 장기 컨텍스트 추론을 위한 LFM2.5 인코더",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "date": "Tue, 28 Jul 2026 15:01:45 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇 공학에 실시간 생성 시뮬레이션 도입",
       "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
@@ -97,13 +104,6 @@
       "title": "Nunchaku 4비트 확산 추론을 디퓨저에 적용",
       "link": "https://huggingface.co/blog/nunchaku-diffusers",
       "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Grabette: 로봇 조작 데이터를 기록하는 개방형 시스템",
-      "link": "https://huggingface.co/blog/grabette",
-      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
