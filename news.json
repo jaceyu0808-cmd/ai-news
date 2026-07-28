@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29 02:42:08 (KST)",
+  "updated_at": "2026-07-29 04:44:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-      "date": "Thu, 23 Jul 2026 18:30:00 +0000",
-      "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
@@ -59,10 +52,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "이제 Microsoft Foundry에서 GPT-5.6을 사용할 수 있습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
+      "title": "프론티어 모델 및 프로덕션 에이전트: 에이전트 시대를 위한 Microsoft Foundry 발전",
+      "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
       "date": "Thu, 09 Jul 2026 17:00:00 +0000",
       "summary": "<p>OpenAI의 최신 프론티어 모델 시리즈, 아시아 태평양 데이터 존, 제품 에이전트 기능을 소개합니다. 모두 Microsoft Foundry에서 사용할 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.m..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "회복을 위해 구축됨: Azure 복원력이 발전한 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
+      "date": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 탄력성은 시스템이 실제 제약 조건 내에서 적응, 복구, 계속 작동할 수 있도록 보장하는 것입니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/build-to-bounce-ba..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "AgentCore Gateway가 MCP 2026-07-28 사양을 지원하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
+      "date": "Tue, 28 Jul 2026 19:07:09 +0000",
+      "summary": "MCP(모델 컨텍스트 프로토콜)는 출시 이후 가장 큰 개정인 2026-07-28 사양을 발표했습니다. MCP는 이제 관리되는 확장 시스템과 강화된 인증을 갖춘 상태 비저장입니다. 무엇을 배우십시오..."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
       "date": "Mon, 27 Jul 2026 16:11:32 +0000",
       "summary": "기존 RAG는 수백 개의 문서에 걸쳐 있는 분석 작업의 한계에 도달했습니다. 이 게시물에서는 AWS에서 TAKC(작업 인식 지식 압축)를 사용하여 전체 지식 기반을 사전 압축하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Deepgram, AWS IAM 임시 위임을 통해 Amazon SageMaker AI 지원 강화",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-enhances-amazon-sagemaker-ai-support-with-aws-iam-temporary-delegation/",
-      "date": "Mon, 27 Jul 2026 16:07:44 +0000",
-      "summary": "이 게시물에서는 Deepgram이 IAM 임시 위임을 기반으로 구축한 이유, 통합이 어떻게 엔드 투 엔드로 작동하는지, SageMaker AI에서 Deepgram 음성 모델을 실행하는 고객을 위해 무엇을 얻을 수 있는지를 다룹니다. 이것으로..."
     },
     {
       "company": "Hugging Face",
