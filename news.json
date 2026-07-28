@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-29 00:27:14 (KST)",
+  "updated_at": "2026-07-29 02:42:08 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "에이전트 AI 시대의 과학 컴퓨팅",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "date": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "summary": "새로운 현장 보고서는 과학자들이 AI 코딩 에이전트를 사용하여 과학 컴퓨팅을 현대화하고 유전체학 및 그 이상 분야의 소프트웨어 개발 및 발견을 가속화하는 방법을 보여줍니다...."
+    },
     {
       "company": "OpenAI",
       "title": "AI가 사람들이 직장에서 하는 일을 어떻게 확장하는가",
@@ -13,14 +20,14 @@
       "title": "ChatGPT에서 건강 관리 시작하기",
       "link": "https://openai.com/index/health-in-chatgpt",
       "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "summary": "이제 ChatGPT의 건강 기능을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다...."
+      "summary": "이제 ChatGPT의 건강을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "Effingham 카운티 커뮤니티와 함께 ​​AI 인프라 구축",
-      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "date": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "summary": "OpenAI는 조지아주 에핑엄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다...."
+      "company": "Google AI",
+      "title": "Gemini API 관리 에이전트: 3.6 플래시, 후크 등",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "date": "Tue, 28 Jul 2026 16:00:00 +0000",
+      "summary": "관리형 에이전트 Gemini 3.6 플래시, 후크 및 트리거..."
     },
     {
       "company": "Google AI",
@@ -37,13 +44,6 @@
       "summary": "디너 파티 테이블 풍경으로 둘러싸인 흰색 원 안에 반짝이는 검은색 돋보기 그림..."
     },
     {
-      "company": "Google AI",
-      "title": "갤럭시 언팩 2026의 3가지 Google 업데이트",
-      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "date": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "summary": "젠틀몬스터 안경, 와비파커 안경, 사진 속 건물의 역사를 묻는 프롬프트, 사진 속 레스토랑에 테이블 예약을 요청하는 프롬프트..."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
@@ -55,7 +55,7 @@
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 귀하가 사용하는 것과 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -63,6 +63,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
       "date": "Thu, 09 Jul 2026 17:00:00 +0000",
       "summary": "<p>OpenAI의 최신 프론티어 모델 시리즈, 아시아 태평양 데이터 존, 제품 에이전트 기능을 소개합니다. 모두 Microsoft Foundry에서 사용할 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.m..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "AgentCore의 LangGraph 및 Strands를 사용한 시장 감시 에이전트",
+      "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
+      "date": "Tue, 28 Jul 2026 17:24:54 +0000",
+      "summary": "Amazon Bedrock AgentCore에서 워크플로 조정을 위한 LangGraph와 에이전트 추론을 위한 Strands를 사용하여 프로덕션에 즉시 사용 가능한 다중 에이전트 AI 시스템을 설계하고 배포하는 방법을 알아보세요. 이번 포스팅은 여기저기 돌아다니면서..."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,11 +86,11 @@
       "summary": "이 게시물에서는 Deepgram이 IAM 임시 위임을 기반으로 구축한 이유, 통합이 어떻게 엔드 투 엔드로 작동하는지, SageMaker AI에서 Deepgram 음성 모델을 실행하는 고객을 위해 무엇을 얻을 수 있는지를 다룹니다. 이것으로..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Guardoc이 Amazon Nova 모델을 사용하여 의료 문서 처리를 혁신하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-guardoc-transforms-medical-document-processing-with-amazon-nova-models/",
-      "date": "Mon, 27 Jul 2026 16:05:00 +0000",
-      "summary": "이 게시물에서는 Guardoc Health가 Amazon Bedrock을 통해 제공되는 Amazon Nova 모델 제품군을 사용하여 장기 치료의 임상 문서를 변환하는 방법을 살펴봅니다...."
+      "company": "Hugging Face",
+      "title": "OlmoEarth 플랫폼: 행성 규모의 지리공간 추론",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "date": "Tue, 28 Jul 2026 16:27:42 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -94,16 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇 공학에 실시간 생성 시뮬레이션 도입",
+      "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
       "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Nunchaku 4비트 확산 추론을 디퓨저에 적용",
-      "link": "https://huggingface.co/blog/nunchaku-diffusers",
-      "date": "Thu, 23 Jul 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
