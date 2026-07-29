@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 02:22:53 (KST)",
+  "updated_at": "2026-07-30 04:35:47 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -69,7 +69,7 @@
       "title": "Amazon Bedrock AgentCore ID를 사용하여 개인 키 JWT로 인증",
       "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
       "date": "Wed, 29 Jul 2026 16:20:28 +0000",
-      "summary": "이 게시물에서는 AgentCore Identity에서 개인 키 JWT 클라이언트 인증이 작동하는 방식을 설명하고 지원되는 부여 흐름을 검토합니다. 그런 다음 AWS KMS 서명 키를 생성하고 해당 PU를 등록하는 과정을 안내합니다...."
+      "summary": "이 게시물에서는 AgentCore Identity에서 개인 키 JWT 클라이언트 인증이 작동하는 방식을 설명하고 지원되는 부여 흐름을 검토합니다. 그런 다음 AWS KMS 서명 키를 생성하고 PU를 등록하는 과정을 안내합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
+      "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇 공학에 실시간 생성 시뮬레이션 도입",
       "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
       "summary": "..."
