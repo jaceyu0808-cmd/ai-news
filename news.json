@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-30 00:13:08 (KST)",
+  "updated_at": "2026-07-30 02:22:53 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "학술 연구원을 위한 ChatGPT를 통해 과학적 발견 가속화",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "date": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "summary": "OpenAI는 과학 연구, 협업 및 발견을 가속화하기 위해 100,000명의 학술 연구원에게 ChatGPT의 가장 진보된 AI 모델에 대한 무료 액세스를 제공합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "에이전트 AI 시대의 과학 컴퓨팅",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "date": "Mon, 27 Jul 2026 03:30:00 GMT",
       "summary": "새로운 OpenAI 연구는 ChatGPT 사용자가 역할 전반에 걸쳐 작업을 수행하고 작업 경계를 재형성하면서 AI가 작업자의 작업을 어떻게 확장하는지 보여줍니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT에서 건강 관리 시작하기",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "date": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "summary": "이제 ChatGPT의 건강 기능을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
-      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
-      "date": "Mon, 27 Jul 2026 15:00:00 +0000",
-      "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
       "date": "Thu, 23 Jul 2026 18:30:00 +0000",
@@ -65,25 +58,32 @@
       "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 귀하가 사용하는 것과 동일한 Databricks 플랫폼입니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "AgentCore Gateway가 MCP 2026-07-28 사양을 지원하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
-      "date": "Tue, 28 Jul 2026 19:07:09 +0000",
-      "summary": "MCP(모델 컨텍스트 프로토콜)는 출시 이후 가장 큰 개정인 2026-07-28 사양을 발표했습니다. MCP는 이제 관리되는 확장 시스템과 강화된 인증을 갖춘 상태 비저장입니다. 무엇을 배우십시오..."
+      "company": "Microsoft Azure AI",
+      "title": "이제 Microsoft Foundry에서 GPT-5.6을 사용할 수 있습니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
+      "date": "Thu, 09 Jul 2026 17:00:00 +0000",
+      "summary": "<p>OpenAI의 최신 프론티어 모델 시리즈, 아시아 태평양 데이터 존, 제품 에이전트 기능을 소개합니다. 모두 Microsoft Foundry에서 사용할 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.m..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AgentCore의 LangGraph 및 Strands를 사용한 시장 감시 에이전트",
-      "link": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
-      "date": "Tue, 28 Jul 2026 17:24:54 +0000",
-      "summary": "Amazon Bedrock AgentCore에서 워크플로 조정을 위한 LangGraph와 에이전트 추론을 위한 Strands를 사용하여 프로덕션에 즉시 사용 가능한 다중 에이전트 AI 시스템을 설계하고 배포하는 방법을 알아보세요. 이번 포스팅은 여기저기 돌아다니면서..."
+      "title": "Amazon Bedrock AgentCore ID를 사용하여 개인 키 JWT로 인증",
+      "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
+      "date": "Wed, 29 Jul 2026 16:20:28 +0000",
+      "summary": "이 게시물에서는 AgentCore Identity에서 개인 키 JWT 클라이언트 인증이 작동하는 방식을 설명하고 지원되는 부여 흐름을 검토합니다. 그런 다음 AWS KMS 서명 키를 생성하고 해당 PU를 등록하는 과정을 안내합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "RAG를 넘어서: AWS 기반 엔터프라이즈 AI를 위한 작업 인식 지식 압축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
-      "date": "Mon, 27 Jul 2026 16:11:32 +0000",
-      "summary": "기존 RAG는 수백 개의 문서에 걸쳐 있는 분석 작업의 한계에 도달했습니다. 이 게시물에서는 AWS에서 TAKC(작업 인식 지식 압축)를 사용하여 전체 지식 기반을 사전 압축하는 방법을 보여줍니다...."
+      "title": "AI 에이전트 및 MCP 서버를 사용하여 자율적인 비즈니스 통찰력 생성",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
+      "date": "Wed, 29 Jul 2026 15:34:18 +0000",
+      "summary": "Amazon Bedrock AgentCore가 사용자 지정 코드가 아닌 구성을 통해 자율적인 교차 시스템 비즈니스 인텔리전스를 제공하는 방법을 알아보세요. 사전 구축된 MCP 서버 커넥터를 사용하여 세분화된 액세스 권한을 제공합니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Quick에서 고객 유지 워크플로 자동화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/",
+      "date": "Wed, 29 Jul 2026 15:24:21 +0000",
+      "summary": "통화 기록 및 CSAT 데이터에서 위험에 처한 고객을 감지하고 사용자 지정 MCP 작업을 통해 유지 우선순위에 따라 점수를 매기는 Amazon Quick에서 코드 없는 고객 유지 파이프라인을 구축하는 방법을 알아보세요...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇 공학에 실시간 생성 시뮬레이션 도입",
+      "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
       "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "date": "Mon, 27 Jul 2026 09:32:20 GMT",
       "summary": "..."
