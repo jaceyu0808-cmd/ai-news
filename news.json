@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-30 06:05:05 (KST)",
+  "updated_at": "2026-07-30 08:04:38 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 어떻게 3배나 높아졌습니까?",
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "date": "Wed, 29 Jul 2026 15:00:00 GMT",
+      "summary": "두 가지 API 설정이 ARC-AGI-3에서 GPT-5.6 성능을 향상하고 추론을 유지하고 압축을 활성화하여 점수와 효율성을 높이는 방법입니다...."
+    },
     {
       "company": "OpenAI",
       "title": "학술 연구원을 위한 ChatGPT를 통해 과학적 발견 가속화",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "date": "Wed, 29 Jul 2026 00:00:00 GMT",
       "summary": "GPT-5.6은 모델, 추론, 에이전트 워크플로 전반에서 AI 효율성을 향상시켜 달러당 더 유용한 인텔리전스를 제공하도록 돕습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "에이전트 AI 시대의 과학 컴퓨팅",
-      "link": "https://openai.com/index/scientific-computing-agentic-ai",
-      "date": "Tue, 28 Jul 2026 17:00:00 GMT",
-      "summary": "새로운 현장 보고서는 과학자들이 AI 코딩 에이전트를 사용하여 과학 컴퓨팅을 현대화하고 유전체학 및 그 이상 분야의 소프트웨어 개발 및 발견을 가속화하는 방법을 보여줍니다...."
     },
     {
       "company": "Google AI",
