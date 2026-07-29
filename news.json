@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 04:35:47 (KST)",
+  "updated_at": "2026-07-30 06:05:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "GPT-5.6이 어떻게 프론티어 인텔리전스와 프론티어 효율성을 융합합니까?",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "date": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "summary": "GPT-5.6은 모델, 추론, 에이전트 워크플로 전반에서 AI 효율성을 향상시켜 달러당 더 유용한 인텔리전스를 제공하도록 돕습니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "에이전트 AI 시대의 과학 컴퓨팅",
       "link": "https://openai.com/index/scientific-computing-agentic-ai",
       "date": "Tue, 28 Jul 2026 17:00:00 GMT",
       "summary": "새로운 현장 보고서는 과학자들이 AI 코딩 에이전트를 사용하여 과학 컴퓨팅을 현대화하고 유전체학 및 그 이상 분야의 소프트웨어 개발 및 발견을 가속화하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "AI가 사람들이 직장에서 하는 일을 어떻게 확장하는가",
-      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "date": "Mon, 27 Jul 2026 03:30:00 GMT",
-      "summary": "새로운 OpenAI 연구는 ChatGPT 사용자가 역할 전반에 걸쳐 작업을 수행하고 작업 경계를 재형성하면서 AI가 작업자의 작업을 어떻게 확장하는지 보여줍니다...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
+      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+      "date": "Mon, 27 Jul 2026 15:00:00 +0000",
+      "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
       "date": "Thu, 23 Jul 2026 18:30:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
       "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 귀하가 사용하는 것과 동일한 Databricks 플랫폼입니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "이제 Microsoft Foundry에서 GPT-5.6을 사용할 수 있습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
-      "date": "Thu, 09 Jul 2026 17:00:00 +0000",
-      "summary": "<p>OpenAI의 최신 프론티어 모델 시리즈, 아시아 태평양 데이터 존, 제품 에이전트 기능을 소개합니다. 모두 Microsoft Foundry에서 사용할 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.m..."
     },
     {
       "company": "AWS Machine Learning",
