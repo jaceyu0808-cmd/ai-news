@@ -1,9 +1,16 @@
 {
-  "updated_at": "2026-07-31 01:42:11 (KST)",
+  "updated_at": "2026-07-31 03:23:34 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 어떻게 3배나 높아졌습니까?",
+      "title": "GPT-5.6으로 가격 대비 성능의 한계를 뛰어넘다",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "date": "Thu, 30 Jul 2026 10:00:00 GMT",
+      "summary": "Luna 및 Terra의 저렴한 GPT‑5.6 가격을 살펴보고 OpenAI의 보다 효율적인 모델이 기업이 AI 워크플로를 대규모로 배포하는 데 어떻게 도움이 되는지 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 3배 증가한 방법",
       "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "date": "Wed, 29 Jul 2026 15:00:00 GMT",
       "summary": "두 가지 API 설정이 ARC-AGI-3에서 GPT-5.6 성능을 향상하고 추론을 유지하고 압축을 활성화하여 점수와 효율성을 높이는 방법입니다...."
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/chatgpt-for-academic-researchers",
       "date": "Wed, 29 Jul 2026 10:00:00 GMT",
       "summary": "OpenAI는 과학 연구, 협업 및 발견을 가속화하기 위해 100,000명의 학술 연구원에게 ChatGPT의 가장 진보된 AI 모델에 대한 무료 액세스를 제공합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.6이 어떻게 프론티어 인텔리전스와 프론티어 효율성을 융합합니까?",
-      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "date": "Wed, 29 Jul 2026 00:00:00 GMT",
-      "summary": "GPT-5.6은 모델, 추론, 에이전트 워크플로 전반에서 AI 효율성을 향상시켜 달러당 더 유용한 인텔리전스를 제공하도록 돕습니다...."
     },
     {
       "company": "Google AI",
@@ -62,14 +62,21 @@
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "AWS에 Kimi K3 배포",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/",
+      "date": "Thu, 30 Jul 2026 17:22:32 +0000",
+      "summary": "이 게시물에서는 Amazon SageMaker HyperPod와&nbsp;라는 두 가지 접근 방식을 사용하여 AWS에 Kimi K3를 배포하는 과정을 안내합니다. Amazon Elastic Kubernetes Service(Amazon EKS) 클러스터...."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Yahoo가 Amazon Bedrock을 사용하여 검색 재타겟팅을 강화하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
       "date": "Thu, 30 Jul 2026 16:40:36 +0000",
-      "summary": "이 게시물에서는 Yahoo가 Yahoo DSP 광고 기술 제품군에서 검색 리타겟팅(SRT) 기능을 향상하기 위해 Amazon Bedrock을 구현한 방법을 보여줍니다. SRT는 핵심 오디언스 타겟팅 솔루션입니다...."
+      "summary": "이 게시물에서는 Yahoo가 Amazon Bedrock을 구현하여 Yahoo DSP 광고 기술 제품군에서 검색 리타겟팅(SRT) 기능을 강화한 방법을 보여줍니다. SRT는 핵심 오디언스 타겟팅 솔루션입니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/",
       "date": "Thu, 30 Jul 2026 16:10:10 +0000",
       "summary": "Amazon Quick을 사용하여 Amazon SageMaker AI 엔드포인트에 대한 추론 메타 모니터링 시스템을 구축하는 방법을 알아보세요. 이 거버넌스 계층은 프로덕션 ML 추론 파이프라인 위에 위치하여 지속적으로 PR을 추적합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock에서 OpenAI GPT-5.6 모델에 대한 명시적 프롬프트 캐싱 소개",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-      "date": "Thu, 30 Jul 2026 16:02:32 +0000",
-      "summary": "OpenAI GPT-5.6 Sol, Terra 및 Luna는 이제 Amazon Bedrock에서 일반적으로 사용할 수 있으며 프롬프트의 어느 부분이 캐시되고 재사용되는지 정밀하게 제어할 수 있는 명시적 프롬프트 캐싱과 함께 제공됩니다...."
     },
     {
       "company": "Hugging Face",
