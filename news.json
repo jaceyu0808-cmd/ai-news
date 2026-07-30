@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-30 23:25:09 (KST)",
+  "updated_at": "2026-07-31 01:42:11 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 3배 증가한 방법",
+      "title": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 어떻게 3배나 높아졌습니까?",
       "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "date": "Wed, 29 Jul 2026 15:00:00 GMT",
       "summary": "두 가지 API 설정이 ARC-AGI-3에서 GPT-5.6 성능을 향상하고 추론을 유지하고 압축을 활성화하여 점수와 효율성을 높이는 방법입니다...."
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore ID를 사용하여 개인 키 JWT로 인증",
-      "link": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
-      "date": "Wed, 29 Jul 2026 16:20:28 +0000",
-      "summary": "이 게시물에서는 AgentCore Identity에서 개인 키 JWT 클라이언트 인증이 작동하는 방식을 설명하고 지원되는 부여 흐름을 검토합니다. 그런 다음 AWS KMS 서명 키를 생성하고 PU를 등록하는 과정을 안내합니다...."
+      "title": "Yahoo가 Amazon Bedrock을 사용하여 검색 재타겟팅을 강화하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
+      "date": "Thu, 30 Jul 2026 16:40:36 +0000",
+      "summary": "이 게시물에서는 Yahoo가 Yahoo DSP 광고 기술 제품군에서 검색 리타겟팅(SRT) 기능을 향상하기 위해 Amazon Bedrock을 구현한 방법을 보여줍니다. SRT는 핵심 오디언스 타겟팅 솔루션입니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AI 에이전트 및 MCP 서버를 사용하여 자율적인 비즈니스 통찰력 생성",
-      "link": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
-      "date": "Wed, 29 Jul 2026 15:34:18 +0000",
-      "summary": "Amazon Bedrock AgentCore가 사용자 지정 코드가 아닌 구성을 통해 자율적인 교차 시스템 비즈니스 인텔리전스를 제공하는 방법을 알아보세요. 사전 구축된 MCP 서버 커넥터를 사용하여 세분화된 액세스 권한을 제공합니다...."
+      "title": "Amazon Quick을 사용하여 Amazon SageMaker AI 엔드포인트에 대한 추론 메타 모니터링",
+      "link": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/",
+      "date": "Thu, 30 Jul 2026 16:10:10 +0000",
+      "summary": "Amazon Quick을 사용하여 Amazon SageMaker AI 엔드포인트에 대한 추론 메타 모니터링 시스템을 구축하는 방법을 알아보세요. 이 거버넌스 계층은 프로덕션 ML 추론 파이프라인 위에 위치하여 지속적으로 PR을 추적합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Quick에서 고객 유지 워크플로 자동화",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/",
-      "date": "Wed, 29 Jul 2026 15:24:21 +0000",
-      "summary": "통화 기록 및 CSAT 데이터에서 위험에 처한 고객을 감지하고 사용자 지정 MCP 작업을 통해 유지 우선순위에 따라 점수를 매기는 Amazon Quick에서 코드 없는 고객 유지 파이프라인을 구축하는 방법을 알아보세요...."
+      "title": "Amazon Bedrock에서 OpenAI GPT-5.6 모델에 대한 명시적 프롬프트 캐싱 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-explicit-prompt-caching-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "date": "Thu, 30 Jul 2026 16:02:32 +0000",
+      "summary": "OpenAI GPT-5.6 Sol, Terra 및 Luna는 이제 Amazon Bedrock에서 일반적으로 사용할 수 있으며 프롬프트의 어느 부분이 캐시되고 재사용되는지 정밀하게 제어할 수 있는 명시적 프롬프트 캐싱과 함께 제공됩니다...."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "date": "Thu, 30 Jul 2026 15:09:09 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "CPU에서 빠른 장기 컨텍스트 추론을 위한 LFM2.5 인코더",
       "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
       "date": "Tue, 28 Jul 2026 15:01:45 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "date": "Mon, 27 Jul 2026 09:32:20 GMT",
       "summary": "..."
     }
   ]
