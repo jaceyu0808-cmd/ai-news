@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-07-31 16:57:01 (KST)",
+  "updated_at": "2026-07-31 19:48:24 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "유럽 ​​전역에서 책임 있는 AI 발전",
+      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "date": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "summary": "OpenAI는 안전, 보안, 투명성 및 출처 관행이 유럽에서 책임감 있는 AI 거버넌스를 지원하는 방법을 공유합니다. EU AI법이 발전함에 따라 이 작업은 계속될 것입니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Univé는 AI 지원 인력을 구축합니다.",
+      "link": "https://openai.com/index/unive",
+      "date": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "summary": "Univé가 리더십, 책임 있는 거버넌스, 직원 주도 혁신을 결합하여 대규모로 업무를 혁신함으로써 ChatGPT Enterprise를 통해 AI 지원 인력을 구축한 방법을 알아보세요...."
+    },
     {
       "company": "OpenAI",
       "title": "GPT-5.6으로 가격 대비 성능의 한계를 뛰어넘다",
       "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "date": "Thu, 30 Jul 2026 10:00:00 GMT",
       "summary": "Luna 및 Terra의 저렴한 GPT‑5.6 가격을 살펴보고 OpenAI의 보다 효율적인 모델이 기업이 AI 워크플로를 대규모로 배포하는 데 어떻게 도움이 되는지 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Avatarin이 GPT-Realtime을 사용하여 연중무휴 소매 에이전트를 구축한 방법",
-      "link": "https://openai.com/index/avatarin",
-      "date": "Thu, 30 Jul 2026 00:00:00 GMT",
-      "summary": "아바타린은 OpenAI의 GPT-Realtime을 사용하여 Yamada Denki 쇼핑객에게 연중무휴 24시간 다국어 지원을 제공합니다. 2주 만에 30,000명이 에이전트를 사용했고 설문조사 응답의 92%가 긍정적이었습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 어떻게 3배나 높아졌습니까?",
-      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "date": "Wed, 29 Jul 2026 15:00:00 GMT",
-      "summary": "두 가지 API 설정이 ARC-AGI-3에서 GPT-5.6 성능을 향상하고 추론을 유지하고 압축을 활성화하여 점수와 효율성을 높이는 방법입니다...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
-      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
-      "date": "Mon, 27 Jul 2026 15:00:00 +0000",
-      "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-      "date": "Thu, 23 Jul 2026 18:30:00 +0000",
-      "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "프론티어 모델 및 프로덕션 에이전트: 에이전트 시대를 위한 Microsoft Foundry 발전",
+      "link": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+      "date": "Thu, 09 Jul 2026 17:00:00 +0000",
+      "summary": "<p>OpenAI의 최신 프론티어 모델 시리즈, 아시아 태평양 데이터 존, 제품 에이전트 기능을 소개합니다. 모두 Microsoft Foundry에서 사용할 수 있습니다.</p>\n<p>게시물 <a href=\"https://azure.m..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "회복을 위해 구축됨: Azure 복원력이 발전한 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
+      "date": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "summary": "<p>클라우드 탄력성은 시스템이 실제 제약 조건 내에서 적응, 복구, 계속 작동할 수 있도록 보장하는 것입니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/build-to-bounce-ba..."
     },
     {
       "company": "AWS Machine Learning",
@@ -76,7 +76,7 @@
       "title": "Yahoo가 Amazon Bedrock을 사용하여 검색 재타겟팅을 강화하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
       "date": "Thu, 30 Jul 2026 16:40:36 +0000",
-      "summary": "이 게시물에서는 Yahoo가 Yahoo DSP 광고 기술 제품군에서 검색 리타겟팅(SRT) 기능을 향상하기 위해 Amazon Bedrock을 구현한 방법을 보여줍니다. SRT는 핵심 오디언스 타겟팅 솔루션입니다...."
+      "summary": "이 게시물에서는 Yahoo가 Amazon Bedrock을 구현하여 Yahoo DSP 광고 기술 제품군에서 검색 리타겟팅(SRT) 기능을 강화한 방법을 보여줍니다. SRT는 핵심 오디언스 타겟팅 솔루션입니다...."
     },
     {
       "company": "AWS Machine Learning",
