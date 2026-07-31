@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 22:02:27 (KST)",
+  "updated_at": "2026-08-01 01:05:07 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "풍부한 지능 구축",
+      "link": "https://openai.com/index/building-abundant-intelligence",
+      "date": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "summary": "고급 AI를 더욱 유능하고 저렴하며 더욱 광범위하게 유용하게 만드는 풀 스택 접근 방식입니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "Univé는 AI 지원 인력을 구축합니다.",
       "link": "https://openai.com/index/unive",
       "date": "Fri, 31 Jul 2026 07:00:00 GMT",
       "summary": "Univé가 리더십, 책임 있는 거버넌스, 직원 주도 혁신을 결합하여 대규모로 업무를 혁신함으로써 ChatGPT Enterprise를 통해 AI 지원 인력을 구축한 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.6으로 가격 대비 성능의 한계를 뛰어넘다",
-      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "date": "Thu, 30 Jul 2026 10:00:00 GMT",
-      "summary": "Luna 및 Terra의 저렴한 GPT‑5.6 가격을 살펴보고 OpenAI의 보다 효율적인 모델이 기업이 AI 워크플로를 대규모로 배포하는 데 어떻게 도움이 되는지 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -62,7 +62,14 @@
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 귀하가 사용하는 것과 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore Observability로 프로덕션 에이전트 최적화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
+      "date": "Fri, 31 Jul 2026 15:33:11 +0000",
+      "summary": "AI 에이전트가 프로토타입에서 프로덕션으로 이동함에 따라 작업을 수행하는 것에서 빠르고 효율적으로 유지하는 것으로 과제가 전환됩니다. Amazon Bedrock AgentCore Observability 및 Amaz 사용 방법 알아보기..."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
       "date": "Thu, 30 Jul 2026 16:40:36 +0000",
       "summary": "이 게시물에서는 Yahoo가 Yahoo DSP 광고 기술 제품군에서 검색 리타겟팅(SRT) 기능을 향상하기 위해 Amazon Bedrock을 구현한 방법을 보여줍니다. SRT는 핵심 오디언스 타겟팅 솔루션입니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Quick을 사용하여 Amazon SageMaker AI 엔드포인트에 대한 추론 메타 모니터링",
-      "link": "https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/",
-      "date": "Thu, 30 Jul 2026 16:10:10 +0000",
-      "summary": "Amazon Quick을 사용하여 Amazon SageMaker AI 엔드포인트에 대한 추론 메타 모니터링 시스템을 구축하는 방법을 알아보세요. 이 거버넌스 계층은 프로덕션 ML 추론 파이프라인 위에 위치하여 지속적으로 PR을 추적합니다...."
     },
     {
       "company": "Hugging Face",
