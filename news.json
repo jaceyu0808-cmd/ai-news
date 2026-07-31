@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 09:11:04 (KST)",
+  "updated_at": "2026-07-31 13:29:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "Avatarin이 GPT-Realtime을 사용하여 연중무휴 소매 에이전트를 구축한 방법",
+      "link": "https://openai.com/index/avatarin",
+      "date": "Thu, 30 Jul 2026 00:00:00 GMT",
+      "summary": "아바타린은 OpenAI의 GPT-Realtime을 사용하여 Yamada Denki 쇼핑객에게 연중무휴 24시간 다국어 지원을 제공합니다. 2주 만에 30,000명이 에이전트를 사용했고 설문조사 응답의 92%가 긍정적이었습니다...."
+    },
+    {
+      "company": "OpenAI",
       "title": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 어떻게 3배나 높아졌습니까?",
       "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "date": "Wed, 29 Jul 2026 15:00:00 GMT",
       "summary": "두 가지 API 설정이 ARC-AGI-3에서 GPT-5.6 성능을 향상하고 추론을 유지하고 압축을 활성화하여 점수와 효율성을 높이는 방법입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "학술 연구원을 위한 ChatGPT를 통해 과학적 발견 가속화",
-      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "date": "Wed, 29 Jul 2026 10:00:00 GMT",
-      "summary": "OpenAI는 과학 연구, 협업 및 발견을 가속화하기 위해 100,000명의 학술 연구원에게 ChatGPT의 가장 진보된 AI 모델에 대한 무료 액세스를 제공합니다...."
     },
     {
       "company": "Google AI",
