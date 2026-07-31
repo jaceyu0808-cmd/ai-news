@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 07:13:57 (KST)",
+  "updated_at": "2026-07-31 09:11:04 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,7 +10,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 3배 증가한 방법",
+      "title": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 어떻게 3배나 높아졌습니까?",
       "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "date": "Wed, 29 Jul 2026 15:00:00 GMT",
       "summary": "두 가지 API 설정이 ARC-AGI-3에서 GPT-5.6 성능을 향상하고 추론을 유지하고 압축을 활성화하여 점수와 효율성을 높이는 방법입니다...."
@@ -62,7 +62,7 @@
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 귀하가 사용하는 것과 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
     },
     {
       "company": "AWS Machine Learning",
