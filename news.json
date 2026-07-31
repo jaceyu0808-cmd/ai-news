@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-01 03:25:18 (KST)",
+  "updated_at": "2026-08-01 05:24:31 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "범죄적 사기 작전 방해",
+      "title": "범죄 사기 작전 방해",
       "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "date": "Tue, 04 Aug 2026 00:00:00 GMT",
       "summary": "OpenAI는 투자, 로맨스, 도박, 사칭 계획을 지원하기 위해 ChatGPT를 사용하여 캄보디아 기반 사기 작전을 중단했습니다...."
@@ -62,7 +62,14 @@
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Quick의 에이전트 카탈로그 경험 발표",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
+      "date": "Fri, 31 Jul 2026 19:53:04 +0000",
+      "summary": "Amazon Quick은 데이터 큐레이터가 자연어로 업스트림 카탈로그 자산을 검색하고 inheri를 사용하여 데이터 세트 및 주제를 자동 생성할 수 있는 AI 기반 워크플로인 Agentic Catalog Experience를 소개합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/",
       "date": "Thu, 30 Jul 2026 17:22:32 +0000",
       "summary": "이 게시물에서는 Amazon SageMaker HyperPod와&nbsp;라는 두 가지 접근 방식을 사용하여 AWS에 Kimi K3를 배포하는 과정을 안내합니다. Amazon Elastic Kubernetes Service(Amazon EKS) 클러스터...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Yahoo가 Amazon Bedrock을 사용하여 검색 재타겟팅을 강화하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/",
-      "date": "Thu, 30 Jul 2026 16:40:36 +0000",
-      "summary": "이 게시물에서는 Yahoo가 Yahoo DSP 광고 기술 제품군에서 검색 리타겟팅(SRT) 기능을 향상하기 위해 Amazon Bedrock을 구현한 방법을 보여줍니다. SRT는 핵심 오디언스 타겟팅 솔루션입니다...."
     },
     {
       "company": "Hugging Face",
