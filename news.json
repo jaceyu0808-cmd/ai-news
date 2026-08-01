@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-01 16:32:50 (KST)",
+  "updated_at": "2026-08-01 19:06:36 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "수학과 이론 컴퓨터 과학의 10가지 발전",
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "date": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "summary": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론적 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "유럽 ​​전역에서 책임 있는 AI 발전",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/building-abundant-intelligence",
       "date": "Fri, 31 Jul 2026 15:00:00 GMT",
       "summary": "고급 AI를 더욱 유능하고 저렴하며 더욱 광범위하게 유용하게 만드는 풀 스택 접근 방식입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Univé는 AI 지원 인력을 구축합니다.",
-      "link": "https://openai.com/index/unive",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "summary": "Univé가 리더십, 책임 있는 거버넌스, 직원 주도 혁신을 결합하여 대규모로 업무를 혁신함으로써 ChatGPT Enterprise를 통해 AI 지원 인력을 구축한 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -62,7 +62,7 @@
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
     },
     {
       "company": "AWS Machine Learning",
