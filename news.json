@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-04 00:48:39 (KST)",
+  "updated_at": "2026-08-04 03:01:13 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "수학과 이론 컴퓨터 과학의 10가지 발전",
       "link": "https://openai.com/index/ten-advances-in-mathematics",
       "date": "Sat, 01 Aug 2026 00:00:00 GMT",
-      "summary": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론적 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다...."
+      "summary": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다...."
     },
     {
       "company": "OpenAI",
@@ -44,25 +44,18 @@
       "summary": "디너 파티 테이블 풍경으로 둘러싸인 흰색 원 안에 반짝이는 검은색 돋보기 그림..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
-      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
-      "date": "Mon, 27 Jul 2026 15:00:00 +0000",
-      "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
+      "company": "AWS Machine Learning",
+      "title": "몇 주에서 몇 분으로: Formula 1®이 AWS에서 에이전트 AI를 사용하여 데이터 작업을 가속화하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
+      "date": "Mon, 03 Aug 2026 17:24:15 +0000",
+      "summary": "Formula 1®은 AWS와 제휴하여 Amazon Bedrock AgentCore의 에이전트 AI를 사용하여 MarTech 데이터 플랫폼을 혁신하는 Data Accelerator를 구축했습니다. F1이 데이터 소스 온보딩을 최대 8W로 줄이는 방법을 알아보세요...."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-      "date": "Thu, 23 Jul 2026 18:30:00 +0000",
-      "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
-      "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock의 자동 추론 정책 개선",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
+      "date": "Mon, 03 Aug 2026 16:30:58 +0000",
+      "summary": "Amazon Bedrock은 이제 자동 자동 추론 정책 개선을 지원합니다. 개선 엔진은 실패한 테스트를 진단하고 규칙 문제 및 언어 문제에 대한 형식적 논리 수정을 제안합니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -70,20 +63,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
       "date": "Fri, 31 Jul 2026 19:53:04 +0000",
       "summary": "Amazon Quick은 데이터 큐레이터가 자연어로 업스트림 카탈로그 자산을 검색하고 inheri를 사용하여 데이터 세트 및 주제를 자동 생성할 수 있는 AI 기반 워크플로인 Agentic Catalog Experience를 소개합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore Observability로 프로덕션 에이전트 최적화",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
-      "date": "Fri, 31 Jul 2026 15:33:11 +0000",
-      "summary": "AI 에이전트가 프로토타입에서 프로덕션으로 이동함에 따라 작업을 수행하는 것에서 빠르고 효율적으로 유지하는 것으로 과제가 전환됩니다. Amazon Bedrock AgentCore Observability 및 Amaz 사용 방법 알아보기..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker HyperPod 및 Amazon EKS에 Kimi K3 배포",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/",
-      "date": "Thu, 30 Jul 2026 17:22:32 +0000",
-      "summary": "이 게시물에서는 Amazon SageMaker HyperPod와&nbsp;라는 두 가지 접근 방식을 사용하여 AWS에 Kimi K3를 배포하는 과정을 안내합니다. Amazon Elastic Kubernetes Service(Amazon EKS) 클러스터...."
     },
     {
       "company": "Hugging Face",
