@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-04 12:27:50 (KST)",
+  "updated_at": "2026-08-04 15:35:13 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "애플이 잘못하고 있다",
+      "link": "https://openai.com/index/apple-is-getting-this-wrong",
+      "date": "Mon, 03 Aug 2026 22:00:00 GMT",
+      "summary": "OpenAI는 Apple의 근거 없는 소송을 해결하고 직원에 대한 주장을 정정하며 발생한 상황을 기록한 메시지를 공유합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "6개월 만에 반응형 음성 AI를 위한 실시간 시스템을 구축한 방법",
@@ -13,21 +20,14 @@
       "title": "Circles는 OpenAI 기술로 통신사 개인화를 강화합니다.",
       "link": "https://openai.com/index/circles",
       "date": "Mon, 03 Aug 2026 00:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/ten-advances-in-mathematics",
-      "date": "Sat, 01 Aug 2026 00:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Circles는 OpenAI API 및 Codex를 사용하여 AI 기반 통신 경험을 강화하고 ARPU를 22% 늘리고 이탈률을 9% 줄이며 개발 효율성을 향상시킵니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Gemini API 관리 에이전트: 3.6 플래시, 후크 등",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "date": "Tue, 28 Jul 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "관리형 에이전트 Gemini 3.6 플래시, 후크 및 트리거..."
     },
     {
       "company": "Google AI",
@@ -69,11 +69,11 @@
       "title": "몇 주에서 몇 분으로: Formula 1®이 AWS에서 에이전트 AI를 사용하여 데이터 작업을 가속화하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
       "date": "Mon, 03 Aug 2026 17:24:15 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Formula 1®은 AWS와 제휴하여 Amazon Bedrock AgentCore의 에이전트 AI를 사용하여 MarTech 데이터 플랫폼을 혁신하는 Data Accelerator를 구축했습니다. F1이 데이터 소스 온보딩을 최대 8W로 줄이는 방법을 알아보세요...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Amazon Bedrock의 자동 추론 정책 개선",
       "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
       "date": "Mon, 03 Aug 2026 16:30:58 +0000",
       "summary": "Amazon Bedrock은 이제 자동 자동 추론 정책 개선을 지원합니다. 개선 엔진은 실패한 테스트를 진단하고 규칙 문제 및 언어 문제에 대한 형식적 논리 수정을 제안합니다...."
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유",
       "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "date": "Thu, 30 Jul 2026 15:09:09 GMT",
       "summary": "..."
