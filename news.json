@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-05 02:57:27 (KST)",
+  "updated_at": "2026-08-05 04:48:32 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ChatGPT Work 및 Codex를 통해 배우고 가르치는 새로운 방법",
       "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "date": "Tue, 04 Aug 2026 00:00:00 GMT",
       "summary": "K-12 교사, 대학 교육자 및 학생이 배우고, 가르치고, 연구하고, 구축하는 데 도움이 되는 ChatGPT Work 및 Codex용 새로운 교육 플러그인을 살펴보세요...."
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "353,000명의 바이브 코딩 코스 내부",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "date": "Mon, 03 Aug 2026 15:00:00 +0000",
       "summary": "노트북, AI 스파크, 메시지, 코드, 3D 큐브 일러스트레이션..."
@@ -41,7 +41,7 @@
       "title": "Gemini API 관리 에이전트: 3.6 플래시, 후크 등",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "date": "Tue, 28 Jul 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "관리형 에이전트 Gemini 3.6 플래시, 후크 및 트리거..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "기초 모델 구축을 위한 Amazon Bedrock의 웹 검색 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-for-foundation-model-grounding/",
+      "date": "Tue, 04 Aug 2026 18:39:14 +0000",
+      "summary": "오늘은 Amazon Bedrock의 웹 검색 정식 출시를 소개합니다. 이는 현재 웹 지식에 모델 응답을 기반으로 하는 서버측 내장 도구입니다. 웹 검색으로 접지..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock AgentCore를 사용한 자동화된 웹 통찰력 추출",
       "link": "https://aws.amazon.com/blogs/machine-learning/automated-web-insight-extraction-with-amazon-bedrock-agentcore/",
       "date": "Tue, 04 Aug 2026 16:02:21 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/",
       "date": "Mon, 03 Aug 2026 17:24:15 +0000",
       "summary": "Formula 1®은 AWS와 제휴하여 Amazon Bedrock AgentCore의 에이전트 AI를 사용하여 MarTech 데이터 플랫폼을 혁신하는 Data Accelerator를 구축했습니다. F1이 데이터 소스 온보딩을 최대 8W로 줄이는 방법을 알아보세요...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock의 자동 추론 정책 개선",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
-      "date": "Mon, 03 Aug 2026 16:30:58 +0000",
-      "summary": "Amazon Bedrock은 이제 자동 자동 추론 정책 개선을 지원합니다. 개선 엔진은 실패한 테스트를 진단하고 규칙 문제 및 언어 문제에 대한 형식적 논리 수정을 제안합니다...."
     },
     {
       "company": "Hugging Face",
