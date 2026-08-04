@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 21:07:18 (KST)",
+  "updated_at": "2026-08-05 00:29:59 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,31 +17,31 @@
     },
     {
       "company": "OpenAI",
-      "title": "Circles는 OpenAI 기술로 통신사 개인화를 강화합니다.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/circles",
       "date": "Mon, 03 Aug 2026 00:00:00 GMT",
-      "summary": "Circles는 OpenAI API 및 Codex를 사용하여 AI 기반 통신 경험을 강화하고 ARPU를 22% 늘리고 이탈률을 9% 줄이며 개발 효율성을 향상시킵니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
+    {
+      "company": "Google AI",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "date": "Tue, 04 Aug 2026 13:00:00 +0000",
+      "summary": "7월 AI 요약 헤더..."
+    },
+    {
+      "company": "Google AI",
+      "title": "353,000명의 바이브 코딩 코스 내부",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "date": "Mon, 03 Aug 2026 15:00:00 +0000",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Google AI",
       "title": "Gemini API 관리 에이전트: 3.6 플래시, 후크 등",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "date": "Tue, 28 Jul 2026 16:00:00 +0000",
-      "summary": "관리형 에이전트 Gemini 3.6 플래시, 후크 및 트리거..."
-    },
-    {
-      "company": "Google AI",
-      "title": "검색의 AI 모드가 현실 세계를 즐기는 데 도움이 되는 5가지 방법",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "summary": "테니스나 게임과 같은 재미있는 활동과 관련된 항목으로 둘러싸인 푸른 잔디 위의 흰색 원 안에 검은색 돋보기 그림..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Google 검색으로 최고의 디너 파티를 주최하는 5가지 방법",
-      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "summary": "디너 파티 테이블 풍경으로 둘러싸인 흰색 원 안에 반짝이는 검은색 돋보기 그림..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -55,7 +55,7 @@
       "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
       "date": "Thu, 23 Jul 2026 18:30:00 +0000",
-      "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -73,7 +73,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock의 자동 추론 정책 개선",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/",
       "date": "Mon, 03 Aug 2026 16:30:58 +0000",
       "summary": "Amazon Bedrock은 이제 자동 자동 추론 정책 개선을 지원합니다. 개선 엔진은 실패한 테스트를 진단하고 규칙 문제 및 언어 문제에 대한 형식적 논리 수정을 제안합니다...."
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "date": "Tue, 04 Aug 2026 13:58:29 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유",
       "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "date": "Thu, 30 Jul 2026 15:09:09 GMT",
@@ -94,16 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "OlmoEarth 플랫폼: 행성 규모의 지리공간 추론",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
       "date": "Tue, 28 Jul 2026 16:27:42 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "CPU에서 빠른 장기 컨텍스트 추론을 위한 LFM2.5 인코더",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "date": "Tue, 28 Jul 2026 15:01:45 GMT",
       "summary": "..."
     }
   ]
