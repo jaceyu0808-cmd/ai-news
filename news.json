@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 04:46:41 (KST)",
+  "updated_at": "2026-08-06 06:20:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,7 +10,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ChatGPT Work 및 Codex를 통해 배우고 가르치는 새로운 방법",
       "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "date": "Tue, 04 Aug 2026 00:00:00 GMT",
       "summary": "K-12 교사, 대학 교육자 및 학생이 배우고, 가르치고, 연구하고, 구축하는 데 도움이 되는 ChatGPT Work 및 Codex용 새로운 교육 플러그인을 살펴보세요...."
@@ -20,18 +20,18 @@
       "title": "애플이 잘못하고 있다",
       "link": "https://openai.com/index/apple-is-getting-this-wrong",
       "date": "Mon, 03 Aug 2026 22:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "OpenAI는 Apple의 근거 없는 소송을 해결하고 직원에 대한 주장을 정정하며 발생한 상황을 기록한 메시지를 공유합니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "2026년 7월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "date": "Tue, 04 Aug 2026 13:00:00 +0000",
       "summary": "7월 AI 요약 헤더..."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "353,000명의 바이브 코딩 코스 내부",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "date": "Mon, 03 Aug 2026 15:00:00 +0000",
       "summary": "노트북, AI 스파크, 메시지, 코드, 3D 큐브 일러스트레이션..."
@@ -55,32 +55,32 @@
       "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
       "date": "Thu, 23 Jul 2026 18:30:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "LendingTree가 Amazon Bedrock에서 다중 에이전트 모기지 도우미를 구축한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
       "date": "Wed, 05 Aug 2026 18:50:02 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "LendingTree가 Amazon Bedrock에서 프로덕션 다중 에이전트 모기지 지원을 구축한 방법을 알아보세요. 3개의 조정된 에이전트는 LangGraph, Model Context Protocol 및 Guar가 내장된 Amazon Nova 모델을 사용합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Mobileye가 Amazon Bedrock AgentCore를 사용하여 지원 운영을 혁신한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
       "date": "Wed, 05 Aug 2026 18:09:03 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "이 게시물에서는 Mobileye가 아이디어를 촉발한 지원 병목 현상부터 유효한 개념 증명을 통해 Amazon Bedrock AgentCore에 AI 지원 에이전트 솔루션을 배포한 방법을 살펴보겠습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "AgentCore 호스팅 AI 에이전트가 로컬 MCP 도구에 액세스할 수 있도록 MCP 브리지를 구축한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
       "date": "Wed, 05 Aug 2026 18:02:23 +0000",
       "summary": "Amazon Bedrock AgentCore의 AI 에이전트는 클라우드에서 실행되지만 사용자의 도구와 파일은 노트북에 있습니다. 클라우드 호스팅 에이전트가 로컬 MCP 서버를 호출할 수 있도록 하는 보안 MCP 브리지를 구축하는 방법을 알아봅니다. b..."
