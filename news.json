@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-05 18:46:53 (KST)",
+  "updated_at": "2026-08-05 21:05:00 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI 모델을 포함한 제3자 사이버 평가",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "date": "Tue, 04 Aug 2026 19:00:00 GMT",
+      "summary": "OpenAI는 최근 제3자 사이버 보안 평가 사건을 설명하고 AI 모델 테스트 및 평가를 강화하기 위한 새로운 보호 조치를 간략하게 설명합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT Work 및 Codex를 통해 배우고 가르치는 새로운 방법",
+      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "date": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "summary": "K-12 교사, 대학 교육자 및 학생이 배우고, 가르치고, 연구하고, 구축하는 데 도움이 되는 ChatGPT Work 및 Codex용 새로운 교육 플러그인을 살펴보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "애플이 잘못하고 있다",
+      "link": "https://openai.com/index/apple-is-getting-this-wrong",
+      "date": "Mon, 03 Aug 2026 22:00:00 GMT",
+      "summary": "OpenAI는 Apple의 근거 없는 소송을 해결하고 직원에 대한 주장을 정정하며 발생한 상황을 기록한 메시지를 공유합니다...."
+    },
     {
       "company": "Google AI",
       "title": "2026년 7월에 발표한 최신 AI 뉴스",
