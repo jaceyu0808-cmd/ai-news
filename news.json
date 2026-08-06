@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 21:07:52 (KST)",
+  "updated_at": "2026-08-07 00:21:32 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -62,7 +62,7 @@
       "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
       "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
       "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "포옹 얼굴 추론 제공자를 기반으로 한 Baseten 🔥",
+      "link": "https://huggingface.co/blog/baseten",
+      "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "LFM2.5-2.6B를 사용하여 모든 곳에 로컬 에이전트 배포",
       "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
       "date": "Tue, 04 Aug 2026 13:58:29 GMT",
@@ -97,13 +104,6 @@
       "title": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유",
       "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "date": "Thu, 30 Jul 2026 15:09:09 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "OlmoEarth 플랫폼: 행성 규모의 지리공간 추론",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "date": "Tue, 28 Jul 2026 16:27:42 GMT",
       "summary": "..."
     }
   ]
