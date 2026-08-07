@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-07 00:21:32 (KST)",
+  "updated_at": "2026-08-07 09:10:20 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "OpenAI 모델을 포함한 제3자 사이버 평가",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "date": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI는 최근 제3자 사이버 보안 평가 사건을 설명하고 AI 모델 테스트 및 평가를 강화하기 위한 새로운 보호 조치를 간략하게 설명합니다...."
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "date": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "summary": "ChatGPT는 향상된 정확성과 일관성을 갖춘 개선된 GPT-5.6 Sol을 도입하고 무료 사용자를 위한 확장된 액세스와 GPT-5.6 Luna를 통한 무제한 일일 채팅을 제공합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "ChatGPT Work 및 Codex를 통해 배우고 가르치는 새로운 방법",
-      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "date": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "summary": "K-12 교사, 대학 교육자 및 학생이 배우고, 가르치고, 연구하고, 구축하는 데 도움이 되는 ChatGPT Work 및 Codex용 새로운 교육 플러그인을 살펴보세요...."
+      "title": "청소년 정신 건강 및 AI에 관해 미국 심리학 협회와 협력",
+      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "date": "Thu, 06 Aug 2026 06:00:00 GMT",
+      "summary": "OpenAI와 미국심리학회(American Psychological Association)는 책임감 있는 AI 사용과 청소년 정신 건강을 위한 증거 기반 지침, 리소스 및 보호 장치를 발전시킵니다...."
     },
     {
       "company": "OpenAI",
-      "title": "애플이 잘못하고 있다",
-      "link": "https://openai.com/index/apple-is-getting-this-wrong",
-      "date": "Mon, 03 Aug 2026 22:00:00 GMT",
-      "summary": "OpenAI는 Apple의 근거 없는 소송을 해결하고 직원에 대한 주장을 정정하며 발생한 상황을 기록한 메시지를 공유합니다...."
+      "title": "요청에서 실행까지: 전 세계가 ChatGPT를 작동시키는 방법",
+      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "summary": "새로운 OpenAI 신호 데이터는 채택, 사용 추세 및 진화하는 행동에 대한 국가 수준의 통찰력을 통해 전 세계 사람들이 ChatGPT를 사용하는 방법을 보여줍니다...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 부문 리더로 선정되었습니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+      "date": "Thu, 06 Aug 2026 15:00:00 +0000",
+      "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
       "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
       "date": "Mon, 27 Jul 2026 15:00:00 +0000",
@@ -58,32 +65,25 @@
       "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
-      "date": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며, 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
+      "company": "AWS Machine Learning",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
+      "date": "Thu, 06 Aug 2026 18:57:55 +0000",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "LendingTree가 Amazon Bedrock에서 다중 에이전트 모기지 도우미를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
-      "date": "Wed, 05 Aug 2026 18:50:02 +0000",
-      "summary": "LendingTree가 Amazon Bedrock에서 프로덕션 다중 에이전트 모기지 지원을 구축한 방법을 알아보세요. 3개의 조정된 에이전트는 LangGraph, Model Context Protocol 및 Guar가 내장된 Amazon Nova 모델을 사용합니다...."
+      "title": "AgentCore 게이트웨이에서 AI 트래픽에 대한 속도 제한 구성",
+      "link": "https://aws.amazon.com/blogs/machine-learning/configure-rate-limits-for-ai-traffic-on-agentcore-gateway/",
+      "date": "Thu, 06 Aug 2026 17:50:42 +0000",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Mobileye가 Amazon Bedrock AgentCore를 사용하여 지원 운영을 혁신한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
-      "date": "Wed, 05 Aug 2026 18:09:03 +0000",
-      "summary": "이 게시물에서는 Mobileye가 아이디어를 촉발한 지원 병목 현상부터 유효한 개념 증명을 통해 Amazon Bedrock AgentCore에 AI 지원 에이전트 솔루션을 배포한 방법을 살펴보겠습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "AgentCore 호스팅 AI 에이전트가 로컬 MCP 도구에 액세스할 수 있도록 MCP 브리지를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
-      "date": "Wed, 05 Aug 2026 18:02:23 +0000",
-      "summary": "Amazon Bedrock AgentCore의 AI 에이전트는 클라우드에서 실행되지만 사용자의 도구와 파일은 노트북에 있습니다. 클라우드 호스팅 에이전트가 로컬 MCP 서버를 호출할 수 있도록 하는 보안 MCP 브리지를 구축하는 방법을 알아봅니다. b..."
+      "title": "단일 작업 이상의 에이전트 동작 및 비용 제어: Amazon Bedrock AgentCore의 새로운 기능",
+      "link": "https://aws.amazon.com/blogs/machine-learning/control-agent-behaviors-and-cost-beyond-a-single-action-new-capabilities-in-amazon-bedrock-agentcore/",
+      "date": "Thu, 06 Aug 2026 16:43:19 +0000",
+      "summary": "Amazon Bedrock AgentCore의 새로운 기능, 즉 AI 에이전트를 위한 새로운 오픈 소스 정책 언어인 Dogwood에서 제공하는 임시 정책과 게이트웨이의 속도 제한에 대해 알아보세요. 이러한 기능은 다음을 제공합니다...."
     },
     {
       "company": "Hugging Face",
