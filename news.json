@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 06:48:32 (KST)",
+  "updated_at": "2026-08-08 07:46:17 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "포옹 얼굴 추론 제공자를 기반으로 한 Baseten 🔥",
+      "title": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥",
       "link": "https://huggingface.co/blog/baseten",
       "date": "Thu, 06 Aug 2026 00:00:00 GMT",
       "summary": "..."
