@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 16:05:13 (KST)",
+  "updated_at": "2026-08-08 17:52:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "ChatGPT에서 GPT‑5.6 Sol을 개선하고 무료 사용자를 위한 GPT-5.6 Luna에 대한 액세스 확대",
       "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "date": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "summary": "ChatGPT는 향상된 정확성과 일관성을 갖춘 개선된 GPT-5.6 Sol을 도입하고 무료 사용자를 위한 확장된 액세스와 GPT-5.6 Luna를 통한 무제한 일일 채팅을 제공합니다...."
+      "summary": "ChatGPT는 더 나은 정확성과 일관성으로 개선된 GPT-5.6 Sol을 도입하고 무료 사용자를 위한 확장된 액세스와 GPT-5.6 Luna를 통한 무제한 일일 채팅을 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 부문 리더로 선정되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
-      "date": "Thu, 06 Aug 2026 15:00:00 +0000",
-      "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
       "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
       "date": "Mon, 27 Jul 2026 15:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
       "date": "Thu, 23 Jul 2026 18:30:00 +0000",
       "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Azure Databricks는 입증된 비즈니스 가치를 제공합니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
+      "date": "Wed, 15 Jul 2026 15:00:00 +0000",
+      "summary": "<p>Microsoft Azure Databricks는 Microsoft에서 Databricks의 자사 이점을 제공하며 고객에게는 이러한 이점이 측정 가능한 실제 가치로 나타납니다. 이는 동일한 Databricks 플랫폼입니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥",
+      "title": "포옹 얼굴 추론 제공자를 기반으로 한 Baseten 🔥",
       "link": "https://huggingface.co/blog/baseten",
       "date": "Thu, 06 Aug 2026 00:00:00 GMT",
       "summary": "..."
