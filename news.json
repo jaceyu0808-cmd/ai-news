@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 02:38:16 (KST)",
+  "updated_at": "2026-08-10 03:52:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "제약 프로그래밍을 사용하여 NHL에서 플레이오프 클린칭 시나리오 결정",
       "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
       "date": "Fri, 07 Aug 2026 16:21:00 +0000",
       "summary": "AWS Generative AI 혁신 센터는 제약 조건 프로그래밍과 사용자 지정 트리 검색을 사용하여 수학적 확실성을 바탕으로 NHL 팀이 우승을 확정하는 시기와 방법을 결정하는 자동화된 시스템을 구축했습니다...."
