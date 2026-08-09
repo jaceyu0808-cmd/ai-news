@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 05:42:08 (KST)",
+  "updated_at": "2026-08-10 06:40:23 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 부문 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
       "date": "Thu, 06 Aug 2026 15:00:00 +0000",
       "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
@@ -80,14 +80,14 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "제약 프로그래밍을 사용하여 NHL에서 플레이오프 클린칭 시나리오 결정",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
       "date": "Fri, 07 Aug 2026 16:21:00 +0000",
       "summary": "AWS Generative AI 혁신 센터는 제약 조건 프로그래밍과 사용자 지정 트리 검색을 사용하여 수학적 확실성을 바탕으로 NHL 팀이 우승을 확정하는 시기와 방법을 결정하는 자동화된 시스템을 구축했습니다...."
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "TutorMoments: AI 교사는 언제 도움을 주고 언제 보류해야 하는지 알고 있나요?",
       "link": "https://huggingface.co/blog/allenai/tutormoments",
       "date": "Fri, 07 Aug 2026 17:53:32 GMT",
       "summary": "..."
