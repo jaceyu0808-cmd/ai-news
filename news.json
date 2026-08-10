@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-11 00:06:42 (KST)",
+  "updated_at": "2026-08-11 02:01:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "텍사스의 책임 있는 AI 인프라에 관해 OpenAI가 Abbott 주지사에게 보낸 서한",
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
       "date": "Mon, 10 Aug 2026 14:00:00 GMT",
-      "summary": "OpenAI는 Greg Abbott 주지사에게 텍사스의 책임 있는 AI 인프라에 대한 약속을 설명하는 서한을 보냈습니다. 이 편지는 텍사스 주민에게 이익이 되는 안정적이고 투명한 성장을 지원합니다...."
+      "summary": "OpenAI는 Greg Abbott 주지사에게 텍사스의 책임 있는 AI 인프라에 대한 약속을 설명하는 서한을 보냈습니다. 이 편지는 텍사스 주민들에게 이익이 되는 안정적이고 투명한 성장을 지원합니다...."
     },
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "중요한 사이버 역량의 차세대 개척에 대응",
-      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "date": "Fri, 07 Aug 2026 15:20:00 GMT",
-      "summary": "OpenAI는 Astra에 대한 예비 사이버 보안 평가와 보호 장치 및 보안 통제를 강화하기 위해 취하고 있는 조치를 공유하고 있습니다...."
+      "title": "AI 기반 재무 기능 구축을 통해 배운 점",
+      "link": "https://openai.com/index/building-an-ai-native-finance-function",
+      "date": "Mon, 10 Aug 2026 17:00:00 GMT",
+      "summary": "OpenAI CFO Sarah Friar가 자동화된 예측부터 강력한 제어 및 AI ROI에 이르기까지 AI 기반 재무 기능을 구축하기 위한 5가지 교훈을 공유합니다...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "SageMaker AI를 사용하여 Amazon EKS에서 대화형 IDE를 실행하여 AI 워크플로 강화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/",
+      "date": "Mon, 10 Aug 2026 16:34:37 +0000",
+      "summary": "Amazon EKS용 Amazon SageMaker AI Spaces 추가 기능은 ML 팀이 이미 운영하고 있는 클러스터에서 관리형 JupyterLab 및 Code Editor 환경을 실행합니다. 이 게시물에서는 설치 및 구성 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "nOps가 Amazon Bedrock AgentCore를 사용하여 FinOps 에이전트를 75% 더 빠르게 배송한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
+      "date": "Mon, 10 Aug 2026 16:30:46 +0000",
+      "summary": "nOps는 Amazon Bedrock AgentCore에서 Clara FinOps AI 에이전트를 재구축하여 LangChain 및 LangGraph를 실행하는 자체 관리형 Amazon EKS 스택을 대체했습니다. 이전으로 인해 생산 시간이 10~12개월에서 75% 단축되었습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Cohere Health가 Amazon Bedrock AgentCore를 사용하여 임상 정책을 디지털화하는 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
       "date": "Fri, 07 Aug 2026 16:26:58 +0000",
       "summary": "이 게시물에서는 Cohere Health가 AgentCore Runtime의 보안 MicroVM 격리, AgentCore Gateway, Agen을 통한 통합 도구 액세스를 사용하여 AgentCore에 다중 테넌트 에이전트 아키텍처를 구축한 방법을 알아봅니다...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "TReNDS가 Amazon Bedrock을 사용하여 근본 원인 분석을 자동화하는 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
-      "date": "Fri, 07 Aug 2026 16:22:50 +0000",
-      "summary": "조지아 주립 대학의 연구 센터인 TReNDS는 Amazon Bedrock과 오픈 소스 Strands Agents SDK를 기반으로 생산 오류를 실시간으로 자동 조사하는 에이전트 AI 파이프라인을 구축했습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "제약 프로그래밍을 사용하여 NHL에서 플레이오프 클린칭 시나리오 결정",
-      "link": "https://aws.amazon.com/blogs/machine-learning/determining-playoff-clinching-scenarios-in-the-nhl-using-constraint-programming/",
-      "date": "Fri, 07 Aug 2026 16:21:00 +0000",
-      "summary": "AWS Generative AI 혁신 센터는 제약 조건 프로그래밍과 사용자 지정 트리 검색을 사용하여 수학적 확실성을 바탕으로 NHL 팀이 우승을 확정하는 시기와 방법을 결정하는 자동화된 시스템을 구축했습니다...."
+      "company": "Hugging Face",
+      "title": "지연 시간이 짧은 다국어 음성 에이전트 구축: NVIDIA Magpie TTS를 통한 개방형 가중치 및 전체 배포 제어",
+      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "date": "Mon, 10 Aug 2026 16:25:36 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Meta가 로컬, 에이전트, 멀티모달, 오픈 소스인 Muse Glimmer로 돌아왔습니다.",
       "link": "https://huggingface.co/blog/muse-glimmer",
       "date": "Mon, 10 Aug 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "TutorMoments: AI 교사는 언제 도움을 주고 언제 보류해야 하는지 알고 있나요?",
-      "link": "https://huggingface.co/blog/allenai/tutormoments",
-      "date": "Fri, 07 Aug 2026 17:53:32 GMT",
       "summary": "..."
     }
   ]
