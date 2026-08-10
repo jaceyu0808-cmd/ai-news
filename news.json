@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 19:24:52 (KST)",
+  "updated_at": "2026-08-10 20:54:10 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -94,16 +94,16 @@
     },
     {
       "company": "Hugging Face",
-      "title": "TutorMoments: AI 교사는 언제 도움을 주고 언제 보류해야 하는지 알고 있나요?",
-      "link": "https://huggingface.co/blog/allenai/tutormoments",
-      "date": "Fri, 07 Aug 2026 17:53:32 GMT",
+      "title": "Meta가 로컬, 에이전트, 멀티모달, 오픈 소스인 Muse Glimmer로 돌아왔습니다.",
+      "link": "https://huggingface.co/blog/muse-glimmer",
+      "date": "Mon, 10 Aug 2026 00:00:00 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥",
-      "link": "https://huggingface.co/blog/baseten",
-      "date": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "title": "TutorMoments: AI 교사는 언제 도움을 주고 언제 보류해야 하는지 알고 있나요?",
+      "link": "https://huggingface.co/blog/allenai/tutormoments",
+      "date": "Fri, 07 Aug 2026 17:53:32 GMT",
       "summary": "..."
     }
   ]
