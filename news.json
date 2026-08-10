@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11 07:47:51 (KST)",
+  "updated_at": "2026-08-11 08:41:54 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,11 +20,11 @@
       "title": "AI 기반 재무 기능 구축을 통해 배운 점",
       "link": "https://openai.com/index/building-an-ai-native-finance-function",
       "date": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "summary": "OpenAI CFO Sarah Friar가 자동화된 예측부터 강력한 제어 및 AI ROI에 이르기까지 AI 기반 재무 기능을 구축하기 위한 5가지 교훈을 공유합니다...."
+      "summary": "OpenAI CFO인 Sarah Friar는 자동화된 예측부터 강력한 제어 및 AI ROI에 이르기까지 AI 기반 재무 기능을 구축하기 위한 5가지 교훈을 공유합니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "새로운 AI 도구로 마케팅을 발전시키세요",
       "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
       "date": "Mon, 10 Aug 2026 14:30:00 +0000",
       "summary": "Google Ads 및 Google Analytics의 Advisor UI..."
@@ -55,7 +55,7 @@
       "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
       "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
       "date": "Mon, 27 Jul 2026 15:00:00 +0000",
-      "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -76,7 +76,7 @@
       "title": "nOps가 Amazon Bedrock AgentCore를 사용하여 FinOps 에이전트를 75% 더 빠르게 배송한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
       "date": "Mon, 10 Aug 2026 16:30:46 +0000",
-      "summary": "nOps는 Amazon Bedrock AgentCore에서 Clara FinOps AI 에이전트를 재구축하여 LangChain 및 LangGraph를 실행하는 자체 관리형 Amazon EKS 스택을 대체했습니다. 이전으로 인해 생산 시간이 10~12개월에서 75% 단축되었습니다...."
+      "summary": "nOps는 Amazon Bedrock AgentCore에서 Clara FinOps AI 에이전트를 재구축하여 LangChain 및 LangGraph를 실행하는 자체 관리형 Amazon EKS 스택을 대체했습니다. 이로 인해 생산 시간이 10~12개월에서 75% 단축되었습니다...."
     },
     {
       "company": "AWS Machine Learning",
