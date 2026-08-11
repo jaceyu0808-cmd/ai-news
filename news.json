@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11 18:07:45 (KST)",
+  "updated_at": "2026-08-11 19:57:17 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "AI 기반 재무 기능 구축을 통해 배운 점",
       "link": "https://openai.com/index/building-an-ai-native-finance-function",
       "date": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "summary": "OpenAI CFO인 Sarah Friar는 자동화된 예측부터 강력한 제어 및 AI ROI에 이르기까지 AI 기반 재무 기능을 구축하기 위한 5가지 교훈을 공유합니다...."
+      "summary": "OpenAI CFO Sarah Friar가 자동화된 예측부터 강력한 제어 및 AI ROI에 이르기까지 AI 기반 재무 기능을 구축하기 위한 5가지 교훈을 공유합니다...."
     },
     {
       "company": "Google AI",
@@ -76,7 +76,7 @@
       "title": "nOps가 Amazon Bedrock AgentCore를 사용하여 FinOps 에이전트를 75% 더 빠르게 배송한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-nops-shipped-finops-agents-75-faster-with-amazon-bedrock-agentcore/",
       "date": "Mon, 10 Aug 2026 16:30:46 +0000",
-      "summary": "nOps는 Amazon Bedrock AgentCore에서 Clara FinOps AI 에이전트를 재구축하여 LangChain 및 LangGraph를 실행하는 자체 관리형 Amazon EKS 스택을 대체했습니다. 이로 인해 생산 시간이 10~12개월에서 75% 단축되었습니다...."
+      "summary": "nOps는 Amazon Bedrock AgentCore에서 Clara FinOps AI 에이전트를 재구축하여 LangChain 및 LangGraph를 실행하는 자체 관리형 Amazon EKS 스택을 대체했습니다. 이전으로 인해 생산 시간이 10~12개월에서 75% 단축되었습니다...."
     },
     {
       "company": "AWS Machine Learning",
