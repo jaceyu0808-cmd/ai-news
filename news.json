@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-12 05:56:03 (KST)",
+  "updated_at": "2026-08-12 06:56:47 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "ChatGPT에서 광고 테스트",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "date": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "OpenAI",
-      "title": "텍사스의 책임 있는 AI 인프라에 관해 OpenAI가 Abbott 주지사에게 보낸 서한",
+      "title": "이제 AWS에서 Daybreak 모델을 사용할 수 있습니다.",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
       "date": "Mon, 10 Aug 2026 14:00:00 GMT",
       "summary": "OpenAI는 Greg Abbott 주지사에게 텍사스의 책임 있는 AI 인프라에 대한 약속을 설명하는 서한을 보냈습니다. 이 편지는 텍사스 주민에게 이익이 되는 안정적이고 투명한 성장을 지원합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "모델 ML은 GPT-5.6 Sol을 통해 재무 업무를 보다 효율적으로 완료합니다.",
-      "link": "https://openai.com/index/model-ml",
-      "date": "Mon, 10 Aug 2026 12:00:00 GMT",
-      "summary": "Model ML은 GPT-5.6 Sol을 사용하여 편집 및 추적 가능한 PowerPoint 데크 및 Excel 통합 문서를 통해 연구 및 분석에서 재무 업무를 수행합니다...."
     },
     {
       "company": "Google AI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "새로운 AI 도구로 마케팅을 발전시키세요",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
       "date": "Mon, 10 Aug 2026 14:30:00 +0000",
       "summary": "Google Ads 및 Google Analytics의 Advisor UI..."
@@ -41,7 +41,7 @@
       "title": "2026년 7월에 발표한 최신 AI 뉴스",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "date": "Tue, 04 Aug 2026 13:00:00 +0000",
-      "summary": "7월 AI 요약 헤더..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -59,10 +59,17 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
       "date": "Thu, 23 Jul 2026 18:30:00 +0000",
       "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "OpenAI 및 AWS로 사이버 방어 가속화: 이제 Amazon Bedrock에서 적격 고객에게 Daybreak Red 및 Daybreak Blue 제공",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+      "date": "Tue, 11 Aug 2026 21:38:06 +0000",
+      "summary": "OpenAI의 전문 사이버 방어 모델인 OpenAI의 Daybreak Red 및 Daybreak Blue는 이제 Amazon Bedrock에서 적격 고객에게 제공됩니다. 두 모델 모두 운영자가 없는 액세스가 적용된 상태로 실행됩니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,15 +86,8 @@
       "summary": "사진가들은 생성 AI에 대해 가장 회의적인 청중 중 하나입니다. Pixieset이 Amazon Bedrock을 사용하여 4개월 만에 수백만 명의 사용자에게 AI 생성 대체 텍스트 기능을 출시하여 도달한 방법을 알아보세요...."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "First Orion은 Amazon Nova Act를 사용하여 QA 자동화를 가속화합니다.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/first-orion-accelerates-qa-automation-using-amazon-nova-act/",
-      "date": "Tue, 11 Aug 2026 16:09:06 +0000",
-      "summary": "브랜드 커뮤니케이션 회사인 First Orion이 취약한 스크립트 기반 UI 테스트에서 Amazon Nova Act를 사용하여 AI 기반 QA 자동화로 전환한 방법을 알아보세요. m 대신 일반 영어로 테스트를 설명함으로써..."
-    },
-    {
       "company": "Hugging Face",
-      "title": "에이스를 생각하시나요? 더 적은 토큰으로 할 수 있습니다",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
       "date": "Tue, 11 Aug 2026 13:37:10 GMT",
       "summary": "..."
