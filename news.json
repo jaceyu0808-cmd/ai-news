@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 02:04:20 (KST)",
+  "updated_at": "2026-08-13 04:12:25 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "2부: Amazon Athena 및 CUDOS를 사용한 Amazon Bedrock 비용 귀속",
+      "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+      "date": "Wed, 12 Aug 2026 17:45:20 +0000",
+      "summary": "Amazon Athena 및 CUDOS 대시보드를 사용하여 Amazon Bedrock 비용 귀속을 시각화하고 분석하는 방법을 알아보세요. 이 게시물에서는 IAM 주체 데이터로 CUR 2.0을 설정하고 Bedrock 지출을 Princ별로 쿼리하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "OneAdvanced가 영국 주권 AWS에 50개 이상의 AI 에이전트를 배포한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
       "date": "Wed, 12 Aug 2026 13:46:28 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
       "date": "Wed, 12 Aug 2026 13:44:58 +0000",
       "summary": "Solv Labs는 Amazon Bedrock AgentCore 결제에 대해 관리되는 에이전트 결제 워크플로를 구축했습니다. 여기서 모든 거래는 승인되고, AWS Nitro Enclave에서 증명되고, 위험에 따라 가격이 책정되고, 펍에 고정됩니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Curvine이 포함된 Amazon SageMaker HyperPod의 대규모 LLM을 위한 계층형 KV 캐시",
-      "link": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
-      "date": "Wed, 12 Aug 2026 13:42:48 +0000",
-      "summary": "대규모 언어 모델 추론을 대규모로 실행하면 KV 캐시 절충안이 강제됩니다. 즉, GPU 인스턴스 크기가 너무 크거나 첫 번째 토큰을 얻는 데 걸리는 시간이 느립니다. 이 게시물은 Amazon SageMaker HyperPod에 계층화된 KV 캐시를 구축합니다...."
     },
     {
       "company": "Hugging Face",
