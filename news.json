@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 11:33:51 (KST)",
+  "updated_at": "2026-08-12 13:54:11 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -69,7 +69,7 @@
       "title": "OpenAI 및 AWS로 사이버 방어 가속화: 이제 Amazon Bedrock에서 적격 고객에게 Daybreak Red 및 Daybreak Blue 제공",
       "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
       "date": "Tue, 11 Aug 2026 21:38:06 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "OpenAI의 전문 사이버 방어 모델인 OpenAI의 Daybreak Red 및 Daybreak Blue는 이제 Amazon Bedrock에서 적격 고객에게 제공됩니다. 두 모델 모두 운영자가 없는 액세스가 적용된 상태로 실행됩니다...."
     },
     {
       "company": "AWS Machine Learning",
