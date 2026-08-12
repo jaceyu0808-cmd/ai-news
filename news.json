@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 05:55:10 (KST)",
+  "updated_at": "2026-08-13 06:55:22 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "ChatGPT에서 광고 테스트",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "title": "RingCentral이 엔지니어링부터 운영까지 AI 기반 작업을 구축하는 방법",
+      "link": "https://openai.com/index/ringcentral",
+      "date": "Wed, 12 Aug 2026 00:00:00 GMT",
+      "summary": "RingCentral이 ChatGPT Work 및 Codex를 사용하여 AI 제품 개발을 가속화하고 엔지니어링 및 운영 전반에 걸쳐 운영 인텔리전스를 중앙 집중화하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "이제 AWS에서 Daybreak 모델을 사용할 수 있습니다.",
-      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "title": "ChatGPT에서 광고 테스트",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "date": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI와 AWS는 기업 보안 워크플로를 지원하기 위해 Amazon Bedrock을 통해 Daybreak 사이버 보안 기능을 제공하고 있습니다...."
+      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
     },
     {
       "company": "Google AI",
@@ -38,7 +38,7 @@
     },
     {
       "company": "Google AI",
-      "title": "2026년 7월에 발표한 최신 AI 뉴스",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "date": "Tue, 04 Aug 2026 13:00:00 +0000",
       "summary": "7월 AI 요약 헤더..."
@@ -59,7 +59,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
       "date": "Thu, 23 Jul 2026 18:30:00 +0000",
       "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "안심하고 결제: Solv Labs가 Amazon Bedrock AgentCore 결제에 대해 검증 가능하고 감사 가능한 에이전트 결제를 구축한 방법",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
       "date": "Wed, 12 Aug 2026 13:44:58 +0000",
       "summary": "Solv Labs는 Amazon Bedrock AgentCore 결제에 대해 관리되는 에이전트 결제 워크플로를 구축했습니다. 여기서 모든 거래는 승인되고, AWS Nitro Enclave에서 증명되고, 위험에 따라 가격이 책정되고, 펍에 고정됩니다...."
