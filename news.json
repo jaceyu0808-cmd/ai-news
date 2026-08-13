@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 17:27:23 (KST)",
+  "updated_at": "2026-08-13 19:16:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -83,7 +83,7 @@
       "title": "안심하고 결제: Solv Labs가 Amazon Bedrock AgentCore 결제에 대해 검증 가능하고 감사 가능한 에이전트 결제를 구축한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
       "date": "Wed, 12 Aug 2026 13:44:58 +0000",
-      "summary": "Solv Labs는 Amazon Bedrock AgentCore 결제에 대해 관리되는 에이전트 결제 워크플로를 구축했습니다. 여기서 모든 거래는 승인되고, AWS Nitro Enclave에서 증명되고, 위험에 따라 가격이 책정되고, 펍에 고정됩니다...."
+      "summary": "Solv Labs는 Amazon Bedrock AgentCore 결제에 대해 관리되는 에이전트 결제 워크플로를 구축했습니다. 여기서 모든 거래는 승인되고, AWS Nitro Enclave에서 증명되고, 위험에 따라 가격이 책정되고, 퍼브에 고정됩니다...."
     },
     {
       "company": "Hugging Face",
