@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-14 02:03:56 (KST)",
+  "updated_at": "2026-08-14 04:13:13 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "GPT‑5.6 제작 가이드",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "date": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "summary": "스타트업이 GPT-5.6을 사용하여 더 스마트한 모델 선택과 새로운 Responses API 기능을 통해 더 빠르고 비용 효율적인 AI 에이전트를 구축하는 방법을 알아보세요...."
+    },
     {
       "company": "OpenAI",
       "title": "초고속 모드 미리보기: 최대 14배 빠른 속도의 GPT-5.6 Sol",
@@ -16,11 +23,11 @@
       "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "지원부터 실행까지: 기업이 AI를 업무에 활용하는 방법",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "date": "Wed, 12 Aug 2026 06:00:00 GMT",
-      "summary": "OpenAI 연구는 기업이 ChatGPT 및 Codex를 사용하여 에이전트 AI를 채택하는 방법과 선구적인 기업이 AI 채택을 앞당기는 방법을 보여줍니다...."
+      "company": "Google AI",
+      "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "date": "Thu, 13 Aug 2026 16:45:00 +0000",
+      "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
       "date": "Mon, 10 Aug 2026 14:30:00 +0000",
       "summary": "Google Ads 및 Google Analytics의 Advisor UI..."
-    },
-    {
-      "company": "Google AI",
-      "title": "2026년 7월에 발표한 최신 AI 뉴스",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "date": "Tue, 04 Aug 2026 13:00:00 +0000",
-      "summary": "7월 AI 요약 헤더..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Strands Agents, LeRobot 및 Hugging Face Storage Buckets를 사용하여 한 곳에서 기록, 훈련 및 배포",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "date": "Thu, 13 Aug 2026 17:16:04 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "ICML의 2,200개 논문을 재현하여 우리가 배운 것",
       "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
       "date": "Thu, 13 Aug 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "OlmoEarth 임베딩 소개: 다운스트림 분석을 위해 OlmoEarth Studio에서 사용자 정의 임베딩 내보내기",
       "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "date": "Wed, 12 Aug 2026 16:14:36 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "가장자리에 대한 더 좋고 빠른 비전 기능을 위한 LFM2.5-VL-3B",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "date": "Wed, 12 Aug 2026 14:00:51 GMT",
       "summary": "..."
     }
   ]
