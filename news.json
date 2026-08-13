@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-14 00:04:34 (KST)",
+  "updated_at": "2026-08-14 02:03:56 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "초고속 모드 미리보기: 최대 14배 빠른 속도의 GPT-5.6 Sol",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "date": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "summary": "GPT-5.6 Sol을 최대 14배 더 빠르게 실행하는 새로운 OpenAI API 서비스 계층인 Ultrafast를 미리 살펴보세요. Cerebras를 기반으로 초당 최대 750개의 출력 토큰을 제공합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "date": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "지원부터 실행까지: 기업이 AI를 업무에 활용하는 방법",
       "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
       "date": "Wed, 12 Aug 2026 06:00:00 GMT",
       "summary": "OpenAI 연구는 기업이 ChatGPT 및 Codex를 사용하여 에이전트 AI를 채택하는 방법과 선구적인 기업이 AI 채택을 앞당기는 방법을 보여줍니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "RingCentral이 엔지니어링부터 운영까지 AI 기반 작업을 구축하는 방법",
-      "link": "https://openai.com/index/ringcentral",
-      "date": "Wed, 12 Aug 2026 00:00:00 GMT",
-      "summary": "RingCentral이 ChatGPT Work 및 Codex를 사용하여 AI 제품 개발을 가속화하고 엔지니어링 및 운영 전반에 걸쳐 운영 인텔리전스를 중앙 집중화하는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT에서 광고 테스트",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "summary": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "2부: Amazon Athena 및 CUDOS를 사용한 Amazon Bedrock 비용 귀속",
-      "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
-      "date": "Wed, 12 Aug 2026 17:45:20 +0000",
-      "summary": "Amazon Athena 및 CUDOS 대시보드를 사용하여 Amazon Bedrock 비용 귀속을 시각화하고 분석하는 방법을 알아보세요. 이 게시물에서는 IAM 주체 데이터로 CUR 2.0을 설정하고 Bedrock 지출을 Princ별로 쿼리하는 방법을 보여줍니다...."
+      "title": "AgentCore Observability로 온프레미스 및 멀티 클라우드 AI 에이전트 모니터링",
+      "link": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
+      "date": "Thu, 13 Aug 2026 16:02:10 +0000",
+      "summary": "AWS 외부(온프레미스, GCP, Azure 또는 개발자 컴퓨터)에서 실행되는 AI 에이전트에 대해 Amazon Bedrock AgentCore Observability를 설정합니다. 이 연습에서는 ADOT(AWS Distro for OpenTelemetry)를 사용합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "OneAdvanced가 영국 주권 AWS에 50개 이상의 AI 에이전트를 배포한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
-      "date": "Wed, 12 Aug 2026 13:46:28 +0000",
-      "summary": "영국 기업 소프트웨어 제공업체인 OneAdvanced가 Amazon SageMaker AI에서 Llama 4 Maverick 및 Llama Guard 4를 자체 호스팅하고 pgVector의 RAG 파이프라인을 사용하여 영국 주권 AI 플랫폼을 구축한 방법을 알아보세요...."
+      "title": "Amazon Bedrock AgentCore 브라우저 도구를 사용하여 레거시 웹 애플리케이션 자동화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-legacy-web-applications-with-amazon-bedrock-agentcore-browser-tool/",
+      "date": "Thu, 13 Aug 2026 15:56:07 +0000",
+      "summary": "Amazon Bedrock AgentCore 브라우저 도구 및 Strands 에이전트를 사용하여 인간과 유사한 상호 작용이 필요한 레거시 웹 애플리케이션을 자동화하는 방법을 알아보세요. 이 연습에서는 A에 대한 참조 아키텍처를 다룹니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "안심하고 결제: Solv Labs가 Amazon Bedrock AgentCore 결제에 대해 검증 가능하고 감사 가능한 에이전트 결제를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
-      "date": "Wed, 12 Aug 2026 13:44:58 +0000",
-      "summary": "Solv Labs는 Amazon Bedrock AgentCore 결제에 대해 관리되는 에이전트 결제 워크플로를 구축했습니다. 여기서 모든 거래는 승인되고, AWS Nitro Enclave에서 증명되고, 위험에 따라 가격이 책정되고, 펍에 고정됩니다...."
+      "title": "Amazon Bedrock AgentCore를 통해 M&A 실사 가속화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-ma-due-diligence-with-amazon-bedrock-agentcore/",
+      "date": "Thu, 13 Aug 2026 15:52:44 +0000",
+      "summary": "Amazon Bedrock AgentCore에서 다중 에이전트 M&A 실사 시스템을 구축하는 방법을 알아보세요. 이 게시물에서는 에이전트 오케스트레이션, 지식 검색 및..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "ICML의 2,200개 논문을 재현하여 우리가 배운 것",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "date": "Thu, 13 Aug 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "가장자리에 대한 더 좋고 빠른 비전 기능을 위한 LFM2.5-VL-3B",
       "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
       "date": "Wed, 12 Aug 2026 14:00:51 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "에이스를 생각하시나요? 더 적은 토큰으로 할 수 있습니다",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "date": "Tue, 11 Aug 2026 13:37:10 GMT",
       "summary": "..."
     }
   ]
