@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 07:52:35 (KST)",
+  "updated_at": "2026-08-14 08:51:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,11 +13,11 @@
       "title": "초고속 모드 미리보기: 최대 14배 빠른 속도의 GPT-5.6 Sol",
       "link": "https://openai.com/index/previewing-ultrafast",
       "date": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "GPT-5.6 Sol을 최대 14배 더 빠르게 실행하는 새로운 OpenAI API 서비스 계층인 Ultrafast를 미리 살펴보세요. Cerebras를 기반으로 초당 최대 750개의 출력 토큰을 제공합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI, Dali Rajic을 최고 수익 책임자(CRO)로 임명",
+      "title": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "date": "Thu, 13 Aug 2026 09:00:00 GMT",
       "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "에이전트 최적화의 경제학: 파일럿부터 측정 가능한 수익까지",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
-      "date": "Wed, 12 Aug 2026 16:00:00 +0000",
-      "summary": "<p>AI 비용 관리가 더 나은 가시성, 거버넌스, 최적화를 통해 조직이 AI 파일럿에서 측정 가능한 ROI로 전환하는 데 어떻게 도움이 되는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 부문 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
       "date": "Thu, 06 Aug 2026 15:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
       "date": "Mon, 27 Jul 2026 15:00:00 +0000",
       "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "AT&T와 Microsoft는 Microsoft Foundry와 AMD를 통해 1조 개의 토큰 워크로드를 확장합니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+      "date": "Thu, 23 Jul 2026 18:30:00 +0000",
+      "summary": "<p>AT&T는 Microsoft Foundry Managed Compute, 개방형 AI 모델, AMD 및 NVIDIA GPU 인프라를 사용하여 OTel2.0을 개발하는 동안 약 1조 개의 토큰을 처리했습니다. m이 얼마나 유연한지 알아보세요..."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "OlmoEarth 임베딩 소개: 다운스트림 분석을 위해 OlmoEarth Studio에서 사용자 정의 임베딩 내보내기",
       "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "date": "Wed, 12 Aug 2026 16:14:36 GMT",
       "summary": "..."
