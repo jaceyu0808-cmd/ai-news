@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-15 12:49:10 (KST)",
+  "updated_at": "2026-08-15 13:39:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "GPT‑5.6 제작 가이드",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "date": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "summary": "스타트업이 GPT-5.6을 사용하여 더 스마트한 모델 선택과 새로운 Responses API 기능을 통해 더 빠르고 비용 효율적인 AI 에이전트를 구축하는 방법을 알아보세요...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "OpenAI",
-      "title": "초고속 모드 미리보기: 최대 14배 빠른 속도의 GPT-5.6 Sol",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/previewing-ultrafast",
       "date": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "summary": "GPT-5.6 Sol을 최대 14배 더 빠르게 실행하는 새로운 OpenAI API 서비스 계층인 Ultrafast를 미리 살펴보세요. Cerebras를 기반으로 초당 최대 750개의 출력 토큰을 제공합니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI, Dali Rajic을 최고 수익 책임자(CRO)로 임명",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "date": "Thu, 13 Aug 2026 09:00:00 GMT",
       "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
@@ -27,7 +27,7 @@
       "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
-      "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Google AI",
@@ -38,10 +38,10 @@
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "새로운 AI 도구로 마케팅을 발전시키세요",
       "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
       "date": "Mon, 10 Aug 2026 14:30:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Google Ads 및 Google Analytics의 Advisor UI..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -52,14 +52,14 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 분야의 리더로 선정되었습니다.",
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 부문 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
       "date": "Thu, 06 Aug 2026 15:00:00 +0000",
       "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
       "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
       "date": "Mon, 27 Jul 2026 15:00:00 +0000",
       "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "공개 모델 현황: 2026년 여름 관측",
       "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
       "summary": "..."
