@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 14:31:36 (KST)",
+  "updated_at": "2026-08-15 15:50:42 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI, Dali Rajic을 최고 수익 책임자(CRO)로 임명",
+      "title": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "date": "Thu, 13 Aug 2026 09:00:00 GMT",
       "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "당사의 연구 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 화상 상담 기능을 시연합니다.",
+      "title": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 화상 상담 기능을 시연합니다.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "date": "Tue, 11 Aug 2026 17:00:00 +0000",
       "summary": "AMIE 홍보영상..."
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 분야의 리더로 선정되었습니다.",
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 부문 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
       "date": "Thu, 06 Aug 2026 15:00:00 +0000",
       "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
@@ -76,7 +76,7 @@
       "title": "SageMaker AI 및 Bedrock AgentCore를 사용하여 에이전트 워크플로 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
       "date": "Fri, 14 Aug 2026 15:58:44 +0000",
-      "summary": "Amazon SageMaker AI의 OpenAI 호환 엔드포인트를 Amazon Bedrock AgentCore 런타임과 결합하여 각 전문 에이전트가 다음에 가장 적합한 모델을 사용하는 다중 에이전트 워크플로를 구축하는 방법을 알아봅니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
