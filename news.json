@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 16:37:31 (KST)",
+  "updated_at": "2026-08-16 17:38:26 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "date": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
+      "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자(CRO)로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
     },
     {
       "company": "Google AI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "당사의 연구 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 화상 상담 기능을 시연합니다.",
+      "title": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 영상 상담 기능을 시연했습니다.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "date": "Tue, 11 Aug 2026 17:00:00 +0000",
       "summary": "AMIE 홍보영상..."
