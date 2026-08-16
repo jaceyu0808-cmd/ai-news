@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 02:26:00 (KST)",
+  "updated_at": "2026-08-17 03:38:45 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,7 +17,7 @@
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "date": "Thu, 13 Aug 2026 09:00:00 GMT",
       "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
@@ -76,7 +76,7 @@
       "title": "SageMaker AI 및 Bedrock AgentCore를 사용하여 에이전트 워크플로 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
       "date": "Fri, 14 Aug 2026 15:58:44 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Amazon SageMaker AI의 OpenAI 호환 엔드포인트를 Amazon Bedrock AgentCore 런타임과 결합하여 각 전문 에이전트가 다음에 가장 적합한 모델을 사용하는 다중 에이전트 워크플로를 구축하는 방법을 알아봅니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "ICML의 2,200개 논문을 재현하여 우리가 배운 것",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
       "date": "Thu, 13 Aug 2026 00:00:00 GMT",
       "summary": "..."
