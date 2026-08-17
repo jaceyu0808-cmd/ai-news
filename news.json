@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 01:36:09 (KST)",
+  "updated_at": "2026-08-18 02:34:45 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -34,11 +34,11 @@
       "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 화상 상담 기능을 시연합니다.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "date": "Tue, 11 Aug 2026 17:00:00 +0000",
       "summary": "AMIE 홍보영상..."
@@ -62,7 +62,7 @@
       "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
       "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
       "date": "Mon, 27 Jul 2026 15:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
     },
     {
       "company": "AWS Machine Learning",
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "SageMaker AI 및 Bedrock AgentCore를 사용하여 에이전트 워크플로 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
       "date": "Fri, 14 Aug 2026 15:58:44 +0000",
       "summary": "Amazon SageMaker AI의 OpenAI 호환 엔드포인트를 Amazon Bedrock AgentCore 런타임과 결합하여 각 전문 에이전트가 다음에 가장 적합한 모델을 사용하는 다중 에이전트 워크플로를 구축하는 방법을 알아봅니다...."
