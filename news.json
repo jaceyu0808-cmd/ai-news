@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 02:34:45 (KST)",
+  "updated_at": "2026-08-18 03:50:20 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "Gemini와 Pixel로 게임에 더 가까이 다가가세요",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "date": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구 선수의 낮은 각도에서 볼 수 있으며, 축구화에서 잔디가 날아갑니다...."
+      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구선수의 낮은 각도에서 축구화에서 잔디가 날아갑니다...."
     },
     {
       "company": "Google AI",
@@ -38,7 +38,7 @@
     },
     {
       "company": "Google AI",
-      "title": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 화상 상담 기능을 시연합니다.",
+      "title": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 영상 상담 기능을 시연했습니다.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "date": "Tue, 11 Aug 2026 17:00:00 +0000",
       "summary": "AMIE 홍보영상..."
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "이제 Amazon SageMaker JumpStart에서 NVIDIA Nemotron 3.5 Lightning 사용 가능",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
+      "date": "Mon, 17 Aug 2026 18:06:33 +0000",
+      "summary": "대용량 에이전트 워크로드를 위해 구축된 개방형 모델인 NVIDIA Nemotron 3.5 Lightning을 이제 Amazon SageMaker JumpStart에서 사용할 수 있습니다. 이 게시물은 30B 전문가 혼합 모델(3B)을 배포하는 방법을 보여줍니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Amazon Bedrock AgentCore 결제로 거래하는 OpenClaw 에이전트 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
       "date": "Mon, 17 Aug 2026 16:19:56 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
       "date": "Fri, 14 Aug 2026 16:02:10 +0000",
       "summary": "다중 회전 강화 학습에서는 사용자 정의 보상 함수가 모델이 실제로 학습하는 내용을 결정합니다. 이 게시물은 Amazon Nova Forge에 대한 복합 다중 턴 보상을 설계하고 모드를 실행하는 방법을 보여줍니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "SageMaker AI 및 Bedrock AgentCore를 사용하여 에이전트 워크플로 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-agentic-workflows-with-sagemaker-ai-and-bedrock-agentcore/",
-      "date": "Fri, 14 Aug 2026 15:58:44 +0000",
-      "summary": "Amazon SageMaker AI의 OpenAI 호환 엔드포인트를 Amazon Bedrock AgentCore 런타임과 결합하여 각 전문 에이전트가 다음에 가장 적합한 모델을 사용하는 다중 에이전트 워크플로를 구축하는 방법을 알아봅니다...."
     },
     {
       "company": "Hugging Face",
