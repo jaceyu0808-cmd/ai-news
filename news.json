@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-17 19:39:16 (KST)",
+  "updated_at": "2026-08-17 20:32:56 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "지능시대를 위한 새로운 정책 아이디어",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "date": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "summary": "OpenAI는 지능 시대의 경제적 기회를 확대하고 사회적 탄력성을 강화하기 위해 새로운 AI 정책 아이디어를 탐구하는 14개의 독립적인 프로젝트에 자금을 지원합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "GPT‑5.6 제작 가이드",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/previewing-ultrafast",
       "date": "Thu, 13 Aug 2026 10:00:00 GMT",
       "summary": "GPT-5.6 Sol을 최대 14배 더 빠르게 실행하는 새로운 OpenAI API 서비스 계층인 Ultrafast를 미리 살펴보세요. Cerebras를 기반으로 초당 최대 750개의 출력 토큰을 제공합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "date": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
     },
     {
       "company": "Google AI",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "공개 모델 현황: 2026년 여름 관측",
+      "title": "공개 모델 상태: 2026년 여름 관측",
       "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
       "summary": "..."
