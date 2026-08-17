@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 13:51:46 (KST)",
+  "updated_at": "2026-08-17 14:40:46 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,28 +10,28 @@
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "초고속 모드 미리보기: 최대 14배 빠른 속도의 GPT-5.6 Sol",
       "link": "https://openai.com/index/previewing-ultrafast",
       "date": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "GPT-5.6 Sol을 최대 14배 더 빠르게 실행하는 새로운 OpenAI API 서비스 계층인 Ultrafast를 미리 살펴보세요. Cerebras를 기반으로 초당 최대 750개의 출력 토큰을 제공합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
+      "title": "OpenAI, Dali Rajic을 최고 수익 책임자(CRO)로 임명",
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "date": "Thu, 13 Aug 2026 09:00:00 GMT",
-      "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자(CRO)로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
+      "summary": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
       "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
     },
     {
       "company": "Google AI",
-      "title": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 영상 상담 기능을 시연했습니다.",
+      "title": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 화상 상담 기능을 시연합니다.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "date": "Tue, 11 Aug 2026 17:00:00 +0000",
       "summary": "AMIE 홍보영상..."
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "공개 모델 현황: 2026년 여름 관측",
+      "title": "공개 모델 상태: 2026년 여름 관측",
       "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
       "summary": "..."
