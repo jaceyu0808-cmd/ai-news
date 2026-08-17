@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-08-17 21:58:06 (KST)",
+  "updated_at": "2026-08-17 22:47:40 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "수비수의 창",
+      "link": "https://openai.com/index/the-defenders-window",
+      "date": "Mon, 17 Aug 2026 05:30:00 GMT",
+      "summary": "AI는 공격자와 방어자 모두를 위해 사이버 보안을 재편하고 있습니다. OpenAI가 방어를 강화하는 방법과 보안 팀이 지금 무엇을 할 수 있는지 알아보세요...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI, PORTS-Pike 프로젝트에 합류",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "date": "Mon, 17 Aug 2026 05:00:00 GMT",
+      "summary": "OpenAI, PORTS-Pike 프로젝트에 합류하여 지역사회 투자 확대 및 수천 개의 남부 오하이오 일자리 지원..."
+    },
     {
       "company": "OpenAI",
       "title": "지능시대를 위한 새로운 정책 아이디어",
@@ -9,36 +23,22 @@
       "summary": "OpenAI는 지능 시대의 경제적 기회를 확대하고 사회적 탄력성을 강화하기 위해 새로운 AI 정책 아이디어를 탐구하는 14개의 독립적인 프로젝트에 자금을 지원합니다...."
     },
     {
-      "company": "OpenAI",
-      "title": "GPT‑5.6 제작 가이드",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "date": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "summary": "스타트업이 GPT-5.6을 사용하여 더 스마트한 모델 선택과 새로운 Responses API 기능을 통해 더 빠르고 비용 효율적인 AI 에이전트를 구축하는 방법을 알아보세요...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "초고속 모드 미리보기: 최대 14배 빠른 속도의 GPT-5.6 Sol",
-      "link": "https://openai.com/index/previewing-ultrafast",
-      "date": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "summary": "GPT-5.6 Sol을 최대 14배 더 빠르게 실행하는 새로운 OpenAI API 서비스 계층인 Ultrafast를 미리 살펴보세요. Cerebras를 기반으로 초당 최대 750개의 출력 토큰을 제공합니다...."
-    },
-    {
       "company": "Google AI",
       "title": "Gemini와 Pixel로 게임에 더 가까이 다가가세요",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "date": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구 선수의 낮은 각도에서 볼 수 있으며, 축구화에서 잔디가 날아갑니다...."
+      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구선수의 낮은 각도에서 축구화에서 잔디가 날아갑니다...."
     },
     {
       "company": "Google AI",
       "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
     },
     {
       "company": "Google AI",
-      "title": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 화상 상담 기능을 시연합니다.",
+      "title": "당사의 연구용 의료 AI 시스템인 AMIE는 최초의 연구에서 실시간 임상 영상 상담 기능을 시연했습니다.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "date": "Tue, 11 Aug 2026 17:00:00 +0000",
       "summary": "AMIE 홍보영상..."
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 부문 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
       "date": "Thu, 06 Aug 2026 15:00:00 +0000",
       "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
