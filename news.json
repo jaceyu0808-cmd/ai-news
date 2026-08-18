@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-08-19 04:33:17 (KST)",
+  "updated_at": "2026-08-19 05:32:13 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "date": "Tue, 18 Aug 2026 19:00:00 GMT",
+      "summary": "OpenAI는 국가 안보에서 AI에 대한 민주적 감독을 강화하고 도구, 교육 및 전문 지식을 통해 정부 기관을 지원하기 위한 이니셔티브를 시작합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "첫 번째 AI 세대를 준비하기 위해 CodeAI와 협력",
       "link": "https://openai.com/index/partnering-with-codeai",
       "date": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "summary": "OpenAI와 CodeAI는 학생들이 AI 활용 능력을 키우고, AI에 대해 비판적으로 생각하고, AI를 책임감 있게 사용하고 형성하는 기술을 개발하도록 돕기 위해 협력하고 있습니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "OpenAI",
@@ -16,18 +23,11 @@
       "summary": "OpenAI는 최첨단 AI 모델에 대한 모니터링, 조정 및 보안을 강화하고 있습니다. 새로운 보호 장치가 모델 개발 속도를 어떻게 안내하는지 알아보세요...."
     },
     {
-      "company": "OpenAI",
-      "title": "청소년을 위한 ChatGPT 소개: 학습용으로 제작되었으며 보호 기능이 지원됨",
-      "link": "https://openai.com/index/chatgpt-for-teens",
-      "date": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "summary": "청소년용 ChatGPT는 강력한 기본 보호 기능, 건전한 사용 기능, 부모를 위한 추가 제어 기능을 통해 청소년이 자신있게 AI를 배우고, 비판적으로 생각하고, AI를 사용할 수 있도록 도와줍니다...."
-    },
-    {
       "company": "Google AI",
-      "title": "Gemini와 Pixel로 게임에 더 가까이 다가가세요",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "date": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구선수의 낮은 각도에서 축구화에서 잔디가 날아갑니다...."
+      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구 선수의 낮은 각도에서 볼 수 있으며, 축구화에서 잔디가 날아갑니다...."
     },
     {
       "company": "Google AI",
@@ -45,10 +45,10 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "에이전트 최적화의 경제학: 파일럿부터 측정 가능한 수익까지",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
       "date": "Wed, 12 Aug 2026 16:00:00 +0000",
-      "summary": "<p>AI 비용 관리가 더 나은 가시성, 거버넌스, 최적화를 통해 조직이 AI 파일럿에서 측정 가능한 ROI로 전환하는 데 어떻게 도움이 되는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -83,11 +83,11 @@
       "title": "Amazon Bedrock을 사용하여 벡터 프롬프트 문서 분류 구현",
       "link": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/",
       "date": "Tue, 18 Aug 2026 17:10:37 +0000",
-      "summary": "Strands Agents SDK를 사용하여 Amazon Bedrock에서 다중 에이전트 문서 분류 솔루션을 구축하는 방법을 알아보세요. 세 가지 전문 에이전트가 텍스트 분석과 Claude Haiku 4.5 및 시각적 시뮬레이션을 결합합니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Hugging Face",
-      "title": "에이전트에 실제로 얼마나 많은 메모리가 필요합니까?",
+      "title": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
       "summary": "..."
