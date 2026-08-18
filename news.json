@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 01:39:29 (KST)",
+  "updated_at": "2026-08-19 02:34:40 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,7 +13,7 @@
       "title": "청소년을 위한 ChatGPT 소개: 학습용으로 제작되었으며 보호 기능이 지원됨",
       "link": "https://openai.com/index/chatgpt-for-teens",
       "date": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "summary": "청소년용 ChatGPT는 강력한 기본 보호 기능, 건전한 사용 기능, 부모를 위한 추가 제어 기능을 통해 청소년이 자신있게 AI를 배우고, 비판적으로 생각하고, AI를 사용할 수 있도록 도와줍니다...."
+      "summary": "청소년용 ChatGPT는 강력한 내장 보호 기능, 건전한 사용 기능, 부모를 위한 추가 제어 기능을 통해 청소년이 자신있게 AI를 배우고, 비판적으로 생각하고, AI를 사용할 수 있도록 도와줍니다...."
     },
     {
       "company": "OpenAI",
@@ -27,14 +27,14 @@
       "title": "Gemini와 Pixel로 게임에 더 가까이 다가가세요",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "date": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구선수의 낮은 각도에서 축구화에서 잔디가 날아갑니다...."
+      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구 선수의 낮은 각도에서 볼 수 있으며, 축구화에서 잔디가 날아갑니다...."
     },
     {
       "company": "Google AI",
       "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Axonius가 Bedrock AgentCore에서 보안 멀티 테넌트 AI 에이전트를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/",
-      "date": "Tue, 18 Aug 2026 16:27:07 +0000",
-      "summary": "사이버 보안 SaaS 제공업체인 Axonius가 Amazon Bedrock AgentCore를 사용하여 맞춤형 컴퓨터를 구축하지 않고도 수백 개의 고객 환경에 완전히 격리된 멀티 테넌트 AI 에이전트를 배포한 방법을 알아보세요...."
+      "title": "애플리케이션에 Amazon Quick 내장 채팅을 사용자 정의하세요.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application/",
+      "date": "Tue, 18 Aug 2026 17:13:13 +0000",
+      "summary": "Amazon Quick 임베디드 채팅은 대화형 AI 인터페이스를 웹 애플리케이션에 제공합니다. 이 게시물에서는 컨테이너 및 SDK 스타일 지정, 브랜딩 제거 및..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "이제 Amazon SageMaker JumpStart에서 NVIDIA Nemotron 3.5 Lightning 사용 가능",
-      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
-      "date": "Mon, 17 Aug 2026 18:06:33 +0000",
-      "summary": "대용량 에이전트 워크로드를 위해 구축된 개방형 모델인 NVIDIA Nemotron 3.5 Lightning을 이제 Amazon SageMaker JumpStart에서 사용할 수 있습니다. 이 게시물은 30B 전문가 혼합 모델(3B)을 배포하는 방법을 보여줍니다...."
+      "title": "Amazon Bedrock을 사용하여 벡터 프롬프트 문서 분류 구현",
+      "link": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/",
+      "date": "Tue, 18 Aug 2026 17:10:37 +0000",
+      "summary": "Strands Agents SDK를 사용하여 Amazon Bedrock에서 다중 에이전트 문서 분류 솔루션을 구축하는 방법을 알아보세요. 세 가지 전문 에이전트가 텍스트 분석과 Claude Haiku 4.5 및 시각적 시뮬레이션을 결합합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore 결제로 거래하는 OpenClaw 에이전트 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
-      "date": "Mon, 17 Aug 2026 16:19:56 +0000",
-      "summary": "자율 에이전트에 지갑과 지출 가드레일을 제공하여 페이월 API, MCP 서버 및 웹 콘텐츠에 대한 비용을 지불할 수 있도록 합니다. 이 게시물은 OpenClaw를 Amazon Bedrock AgentCore 결제 및 x402에 연결합니다...."
+      "title": "Jumio가 AWS에서 실시간 피처 스토어를 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws/",
+      "date": "Tue, 18 Aug 2026 17:05:48 +0000",
+      "summary": "Jumio가 Amazon SageMaker Feature Store, Apache Flink용 Amazon Managed Service 및 Amazon Kinesis Data Streams를 사용하여 AWS에 중앙 집중식 실시간 기능 저장소를 구축한 방법을 알아보세요. 건축 델리..."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "공개 모델 상태: 2026년 여름 관측",
       "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
       "summary": "..."
