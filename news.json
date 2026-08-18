@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 00:38:39 (KST)",
+  "updated_at": "2026-08-19 01:39:29 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,24 +17,24 @@
     },
     {
       "company": "OpenAI",
-      "title": "수비수의 창",
-      "link": "https://openai.com/index/the-defenders-window",
-      "date": "Mon, 17 Aug 2026 05:30:00 GMT",
-      "summary": "AI는 공격자와 방어자 모두를 위해 사이버 보안을 재편하고 있습니다. OpenAI가 방어를 강화하는 방법과 보안 팀이 지금 무엇을 할 수 있는지 알아보세요...."
+      "title": "Asana는 Codex를 통해 2주 만에 5년 간의 엔지니어링 작업을 완료했습니다.",
+      "link": "https://openai.com/index/asana",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "summary": "Asana는 OpenAI Codex를 사용하여 오래된 테스트 시스템을 2주 만에 교체했으며 약 12,000달러에 5년이 걸릴 것으로 예상되는 작업을 완료했습니다...."
     },
     {
       "company": "Google AI",
       "title": "Gemini와 Pixel로 게임에 더 가까이 다가가세요",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "date": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구 선수의 낮은 각도에서 볼 수 있으며, 축구화에서 잔디가 날아갑니다...."
+      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구선수의 낮은 각도에서 축구화에서 잔디가 날아갑니다...."
     },
     {
       "company": "Google AI",
       "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
-      "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Google AI",
@@ -42,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "date": "Tue, 11 Aug 2026 17:00:00 +0000",
       "summary": "AMIE 홍보영상..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 클라우드 네이티브 애플리케이션 플랫폼 부문 리더로 선정되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
-      "date": "Mon, 17 Aug 2026 15:00:00 +0000",
-      "summary": "<p>클라우드 기반 플랫폼은 AI 혁신의 기반이 되고 있습니다. Microsoft의 Azure 애플리케이션 플랫폼이 조직이 AI 기반 애플리케이션을 현대화, 혁신 및 운영하는 데 어떻게 도움이 되는지 알아보세요...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -65,6 +58,20 @@
       "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
+      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+      "date": "Mon, 27 Jul 2026 15:00:00 +0000",
+      "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Axonius가 Bedrock AgentCore에서 보안 멀티 테넌트 AI 에이전트를 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-axonius-built-secure-multi-tenant-ai-agents-on-bedrock-agentcore/",
+      "date": "Tue, 18 Aug 2026 16:27:07 +0000",
+      "summary": "사이버 보안 SaaS 제공업체인 Axonius가 Amazon Bedrock AgentCore를 사용하여 맞춤형 컴퓨터를 구축하지 않고도 수백 개의 고객 환경에 완전히 격리된 멀티 테넌트 AI 에이전트를 배포한 방법을 알아보세요...."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "이제 Amazon SageMaker JumpStart에서 NVIDIA Nemotron 3.5 Lightning 사용 가능",
       "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-openclaw-agents-that-transact-with-amazon-bedrock-agentcore-payments/",
       "date": "Mon, 17 Aug 2026 16:19:56 +0000",
       "summary": "자율 에이전트에 지갑과 지출 가드레일을 제공하여 페이월 API, MCP 서버 및 웹 콘텐츠에 대한 비용을 지불할 수 있도록 합니다. 이 게시물은 OpenClaw를 Amazon Bedrock AgentCore 결제 및 x402에 연결합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Nova Forge를 사용한 다중 턴 강화 학습을 위한 사용자 정의 보상 기능",
-      "link": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
-      "date": "Fri, 14 Aug 2026 16:02:10 +0000",
-      "summary": "다중 회전 강화 학습에서는 사용자 정의 보상 함수가 모델이 실제로 학습하는 내용을 결정합니다. 이 게시물은 Amazon Nova Forge에 대한 복합 다중 턴 보상을 설계하고 모드를 실행하는 방법을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "공개 모델 상태: 2026년 여름 관측",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
       "summary": "..."
