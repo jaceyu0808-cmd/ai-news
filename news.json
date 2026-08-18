@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 22:00:10 (KST)",
+  "updated_at": "2026-08-18 22:51:51 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "Gemini와 Pixel로 게임에 더 가까이 다가가세요",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "date": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구 선수의 낮은 각도에서 볼 수 있으며, 축구화에서 잔디가 날아갑니다...."
+      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구선수의 낮은 각도에서 축구화에서 잔디가 날아갑니다...."
     },
     {
       "company": "Google AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "문장 변환기를 사용한 다중 벡터(후기 상호 작용) 임베딩 모델",
+      "link": "https://huggingface.co/blog/multi-vector-encoder",
+      "date": "Tue, 18 Aug 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "동일한 클러스터, 33포인트 더 많은 활용도: 순서가 변경된 것",
       "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
       "date": "Mon, 17 Aug 2026 19:46:21 GMT",
@@ -94,16 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "공개 모델 상태: 2026년 여름 관측",
+      "title": "공개 모델 현황: 2026년 여름 관측",
       "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Strands Agents, LeRobot 및 Hugging Face Storage Buckets를 사용하여 한 곳에서 기록, 훈련 및 배포",
-      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "date": "Thu, 13 Aug 2026 17:16:04 GMT",
       "summary": "..."
     }
   ]
