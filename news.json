@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 20:32:31 (KST)",
+  "updated_at": "2026-08-18 22:00:10 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -11,7 +11,7 @@
     {
       "company": "OpenAI",
       "title": "청소년을 위한 ChatGPT 소개: 학습용으로 제작되었으며 보호 기능이 지원됨",
-      "link": "https://openai.com/index/introducing-chatgpt-for-teens",
+      "link": "https://openai.com/index/chatgpt-for-teens",
       "date": "Tue, 18 Aug 2026 11:00:00 GMT",
       "summary": "청소년용 ChatGPT는 강력한 기본 보호 기능, 건전한 사용 기능, 부모를 위한 추가 제어 기능을 통해 청소년이 자신있게 AI를 배우고, 비판적으로 생각하고, AI를 사용할 수 있도록 도와줍니다...."
     },
@@ -27,7 +27,7 @@
       "title": "Gemini와 Pixel로 게임에 더 가까이 다가가세요",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "date": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구선수의 낮은 각도에서 축구화에서 잔디가 날아갑니다...."
+      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구 선수의 낮은 각도에서 볼 수 있으며, 축구화에서 잔디가 날아갑니다...."
     },
     {
       "company": "Google AI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "공개 모델 현황: 2026년 여름 관측",
+      "title": "공개 모델 상태: 2026년 여름 관측",
       "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
       "summary": "..."
