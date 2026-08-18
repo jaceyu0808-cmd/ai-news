@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 03:49:31 (KST)",
+  "updated_at": "2026-08-19 04:33:17 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 클라우드 네이티브 애플리케이션 플랫폼 부문 리더로 선정되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
-      "date": "Mon, 17 Aug 2026 15:00:00 +0000",
-      "summary": "<p>클라우드 기반 플랫폼은 AI 혁신의 기반이 되고 있습니다. Microsoft의 Azure 애플리케이션 플랫폼이 조직이 AI 기반 애플리케이션을 현대화, 혁신 및 운영하는 데 어떻게 도움이 되는지 알아보세요...."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "에이전트 최적화의 경제학: 파일럿부터 측정 가능한 수익까지",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
       "date": "Wed, 12 Aug 2026 16:00:00 +0000",
@@ -65,11 +58,25 @@
       "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "안정성부터 AI 준비성까지 고객이 Microsoft 데이터베이스에서 가장 중요하게 생각하는 것",
+      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+      "date": "Mon, 27 Jul 2026 15:00:00 +0000",
+      "summary": "<p>매일 고객은 가장 중요한 애플리케이션, 비즈니스 프로세스 및 AI 기반 경험을 지원하는 Microsoft 데이터베이스를 신뢰합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock AgentCore 결제가 이제 정식 출시되었습니다. 에이전트가 대규모로 안전하고 자율적으로 거래할 수 있도록 지원",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
+      "date": "Tue, 18 Aug 2026 18:56:14 +0000",
+      "summary": "이제 Amazon Bedrock AgentCore 결제가 정식 출시되어 AI 에이전트가 내장된 지출 가드레일, 프로토콜에 구애받지 않는 결제 오케스트레이션 및 제품을 통해 대규모로 자율적으로 거래할 수 있습니다...."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "애플리케이션에 Amazon Quick 내장 채팅을 사용자 정의하세요.",
       "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-quick-embedded-chat-into-your-application/",
       "date": "Tue, 18 Aug 2026 17:13:13 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Amazon Quick 임베디드 채팅은 대화형 AI 인터페이스를 웹 애플리케이션에 제공합니다. 이 게시물에서는 컨테이너 및 SDK 스타일 지정, 브랜딩 제거 및..."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/",
       "date": "Tue, 18 Aug 2026 17:10:37 +0000",
       "summary": "Strands Agents SDK를 사용하여 Amazon Bedrock에서 다중 에이전트 문서 분류 솔루션을 구축하는 방법을 알아보세요. 세 가지 전문 에이전트가 텍스트 분석과 Claude Haiku 4.5 및 시각적 시뮬레이션을 결합합니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Jumio가 AWS에서 실시간 피처 스토어를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-jumio-built-a-real-time-feature-store-on-aws/",
-      "date": "Tue, 18 Aug 2026 17:05:48 +0000",
-      "summary": "Jumio가 Amazon SageMaker Feature Store, Apache Flink용 Amazon Managed Service 및 Amazon Kinesis Data Streams를 사용하여 AWS에 중앙 집중식 실시간 기능 저장소를 구축한 방법을 알아보세요. 건축 델리..."
     },
     {
       "company": "Hugging Face",
