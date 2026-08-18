@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 18:40:41 (KST)",
+  "updated_at": "2026-08-18 19:36:34 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "공개 모델 현황: 2026년 여름 관측",
+      "title": "공개 모델 상태: 2026년 여름 관측",
       "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "date": "Fri, 14 Aug 2026 00:00:00 GMT",
       "summary": "..."
