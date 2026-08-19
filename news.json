@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-19 23:41:13 (KST)",
+  "updated_at": "2026-08-20 00:38:38 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Replit, GPT-5.6 Luna를 통해 소프트웨어 생성에 대한 액세스 확장",
+      "link": "https://openai.com/index/replit",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Replit는 GPT-5.6 Luna로 구동되는 무료 모드를 도입하여 누구나 토큰 비용에 대한 걱정 없이 아이디어를 작동 가능한 소프트웨어로 전환할 수 있습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "ChatGPT 광고가 유럽 전역으로 확장됩니다.",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "date": "Tue, 18 Aug 2026 19:00:00 GMT",
       "summary": "OpenAI는 국가 안보에서 AI에 대한 민주적 감독을 강화하고 도구, 교육 및 전문 지식을 통해 정부 기관을 지원하는 이니셔티브를 시작합니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "첫 번째 AI 세대를 준비하기 위해 CodeAI와 협력",
-      "link": "https://openai.com/index/partnering-with-codeai",
-      "date": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "summary": "OpenAI와 CodeAI는 학생들이 AI 활용 능력을 키우고, AI에 대해 비판적으로 생각하고, AI를 책임감 있게 사용하고 형성하는 기술을 개발하도록 돕기 위해 협력하고 있습니다...."
     },
     {
       "company": "Google AI",
@@ -83,11 +83,11 @@
       "title": "Amazon Bedrock을 사용하여 벡터 프롬프트 문서 분류 구현",
       "link": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/",
       "date": "Tue, 18 Aug 2026 17:10:37 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Strands Agents SDK를 사용하여 Amazon Bedrock에서 다중 에이전트 문서 분류 솔루션을 구축하는 방법을 알아보세요. 세 가지 전문 에이전트가 텍스트 분석과 Claude Haiku 4.5 및 시각적 시뮬레이션을 결합합니다...."
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "LFM2.5 Q4\\_0 양자화 인식 증류의 체크포인트",
       "link": "https://huggingface.co/blog/LiquidAI/qad",
       "date": "Wed, 19 Aug 2026 13:48:49 GMT",
       "summary": "..."
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "문장 변환기를 사용한 다중 벡터(후기 상호 작용) 임베딩 모델",
       "link": "https://huggingface.co/blog/multi-vector-encoder",
       "date": "Tue, 18 Aug 2026 00:00:00 GMT",
       "summary": "..."
