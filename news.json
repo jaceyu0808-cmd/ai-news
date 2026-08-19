@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 22:00:51 (KST)",
+  "updated_at": "2026-08-19 23:41:13 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
       "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
@@ -83,7 +83,14 @@
       "title": "Amazon Bedrock을 사용하여 벡터 프롬프트 문서 분류 구현",
       "link": "https://aws.amazon.com/blogs/machine-learning/implement-vector-prompt-document-classification-using-amazon-bedrock/",
       "date": "Tue, 18 Aug 2026 17:10:37 +0000",
-      "summary": "Strands Agents SDK를 사용하여 Amazon Bedrock에서 다중 에이전트 문서 분류 솔루션을 구축하는 방법을 알아보세요. 세 가지 전문 에이전트가 텍스트 분석과 Claude Haiku 4.5 및 시각적 시뮬레이션을 결합합니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://huggingface.co/blog/LiquidAI/qad",
+      "date": "Wed, 19 Aug 2026 13:48:49 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -94,16 +101,9 @@
     },
     {
       "company": "Hugging Face",
-      "title": "문장 변환기를 사용한 다중 벡터(후기 상호 작용) 임베딩 모델",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/multi-vector-encoder",
       "date": "Tue, 18 Aug 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "동일한 클러스터, 33포인트 더 많은 활용도: 순서가 변경된 것",
-      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "date": "Mon, 17 Aug 2026 19:46:21 GMT",
       "summary": "..."
     }
   ]
