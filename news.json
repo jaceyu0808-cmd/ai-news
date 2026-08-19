@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 06:32:37 (KST)",
+  "updated_at": "2026-08-20 07:32:02 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "에이전트 최적화의 경제학: 파일럿부터 측정 가능한 수익까지",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
       "date": "Wed, 12 Aug 2026 16:00:00 +0000",
       "summary": "<p>AI 비용 관리가 더 나은 가시성, 거버넌스, 최적화를 통해 조직이 AI 파일럿에서 측정 가능한 ROI로 전환하는 데 어떻게 도움이 되는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com..."
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Fanatics Betting and Gaming이 다중 에이전트 고객 지원 시스템을 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
-      "date": "Wed, 19 Aug 2026 20:40:45 +0000",
-      "summary": "Fanatics Betting and Gaming은 스포츠 베팅의 복잡성(주별 규칙, 실시간 책임감 있는 게임, 경기 중 트래픽 급증)을 처리하기 위해 AWS에 다중 에이전트 고객 지원 시스템을 구축했습니다...."
+      "title": "AgentCore의 웹 검색을 위한 도메인 및 게시 날짜 필터",
+      "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
+      "date": "Wed, 19 Aug 2026 22:13:20 +0000",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "KnowledgeForge: ITSM 티켓 묘지에서 금 채굴",
-      "link": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
-      "date": "Wed, 19 Aug 2026 20:36:50 +0000",
-      "summary": "KnowledgeForge 광산은 ITSM 사고 티켓을 새로운 지식 기반 문서로 해결하고 Amaz를 사용하여 콘텐츠 중복 제거, 품질 점수 매기기 및 개선을 통해 기존 라이브러리를 자동으로 관리합니다...."
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
+      "date": "Wed, 19 Aug 2026 22:09:56 +0000",
+      "summary": "대량의 문서를 분류, 추출 및 검증하는 것은 은행, 보험, 의료 및 공공 부문 전반에 걸쳐 어려운 과제입니다. 중간 규모 모기지 대출 기관이 전체 업무를 자동화하는 방법을 알아보세요...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore 결제가 이제 정식 출시되었습니다. 에이전트가 대규모로 안전하고 자율적으로 거래할 수 있도록 지원",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
-      "date": "Tue, 18 Aug 2026 18:56:14 +0000",
-      "summary": "이제 Amazon Bedrock AgentCore 결제가 정식 출시되어 AI 에이전트가 내장된 지출 가드레일, 프로토콜에 구애받지 않는 결제 오케스트레이션 및 제품을 통해 대규모로 자율적으로 거래할 수 있습니다...."
+      "title": "서버리스 파이프라인에서 Amazon Bedrock AgentCore 에이전트를 호출하기 위한 비동기 패턴",
+      "link": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
+      "date": "Wed, 19 Aug 2026 22:06:09 +0000",
+      "summary": "이 게시물에서는 AWS Step Fun에서 Amazon Bedrock AgentCore 에이전트를 비동기식으로 호출하기 위한 세 가지 서버리스 패턴(작업 토큰 콜백, 직접 서비스 통합 및 내구성 기능)을 알아봅니다...."
     },
     {
       "company": "Hugging Face",
