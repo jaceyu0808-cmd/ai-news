@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-19 14:37:21 (KST)",
+  "updated_at": "2026-08-19 15:56:21 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT 광고가 유럽 전역으로 확장됩니다.",
+      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "date": "Tue, 18 Aug 2026 22:00:00 GMT",
+      "summary": "ChatGPT 광고는 31개 유럽 시장으로 확장됩니다. 광고주가 옵션을 탐색하고, 비교하고, 결정을 내릴 때 사람들에게 다가갈 수 있는 방법을 알아보세요...."
+    },
     {
       "company": "OpenAI",
       "title": "국가 안보에 대한 민주적 감독 강화",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/partnering-with-codeai",
       "date": "Tue, 18 Aug 2026 11:00:00 GMT",
       "summary": "OpenAI와 CodeAI는 학생들이 AI 활용 능력을 키우고, AI에 대해 비판적으로 생각하고, AI를 책임감 있게 사용하고 형성하는 기술을 개발하도록 돕기 위해 협력하고 있습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "사이버 핵심 기능 시대의 모델 개발 속도",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "date": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "summary": "OpenAI는 최첨단 AI 모델에 대한 모니터링, 조정 및 보안을 강화하고 있습니다. 새로운 보호 장치가 모델 개발 속도를 어떻게 안내하는지 알아보세요...."
     },
     {
       "company": "Google AI",
