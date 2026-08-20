@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-21 00:40:38 (KST)",
+  "updated_at": "2026-08-21 01:42:35 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "ChatGPT Work가 Stampli의 아이디어를 시장에 출시하는 데 어떻게 도움이 됩니까?",
+      "link": "https://openai.com/index/stampli",
+      "date": "Thu, 20 Aug 2026 00:00:00 GMT",
+      "summary": "고정된 기한과 설계 리소스를 다른 곳에 할당한 덕분에 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주에 걸친 출시 생산을 며칠로 단축했습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "프론티어 모델을 위한 제로 데이터 보존 제공",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/replit",
       "date": "Wed, 19 Aug 2026 07:00:00 GMT",
       "summary": "Replit는 GPT-5.6 Luna를 기반으로 하는 무료 모드를 도입하여 누구나 토큰 비용에 대한 걱정 없이 아이디어를 작동 가능한 소프트웨어로 전환할 수 있습니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT 광고가 유럽 전역으로 확장됩니다.",
-      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "date": "Tue, 18 Aug 2026 22:00:00 GMT",
-      "summary": "ChatGPT 광고는 31개 유럽 시장으로 확장됩니다. 광고주가 옵션을 탐색하고, 비교하고, 결정을 내릴 때 사람들에게 다가갈 수 있는 방법을 알아보세요...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock을 사용하여 의료 API를 위한 지능형 보안 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/",
-      "date": "Thu, 20 Aug 2026 15:20:03 +0000",
-      "summary": "Amazon Bedrock을 사용하여 FHIR API에 상황 인식 보안 모니터링을 추가하는 방법을 알아보세요. 이번 포스팅은 비정상적인 접속 패턴을 탐지하고, 데이터 민감도를 자동으로 분류하고, COM을 생성하는 방법을 보여줍니다...."
+      "title": "Amazon Bedrock AgentCore의 자연어를 사용하여 Dogwood 정책 작성",
+      "link": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
+      "date": "Thu, 20 Aug 2026 16:31:28 +0000",
+      "summary": "AI 에이전트는 조직의 정책과 일치하지 않는 조치를 취할 수 있습니다. Amazon Bedrock AgentCore의 정책을 통해 팀은 이제 시간 기반 제약 조건을 포함하여 에이전트 전체에 제어를 적용할 수 있습니다. 이 게시물..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AgentCore의 웹 검색을 위한 도메인 및 게시 날짜 필터",
-      "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
-      "date": "Wed, 19 Aug 2026 22:13:20 +0000",
-      "summary": "Amazon Bedrock AgentCore의 웹 검색은 이제 런타임 도메인 및 게시 날짜 필터링을 지원합니다. 새로운 요청별 필터를 통해 개발자는 호출별로 에이전트가 상담하는 웹 소스를 제어할 수 있습니다...."
+      "title": "확장 에이전트 AI: 벤더 종속이 없는 엔터프라이즈 패턴",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+      "date": "Thu, 20 Aug 2026 16:24:12 +0000",
+      "summary": "기업 전체에서 에이전트 AI를 확장하려면 벤더 종속을 피하면서 유연성을 유지하는 패턴이 필요합니다. 다중 에이전트 시리즈의 두 번째 게시물에서는 ML 팀이 다양한 에이전트를 운영하는 방법을 살펴봅니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Quick Automate 및 IDP Accelerator를 사용하여 문서 처리 자동화",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
-      "date": "Wed, 19 Aug 2026 22:09:56 +0000",
-      "summary": "대량의 문서를 분류, 추출 및 검증하는 것은 은행, 보험, 의료 및 공공 부문 전반에 걸쳐 어려운 과제입니다. 중간 규모 모기지 대출 기관이 전체 업무를 자동화하는 방법을 알아보세요...."
+      "title": "Amazon Bedrock AgentCore에서 에이전트 AI를 사용하여 클라우드 마이그레이션 확장",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+      "date": "Thu, 20 Aug 2026 16:11:18 +0000",
+      "summary": "AWS Professional Services가 Amazon Bedrock AgentCore에 구축된 다중 에이전트 프레임워크를 사용하여 엔터프라이즈 클라우드 마이그레이션을 엔드투엔드 자동화하는 방법을 알아보세요. 특별히 제작된 AI 에이전트가 검색, 인프라를 처리합니다...."
     },
     {
       "company": "Hugging Face",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
+      "title": "에이전트에 실제로 얼마나 많은 메모리가 필요합니까?",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
       "summary": "..."
