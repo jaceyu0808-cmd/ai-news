@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-21 02:36:58 (KST)",
+  "updated_at": "2026-08-21 03:51:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "ChatGPT Work가 Stampli의 아이디어를 시장에 출시하는 데 어떻게 도움이 됩니까?",
       "link": "https://openai.com/index/stampli",
       "date": "Thu, 20 Aug 2026 00:00:00 GMT",
-      "summary": "고정된 기한과 설계 리소스를 다른 곳에 할당한 덕분에 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주 간의 출시 생산을 며칠로 단축했습니다...."
+      "summary": "고정된 기한과 설계 리소스를 다른 곳에 할당한 덕분에 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주에 걸친 출시 생산을 며칠로 단축했습니다...."
     },
     {
       "company": "OpenAI",
       "title": "프론티어 모델을 위한 제로 데이터 보존 제공",
       "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "date": "Wed, 19 Aug 2026 19:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "OpenAI는 적격 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다...."
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Replit, GPT-5.6 Luna를 통해 소프트웨어 생성에 대한 액세스 확장",
       "link": "https://openai.com/index/replit",
       "date": "Wed, 19 Aug 2026 07:00:00 GMT",
       "summary": "Replit는 GPT-5.6 Luna를 기반으로 하는 무료 모드를 도입하여 누구나 토큰 비용에 대한 걱정 없이 아이디어를 작동 가능한 소프트웨어로 전환할 수 있습니다...."
@@ -41,7 +41,7 @@
       "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -69,7 +69,7 @@
       "title": "Amazon Bedrock AgentCore의 자연어를 사용하여 Dogwood 정책 작성",
       "link": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
       "date": "Thu, 20 Aug 2026 16:31:28 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "AI 에이전트는 조직의 정책과 일치하지 않는 조치를 취할 수 있습니다. Amazon Bedrock AgentCore의 정책을 통해 팀은 이제 시간 기반 제약 조건을 포함하여 에이전트 전체에 제어를 적용할 수 있습니다. 이 게시물..."
     },
     {
       "company": "AWS Machine Learning",
@@ -83,7 +83,7 @@
       "title": "Amazon Bedrock AgentCore에서 에이전트 AI를 사용하여 클라우드 마이그레이션 확장",
       "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
       "date": "Thu, 20 Aug 2026 16:11:18 +0000",
-      "summary": "AWS Professional Services가 Amazon Bedrock AgentCore를 기반으로 구축된 다중 에이전트 프레임워크를 사용하여 엔터프라이즈 클라우드 마이그레이션을 엔드 투 엔드로 자동화하는 방법을 알아보세요. 특별히 제작된 AI 에이전트가 검색, 인프라를 처리합니다...."
+      "summary": "AWS Professional Services가 Amazon Bedrock AgentCore에 구축된 다중 에이전트 프레임워크를 사용하여 엔터프라이즈 클라우드 마이그레이션을 엔드투엔드 자동화하는 방법을 알아보세요. 특별히 제작된 AI 에이전트가 검색, 인프라를 처리합니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "문장 변환기를 사용한 다중 벡터(후기 상호 작용) 임베딩 모델",
       "link": "https://huggingface.co/blog/multi-vector-encoder",
       "date": "Tue, 18 Aug 2026 00:00:00 GMT",
       "summary": "..."
