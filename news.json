@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 07:32:35 (KST)",
+  "updated_at": "2026-08-22 08:30:38 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "프론티어 모델을 위한 제로 데이터 보존 제공",
       "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "date": "Wed, 19 Aug 2026 19:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "OpenAI는 자격을 갖춘 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다...."
     },
     {
       "company": "Google AI",
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 클라우드 네이티브 애플리케이션 플랫폼 부문 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
       "date": "Mon, 17 Aug 2026 15:00:00 +0000",
       "summary": "<p>클라우드 기반 플랫폼은 AI 혁신의 기반이 되고 있습니다. Microsoft의 Azure 애플리케이션 플랫폼이 조직이 AI 기반 애플리케이션을 현대화, 혁신 및 운영하는 데 어떻게 도움이 되는지 알아보세요...."
@@ -59,7 +59,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 부문 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
       "date": "Thu, 06 Aug 2026 15:00:00 +0000",
       "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
