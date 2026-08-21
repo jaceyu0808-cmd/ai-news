@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-21 10:49:03 (KST)",
+  "updated_at": "2026-08-21 12:10:25 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "AI 선물 소개",
       "link": "https://openai.com/index/introducing-ai-futures",
       "date": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "혁신적인 AI가 권력, 거버넌스, 경제 및 개인의 자유를 어떻게 재구성할 수 있는지 탐구하는 새로운 OpenAI 블로그인 AI Futures를 소개합니다...."
     },
     {
       "company": "OpenAI",
       "title": "Stampli는 ChatGPT Work를 사용하여 실행 시간을 68% 단축했습니다.",
       "link": "https://openai.com/index/stampli",
       "date": "Thu, 20 Aug 2026 00:00:00 GMT",
-      "summary": "고정된 기한과 설계 리소스를 다른 곳에 할당한 덕분에 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주 간의 출시 생산을 며칠로 단축했습니다...."
+      "summary": "고정된 기한과 설계 리소스를 다른 곳에 할당한 덕분에 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주에 걸친 출시 생산을 며칠로 단축했습니다...."
     },
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
       "title": "검색을 통해 학습 수준을 높이는 5가지 새로운 방법",
       "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "date": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "'노트북 추가', 'Google에 문의' 등의 문구와 아이콘이 포함된 일러스트 이미지..."
     },
     {
       "company": "Google AI",
@@ -38,7 +38,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
       "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
@@ -52,28 +52,28 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "에이전트 최적화의 경제학: 파일럿부터 측정 가능한 수익까지",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
       "date": "Wed, 12 Aug 2026 16:00:00 +0000",
       "summary": "<p>AI 비용 관리가 더 나은 가시성, 거버넌스, 최적화를 통해 조직이 AI 파일럿에서 측정 가능한 ROI로 전환하는 데 어떻게 도움이 되는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 AI 증강 코드 현대화 도구 부문 리더로 선정되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
       "date": "Thu, 06 Aug 2026 15:00:00 +0000",
       "summary": "<p>GitHub Copilot과 Azure는 조직이 레거시 애플리케이션을 현대화하고 기술 부채를 줄이며 AI 혁신에 대비하도록 돕고 있습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/bl..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Amazon Bedrock의 OpenAI GPT-5.6 모델에 대한 지역 간 추론 소개",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
       "date": "Thu, 20 Aug 2026 21:46:03 +0000",
       "summary": "Amazon Bedrock은 이제 지역 간 추론을 통해 25개 이상의 AWS 지역에서 OpenAI GPT-5.6 모델(Sol, Terra 및 Luna)을 제공합니다. 미국 지리적 및 글로벌 추론 프로필이 요청을 라우팅하는 방법을 알아보세요...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Snowflake, Amazon SageMaker Canvas 및 Amazon Quick을 사용하여 코드 없는 ML 워크플로 구축 – 1부: Snowflake 환경 설정",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/",
       "date": "Thu, 20 Aug 2026 21:23:38 +0000",
       "summary": "의료, 소매, 생명 과학 팀은 Snowflake에 대량의 운영 데이터를 저장하지만 이를 예측으로 전환하는 것은 어렵습니다. 이 시리즈의 1부에서는 AWS 계정과 Sno를 설정합니다...."
@@ -83,7 +83,7 @@
       "title": "Snowflake, Amazon SageMaker Canvas 및 Amazon Quick을 사용하여 코드 없는 ML 워크플로 구축 – 2부: Amazon SageMaker Canvas를 사용한 데이터 준비 및 모델 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/",
       "date": "Thu, 20 Aug 2026 21:23:29 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "이 노코드 ML 시리즈의 2부에서는 Amazon SageMaker Canvas를 Snowflake에 연결하고, Data Wrangler 시각적 변환을 통해 거래 데이터를 준비 및 결합하고, XGBoost 사기 탐지를 훈련합니다...."
     },
     {
       "company": "Hugging Face",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "에이전트에 실제로 얼마나 많은 메모리가 필요합니까?",
+      "title": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
       "summary": "..."
