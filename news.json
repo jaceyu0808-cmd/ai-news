@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 00:28:28 (KST)",
+  "updated_at": "2026-08-23 01:33:01 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,14 +13,14 @@
       "title": "Stampli는 ChatGPT Work를 사용하여 실행 시간을 68% 단축했습니다.",
       "link": "https://openai.com/index/stampli",
       "date": "Thu, 20 Aug 2026 00:00:00 GMT",
-      "summary": "고정된 기한과 설계 리소스를 다른 곳에 할당한 덕분에 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주에 걸친 출시 생산을 며칠로 단축했습니다...."
+      "summary": "고정된 기한과 디자인 리소스를 다른 곳에서 투입하여 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주 간의 출시 생산을 며칠로 단축했습니다...."
     },
     {
       "company": "OpenAI",
-      "title": "프론티어 모델을 위한 제로 데이터 보존 제공",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "date": "Wed, 19 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI는 적격 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Google AI",
@@ -34,14 +34,14 @@
       "title": "Gemini와 Pixel로 게임에 더 가까이 다가가세요",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "date": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구선수의 낮은 각도에서 축구화에서 잔디가 날아갑니다...."
+      "summary": "밝은 푸른 하늘을 배경으로 공중에서 공을 차는 축구 선수의 낮은 각도에서 볼 수 있으며, 축구화에서 잔디가 날아갑니다...."
     },
     {
       "company": "Google AI",
       "title": "Sheets 캔버스를 사용하여 스프레드시트 데이터에 생기를 불어넣으세요.",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "date": "Thu, 13 Aug 2026 16:45:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "동영상에서는 Sheets 캔버스가 실제로 작동하는 모습을 보여줍니다...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "에이전트 최적화의 경제학: 파일럿부터 측정 가능한 수익까지",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
       "date": "Wed, 12 Aug 2026 16:00:00 +0000",
       "summary": "<p>AI 비용 관리가 더 나은 가시성, 거버넌스, 최적화를 통해 조직이 AI 파일럿에서 측정 가능한 ROI로 전환하는 데 어떻게 도움이 되는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com..."
@@ -69,7 +69,7 @@
       "title": "ADOP(Agentic Data Operations Platform): 몇 시간으로 구성된 데이터 엔지니어링",
       "link": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
       "date": "Fri, 21 Aug 2026 17:06:17 +0000",
-      "summary": "Agentic Data Operations Platform(ADOP)은 특수 AI 에이전트를 사용하여 전체 Bronze-to-Silver-to-Gold 데이터 파이프라인 수명주기를 자동화하는 Amazon Bedrock의 참조 아키텍처입니다...."
+      "summary": "ADOP(Agentic Data Operations Platform)는 전문 AI 에이전트를 사용하여 전체 Bronze-to-Silver-to-Gold 데이터 파이프라인 수명주기를 자동화하는 Amazon Bedrock의 참조 아키텍처입니다...."
     },
     {
       "company": "AWS Machine Learning",
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "쿼리 인식 압축을 통해 Amazon Bedrock에서 RAG 비용 절감",
       "link": "https://aws.amazon.com/blogs/machine-learning/reduce-rag-costs-on-amazon-bedrock-with-query-aware-compression/",
       "date": "Fri, 21 Aug 2026 16:59:15 +0000",
       "summary": "입력 토큰은 대규모 RAG(검색 증강 생성)를 실행하는 비용의 의미 있는 부분인 경우가 많습니다. 이 게시물에서는 Amazon Bedrock의 쿼리 인식 컨텍스트 압축 패턴에 대해 설명합니다...."
@@ -94,14 +94,14 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "LFM2.5-DSpark를 통해 최대 3.2배 더 빠른 추론 속도",
       "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "date": "Thu, 20 Aug 2026 16:52:57 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
       "summary": "..."
