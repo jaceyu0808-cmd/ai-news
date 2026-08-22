@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 01:33:01 (KST)",
+  "updated_at": "2026-08-23 02:27:21 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "프론티어 모델을 위한 제로 데이터 보존 제공",
       "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "date": "Wed, 19 Aug 2026 19:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "OpenAI는 자격을 갖춘 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다...."
     },
     {
       "company": "Google AI",
@@ -66,7 +66,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "ADOP(Agentic Data Operations Platform): 몇 시간으로 구성된 데이터 엔지니어링",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
       "date": "Fri, 21 Aug 2026 17:06:17 +0000",
       "summary": "ADOP(Agentic Data Operations Platform)는 전문 AI 에이전트를 사용하여 전체 Bronze-to-Silver-to-Gold 데이터 파이프라인 수명주기를 자동화하는 Amazon Bedrock의 참조 아키텍처입니다...."
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
       "summary": "..."
