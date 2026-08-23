@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 07:29:55 (KST)",
+  "updated_at": "2026-08-24 08:28:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "음성 인식의 벤치마크 최적화 측정",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/asr-benchmark-optimization",
       "date": "Fri, 21 Aug 2026 00:00:00 GMT",
       "summary": "..."
