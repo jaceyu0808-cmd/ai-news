@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 03:39:41 (KST)",
+  "updated_at": "2026-08-24 04:27:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "에이전트 최적화의 경제학: 파일럿부터 측정 가능한 수익까지",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
       "date": "Wed, 12 Aug 2026 16:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "음성 인식의 벤치마크 최적화 측정",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/asr-benchmark-optimization",
       "date": "Fri, 21 Aug 2026 00:00:00 GMT",
       "summary": "..."
