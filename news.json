@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 02:37:08 (KST)",
+  "updated_at": "2026-08-25 03:51:06 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "에이전트 최적화의 경제학: 파일럿부터 측정 가능한 수익까지",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
       "date": "Wed, 12 Aug 2026 16:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -83,7 +83,7 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/",
       "date": "Mon, 24 Aug 2026 15:53:03 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "메타데이터 조화(데이터세트가 함께 작동할 수 있도록 레이블, 식별자 및 형식 표준화)는 여전히 대부분 수동으로 수행됩니다. 이 게시물은 AI 기반 메타데이터 수정이 실제로 어떻게 작동하는지 보여줍니다...."
     },
     {
       "company": "Hugging Face",
