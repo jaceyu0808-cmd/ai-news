@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 17:57:01 (KST)",
+  "updated_at": "2026-08-24 18:57:03 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -13,14 +13,14 @@
       "title": "Stampli는 ChatGPT Work를 사용하여 실행 시간을 68% 단축했습니다.",
       "link": "https://openai.com/index/stampli",
       "date": "Thu, 20 Aug 2026 00:00:00 GMT",
-      "summary": "고정된 기한과 디자인 리소스를 다른 곳에서 투입하여 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주 간의 출시 생산을 며칠로 단축했습니다...."
+      "summary": "고정된 기한과 설계 리소스를 다른 곳에 할당한 덕분에 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주 간의 출시 생산을 며칠로 단축했습니다...."
     },
     {
       "company": "OpenAI",
       "title": "프론티어 모델을 위한 제로 데이터 보존 제공",
       "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "date": "Wed, 19 Aug 2026 19:00:00 GMT",
-      "summary": "OpenAI는 적격 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다...."
+      "summary": "OpenAI는 자격을 갖춘 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다...."
     },
     {
       "company": "Google AI",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "에이전트에 실제로 얼마나 많은 메모리가 필요합니까?",
+      "title": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "date": "Tue, 18 Aug 2026 18:09:38 GMT",
       "summary": "..."
