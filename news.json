@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-25 23:53:07 (KST)",
+  "updated_at": "2026-08-26 00:51:00 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "풍부한 인텔리전스 뒤에 숨은 풀 스택",
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "date": "Tue, 25 Aug 2026 07:05:00 GMT",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
     {
       "company": "OpenAI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -13,14 +20,7 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "date": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/gpt-5-6-in-kiro",
-      "date": "Mon, 24 Aug 2026 12:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "OpenAI는 가짜 이스라엘 기반 싱크탱크와 러시아를 칭찬하고 서방을 비판하는 \"주권\" 지수를 홍보하기 위해 AI를 사용하는 러시아 출신 계정을 금지했습니다...."
     },
     {
       "company": "Google AI",
@@ -48,7 +48,7 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
       "date": "Mon, 17 Aug 2026 15:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>클라우드 기반 플랫폼은 AI 혁신의 기반이 되고 있습니다. Microsoft의 Azure 애플리케이션 플랫폼이 조직이 AI 기반 애플리케이션을 현대화, 혁신 및 운영하는 데 어떻게 도움이 되는지 알아보세요...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -88,6 +88,13 @@
     {
       "company": "Hugging Face",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "date": "Tue, 25 Aug 2026 15:14:14 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "date": "Tue, 25 Aug 2026 11:39:24 GMT",
       "summary": "..."
@@ -97,13 +104,6 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/gradio-workflow-guide",
       "date": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://huggingface.co/blog/pwc-search",
-      "date": "Fri, 21 Aug 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
