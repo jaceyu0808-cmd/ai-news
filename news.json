@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-08-25 17:51:53 (KST)",
+  "updated_at": "2026-08-25 18:43:02 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
     {
       "company": "OpenAI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -13,13 +20,6 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/introducing-ai-futures",
       "date": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/stampli",
-      "date": "Thu, 20 Aug 2026 00:00:00 GMT",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
