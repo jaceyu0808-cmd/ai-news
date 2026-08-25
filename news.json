@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 04:37:55 (KST)",
+  "updated_at": "2026-08-26 05:37:17 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "양자화 인식 치유: 완전 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "date": "Tue, 25 Aug 2026 11:39:24 GMT",
       "summary": "..."
