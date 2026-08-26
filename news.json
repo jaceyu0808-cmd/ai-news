@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-26 22:06:49 (KST)",
+  "updated_at": "2026-08-26 23:51:32 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Loveholidays가 Codex를 통해 모든 사람을 빌더로 만드는 방법",
       "link": "https://openai.com/index/loveholidays",
       "date": "Wed, 26 Aug 2026 00:00:00 GMT",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -20,11 +20,11 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/jalapeno-first-results",
       "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Jalapeño는 최신 모델에 더 높은 처리량과 더 낮은 대기 시간을 제공하여 더 빠르고 전력 효율적인 AI 추론을 제공하는 OpenAI의 맞춤형 추론 칩입니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Google 검색으로 집 장식을 업그레이드하는 5가지 방법",
       "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "date": "Tue, 25 Aug 2026 16:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -73,7 +73,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Amazon Quick Desktop 및 NetApp ONTAP용 Amazon FSx를 사용한 관리 보고서",
       "link": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
       "date": "Tue, 25 Aug 2026 16:35:01 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -88,6 +88,13 @@
     {
       "company": "Hugging Face",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
       "date": "Tue, 25 Aug 2026 15:14:14 GMT",
       "summary": "..."
@@ -97,13 +104,6 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "date": "Tue, 25 Aug 2026 11:39:24 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://huggingface.co/blog/gradio-workflow-guide",
-      "date": "Tue, 25 Aug 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
