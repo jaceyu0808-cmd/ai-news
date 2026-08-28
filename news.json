@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28 05:17:28 (KST)",
+  "updated_at": "2026-08-28 14:11:58 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,29 +45,36 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "관리형 PostgreSQL과 자체 호스팅 PostgreSQL: 주요 이점 및 장단점",
+      "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
+      "date": "Thu, 27 Aug 2026 17:00:00 +0000",
+      "summary": "<p>비용, 제어, 보안, 탄력성, 확장성, 운영 노력 측면에서 관리형 PostgreSQL과 자체 호스팅 PostgreSQL을 비교하세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blo..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "에이전트 최적화의 경제학: 비용을 낮추는 네 가지 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
+      "date": "Wed, 26 Aug 2026 16:00:00 +0000",
+      "summary": "<p>Microsoft Foundry는 에이전트 로직의 한 줄이 변경되기 전에 모든 요청에 대해 작동하는 네 가지 레버를 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agen..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "패치 창이 축소되고 있습니다. 보안에 새로운 제어 평면이 필요한 이유",
       "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
       "date": "Tue, 25 Aug 2026 16:00:00 +0000",
       "summary": "<p>조직에는 발견과 해결 사이의 격차에서 운영되는 보호가 필요합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™에서 클라우드 네이티브 애플리케이션 플랫폼 부문 리더로 선정되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
-      "date": "Mon, 17 Aug 2026 15:00:00 +0000",
-      "summary": "<p>클라우드 기반 플랫폼은 AI 혁신의 기반이 되고 있습니다. Microsoft의 Azure 애플리케이션 플랫폼이 조직이 AI 기반 애플리케이션을 현대화, 혁신 및 운영하는 데 어떻게 도움이 되는지 알아보세요...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "에이전트 최적화의 경제학: 파일럿부터 측정 가능한 수익까지",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
-      "date": "Wed, 12 Aug 2026 16:00:00 +0000",
-      "summary": "<p>AI 비용 관리가 더 나은 가시성, 거버넌스, 최적화를 통해 조직이 AI 파일럿에서 측정 가능한 ROI로 전환하는 데 어떻게 도움이 되는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com..."
+      "company": "AWS Machine Learning",
+      "title": "Amazon Quick 및 fal을 사용하여 에이전트적 크리에이티브 워크플로 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
+      "date": "Thu, 27 Aug 2026 23:04:22 +0000",
+      "summary": "크리에이티브 팀은 그 어느 때보다 더 많은 자산을 생산하지만 단편화된 도구와 수동 컨텍스트 전송으로 인해 제작 속도가 느려집니다. 이 게시물은 Amazon Quick 및 fal, connect를 사용하여 재사용 가능한 에이전트 하네스를 구축하는 방법을 보여줍니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock의 OpenAI GPT-5.6 모델에 대한 인도 교차 지역 추론 소개",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-india-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "title": "인도 국내 추론을 위한 Amazon Bedrock의 OpenAI 모델 소개",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/",
       "date": "Thu, 27 Aug 2026 18:36:08 +0000",
       "summary": "Amazon Bedrock은 이제 인도 지리적 지역 간 추론을 통해 인도에서 OpenAI GPT-5.6 모델인 Terra 및 Luna를 지원합니다. 로컬 데이터 처리 요구 사항이 있는 경우 이제 다음 모드를 사용할 수 있습니다...."
     },
@@ -76,14 +83,7 @@
       "title": "Deepgram은 향상된 지표를 통해 Amazon SageMaker AI 관측성을 강화합니다.",
       "link": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
       "date": "Thu, 27 Aug 2026 16:11:27 +0000",
-      "summary": "자체 호스팅 음성 AI는 관찰 가능성의 균형을 유지합니다. 즉, 용량 계획 및 비용 관리를 주도하는 숫자는 공급업체 컨테이너 내에 고정되어 있습니다. Deepgram은 Amazon SageM에서 이러한 격차를 해소했습니다...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Amazon EC2의 NVIDIA MPS를 통해 ASR 추론 비용을 75% 절감",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
-      "date": "Thu, 27 Aug 2026 16:05:10 +0000",
-      "summary": "각 요청이 GPU의 일부만 사용하는 경우 자동 음성 인식(ASR) 모델을 대규모로 제공하는 데 비용이 많이 듭니다. NVIDIA Triton Inference Ser를 사용한 NVIDIA CUDA 다중 프로세스 서비스(MPS) 방법 알아보기..."
+      "summary": "자체 호스팅 음성 AI는 관찰 가능성 균형을 유지합니다. 즉, 용량 계획 및 비용 관리를 추진하는 숫자는 공급업체 컨테이너 내에 고정되어 있습니다. Deepgram은 Amazon SageM에서 이러한 격차를 해소했습니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "양자화 인식 치유: 완전 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델",
+      "title": "양자화 인식 치유: 전체 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "date": "Tue, 25 Aug 2026 11:39:24 GMT",
       "summary": "..."
