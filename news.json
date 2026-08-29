@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-08-29 03:31:59 (KST)",
+  "updated_at": "2026-08-29 11:03:07 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "date": "Fri, 28 Aug 2026 06:00:00 GMT",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "태국의 차세대 AI 스타트업 지원",
       "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "date": "Fri, 28 Aug 2026 02:00:00 GMT",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "더 나은 답변, 더 넓은 사고: 학생들이 ChatGPT 및 비판적 사고 교육을 통해 얻는 것",
       "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "date": "Thu, 27 Aug 2026 09:00:00 GMT",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "date": "Thu, 27 Aug 2026 03:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "검색에서 여행을 계획하고 예약하는 3가지 새로운 방법",
       "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "date": "Thu, 27 Aug 2026 16:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -55,13 +55,20 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
       "date": "Wed, 26 Aug 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>Microsoft Foundry는 에이전트 로직의 한 줄이 변경되기 전에 모든 요청에 대해 작동하는 네 가지 레버를 제공합니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/the-economics-of-agen..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "패치 창이 축소되고 있습니다. 보안에 새로운 제어 평면이 필요한 이유",
       "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
       "date": "Tue, 25 Aug 2026 16:00:00 +0000",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+      "date": "Fri, 28 Aug 2026 19:31:05 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
@@ -76,14 +83,14 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
       "date": "Fri, 28 Aug 2026 16:20:40 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Salesforce가 Amazon SageMaker AI 추론 구성 요소 배치(SchedulingConfig 매개변수)를 사용하여 여러 가용 영역에 모델 복사본을 배포하고 다중 AZ 최고 수준을 충족한 방법을 알아보세요...."
     },
     {
-      "company": "AWS Machine Learning",
+      "company": "Hugging Face",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
-      "date": "Thu, 27 Aug 2026 23:04:22 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "date": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
       "date": "Tue, 25 Aug 2026 15:14:14 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "date": "Tue, 25 Aug 2026 11:39:24 GMT",
       "summary": "..."
     }
   ]
