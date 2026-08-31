@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-08-31 22:29:14 (KST)",
+  "updated_at": "2026-09-01 04:56:32 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "AI에 대한 접근성 확대의 이정표",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "date": "Mon, 31 Aug 2026 04:00:00 GMT",
+      "summary": "ChatGPT 광고는 연간 수익 실행률이 10억 달러에 도달하고 전 세계적으로 확장되어 무료 및 저렴한 옵션을 통해 AI에 대한 더 광범위한 액세스를 지원합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "SpaceX의 인수 이후 Cursor에 대한 우리의 결정",
       "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "date": "Fri, 28 Aug 2026 06:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "SpaceX가 Cursor를 인수한 후 Cursor에 OpenAI 모델을 제공하는 계약을 종료하기로 결정했습니다...."
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "태국의 차세대 AI 스타트업 지원",
       "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "date": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "date": "Thu, 27 Aug 2026 09:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "OpenAI와 태국의 MHESI는 10개의 건강, 웰니스 및 교육 스타트업이 AI 프로토타입을 신뢰할 수 있는 제품으로 전환할 수 있도록 지원하는 8주간의 액셀러레이터를 출시했습니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "검색에서 여행을 계획하고 예약하는 3가지 새로운 방법",
       "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "date": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "검색 AI 모드의 새로운 여행 기능을 설명하는 그래픽..."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Google 검색으로 집 장식을 업그레이드하는 5가지 방법",
       "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "date": "Tue, 25 Aug 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "보라색 배경에 소파, 램프, 의자 등의 옴브레 무지개 가구 품목에 대한 그림..."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "검색을 통해 학습 수준을 높이는 5가지 새로운 방법",
       "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "date": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "'노트북 추가', 'Google에 문의' 등의 문구와 아이콘이 포함된 일러스트 이미지..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "관리형 PostgreSQL과 자체 호스팅 PostgreSQL: 주요 이점 및 장단점",
       "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
       "date": "Thu, 27 Aug 2026 17:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "에이전트 최적화의 경제학: 비용을 낮추는 4가지 방법",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/",
       "date": "Wed, 26 Aug 2026 16:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "패치 창이 축소되고 있습니다. 보안에 새로운 제어 평면이 필요한 이유",
       "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
       "date": "Tue, 25 Aug 2026 16:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -67,22 +67,22 @@
     {
       "company": "AWS Machine Learning",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
-      "date": "Fri, 28 Aug 2026 19:31:05 +0000",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
+      "date": "Mon, 31 Aug 2026 19:50:12 +0000",
+      "summary": "AWS가 The Forrester Wave: AI 인프라 솔루션, 2025년 4분기에서 리더로 인정받았다는 소식을 공유하게 되어 기쁘게 생각합니다. 13개 공급자를 대상으로 한 이번 평가에서 AWS는 S 부문에서 가장 높은 점수를 받았습니다...."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
+      "date": "Mon, 31 Aug 2026 19:18:09 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
-      "date": "Fri, 28 Aug 2026 16:22:30 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
-      "date": "Fri, 28 Aug 2026 16:20:40 +0000",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
+      "date": "Mon, 31 Aug 2026 19:08:45 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "문장 변환기를 사용한 다중 벡터 임베딩 모델 훈련 및 미세 조정",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/train-multi-vector-encoder",
       "date": "Wed, 26 Aug 2026 00:00:00 GMT",
       "summary": "..."
