@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 14:18:08 (KST)",
+  "updated_at": "2026-08-31 22:29:14 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "문장 변환기를 사용한 다중 벡터 임베딩 모델 훈련 및 미세 조정",
       "link": "https://huggingface.co/blog/train-multi-vector-encoder",
       "date": "Wed, 26 Aug 2026 00:00:00 GMT",
       "summary": "..."
