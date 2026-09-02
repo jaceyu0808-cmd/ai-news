@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 13:18:43 (KST)",
+  "updated_at": "2026-09-02 18:26:50 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -31,7 +31,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 편집",
+      "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 수정",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "date": "Tue, 01 Sep 2026 16:00:00 +0000",
       "summary": "Google Pics에서 만든 이미지 콜라주와 상단에 'Google Pics에 인사하세요'라는 텍스트가 있음..."
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "규모에 따른 토큰경제학: Jamf가 Amazon Bedrock에 대한 실시간 지출 집행을 구축한 방법",
+      "title": "대규모 토큰경제학: Jamf가 Amazon Bedrock에 대한 실시간 지출 집행을 구축한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
       "date": "Tue, 01 Sep 2026 16:03:41 +0000",
       "summary": "생성적 AI 도입이 확대되면서 비용 거버넌스가 가장 큰 과제가 되었습니다. Jamf가 Amazon IAM 고객 관리형 정책을 사용하여 Amazon Bedrock에 대한 실시간 사용자별 지출 시행을 구축한 방법을 알아보세요...."
