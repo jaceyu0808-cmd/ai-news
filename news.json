@@ -1,58 +1,58 @@
 {
-  "updated_at": "2026-09-03 03:32:51 (KST)",
+  "updated_at": "2026-09-03 06:43:45 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "AI 기반 기업이 워크플로를 운영 역량으로 전환하는 방법",
       "link": "https://openai.com/index/ai-native-company-workflows",
       "date": "Tue, 01 Sep 2026 17:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Basis, Clay 및 Exa Labs는 AI 에이전트를 사용하여 온보딩, 계정 관리 및 개발자 통합을 개선합니다. 기업 리더가 어떤 것을 신청할 수 있는지 알아보세요...."
     },
     {
       "company": "OpenAI",
       "title": "Astra로 가는 길: 중요한 역량과 국경 보호 장치",
       "link": "https://openai.com/index/path-to-astra",
       "date": "Tue, 01 Sep 2026 13:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Astra는 출시를 위한 더욱 강력한 보호 장치를 통해 대비 프레임워크(Preparedness Framework)에 따라 중요 사이버 보안 기능 임계값을 충족하는 최초의 OpenAI 모델입니다...."
     },
     {
       "company": "OpenAI",
       "title": "의료 기관은 이제 EHR 및 추가 산업 데이터를 ChatGPT에 연결할 수 있습니다.",
       "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "date": "Tue, 01 Sep 2026 12:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "이제 ChatGPT는 신뢰할 수 있는 의료 데이터에 연결하여 임상의가 환자 상황, 의료 연구 등에 안전하게 액세스할 수 있도록 돕습니다...."
     },
     {
       "company": "Google AI",
       "title": "정부와 기업을 위한 사전 예방적 사이버 방어",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "date": "Wed, 02 Sep 2026 15:40:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Fairwind 프로그램 소개..."
     },
     {
       "company": "Google AI",
       "title": "2026년 8월 발표한 AI 최신 소식",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "date": "Tue, 01 Sep 2026 20:45:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "카드 전환: 1. Gemini 로고 아이콘 옆에 \"Gemini 3.7 Flash\"라는 텍스트를 입력합니다. 2. 픽셀폰의 사진 3. '무료로 1년 학생 요금제 신청' 텍스트 위에 Google Gemini 로고..."
     },
     {
       "company": "Google AI",
-      "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 수정",
+      "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 편집",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "date": "Tue, 01 Sep 2026 16:00:00 +0000",
       "summary": "Google Pics에서 만든 이미지 콜라주와 상단에 'Google Pics에 인사하세요'라는 텍스트가 있음..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "AWS용 Azure Multicloud Interconnect 소개",
       "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
       "date": "Mon, 31 Aug 2026 18:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>Azure Multicloud Interconnect는 Microsoft Azure와 AWS 간의 프라이빗 연결을 단순화하여 조직이 보다 간소화된 클라우드 기반 방식으로 멀티 클라우드 및 AI 워크로드를 지원할 수 있도록 지원합니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Microsoft 마케팅 팀 내부: AI를 통한 전문 지식 확장",
       "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
       "date": "Mon, 31 Aug 2026 16:00:00 +0000",
       "summary": "<p>AI는 시장이 빠르게 변화하고 기술이 빠른 속도로 발전함에 따라 조직이 높은 기대치를 충족하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/inside-microsof..."
@@ -63,6 +63,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
       "date": "Thu, 27 Aug 2026 17:00:00 +0000",
       "summary": "<p>비용, 제어, 보안, 탄력성, 확장성, 운영 노력 측면에서 관리형 PostgreSQL과 자체 호스팅 PostgreSQL을 비교하세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blo..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "글로벌 교차 지역 추론을 통해 호주 Amazon Bedrock의 OpenAI 모델에 액세스",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
+      "date": "Wed, 02 Sep 2026 21:22:05 +0000",
+      "summary": "호주 팀은 이제 아시아 태평양(시드니) 및 아시아 태평양(멜버른) 지역의 글로벌 교차 지역 추론을 통해 Amazon Bedrock에서 OpenAI GPT-5.6 Sol, Terra 및 Luna 모델에 액세스할 수 있습니다. 티..."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/",
       "date": "Wed, 02 Sep 2026 18:21:20 +0000",
       "summary": "비즈니스 인텔리전스 대시보드는 모든 인프라 모니터가 정상이라고 보고하는 경우에도 비어 있거나 오래되었거나 잘못된 데이터를 표시하여 조용히 실패할 수 있습니다. AWS 팀이 자동화된 AI 기반 콘트롤을 어떻게 구축했는지 알아보십시오...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "코드에서 다이어그램까지: Amazon Bedrock AgentCore를 사용한 에이전트 아키텍처 문서",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
-      "date": "Wed, 02 Sep 2026 18:18:47 +0000",
-      "summary": "글로벌 딜러 간 브로커가 Amazon Bedrock AgentCore에서 .NET 코드 베이스를 분석하고, 아키텍처 다이어그램을 생성하고,..."
     },
     {
       "company": "Hugging Face",
