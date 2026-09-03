@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-03 06:43:45 (KST)",
+  "updated_at": "2026-09-03 09:01:15 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "ATV Big Air Tour는 ChatGPT를 사용하여 3일의 작업을 3시간으로 단축했습니다.",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "date": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "summary": "ATV Big Air Tour는 ChatGPT 작업을 사용하여 마케팅, 상품화 등의 속도를 높입니다. 심지어 15분 만에 상품 사진을 재고 웹사이트로 전환했습니다...."
+    },
     {
       "company": "OpenAI",
       "title": "AI 기반 기업이 워크플로를 운영 역량으로 전환하는 방법",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/path-to-astra",
       "date": "Tue, 01 Sep 2026 13:00:00 GMT",
       "summary": "Astra는 출시를 위한 더욱 강력한 보호 장치를 통해 대비 프레임워크(Preparedness Framework)에 따라 중요 사이버 보안 기능 임계값을 충족하는 최초의 OpenAI 모델입니다...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "의료 기관은 이제 EHR 및 추가 산업 데이터를 ChatGPT에 연결할 수 있습니다.",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "date": "Tue, 01 Sep 2026 12:00:00 GMT",
-      "summary": "이제 ChatGPT는 신뢰할 수 있는 의료 데이터에 연결하여 임상의가 환자 상황, 의료 연구 등에 안전하게 액세스할 수 있도록 돕습니다...."
     },
     {
       "company": "Google AI",
@@ -38,10 +38,17 @@
     },
     {
       "company": "Google AI",
-      "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 편집",
+      "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 수정",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "date": "Tue, 01 Sep 2026 16:00:00 +0000",
       "summary": "Google Pics에서 만든 이미지 콜라주와 상단에 'Google Pics에 인사하세요'라는 텍스트가 있음..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "에이전트 최적화의 경제학: 엔터프라이즈 AI 에이전트를 위한 컨텍스트 엔지니어링",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
+      "date": "Wed, 02 Sep 2026 16:00:00 +0000",
+      "summary": "<p>AI 비용 최적화는 모델 선택 그 이상입니다. Microsoft Foundry의 컨텍스트 엔지니어링이 지식 검색, 도구 선택, 메모리 및 에이전트 성능을 개선하여 AI 비용을 낮추는 데 어떻게 도움이 되는지 알아보세요...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
       "date": "Mon, 31 Aug 2026 16:00:00 +0000",
       "summary": "<p>AI는 시장이 빠르게 변화하고 기술이 빠른 속도로 발전함에 따라 조직이 높은 기대치를 충족하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/inside-microsof..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "관리형 PostgreSQL과 자체 호스팅 PostgreSQL: 주요 이점 및 장단점",
-      "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
-      "date": "Thu, 27 Aug 2026 17:00:00 +0000",
-      "summary": "<p>비용, 제어, 보안, 탄력성, 확장성, 운영 노력 측면에서 관리형 PostgreSQL과 자체 호스팅 PostgreSQL을 비교하세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blo..."
     },
     {
       "company": "AWS Machine Learning",
