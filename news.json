@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-04 14:43:40 (KST)",
+  "updated_at": "2026-09-04 20:05:33 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "최전방 방어자들을 위한 Daybreak: 필수 서비스 보호를 위해 10억 달러",
+      "title": "최전선 수비수를 위한 Daybreak: 필수 서비스 보호를 위해 10억 달러",
       "link": "https://openai.com/index/daybreak-for-frontline-defenders",
       "date": "Thu, 03 Sep 2026 13:15:00 GMT",
-      "summary": "OpenAI는 최전선 수비수를 위한 Daybreak를 출시합니다. 10억 달러 규모의 약속으로 최첨단 사이버 AI, 교육 및 필수 서비스에 대한 지원에 대한 액세스가 확대됩니다...."
+      "summary": "OpenAI는 최전선 수비수를 위한 Daybreak를 도입합니다. 10억 달러 규모의 약속으로 최첨단 사이버 AI, 교육 및 필수 서비스에 대한 지원에 대한 액세스가 확대됩니다...."
     },
     {
       "company": "OpenAI",
       "title": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토했습니다.",
       "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Legora는 GPT-6 Astra를 사용하여 몇 분 안에 41개의 문서를 검토하고, 4개의 심어진 오류를 모두 찾아내고, 이 재무 검토 워크플로우에서 성능을 거의 40% 향상시켰습니다...."
+      "summary": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토하고, 심어진 오류 4개를 모두 찾아내고, 이 재무 검토 워크플로우에서 성능을 거의 40% 향상시켰습니다...."
     },
     {
       "company": "OpenAI",
@@ -34,74 +34,74 @@
       "title": "2026년 8월 발표한 AI 최신 소식",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "date": "Tue, 01 Sep 2026 20:45:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "카드 전환: 1. Gemini 로고 아이콘 옆에 \"Gemini 3.7 Flash\"라는 텍스트를 입력합니다. 2. 픽셀폰의 사진 3. '무료로 1년 학생 요금제 신청' 텍스트 위에 Google Gemini 로고..."
     },
     {
       "company": "Google AI",
       "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 수정",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "date": "Tue, 01 Sep 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Google Pics에서 만든 이미지 콜라주와 상단에 'Google Pics에 인사하세요'라는 텍스트가 있음..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
-      "date": "Wed, 02 Sep 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "AWS용 Azure Multicloud Interconnect 소개",
       "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
       "date": "Mon, 31 Aug 2026 18:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>Azure Multicloud Interconnect는 Microsoft Azure와 AWS 간의 프라이빗 연결을 단순화하여 조직이 보다 간소화된 클라우드 기반 방식으로 멀티 클라우드 및 AI 워크로드를 지원할 수 있도록 지원합니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Microsoft 마케팅 팀 내부: AI를 통한 전문 지식 확장",
       "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
       "date": "Mon, 31 Aug 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>AI는 시장이 빠르게 변화하고 기술이 빠른 속도로 발전함에 따라 조직이 높은 기대치를 충족하도록 돕습니다.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blog/inside-microsof..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "관리형 PostgreSQL과 자체 호스팅 PostgreSQL: 주요 이점 및 장단점",
+      "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
+      "date": "Thu, 27 Aug 2026 17:00:00 +0000",
+      "summary": "<p>비용, 제어, 보안, 탄력성, 확장성, 운영 노력 측면에서 관리형 PostgreSQL과 자체 호스팅 PostgreSQL을 비교하세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-us/blo..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Amazon Bedrock AgentCore를 사용한 AI 기반 개발 수명 주기",
       "link": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
       "date": "Thu, 03 Sep 2026 16:16:28 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "AI-DLC(AI 기반 개발 수명 주기)를 채택한 엔지니어링 팀은 개념을 작업 코드로 전환하는 데 어려움을 겪는 경우가 많습니다. 이 게시물은 Amazon Bedrock Agent에 대한 두 가지 참조 구현을 안내합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Amazon Bedrock AgentCore로 에이전트 워크로드 마이그레이션",
       "link": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
       "date": "Thu, 03 Sep 2026 16:14:12 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "노트북에서 작업하는 에이전트는 프로덕션 중인 에이전트가 아닙니다. 이 게시물에서는 LangGraph 고객 지원 에이전트를 Amazon Bedrock AgentCore로 두 단계(런타임, 게이트웨이,..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "AI 기반 이메일 자동화를 위해 Outlook을 Amazon Quick과 통합",
       "link": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
       "date": "Thu, 03 Sep 2026 16:11:57 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Microsoft Outlook을 Amazon Quick과 통합하여 이메일 관리, 일정 예약 및 워크플로 조정을 자동화합니다. 이 게시물은 엔드투엔드 설정을 안내하고 자동화 시나리오를 보여줍니다...."
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
       "link": "https://huggingface.co/blog/Hcompany/neomme",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "100 GRPO 단계로 더 나은 구조화된 출력을 위해 350M 모델 미세 조정",
       "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "코딩 에이전트에게 자신이 소유한 메모리를 제공하세요",
       "link": "https://huggingface.co/blog/funes",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
       "summary": "..."
