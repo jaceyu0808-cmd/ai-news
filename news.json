@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-05 19:27:44 (KST)",
+  "updated_at": "2026-09-05 22:49:06 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "최전방 방어자들을 위한 Daybreak: 필수 서비스 보호를 위해 10억 달러",
+      "title": "최전선 수비수를 위한 Daybreak: 필수 서비스 보호를 위해 10억 달러",
       "link": "https://openai.com/index/daybreak-for-frontline-defenders",
       "date": "Thu, 03 Sep 2026 13:15:00 GMT",
       "summary": "OpenAI는 최전선 수비수를 위한 Daybreak를 도입합니다. 10억 달러 규모의 약속으로 최첨단 사이버 AI, 교육 및 필수 서비스에 대한 지원에 대한 액세스가 확대됩니다...."
@@ -13,14 +13,14 @@
       "title": "Playco는 GPT-6 Astra를 사용하여 프로토타입 게임의 50%를 수동으로 수정했습니다.",
       "link": "https://openai.com/index/playco-game-prototyping-with-astra",
       "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Playco는 GPT-6 Astra를 사용하여 하나의 회색 상자 기반으로 3개의 테마 게임 프로토타입을 구축했으며 이전 모델보다 수동 수정이 50% 적다고 보고했습니다...."
+      "summary": "Playco는 GPT-6 Astra를 사용하여 하나의 회색 상자 기반으로 3개의 테마 게임 프로토타입을 제작했으며 이전 모델보다 수동 수정이 50% 적다고 보고했습니다...."
     },
     {
       "company": "OpenAI",
       "title": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토했습니다.",
       "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Legora는 GPT-6 Astra를 사용하여 몇 분 안에 41개의 문서를 검토하고, 4개의 심어진 오류를 모두 찾아내고, 이 재무 검토 워크플로우에서 성능을 거의 40% 향상시켰습니다...."
+      "summary": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토하고, 심어진 오류 4개를 모두 찾아내고, 이 재무 검토 워크플로우에서 성능을 거의 40% 향상시켰습니다...."
     },
     {
       "company": "Google AI",
@@ -76,7 +76,7 @@
       "title": "AgentCore 메모리에 대한 수명주기 정책 설계",
       "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
       "date": "Fri, 04 Sep 2026 17:20:04 +0000",
-      "summary": "장기간 실행되는 AI 에이전트는 품질을 저하시키고 규정 준수 위험을 초래하는 오래된 메모리를 축적합니다. Amazon Bedrock AgentCore에 대한 메모리 수명 주기 정책을 설계하는 방법을 알아보세요. 점수 매기기, 통합,..."
+      "summary": "오랫동안 실행되는 AI 에이전트는 품질을 저하시키고 규정 준수 위험을 초래하는 오래된 메모리를 축적합니다. Amazon Bedrock AgentCore에 대한 메모리 수명 주기 정책을 설계하는 방법을 알아보세요. 점수 매기기, 통합,..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
+      "title": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
       "link": "https://huggingface.co/blog/Hcompany/neomme",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
       "summary": "..."
