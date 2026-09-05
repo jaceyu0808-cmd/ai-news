@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-05 09:48:44 (KST)",
+  "updated_at": "2026-09-05 14:33:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "최전선 수비수를 위한 Daybreak: 필수 서비스 보호를 위해 10억 달러",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/daybreak-for-frontline-defenders",
       "date": "Thu, 03 Sep 2026 13:15:00 GMT",
-      "summary": "OpenAI는 최전선 수비수를 위한 Daybreak를 도입합니다. 10억 달러 규모의 약속으로 최첨단 사이버 AI, 교육 및 필수 서비스에 대한 지원에 대한 액세스가 확대됩니다...."
+      "summary": "OpenAI는 최전선 수비수를 위한 Daybreak를 출시합니다. 10억 달러 규모의 약속으로 최첨단 사이버 AI, 교육 및 필수 서비스에 대한 지원에 대한 액세스가 확대됩니다...."
     },
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토했습니다.",
       "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토하고, 심어진 오류 4개를 모두 찾아내고, 이 재무 검토 워크플로우에서 성능을 거의 40% 향상시켰습니다...."
+      "summary": "Legora는 GPT-6 Astra를 사용하여 몇 분 안에 41개의 문서를 검토하고, 4개의 심어진 오류를 모두 찾아내고, 이 재무 검토 워크플로우에서 성능을 거의 40% 향상시켰습니다...."
     },
     {
       "company": "Google AI",
@@ -52,7 +52,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "GPT-6 Astra: 업무용 프론티어 인텔리전스, 이제 Microsoft Foundry에서 사용 가능",
+      "title": "GPT-6 Astra: 업무용 프론티어 인텔리전스, 이제 Microsoft Foundry에서 일반적으로 사용 가능",
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
       "date": "Thu, 03 Sep 2026 18:15:00 +0000",
       "summary": "<p>OpenAI의 최신 프론티어 모델인 GPT-6 Astra는 오늘부터 Microsoft Foundry Limited Access 프로그램을 통해 출시되기 시작하며, 향후 참여 고객에게 가용성이 확대됩니다...."
@@ -76,7 +76,7 @@
       "title": "AgentCore 메모리에 대한 수명주기 정책 설계",
       "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
       "date": "Fri, 04 Sep 2026 17:20:04 +0000",
-      "summary": "오랫동안 실행되는 AI 에이전트는 품질을 저하시키고 규정 준수 위험을 초래하는 오래된 메모리를 축적합니다. Amazon Bedrock AgentCore에 대한 메모리 수명 주기 정책을 설계하는 방법을 알아보세요. 점수 매기기, 통합,..."
+      "summary": "장기간 실행되는 AI 에이전트는 품질을 저하시키고 규정 준수 위험을 초래하는 오래된 메모리를 축적합니다. Amazon Bedrock AgentCore에 대한 메모리 수명 주기 정책을 설계하는 방법을 알아보세요. 점수 매기기, 통합,..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,7 +87,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
+      "title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
       "link": "https://huggingface.co/blog/Hcompany/neomme",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
       "summary": "..."
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "코딩 에이전트에게 자신이 소유한 메모리를 제공하세요",
       "link": "https://huggingface.co/blog/funes",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
       "summary": "..."
