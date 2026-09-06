@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-06 22:33:08 (KST)",
+  "updated_at": "2026-09-07 01:51:49 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "date": "Sun, 06 Sep 2026 08:00:00 GMT",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
     {
       "company": "OpenAI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -12,13 +19,6 @@
       "company": "OpenAI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "date": "Thu, 03 Sep 2026 12:00:00 GMT",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
@@ -45,7 +45,7 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "엔터프라이즈 AI 혁신은 엔드투엔드 플랫폼에 의존합니다. Azure는 이 순간을 위해 구축되었습니다.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
       "date": "Thu, 03 Sep 2026 19:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -53,7 +53,7 @@
     {
       "company": "Microsoft Azure AI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
       "date": "Thu, 03 Sep 2026 18:15:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
@@ -83,7 +83,7 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
       "date": "Fri, 04 Sep 2026 16:16:00 +0000",
-      "summary": "물리적 AI 시스템을 구축하려면 단일 교육 작업이 아닌 지속적인 파이프라인이 필요합니다. 이 게시물에서는 해당 모델 팩토리를 실행하는 방법(합성 데이터 생성, 사후 교육 및 폐쇄 루프 평가)을 보여줍니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Hugging Face",
