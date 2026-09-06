@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07 04:01:08 (KST)",
+  "updated_at": "2026-09-07 07:05:11 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,10 +24,10 @@
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "정부와 기업을 위한 사전 예방적 사이버 방어",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "date": "Wed, 02 Sep 2026 15:40:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Fairwind 프로그램 소개..."
     },
     {
       "company": "Google AI",
@@ -55,7 +55,7 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/",
       "date": "Thu, 03 Sep 2026 18:15:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>OpenAI의 최신 프론티어 모델인 GPT-6 Astra는 오늘부터 Microsoft Foundry Limited Access 프로그램을 통해 출시되기 시작하며, 향후 참여 고객에게 가용성이 확대됩니다...."
     },
     {
       "company": "Microsoft Azure AI",
