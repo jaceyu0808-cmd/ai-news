@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-07 01:51:49 (KST)",
+  "updated_at": "2026-09-07 04:01:08 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://openai.com/index/an-alien-mind",
+      "date": "Sun, 06 Sep 2026 09:00:00 GMT",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
     {
       "company": "OpenAI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -13,13 +20,6 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/daybreak-for-frontline-defenders",
       "date": "Thu, 03 Sep 2026 13:15:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "date": "Thu, 03 Sep 2026 12:00:00 GMT",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
