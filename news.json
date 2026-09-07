@@ -1,54 +1,54 @@
 {
-  "updated_at": "2026-09-07 14:55:53 (KST)",
+  "updated_at": "2026-09-07 21:17:56 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "우크라이나의 독립 저널리즘 지원",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "date": "Mon, 07 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI, AIRPPU 및 WAN-IFRA는 우크라이나 언론 기관이 혁신, 탄력성 및 독립적인 저널리즘을 강화할 수 있도록 AI 프로그램을 시작합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "외계인의 마음",
       "link": "https://openai.com/index/an-alien-mind",
       "date": "Sun, 06 Sep 2026 09:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Jakub Pachocki는 점점 더 유능해지는 AI와 이를 유지하는 과제에 대해 생각해 봅니다. 그는 더욱 강력한 보호 장치와 국제적 공조를 요구합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "연구 가속화: OpenAI 내부의 모습",
       "link": "https://openai.com/index/research-acceleration-view-inside-openai",
       "date": "Sun, 06 Sep 2026 08:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "date": "Thu, 03 Sep 2026 13:15:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "OpenAI 내에서 코딩 에이전트는 AI 연구를 재구성하고 있습니다. 에이전트 사용량, 실험 속도, 작업 복잡성 및 연구 가속화에 대한 초기 데이터를 살펴보세요...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "정부와 기업을 위한 사전 예방적 사이버 방어",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "date": "Wed, 02 Sep 2026 15:40:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Fairwind 프로그램 소개..."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "2026년 8월 발표한 AI 최신 소식",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "date": "Tue, 01 Sep 2026 20:45:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "카드 전환: 1. Gemini 로고 아이콘 옆에 \"Gemini 3.7 Flash\"라는 텍스트를 입력합니다. 2. 픽셀폰의 사진 3. '무료로 1년 학생 요금제 신청' 텍스트 위에 Google Gemini 로고..."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 수정",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "date": "Tue, 01 Sep 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Google Pics에서 만든 이미지 콜라주와 상단에 'Google Pics에 인사하세요'라는 텍스트가 있음..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "엔터프라이즈 AI 혁신은 엔드투엔드 플랫폼에 의존합니다. Azure는 이 순간을 위해 구축되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
       "date": "Thu, 03 Sep 2026 19:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>지난 몇 주 동안 Microsoft가 인정받은 것은 AI가 프로덕션으로 전환될 때 하나의 시스템으로 작동하는 모델, 인프라, 데이터, 애플리케이션 및 개발자 도구로 요약됩니다.</p>\n<p..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -59,31 +59,31 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Microsoft의 물리적 보안 엔지니어링 팀이 Azure Arc 및 Azure Virtual Desktop을 사용하여 하이브리드 운영을 확장한 방법",
       "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
       "date": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>Microsoft가 어떻게 Azure Arc 및 Azure Virtual Desktop을 사용하여 하이브리드 보안 운영을 단순화하고 가시성을 개선하며 전 세계적으로 확장했는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Amazon Bedrock AgentCore를 사용하여 다중 모드 WhatsApp 주문 도우미 배포",
       "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
       "date": "Fri, 04 Sep 2026 21:45:52 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "AgentCore 메모리에 대한 수명주기 정책 설계",
       "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
       "date": "Fri, 04 Sep 2026 17:20:04 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "SageMaker HyperPod에서 NVIDIA Cosmos 3를 사용하여 물리적 AI 모델 공장 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
       "date": "Fri, 04 Sep 2026 16:16:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "물리적 AI 시스템을 구축하려면 단일 교육 작업이 아닌 지속적인 파이프라인이 필요합니다. 이 게시물에서는 해당 모델 팩토리를 실행하는 방법(합성 데이터 생성, 사후 교육 및 폐쇄 루프 평가)을 보여줍니다...."
     },
     {
       "company": "Hugging Face",
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "코딩 에이전트에게 자신이 소유한 메모리를 제공하세요",
       "link": "https://huggingface.co/blog/funes",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
       "summary": "..."
