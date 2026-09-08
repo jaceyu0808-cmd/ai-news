@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-08 20:06:21 (KST)",
+  "updated_at": "2026-09-09 01:32:29 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "date": "Mon, 07 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI, AIRPPU 및 WAN-IFRA는 우크라이나 언론 기관이 혁신, 탄력성 및 독립적인 저널리즘을 강화할 수 있도록 AI 프로그램을 시작합니다...."
+      "title": "이제 작업이 눈앞에 다가왔습니다",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "date": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "summary": "더 유능하고 저렴한 AI가 어떻게 사람과 기업이 달성할 수 있는 작업을 확장하고 더욱 경제적으로 성장할 수 있는지 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "외계인의 마음",
-      "link": "https://openai.com/index/an-alien-mind",
-      "date": "Sun, 06 Sep 2026 09:00:00 GMT",
-      "summary": "Jakub Pachocki는 점점 더 유능해지는 AI와 이를 유지하는 과제에 대해 생각해 봅니다. 그는 더 강력한 안전장치와 국제적 공조를 요구합니다...."
+      "title": "AI 및 청소년 발달에 대한 새로운 연구를 위한 자금 지원",
+      "link": "https://openai.com/index/teen-development-research-grants",
+      "date": "Tue, 08 Sep 2026 09:00:00 GMT",
+      "summary": "생성 AI가 청소년 발달, 웰빙 및 안전에 어떤 영향을 미치는지에 대한 독립적인 연구를 지원하는 OpenAI의 500만 달러 보조금 프로그램을 지금 신청하세요...."
     },
     {
       "company": "OpenAI",
-      "title": "연구 가속화: OpenAI 내부의 모습",
-      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "date": "Sun, 06 Sep 2026 08:00:00 GMT",
-      "summary": "OpenAI 내에서 코딩 에이전트는 AI 연구를 재구성하고 있습니다. 에이전트 사용량, 실험 속도, 작업 복잡성 및 연구 가속화에 대한 초기 데이터를 살펴보세요...."
+      "title": "OpenAI, 교실에서 뉴스룸까지 저널리즘 지원 이니셔티브 확장",
+      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "date": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI는 학생, 교육자, 언론인 및 언론 기관을 위한 도구, 교육 및 파트너십을 통해 저널리즘에 대한 지원을 확대하고 있습니다...."
     },
     {
       "company": "Google AI",
@@ -38,7 +38,7 @@
     },
     {
       "company": "Google AI",
-      "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 편집",
+      "title": "Google Pics 사용해 보기: Google Workspace에서 손쉽게 이미지 생성 및 수정",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "date": "Tue, 01 Sep 2026 16:00:00 +0000",
       "summary": "Google Pics에서 만든 이미지 콜라주와 상단에 'Google Pics에 인사하세요'라는 텍스트가 있음..."
@@ -62,32 +62,39 @@
       "title": "Microsoft의 물리적 보안 엔지니어링 팀이 Azure Arc 및 Azure Virtual Desktop을 사용하여 하이브리드 운영을 확장한 방법",
       "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
       "date": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft가 어떻게 Azure Arc 및 Azure Virtual Desktop을 사용하여 하이브리드 보안 운영을 단순화하고 가시성을 개선하며 전 세계적으로 확장했는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-..."
+      "summary": "<p>Microsoft가 Azure Arc 및 Azure Virtual Desktop을 사용하여 하이브리드 보안 운영을 단순화하고 가시성을 개선하며 전 세계적으로 확장하는 방법을 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock AgentCore를 사용하여 다중 모드 WhatsApp 주문 도우미 배포",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
-      "date": "Fri, 04 Sep 2026 21:45:52 +0000",
-      "summary": "Amazon Bedrock AgentC를 기반으로 단일 비즈니스 번호로 문자, 음성 메모 및 실시간 음성 통화를 통해 고객 주문을 받는 다중 모드 WhatsApp 주문 도우미를 배포하는 방법을 알아보세요...."
+      "title": "Amazon Bedrock AgentCore 및 GitHub Actions를 사용한 자동 에이전트 평가",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/",
+      "date": "Tue, 08 Sep 2026 16:23:21 +0000",
+      "summary": "Amazon Bedrock AgentCore 평가를 GitHub Actions 파이프라인에 연결: AI 에이전트 및 OAuth로 보호되는 MCP 서버를 AgentCore 런타임에 배포하고, 테스트 프롬프트로 에이전트를 호출하고, 응답 점수를 매깁니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "AgentCore 메모리에 대한 수명주기 정책 설계",
-      "link": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
-      "date": "Fri, 04 Sep 2026 17:20:04 +0000",
-      "summary": "오랫동안 실행되는 AI 에이전트는 품질을 저하시키고 규정 준수 위험을 초래하는 오래된 메모리를 축적합니다. Amazon Bedrock AgentCore에 대한 메모리 수명 주기 정책을 설계하는 방법을 알아보세요. 점수 매기기, 통합,..."
+      "title": "SageMaker AI의 소규모 LLM 추론 벤치마킹: G7 대 G5 및 G6",
+      "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/",
+      "date": "Tue, 08 Sep 2026 16:21:57 +0000",
+      "summary": "Amazon SageMaker AI의 G5, G6, G6e 및 G7 GPU 인스턴스 전반에 걸쳐 2개의 30B 전문가 혼합 모델인 Qwen3-Coder-30B 및 NVIDIA Nemotron-3-Nano-30B를 벤치마킹합니다. 처리량, 대기 시간 및 비용을 비교하세요...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "SageMaker HyperPod에서 NVIDIA Cosmos 3를 사용하여 물리적 AI 모델 공장 구축",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
-      "date": "Fri, 04 Sep 2026 16:16:00 +0000",
-      "summary": "물리적 AI 시스템을 구축하려면 단일 교육 작업이 아닌 지속적인 파이프라인이 필요합니다. 이 게시물에서는 해당 모델 팩토리를 실행하는 방법(합성 데이터 생성, 사후 교육 및 폐쇄 루프 평가)을 보여줍니다...."
+      "title": "HPE Zerto가 Amazon Bedrock을 사용하여 에이전트 문제 해결 시스템을 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/",
+      "date": "Tue, 08 Sep 2026 16:15:23 +0000",
+      "summary": "HPE Zerto는 고객 환경 내에서 온프레미스로 실행되는 Amazon Bedrock 기반 에이전트 문제 해결 시스템을 구축했습니다. 이 게시물에서는 다중 에이전트 아키텍처, 온프레미스 dep에 대해 설명합니다...."
     },
     {
       "company": "Hugging Face",
-      "title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
+      "title": "누구를 위한 안전인가? 전체 주제가 아닌 주제의 올바른 하위 집합을 거부하기",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "date": "Tue, 08 Sep 2026 14:23:07 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더",
       "link": "https://huggingface.co/blog/Hcompany/neomme",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
       "summary": "..."
@@ -96,13 +103,6 @@
       "company": "Hugging Face",
       "title": "100 GRPO 단계로 더 나은 구조화된 출력을 위해 350M 모델 미세 조정",
       "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "date": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "코딩 에이전트에게 자신이 소유한 메모리를 제공하세요",
-      "link": "https://huggingface.co/blog/funes",
       "date": "Thu, 03 Sep 2026 00:00:00 GMT",
       "summary": "..."
     }
