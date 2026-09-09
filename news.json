@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-10 02:07:00 (KST)",
+  "updated_at": "2026-09-10 05:51:35 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Paul Christiano, OpenAI 재단 이사회에 합류",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "date": "Wed, 09 Sep 2026 17:00:00 GMT",
+      "summary": "Paul Christiano는 OpenAI 재단 이사회와 안전 및 보안 위원회에 합류하여 AI 정렬, 안전 및 표준에 대한 경험을 제공합니다...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "GPT-5.6 Sol이 양자 컴퓨팅 실험을 실행하는 데 어떻게 도움이 됩니까?",
       "link": "https://openai.com/index/codex-quantum-computing-experiments",
       "date": "Tue, 08 Sep 2026 17:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "MIT 연구원이 Codex와 함께 GPT-5.6 Sol을 사용하여 양자 컴퓨팅 실험을 자율적으로 실행하고, 결과를 분석하고, 큐비트를 보정하는 방법을 알아보세요...."
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "이제 작업이 눈앞에 다가왔습니다",
       "link": "https://openai.com/index/the-work-now-within-reach",
       "date": "Tue, 08 Sep 2026 13:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "date": "Tue, 08 Sep 2026 11:30:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "더 유능하고 저렴한 AI가 어떻게 사람과 기업이 달성할 수 있는 작업을 확장하고 더욱 경제적으로 성장할 수 있는지 알아보세요...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "검색의 새로운 축구 기능으로 경기를 준비하세요",
       "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "생생한 녹색 배경에 금색 트로피, 파란색 헬멧, 은색 휘파람, 축구공, 미니 점수판, 플레이 디비 등 미식축구 요소가 포함된 그림 그래픽 세트..."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "70년 러브스토리를 프레임 단위로 재현하다",
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "영화관에 앉아 있는 노부부. 오버레이된 것은 \"Teulluride Film Festival\"과 \"Love, Rendered\"입니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "정부와 기업을 위한 사전 예방적 사이버 방어",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "date": "Wed, 02 Sep 2026 15:40:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Fairwind 프로그램 소개..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "엔터프라이즈 AI 혁신은 엔드투엔드 플랫폼에 의존합니다. Azure는 이 순간을 위해 구축되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
       "date": "Thu, 03 Sep 2026 19:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>지난 몇 주 동안 Microsoft가 인정받은 것은 AI가 프로덕션으로 전환될 때 하나의 시스템으로 작동하는 모델, 인프라, 데이터, 애플리케이션 및 개발자 도구로 요약됩니다.</p>\n<p..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "GPT-6 Astra: 업무용 프론티어 인텔리전스, 이제 Microsoft Foundry에서 일반적으로 사용 가능",
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
       "date": "Thu, 03 Sep 2026 18:15:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>OpenAI의 최신 프론티어 모델인 GPT-6 Astra는 오늘부터 Microsoft Foundry Limited Access 프로그램을 통해 출시되기 시작하며, 향후 참여 고객에게 가용성이 확대됩니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Microsoft의 물리적 보안 엔지니어링 팀이 Azure Arc 및 Azure Virtual Desktop을 사용하여 하이브리드 운영을 확장한 방법",
       "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
       "date": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "<p>Microsoft가 어떻게 Azure Arc 및 Azure Virtual Desktop을 사용하여 하이브리드 보안 운영을 단순화하고 가시성을 개선하며 전 세계적으로 확장했는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "ICYMI: 2026년 8월 AI 빌더를 위한 상륙",
+      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
+      "date": "Wed, 09 Sep 2026 20:01:03 +0000",
+      "summary": "Amazon Bedrock, Amazon Bedrock AgentCore 및 Strands 전반의 AI 빌더를 위한 2026년 8월 출시 요약: OpenAI 모델을 위한 백만 개의 토큰 컨텍스트, 지역 간 추론, 최대 실행되는 에이전트..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Heurist Finance가 Amazon Bedrock AgentCore에 AI 기반 투자 워크벤치를 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
+      "date": "Wed, 09 Sep 2026 18:11:12 +0000",
+      "summary": "Heurist가 Amazon Bedrock AgentCore에서 대화형 AI 투자 워크벤치인 Heurist Finance를 구축한 방법을 알아보세요. 이 고객 사례는 AgentCore 결제, ID, 메모리, 코드 해석기,..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Ray Serve Deep Learning Containers를 사용하여 TorchServe 워크로드를 단순화하고 지원하세요.",
       "link": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
       "date": "Wed, 09 Sep 2026 15:51:29 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/",
-      "date": "Wed, 09 Sep 2026 15:45:24 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
-      "date": "Tue, 08 Sep 2026 22:06:58 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "TorchServe는 더 이상 유지 관리되지 않으므로 팀이 전체 GPU 추론 스택을 소유하게 됩니다. AWS Ray Serve Deep Learning Container는 프레임워크, GPU 드라이버,..."
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "IBM, 상용 라이센스가 포함된 SOTA Granite Time Series PatchTST-FM-r2 모델 출시",
       "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "date": "Wed, 09 Sep 2026 15:36:24 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "누구를 위한 안전인가? 전체 주제가 아닌 주제의 올바른 하위 집합을 거부하기",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "date": "Tue, 08 Sep 2026 14:23:07 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
       "link": "https://huggingface.co/blog/Hcompany/neomme",
       "date": "Thu, 03 Sep 2026 13:13:48 GMT",
       "summary": "..."
