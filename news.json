@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-10 18:34:39 (KST)",
+  "updated_at": "2026-09-10 23:15:26 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "AI 정책 창이 열립니다. 우리는 행동해야 합니다.",
       "link": "https://openai.com/index/ai-policy-window",
       "date": "Wed, 09 Sep 2026 13:00:00 GMT",
       "summary": "Chris Lehane은 더 강력한 AI 기능에는 정책 창이 열려 있는 동안 더 강력한 안전 증거, 공유 표준, 지속 가능한 정책 조치가 필요하다고 주장합니다...."
@@ -24,10 +24,10 @@
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "검색의 새로운 축구 기능으로 경기를 준비하세요",
       "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "생생한 녹색 배경에 금색 트로피, 파란색 헬멧, 은색 휘파람, 축구공, 미니 점수판, 플레이 디비 등 미식축구 요소가 포함된 그림 그래픽 세트..."
     },
     {
       "company": "Google AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Gradio Workflow를 사용하여 AUTOMATIC1111 재구축",
+      "link": "https://huggingface.co/blog/gradio-workflow-1111",
+      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "IBM, 상용 라이센스가 포함된 SOTA Granite Time Series PatchTST-FM-r2 모델 출시",
       "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "date": "Wed, 09 Sep 2026 15:36:24 GMT",
@@ -97,13 +104,6 @@
       "title": "누구를 위한 안전인가? 전체 주제가 아닌 주제의 올바른 하위 집합을 거부하기",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "date": "Tue, 08 Sep 2026 14:23:07 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더",
-      "link": "https://huggingface.co/blog/Hcompany/neomme",
-      "date": "Thu, 03 Sep 2026 13:13:48 GMT",
       "summary": "..."
     }
   ]
