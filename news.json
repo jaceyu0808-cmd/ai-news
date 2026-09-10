@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-10 08:08:35 (KST)",
+  "updated_at": "2026-09-10 13:23:46 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "AI 정책 창이 열립니다. 우리는 행동해야 합니다.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "date": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "summary": "Chris Lehane은 더 강력한 AI 기능에는 정책 창이 열려 있는 동안 더 강력한 안전 증거, 공유 표준, 지속 가능한 정책 조치가 필요하다고 주장합니다...."
+    },
     {
       "company": "OpenAI",
       "title": "GPT-6 Astra: 차세대 업무용 인텔리전스",
@@ -13,14 +20,7 @@
       "title": "Paul Christiano, OpenAI 재단 이사회에 합류",
       "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "date": "Wed, 09 Sep 2026 17:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "GPT-5.6 Sol이 양자 컴퓨팅 실험을 실행하는 데 어떻게 도움이 됩니까?",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "date": "Tue, 08 Sep 2026 17:00:00 GMT",
-      "summary": "MIT 연구원이 Codex와 함께 GPT-5.6 Sol을 사용하여 양자 컴퓨팅 실험을 자율적으로 실행하고, 결과를 분석하고, 큐비트를 보정하는 방법을 알아보세요...."
+      "summary": "Paul Christiano는 OpenAI 재단 이사회와 안전 및 보안 위원회에 합류하여 AI 정렬, 안전 및 표준에 대한 경험을 제공합니다...."
     },
     {
       "company": "Google AI",
@@ -34,25 +34,25 @@
       "title": "70년 러브스토리를 프레임 단위로 재현하다",
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "영화관에 앉아 있는 노부부. 오버레이된 것은 \"Teulluride Film Festival\"과 \"Love, Rendered\"입니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "정부와 기업을 위한 사전 예방적 사이버 방어",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "date": "Wed, 02 Sep 2026 15:40:00 +0000",
       "summary": "Fairwind 프로그램 소개..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "벤치마크를 넘어서: 적응형 접근 방식이 과학적 발견을 촉진하는 방법",
       "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
       "date": "Tue, 08 Sep 2026 20:00:00 +0000",
       "summary": "<p>연구 개발(R&#38;D) 조직의 경우 에이전트 AI의 가능성은 더 나은 일회성 답변이 아닙니다. 복잡한 과학 및 공학 문제를 탐구하는 새로운 방법입니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "엔터프라이즈 AI 혁신은 엔드투엔드 플랫폼에 의존합니다. Azure는 이 순간을 위해 구축되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
       "date": "Thu, 03 Sep 2026 19:00:00 +0000",
       "summary": "<p>지난 몇 주 동안 Microsoft가 인정받은 것은 AI가 프로덕션으로 전환될 때 하나의 시스템으로 작동하는 모델, 인프라, 데이터, 애플리케이션 및 개발자 도구로 요약됩니다.</p>\n<p..."
@@ -66,10 +66,10 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "vLLM을 사용하여 Amazon SageMaker HyperPod에 Qwen3.8-2.4T-A95B 배포",
       "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
       "date": "Wed, 09 Sep 2026 22:26:29 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "vLLM이 포함된 Amazon SageMaker HyperPod에 2.4조 매개변수 개방형 무게 모델인 Qwen3.8-2.4T-A95B를 배포하는 방법을 알아보세요. 이 연습에서는 클러스터 프로비저닝, NVFP4 양자화 및 Open..."
     },
     {
       "company": "AWS Machine Learning",
@@ -80,7 +80,7 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Heurist Finance가 Amazon Bedrock AgentCore에 AI 기반 투자 워크벤치를 구축한 방법",
       "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
       "date": "Wed, 09 Sep 2026 18:11:12 +0000",
       "summary": "Heurist가 Amazon Bedrock AgentCore에서 대화형 AI 투자 워크벤치인 Heurist Finance를 구축한 방법을 알아보세요. 이 고객 사례는 AgentCore 결제, ID, 메모리, 코드 해석기,..."
