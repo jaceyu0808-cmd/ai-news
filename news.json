@@ -1,30 +1,37 @@
 {
-  "updated_at": "2026-09-10 23:15:26 (KST)",
+  "updated_at": "2026-09-11 03:17:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "AI 정책 창이 열립니다. 우리는 행동해야 합니다.",
-      "link": "https://openai.com/index/ai-policy-window",
-      "date": "Wed, 09 Sep 2026 13:00:00 GMT",
-      "summary": "Chris Lehane은 더 강력한 AI 기능에는 정책 창이 열려 있는 동안 더 강력한 안전 증거, 공유 표준, 지속 가능한 정책 조치가 필요하다고 주장합니다...."
+      "title": "연구원이 Codex와 ChatGPT를 사용하여 새로운 항균 분자를 검색하는 방법",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "date": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "summary": "César de la Fuente의 연구실에서는 Codex와 ChatGPT를 사용하여 살아있는 게놈과 멸종된 게놈에서 약물 내성 감염과 싸우기 위한 항균제 후보를 검색합니다...."
     },
     {
       "company": "OpenAI",
-      "title": "GPT-6 Astra: 차세대 업무용 인텔리전스",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "date": "Wed, 09 Sep 2026 11:00:00 GMT",
-      "summary": "고급 추론, 컴퓨터 사용, 강력한 글쓰기 및 디자인 판단력을 갖춘 OpenAI의 가장 유능한 비즈니스 모델인 GPT-6 Astra를 만나보세요...."
+      "title": "이제 누구나 데이터를 업무에 활용할 수 있습니다.",
+      "link": "https://openai.com/index/put-data-to-work",
+      "date": "Thu, 10 Sep 2026 15:00:00 GMT",
+      "summary": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 회사 데이터를 연결하고 통찰력을 발견하며 자연어를 사용하는 AI로 대화형 대시보드를 구축하세요...."
     },
     {
       "company": "OpenAI",
-      "title": "Paul Christiano, OpenAI 재단 이사회에 합류",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "date": "Wed, 09 Sep 2026 17:00:00 GMT",
-      "summary": "Paul Christiano는 OpenAI 재단 이사회와 안전 및 보안 위원회에 합류하여 AI 정렬, 안전 및 표준에 대한 경험을 제공합니다...."
+      "title": "연방, 주, 지방, 부족 정부를 위한 AI 액세스 및 사이버 방어 확장",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "date": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "summary": "OpenAI와 GSA는 적격 연방, 주, 지방, 부족 정부에 라이선스 비용 0달러, 사용량 50% 할인, 확장된 사이버 방어 지원을 제공합니다...."
     },
     {
       "company": "Google AI",
-      "title": "검색의 새로운 축구 기능으로 경기를 준비하세요",
+      "title": "검색을 통해 다음 번 큰 경주를 준비하는 3가지 방법",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "date": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "summary": "돋보기와 Gemini 스파크가 겹쳐진 테크니컬러 러너의 파란색 배경에 대한 그림..."
+    },
+    {
+      "company": "Google AI",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "date": "Wed, 09 Sep 2026 16:00:00 +0000",
       "summary": "생생한 녹색 배경에 금색 트로피, 파란색 헬멧, 은색 휘파람, 축구공, 미니 점수판, 플레이 디비 등 미식축구 요소가 포함된 그림 그래픽 세트..."
@@ -37,11 +44,11 @@
       "summary": "영화관에 앉아 있는 노부부. 오버레이된 것은 \"Teulluride Film Festival\"과 \"Love, Rendered\"입니다...."
     },
     {
-      "company": "Google AI",
-      "title": "정부와 기업을 위한 사전 예방적 사이버 방어",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "date": "Wed, 02 Sep 2026 15:40:00 +0000",
-      "summary": "Fairwind 프로그램 소개..."
+      "company": "Microsoft Azure AI",
+      "title": "구역이 2개인가요, 아니면 3개인가요? 영역 복원력이 있는 Azure 워크로드를 위한 설계 프레임워크",
+      "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
+      "date": "Wed, 09 Sep 2026 18:00:00 +0000",
+      "summary": "<p>영역 복원력은 전체 워크로드에 적용되는 단일 숫자가 아닙니다. 유용한 질문은 \"구역이 몇 개인가?\"가 아닙니다. 그러나 \"하나의 손실에도 각 구성 요소가 살아남으려면 몇 개의 영역이 필요합니까?\" 구역 결정..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -58,32 +65,25 @@
       "summary": "<p>지난 몇 주 동안 Microsoft가 인정받은 것은 AI가 프로덕션으로 전환될 때 하나의 시스템으로 작동하는 모델, 인프라, 데이터, 애플리케이션 및 개발자 도구로 요약됩니다.</p>\n<p..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "GPT-6 Astra: 업무용 프론티어 인텔리전스, 이제 Microsoft Foundry에서 일반적으로 사용 가능",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
-      "date": "Thu, 03 Sep 2026 18:15:00 +0000",
-      "summary": "<p>OpenAI의 최신 프론티어 모델인 GPT-6 Astra는 오늘부터 Microsoft Foundry Limited Access 프로그램을 통해 출시되기 시작하며, 향후 참여 고객에게 가용성이 확대됩니다...."
+      "company": "AWS Machine Learning",
+      "title": "Amazon Quick은 이제 데스크톱에서 정식 출시됩니다.",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
+      "date": "Thu, 10 Sep 2026 18:16:37 +0000",
+      "summary": "귀하의 팀은 데이터가 환경에 유지되고 대화가 비공개로 유지되는 동안 실제 작업을 처리하는 AI 도우미를 받게 됩니다. 오늘 Amazon Quick 데스크톱 애플리케이션이 정식 출시되었습니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "vLLM을 사용하여 Amazon SageMaker HyperPod에 Qwen3.8-2.4T-A95B 배포",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
-      "date": "Wed, 09 Sep 2026 22:26:29 +0000",
-      "summary": "vLLM이 포함된 Amazon SageMaker HyperPod에 2.4조 매개변수 개방형 무게 모델인 Qwen3.8-2.4T-A95B를 배포하는 방법을 알아보세요. 이 연습에서는 클러스터 프로비저닝, NVFP4 양자화 및 Open..."
+      "title": "Amazon Quick Automate를 사용하여 엔드 투 엔드 RFI 설문지 워크플로 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/",
+      "date": "Thu, 10 Sep 2026 16:08:57 +0000",
+      "summary": "Amazon Quick Automate를 사용하여 엔드투엔드 RFI 설문지 워크플로를 구축하는 방법을 알아보세요. Amazon S3에서 다중 탭 RFI 통합 문서를 읽고, 자연어 프롬프트를 사용하여 질문을 추출하고 구성합니다...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "ICYMI: 2026년 8월 AI 빌더를 위한 상륙",
-      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
-      "date": "Wed, 09 Sep 2026 20:01:03 +0000",
-      "summary": "Amazon Bedrock, Amazon Bedrock AgentCore 및 Strands 전반의 AI 빌더를 위한 2026년 8월 출시 요약: OpenAI 모델을 위한 백만 개의 토큰 컨텍스트, 지역 간 추론, 최대 실행되는 에이전트..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Heurist Finance가 Amazon Bedrock AgentCore에 AI 기반 투자 워크벤치를 구축한 방법",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
-      "date": "Wed, 09 Sep 2026 18:11:12 +0000",
-      "summary": "Heurist가 Amazon Bedrock AgentCore에서 대화형 AI 투자 워크벤치인 Heurist Finance를 구축한 방법을 알아보세요. 이 고객 사례는 AgentCore 결제, ID, 메모리, 코드 해석기,..."
+      "title": "LLM을 사용한 모델에 구애받지 않는 PII 감지",
+      "link": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/",
+      "date": "Thu, 10 Sep 2026 16:02:16 +0000",
+      "summary": "Amazon Bedrock의 모든 대규모 언어 모델을 PII 감지기로 전환하는 구성 가능한 모델 독립적 감지기입니다. 감지할 엔터티는 코드가 아닌 프롬프트에 존재하므로 하나의 감지기 ada는..."
     },
     {
       "company": "Hugging Face",
