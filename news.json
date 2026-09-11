@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-11 08:58:10 (KST)",
+  "updated_at": "2026-09-11 13:27:29 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "연구원이 Codex와 ChatGPT를 사용하여 새로운 항균 분자를 검색하는 방법",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "date": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "summary": "César de la Fuente의 연구실에서는 Codex와 ChatGPT를 사용하여 살아있는 게놈과 멸종된 게놈에서 약물 내성 감염과 싸우기 위한 항균제 후보를 검색합니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "OpenAI",
-      "title": "이제 누구나 데이터를 업무에 활용할 수 있습니다.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/put-data-to-work",
       "date": "Thu, 10 Sep 2026 15:00:00 GMT",
       "summary": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 회사 데이터를 연결하고 통찰력을 발견하며 자연어를 사용하는 AI로 대화형 대시보드를 구축하세요...."
@@ -24,59 +24,59 @@
     },
     {
       "company": "Google AI",
-      "title": "검색을 통해 다음 번 대규모 경주를 준비하는 3가지 방법",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
       "date": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "summary": "돋보기와 Gemini 스파크가 겹쳐진 테크니컬러 러너의 파란색 배경에 대한 그림..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Google AI",
       "title": "검색의 새로운 축구 기능으로 경기를 준비하세요",
       "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "생생한 녹색 배경에 금색 트로피, 파란색 헬멧, 은색 휘파람, 축구공, 미니 점수판, 플레이 디비 등 미식축구 요소가 포함된 그림 그래픽 세트..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Google AI",
-      "title": "70년 러브스토리를 프레임 단위로 재현하다",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "영화관에 앉아 있는 노부부. 오버레이된 것은 \"Teulluride Film Festival\"과 \"Love, Rendered\"입니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "구역이 2개인가요, 아니면 3개인가요? 영역 복원력이 있는 Azure 워크로드를 위한 설계 프레임워크",
+      "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
+      "date": "Wed, 09 Sep 2026 18:00:00 +0000",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "벤치마크를 넘어서: 적응형 접근 방식이 과학적 발견을 촉진하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+      "date": "Tue, 08 Sep 2026 20:00:00 +0000",
+      "summary": "<p>연구 개발(R&#38;D) 조직의 경우 에이전트 AI의 가능성은 더 나은 일회성 답변이 아닙니다. 복잡한 과학 및 공학 문제를 탐구하는 새로운 방법입니다...."
     },
     {
       "company": "Microsoft Azure AI",
       "title": "엔터프라이즈 AI 혁신은 엔드투엔드 플랫폼에 의존합니다. Azure는 이 순간을 위해 구축되었습니다.",
       "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
       "date": "Thu, 03 Sep 2026 19:00:00 +0000",
-      "summary": "<p>지난 몇 주 동안 Microsoft가 인정받은 것은 AI가 프로덕션으로 전환될 때 하나의 시스템으로 작동하는 모델, 인프라, 데이터, 애플리케이션 및 개발자 도구로 요약됩니다.</p>\n<p..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "GPT-6 Astra: 업무용 프론티어 인텔리전스, 이제 Microsoft Foundry에서 일반적으로 사용 가능",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
-      "date": "Thu, 03 Sep 2026 18:15:00 +0000",
-      "summary": "<p>OpenAI의 최신 프론티어 모델인 GPT-6 Astra는 오늘부터 Microsoft Foundry Limited Access 프로그램을 통해 출시되기 시작하며, 향후 참여 고객에게 가용성이 확대됩니다...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft의 물리적 보안 엔지니어링 팀이 Azure Arc 및 Azure Virtual Desktop을 사용하여 하이브리드 운영을 확장한 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
-      "date": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft가 어떻게 Azure Arc 및 Azure Virtual Desktop을 사용하여 하이브리드 보안 운영을 단순화하고 가시성을 개선하며 전 세계적으로 확장했는지 알아보세요.</p>\n<p>게시물 <a href=\"https://azure.microsoft.com/en-..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
       "title": "Amazon SageMaker Inference의 접두사 인식 라우팅으로 LLM 지연 시간 단축",
       "link": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
       "date": "Thu, 10 Sep 2026 21:58:09 +0000",
-      "summary": "Amazon SageMaker Inference는 이제 동일한 프롬프트 접두사를 공유하는 요청을 동일한 인스턴스로 보내 KV 캐시를 따뜻하게 유지하는 라우팅 전략인 접두사 인식 라우팅을 제공합니다. Llam 벤치마크에서..."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "모델 캐싱을 통해 Amazon SageMaker HyperPod에서 추론 콜드 스타트 ​​감소",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
       "date": "Thu, 10 Sep 2026 21:37:49 +0000",
-      "summary": "Amazon SageMaker HyperPod는 이제 추론을 위한 모델 캐싱을 지원합니다. 이는 모델 가중치와 컨테이너 이미지를 클러스터 노드에 미리 로드하여 포드가 ov를 다운로드하는 대신 로컬 NVMe 스토리지에서 읽을 수 있도록 합니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "AWS Machine Learning",
@@ -94,7 +94,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "IBM, 상용 라이센스가 포함된 SOTA Granite Time Series PatchTST-FM-r2 모델 출시",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "date": "Wed, 09 Sep 2026 15:36:24 GMT",
       "summary": "..."
