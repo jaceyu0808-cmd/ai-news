@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-13 05:28:49 (KST)",
+  "updated_at": "2026-09-13 07:56:40 (KST)",
   "articles": [
     {
       "company": "OpenAI",
       "title": "Perplexity는 엔드투엔드 시스템으로 GPT-6 Astra를 신뢰합니다.",
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "date": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "Perplexity는 Astra를 사용하여 커뮤니케이션을 작성하고, 소프트웨어를 변경하고, 생산 시스템을 모니터링하고, 이전 모델보다 훨씬 덜 자주 체크인합니다...."
     },
     {
       "company": "OpenAI",
@@ -17,52 +17,52 @@
     },
     {
       "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Cognition은 Devin이 GPT‑6 Astra로 자체 작업을 테스트하는 데 도움이 됩니다.",
       "link": "https://openai.com/index/cognition-devin-testing-with-astra",
       "date": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "GPT‑6 Astra는 엔지니어가 더 적은 코드를 검토하고 더 많은 제품을 출시할 수 있도록 돕기 위해 소프트웨어를 테스트하고 작동 여부를 보여주는 Devin의 능력을 향상시킵니다...."
     },
     {
       "company": "Google AI",
       "title": "검색을 통해 다음 번 큰 경주를 준비하는 3가지 방법",
       "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
       "date": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "돋보기와 Gemini 스파크가 겹쳐진 테크니컬러 러너의 파란색 배경에 대한 그림..."
     },
     {
       "company": "Google AI",
-      "title": "검색의 새로운 축구 기능으로 경기를 준비하세요",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "date": "Wed, 09 Sep 2026 16:00:00 +0000",
       "summary": "생생한 녹색 배경에 금색 트로피, 파란색 헬멧, 은색 휘파람, 축구공, 미니 점수판, 플레이 디비 등 미식축구 요소가 포함된 그림 그래픽 세트..."
     },
     {
       "company": "Google AI",
-      "title": "70년 러브스토리를 프레임 단위로 재현하다",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "date": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "summary": "영화관에 앉아 있는 노부부. 오버레이된 것은 \"Teulluride Film Festival\"과 \"Love, Rendered\"입니다...."
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "구역이 2개인가요, 아니면 3개인가요? 영역 복원력이 있는 Azure 워크로드를 위한 설계 프레임워크",
-      "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
-      "date": "Wed, 09 Sep 2026 18:00:00 +0000",
-      "summary": "<p>영역 복원력은 전체 워크로드에 적용되는 단일 숫자가 아닙니다. 유용한 질문은 \"구역이 몇 개인가?\"가 아닙니다. 그러나 \"하나의 손실에도 각 구성 요소가 살아남으려면 몇 개의 영역이 필요합니까?\" 구역 결정..."
+      "title": "Microsoft는 2026년 Gartner® Magic Quadrant™ 컨테이너 관리 부문 리더로 선정되었습니다.",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
+      "date": "Thu, 10 Sep 2026 21:00:00 +0000",
+      "summary": "<p>Microsoft는 2026년 Gartner® Magic Quadrant™ 컨테이너 관리 부문 리더로 선정되었습니다. AKS, Azure Arc 및 Azure Container Apps가 조직이 AI 및 하이브리드 워크로드를 즉시 실행하는 데 어떻게 도움이 되는지 알아보세요...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "벤치마크를 넘어서: 적응형 접근 방식이 과학적 발견을 촉진하는 방법",
-      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
-      "date": "Tue, 08 Sep 2026 20:00:00 +0000",
-      "summary": "<p>연구 개발(R&#38;D) 조직의 경우 에이전트 AI의 가능성은 더 나은 일회성 답변이 아닙니다. 복잡한 과학 및 공학 문제를 탐구하는 새로운 방법입니다...."
+      "title": "에이전트 최적화의 경제학: AI 에이전트 거버넌스가 비용을 제어하고 ROI를 입증하는 방법",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
+      "date": "Thu, 10 Sep 2026 17:00:00 +0000",
+      "summary": "<p>이 블로그 게시물은 상담원 최적화의 경제학의 네 번째이자 마지막 기사입니다. 이 기사에서는 상담원 비용을 최적화하고 운영하는 데 도움이 될 수 있는 전략, 기능, 입증 사항을 공유합니다...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "엔터프라이즈 AI 혁신은 엔드투엔드 플랫폼에 의존합니다. Azure는 이 순간을 위해 구축되었습니다.",
-      "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
-      "date": "Thu, 03 Sep 2026 19:00:00 +0000",
-      "summary": "<p>지난 몇 주 동안 Microsoft가 인정받은 것은 AI가 프로덕션으로 전환될 때 하나의 시스템으로 작동하는 모델, 인프라, 데이터, 애플리케이션 및 개발자 도구로 요약됩니다.</p>\n<p..."
+      "title": "인프라 탄력성의 미래는 현대화에서 시작됩니다",
+      "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
+      "date": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "summary": "<p>현대화는 조직이 인프라가 중단을 견디고 중요한 운영을 계속 지원할 수 있다는 확신을 가질 때만 성공합니다.</p>\n<p>게시물 <a href=\"https://azure..."
     },
     {
       "company": "AWS Machine Learning",
@@ -80,14 +80,14 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Amazon Bedrock AgentCore를 사용하여 대화형 MCP 앱 구축",
       "link": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
       "date": "Fri, 11 Sep 2026 18:23:17 +0000",
       "summary": "Amazon Bedrock AgentCore에서 대화형 HTML 위젯을 사용하여 MCP 앱을 구축하고 배포하는 방법을 알아보세요. MCP Apps는 호스트에 구애받지 않는 표준이므로 동일한 서버가 동일한 풍부한 경험을 제공합니다...."
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Gradio Workflow를 사용하여 AUTOMATIC1111 재구축",
       "link": "https://huggingface.co/blog/gradio-workflow-1111",
       "date": "Thu, 10 Sep 2026 00:00:00 GMT",
       "summary": "..."
@@ -101,7 +101,7 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "누구를 위한 안전인가? 전체 주제가 아닌 주제의 올바른 하위 집합을 거부하기",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "date": "Tue, 08 Sep 2026 14:23:07 GMT",
       "summary": "..."
