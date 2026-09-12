@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-12 09:04:53 (KST)",
+  "updated_at": "2026-09-12 14:35:41 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "date": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
     {
       "company": "OpenAI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -11,15 +18,8 @@
     {
       "company": "OpenAI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "date": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://openai.com/index/put-data-to-work",
-      "date": "Thu, 10 Sep 2026 15:00:00 GMT",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "date": "Fri, 11 Sep 2026 16:00:00 GMT",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
