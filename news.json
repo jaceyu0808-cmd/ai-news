@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 09:49:31 (KST)",
+  "updated_at": "2026-09-13 14:55:35 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,11 +20,11 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://openai.com/index/cognition-devin-testing-with-astra",
       "date": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+      "summary": "GPT‑6 Astra는 엔지니어가 더 적은 코드를 검토하고 더 많은 제품을 출시할 수 있도록 돕기 위해 소프트웨어를 테스트하고 작동 여부를 보여주는 Devin의 능력을 향상시킵니다...."
     },
     {
       "company": "Google AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "검색을 통해 다음 번 큰 경주를 준비하는 3가지 방법",
       "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
       "date": "Thu, 10 Sep 2026 16:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -46,13 +46,6 @@
     {
       "company": "Microsoft Azure AI",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
-      "date": "Tue, 08 Sep 2026 20:00:00 +0000",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/",
       "date": "Thu, 03 Sep 2026 19:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
@@ -62,6 +55,13 @@
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
       "date": "Thu, 03 Sep 2026 18:15:00 +0000",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/",
+      "date": "Thu, 03 Sep 2026 15:00:00 +0000",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know...."
     },
     {
