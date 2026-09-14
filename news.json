@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 15:02:34 (KST)",
+  "updated_at": "2026-09-14 22:51:52 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
       "link": "https://huggingface.co/blog/gradio-workflow-1111",
       "date": "Thu, 10 Sep 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "date": "Wed, 09 Sep 2026 15:36:24 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "date": "Tue, 08 Sep 2026 14:23:07 GMT",
       "summary": "..."
     }
   ]
