@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 23:53:56 (KST)",
+  "updated_at": "2026-09-16 03:52:38 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,24 +24,24 @@
     },
     {
       "company": "Google AI",
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "date": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration..."
+      "title": "AI for Societal Impact",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "date": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif\" />Explore this collection to see how experts and local leaders are using AI breakthroughs to ensur..."
     },
     {
       "company": "Google AI",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "date": "Mon, 14 Sep 2026 19:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp\" />Christina Koch sits down with James Manyika, Google’s Senior V..."
+      "title": "Building AI to accelerate science and improve lives",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "date": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor..."
     },
     {
       "company": "Google AI",
-      "title": "DevFest is back",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "date": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon..."
+      "title": "AI for everyone in every language",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "date": "Tue, 15 Sep 2026 16:00:00 +0000",
+      "summary": "Animation of several words in different languages slowly zooming past..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-      "link": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
-      "date": "Mon, 14 Sep 2026 21:22:45 +0000",
-      "summary": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus t..."
+      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
+      "date": "Tue, 15 Sep 2026 16:18:19 +0000",
+      "summary": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios u..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
-      "date": "Mon, 14 Sep 2026 20:35:45 +0000",
-      "summary": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring G..."
+      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
+      "date": "Tue, 15 Sep 2026 16:11:36 +0000",
+      "summary": "Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable r..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
-      "date": "Mon, 14 Sep 2026 15:58:57 +0000",
-      "summary": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and c..."
+      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
+      "date": "Tue, 15 Sep 2026 16:01:47 +0000",
+      "summary": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker AI automatically launches on the first ty..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "date": "Tue, 15 Sep 2026 16:00:44 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
       "link": "https://huggingface.co/blog/gradio-workflow-1111",
       "date": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "date": "Wed, 09 Sep 2026 15:36:24 GMT",
       "summary": "..."
     }
   ]
