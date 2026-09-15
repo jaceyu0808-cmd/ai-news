@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 18:58:51 (KST)",
+  "updated_at": "2026-09-15 23:53:56 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "date": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration..."
+    },
+    {
+      "company": "Google AI",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
       "date": "Mon, 14 Sep 2026 19:00:00 +0000",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
       "date": "Mon, 14 Sep 2026 16:00:00 +0000",
       "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon..."
-    },
-    {
-      "company": "Google AI",
-      "title": "3 ways to prep for your next big race with Search",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "date": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid..."
     },
     {
       "company": "Microsoft Azure AI",
