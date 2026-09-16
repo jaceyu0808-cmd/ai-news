@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17 03:07:03 (KST)",
+  "updated_at": "2026-09-17 07:02:31 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "How workers are unlocking new ways of working",
-      "link": "https://openai.com/index/unlocking-new-ways-of-working",
-      "date": "Wed, 16 Sep 2026 09:00:00 GMT",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work...."
+      "title": "How to connect AI usage to business value",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "date": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Improving HCLS AI reasoning with open-source agent skills",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+      "date": "Wed, 16 Sep 2026 19:00:00 +0000",
+      "summary": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills acr..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
+      "date": "Wed, 16 Sep 2026 18:59:25 +0000",
+      "summary": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointi..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
       "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
       "date": "Wed, 16 Sep 2026 15:47:39 +0000",
       "summary": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt opt..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
-      "date": "Wed, 16 Sep 2026 15:17:37 +0000",
-      "summary": "Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS Step Functions, and AWS Lambda. A custom ..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
-      "date": "Tue, 15 Sep 2026 16:18:19 +0000",
-      "summary": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios u..."
     },
     {
       "company": "Hugging Face",
