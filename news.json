@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-16 22:24:49 (KST)",
+  "updated_at": "2026-09-17 03:07:03 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "link": "https://openai.com/index/fyxer",
-      "date": "Mon, 14 Sep 2026 12:00:00 GMT",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice...."
+      "title": "Helping older adults use AI in everyday life",
+      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "date": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely...."
     },
     {
       "company": "OpenAI",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "date": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models...."
+      "title": "Reimagining advertising with AI",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "date": "Wed, 16 Sep 2026 13:00:00 GMT",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify...."
     },
     {
       "company": "OpenAI",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "date": "Fri, 11 Sep 2026 10:00:00 GMT",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second...."
+      "title": "How workers are unlocking new ways of working",
+      "link": "https://openai.com/index/unlocking-new-ways-of-working",
+      "date": "Wed, 16 Sep 2026 09:00:00 GMT",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
+      "date": "Wed, 16 Sep 2026 15:47:39 +0000",
+      "summary": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt opt..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
+      "date": "Wed, 16 Sep 2026 15:17:37 +0000",
+      "summary": "Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS Step Functions, and AWS Lambda. A custom ..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
       "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
       "date": "Tue, 15 Sep 2026 16:18:19 +0000",
       "summary": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios u..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
-      "date": "Tue, 15 Sep 2026 16:11:36 +0000",
-      "summary": "Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable r..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
-      "date": "Tue, 15 Sep 2026 16:01:47 +0000",
-      "summary": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker AI automatically launches on the first ty..."
     },
     {
       "company": "Hugging Face",
