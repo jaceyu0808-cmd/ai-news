@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-18 03:07:52 (KST)",
+  "updated_at": "2026-09-18 07:03:19 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Introducing Astra for Law",
+      "link": "https://openai.com/index/astra-for-law",
+      "date": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work...."
+    },
     {
       "company": "OpenAI",
       "title": "Helping older adults use AI in everyday life",
@@ -16,11 +23,11 @@
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify...."
     },
     {
-      "company": "OpenAI",
-      "title": "How to connect AI usage to business value",
-      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "date": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes...."
+      "company": "Google AI",
+      "title": "Making global data easier to explore",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "date": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "summary": "UN System Data Commons Data webpage..."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
       "date": "Tue, 15 Sep 2026 16:00:00 +0000",
       "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor..."
-    },
-    {
-      "company": "Google AI",
-      "title": "AI for everyone in every language",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "date": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "summary": "Animation of several words in different languages slowly zooming past..."
     },
     {
       "company": "Microsoft Azure AI",
