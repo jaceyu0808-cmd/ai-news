@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17 22:21:04 (KST)",
+  "updated_at": "2026-09-18 03:07:52 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-      "date": "Wed, 16 Sep 2026 16:00:00 +0000",
-      "summary": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.co..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
       "date": "Thu, 10 Sep 2026 21:00:00 +0000",
@@ -65,25 +58,32 @@
       "summary": "<p>This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Improving HCLS AI reasoning with open-source agent skills",
-      "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
-      "date": "Wed, 16 Sep 2026 19:00:00 +0000",
-      "summary": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills acr..."
+      "company": "Microsoft Azure AI",
+      "title": "The future of infrastructure resiliency starts with modernization",
+      "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
+      "date": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "summary": "<p>Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical operations.</p>\n<p>The post <a href=\"https://azure..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
-      "date": "Wed, 16 Sep 2026 18:59:25 +0000",
-      "summary": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointi..."
+      "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
+      "date": "Thu, 17 Sep 2026 17:55:20 +0000",
+      "summary": "Amazon Connect Talent is an AI hiring solution built for talent acquisition leaders managing scaled hiring. It delivers AI-led interviews, data-driven assessments, and consistent evaluation, helping r..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
-      "date": "Wed, 16 Sep 2026 15:47:39 +0000",
-      "summary": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt opt..."
+      "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+      "link": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
+      "date": "Thu, 17 Sep 2026 15:53:13 +0000",
+      "summary": "Choosing the right vector store for your Amazon Bedrock Knowledge Bases RAG application affects performance and cost. This post compares Amazon OpenSearch Service, Amazon Aurora PostgreSQL with pgvect..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
+      "link": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/",
+      "date": "Thu, 17 Sep 2026 15:42:31 +0000",
+      "summary": "Learn how to build a fully serverless pipeline that automatically collects Git metrics from GitHub and GitLab and visualizes them in interactive Amazon Quick Sight dashboards, giving engineering teams..."
     },
     {
       "company": "Hugging Face",
