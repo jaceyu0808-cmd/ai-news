@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 05:49:39 (KST)",
+  "updated_at": "2026-09-19 08:11:29 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+      "date": "Fri, 18 Sep 2026 20:52:14 +0000",
+      "summary": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from infe..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Introducing Kimi K3 on Amazon Bedrock",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
       "date": "Fri, 18 Sep 2026 16:52:01 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
       "date": "Fri, 18 Sep 2026 15:38:53 +0000",
       "summary": "Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model orchestration and vector-enhanced knowledge retriev..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
-      "link": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
-      "date": "Fri, 18 Sep 2026 15:31:34 +0000",
-      "summary": "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that production agents demand. It reclaims memory as s..."
     },
     {
       "company": "Hugging Face",
