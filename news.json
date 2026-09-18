@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 21:57:46 (KST)",
+  "updated_at": "2026-09-19 02:02:33 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,31 +24,24 @@
     },
     {
       "company": "Google AI",
+      "title": "New experts join Google’s AI & Economy team",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "date": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner..."
+    },
+    {
+      "company": "Google AI",
+      "title": "Co-creating the future of fashion with Google",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "date": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "summary": "Jane Wade and Sergio Hudson..."
+    },
+    {
+      "company": "Google AI",
       "title": "Making global data easier to explore",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "date": "Thu, 17 Sep 2026 20:00:00 +0000",
       "summary": "UN System Data Commons Data webpage..."
-    },
-    {
-      "company": "Google AI",
-      "title": "AI for Societal Impact",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "date": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif\" />Explore this collection to see how experts and local leaders are using AI breakthroughs to ensur..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Building AI to accelerate science and improve lives",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "date": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-      "date": "Wed, 16 Sep 2026 16:00:00 +0000",
-      "summary": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.co..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -65,25 +58,32 @@
       "summary": "<p>This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
-      "date": "Thu, 17 Sep 2026 17:55:20 +0000",
-      "summary": "Amazon Connect Talent is an AI hiring solution built for talent acquisition leaders managing scaled hiring. It delivers AI-led interviews, data-driven assessments, and consistent evaluation, helping r..."
+      "company": "Microsoft Azure AI",
+      "title": "The future of infrastructure resiliency starts with modernization",
+      "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
+      "date": "Thu, 10 Sep 2026 16:00:00 +0000",
+      "summary": "<p>Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical operations.</p>\n<p>The post <a href=\"https://azure..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
-      "link": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
-      "date": "Thu, 17 Sep 2026 15:53:13 +0000",
-      "summary": "Choosing the right vector store for your Amazon Bedrock Knowledge Bases RAG application affects performance and cost. This post compares Amazon OpenSearch Service, Amazon Aurora PostgreSQL with pgvect..."
+      "title": "Introducing Kimi K3 on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
+      "date": "Fri, 18 Sep 2026 16:52:01 +0000",
+      "summary": "Kimi K3 from Moonshot AI is now available on Amazon Bedrock, giving you a powerful new open-weight option for coding and knowledge work. It offers native vision, a 1-million-token context window, and ..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
-      "link": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/",
-      "date": "Thu, 17 Sep 2026 15:42:31 +0000",
-      "summary": "Learn how to build a fully serverless pipeline that automatically collects Git metrics from GitHub and GitLab and visualizes them in interactive Amazon Quick Sight dashboards, giving engineering teams..."
+      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
+      "date": "Fri, 18 Sep 2026 15:38:53 +0000",
+      "summary": "Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model orchestration and vector-enhanced knowledge retriev..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+      "link": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
+      "date": "Fri, 18 Sep 2026 15:31:34 +0000",
+      "summary": "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that production agents demand. It reclaims memory as s..."
     },
     {
       "company": "Hugging Face",
