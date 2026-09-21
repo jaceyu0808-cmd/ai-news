@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-21 15:12:37 (KST)",
+  "updated_at": "2026-09-21 22:54:06 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://openai.com/index/v7",
+      "date": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work...."
+    },
     {
       "company": "OpenAI",
       "title": "Introducing the Australian Youth Safety Blueprint",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/cooley-gopublic",
       "date": "Thu, 17 Sep 2026 12:00:00 GMT",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing Astra for Law",
-      "link": "https://openai.com/index/astra-for-law",
-      "date": "Thu, 17 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
+      "date": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "summary": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.co..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
       "date": "Thu, 10 Sep 2026 21:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
       "date": "Thu, 10 Sep 2026 17:00:00 +0000",
       "summary": "<p>This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "The future of infrastructure resiliency starts with modernization",
-      "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/",
-      "date": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "summary": "<p>Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical operations.</p>\n<p>The post <a href=\"https://azure..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "date": "Mon, 21 Sep 2026 13:44:34 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "date": "Tue, 15 Sep 2026 16:00:44 GMT",
@@ -96,13 +103,6 @@
       "company": "Hugging Face",
       "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
       "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "date": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "link": "https://huggingface.co/blog/gradio-workflow-1111",
       "date": "Thu, 10 Sep 2026 00:00:00 GMT",
       "summary": "..."
     }
