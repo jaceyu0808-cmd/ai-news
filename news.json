@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 18:49:48 (KST)",
+  "updated_at": "2026-09-22 23:39:01 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Transformers now runs llama.cpp quants",
+      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "link": "https://huggingface.co/blog/omlx",
       "date": "Tue, 22 Sep 2026 00:00:00 GMT",
@@ -97,13 +104,6 @@
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
       "date": "Mon, 21 Sep 2026 13:44:34 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "link": "https://huggingface.co/blog/tokenizers-v1",
-      "date": "Mon, 21 Sep 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
