@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-23 03:43:53 (KST)",
+  "updated_at": "2026-09-23 06:58:01 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "date": "Tue, 22 Sep 2026 21:00:00 GMT",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "date": "Tue, 22 Sep 2026 18:00:00 GMT",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost...."
+    },
     {
       "company": "OpenAI",
       "title": "Priorities and principles for effective third party assessments",
       "link": "https://openai.com/index/priorities-principles-third-party-assessments",
       "date": "Tue, 22 Sep 2026 00:00:00 GMT",
       "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results...."
     },
     {
       "company": "Google AI",
