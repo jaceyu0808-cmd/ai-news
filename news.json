@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-22 23:39:01 (KST)",
+  "updated_at": "2026-09-23 03:43:53 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results...."
+      "title": "Priorities and principles for effective third party assessments",
+      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards...."
     },
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Building standards for the next phase of AI",
-      "link": "https://openai.com/index/building-standards-next-phase-ai",
-      "date": "Mon, 21 Sep 2026 10:00:00 GMT",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety...."
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "date": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
-      "date": "Mon, 21 Sep 2026 18:30:34 +0000",
-      "summary": "xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context window and four reasoning effort levels. It runs on b..."
+      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
+      "date": "Tue, 22 Sep 2026 18:10:22 +0000",
+      "summary": "GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload...."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
-      "date": "Mon, 21 Sep 2026 16:36:10 +0000",
-      "summary": "BMW Group operates CLEA, a FinOps platform monitoring more than 14,000 cloud accounts. This post shows how BMW added automated daily cost anomaly detection, moving from reactive dashboards to proactiv..."
+      "title": "Claude Opus 5.5 is now available on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
+      "date": "Tue, 22 Sep 2026 17:28:01 +0000",
+      "summary": "Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock and Claude Platform on AWS. This post covers what's ..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Run Positron on Amazon SageMaker AI for data science workflows",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
-      "date": "Mon, 21 Sep 2026 16:34:21 +0000",
-      "summary": "Positron, Posit's IDE for data science, now runs on Amazon SageMaker AI. This post shows how a data scientist explores an Amazon Athena table, validates features in R, trains an XGBoost model in Pytho..."
+      "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
+      "date": "Tue, 22 Sep 2026 17:18:13 +0000",
+      "summary": "Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it. Learn how to measure ..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "link": "https://huggingface.co/blog/evaleval-aisi",
+      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "link": "https://huggingface.co/blog/omlx",
       "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "date": "Mon, 21 Sep 2026 13:44:34 GMT",
       "summary": "..."
     }
   ]
