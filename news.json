@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23 06:58:01 (KST)",
+  "updated_at": "2026-09-23 09:20:27 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Priorities and principles for effective third party assessments",
-      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards...."
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "date": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models...."
     },
     {
       "company": "Google AI",
