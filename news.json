@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-09-24 01:44:07 (KST)",
+  "updated_at": "2026-09-24 05:09:06 (KST)",
   "articles": [
-    {
-      "company": "OpenAI",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
-      "date": "Thu, 24 Sep 2026 12:00:00 GMT",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1...."
-    },
     {
       "company": "OpenAI",
       "title": "Two years of OpenAI Academy",
@@ -23,6 +16,20 @@
       "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure...."
     },
     {
+      "company": "OpenAI",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "date": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy...."
+    },
+    {
+      "company": "Google AI",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "date": "Wed, 23 Sep 2026 18:00:00 +0000",
+      "summary": "Google Beam promotional animation..."
+    },
+    {
       "company": "Google AI",
       "title": "New experts join Google’s AI & Economy team",
       "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "date": "Fri, 18 Sep 2026 13:00:00 +0000",
       "summary": "Jane Wade and Sergio Hudson..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Making global data easier to explore",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "date": "Thu, 17 Sep 2026 20:00:00 +0000",
-      "summary": "UN System Data Commons Data webpage..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,30 +66,30 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
-      "date": "Tue, 22 Sep 2026 18:10:22 +0000",
-      "summary": "GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload...."
+      "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
+      "date": "Wed, 23 Sep 2026 18:41:09 +0000",
+      "summary": "HEMA, a 100-year-old Dutch retailer, turned developer portal-hopping into instant answers by building HAL, an internal AI assistant on Amazon Bedrock AgentCore. Using Model Context Protocol (MCP), HAL..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Claude Opus 5.5 is now available on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
-      "date": "Tue, 22 Sep 2026 17:28:01 +0000",
-      "summary": "Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock and Claude Platform on AWS. This post covers what's ..."
+      "title": "Agentic conversational video intelligence built on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
+      "date": "Wed, 23 Sep 2026 18:21:54 +0000",
+      "summary": "Learn how to build a conversational video intelligence solution on AWS using an agentic architecture. A single Strands Agents SDK agent orchestrates Amazon Bedrock, Amazon Rekognition, and Amazon Tran..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
-      "date": "Tue, 22 Sep 2026 17:18:13 +0000",
-      "summary": "Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it. Learn how to measure ..."
+      "title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
+      "date": "Wed, 23 Sep 2026 18:17:44 +0000",
+      "summary": "Pair OpenCode, an open-source terminal-native AI coding agent, with open weight models on Amazon Bedrock to get a secure, flexible, pay-per-use coding assistant. Learn how to configure multi-model wor..."
     },
     {
       "company": "Hugging Face",
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "date": "Wed, 23 Sep 2026 13:17:01 GMT",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "date": "Wed, 23 Sep 2026 18:41:40 GMT",
       "summary": "..."
     },
     {
