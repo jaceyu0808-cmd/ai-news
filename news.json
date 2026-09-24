@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 04:00:01 (KST)",
+  "updated_at": "2026-09-25 07:17:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+      "date": "Tue, 22 Sep 2026 18:30:00 +0000",
+      "summary": "<p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks.</p>\n<p>The post <a href=\"https://azure..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
+      "date": "Tue, 22 Sep 2026 17:00:25 +0000",
+      "summary": "<p>AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex issue, synthesizing hundreds of pages of information..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
       "date": "Wed, 16 Sep 2026 16:00:00 +0000",
       "summary": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.co..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
-      "date": "Thu, 10 Sep 2026 21:00:00 +0000",
-      "summary": "<p>Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at s..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/",
-      "date": "Thu, 10 Sep 2026 17:00:00 +0000",
-      "summary": "<p>This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run..."
     },
     {
       "company": "AWS Machine Learning",
