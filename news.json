@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 18:52:17 (KST)",
+  "updated_at": "2026-09-24 23:52:41 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Your architecture diagram is not your resilience",
+      "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
+      "date": "Wed, 23 Sep 2026 16:00:00 +0000",
+      "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Designing agent-first platforms: What changes when agents do the work",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
+      "date": "Wed, 23 Sep 2026 15:00:00 +0000",
+      "summary": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/b..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
       "date": "Tue, 22 Sep 2026 18:30:00 +0000",
       "summary": "<p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks.</p>\n<p>The post <a href=\"https://azure..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
-      "date": "Tue, 22 Sep 2026 17:00:25 +0000",
-      "summary": "<p>AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex issue, synthesizing hundreds of pages of information..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
-      "date": "Wed, 16 Sep 2026 16:00:00 +0000",
-      "summary": "<p>Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more.</p>\n<p>The post <a href=\"https://azure.microsoft.co..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "date": "Thu, 24 Sep 2026 14:08:57 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "date": "Wed, 23 Sep 2026 18:41:40 GMT",
@@ -96,13 +103,6 @@
       "company": "Hugging Face",
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "link": "https://huggingface.co/blog/evaleval-aisi",
-      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Transformers now runs llama.cpp quants",
-      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
       "date": "Tue, 22 Sep 2026 00:00:00 GMT",
       "summary": "..."
     }
