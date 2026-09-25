@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-25 22:36:11 (KST)",
+  "updated_at": "2026-09-26 03:28:01 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "date": "Fri, 25 Sep 2026 19:00:00 GMT",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster...."
+    },
     {
       "company": "OpenAI",
       "title": "Two years of OpenAI Academy",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "date": "Wed, 23 Sep 2026 13:00:00 GMT",
       "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "date": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
-      "date": "Thu, 24 Sep 2026 16:20:12 +0000",
-      "summary": "The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to deploy it to Amazon SageMaker AI real-time and asynch..."
+      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+      "date": "Fri, 25 Sep 2026 16:29:50 +0000",
+      "summary": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Am..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
-      "date": "Thu, 24 Sep 2026 16:12:47 +0000",
-      "summary": "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon ..."
+      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+      "date": "Fri, 25 Sep 2026 16:18:07 +0000",
+      "summary": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the ..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Aderant builds intelligent ticket triage with Amazon Nova",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
-      "date": "Thu, 24 Sep 2026 16:06:46 +0000",
-      "summary": "Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud op..."
+      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+      "date": "Fri, 25 Sep 2026 16:15:22 +0000",
+      "summary": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming ..."
     },
     {
       "company": "Hugging Face",
