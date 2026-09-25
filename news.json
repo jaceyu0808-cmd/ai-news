@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 16:36:51 (KST)",
+  "updated_at": "2026-09-25 22:36:11 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
-      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
-      "date": "Thu, 24 Sep 2026 18:00:00 +0000",
-      "summary": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://a..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Your architecture diagram is not your resilience",
       "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
       "date": "Wed, 23 Sep 2026 16:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
       "date": "Wed, 23 Sep 2026 15:00:00 +0000",
       "summary": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/b..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+      "date": "Tue, 22 Sep 2026 18:30:00 +0000",
+      "summary": "<p>Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks.</p>\n<p>The post <a href=\"https://azure..."
     },
     {
       "company": "AWS Machine Learning",
