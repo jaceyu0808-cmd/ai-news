@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-28 22:40:35 (KST)",
+  "updated_at": "2026-09-29 05:30:00 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "date": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support...."
+    },
     {
       "company": "OpenAI",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -16,11 +23,11 @@
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities...."
     },
     {
-      "company": "OpenAI",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "date": "Wed, 23 Sep 2026 13:00:00 GMT",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure...."
+      "company": "Google AI",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "date": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted...."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "date": "Fri, 18 Sep 2026 14:00:00 +0000",
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Co-creating the future of fashion with Google",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "date": "Fri, 18 Sep 2026 13:00:00 +0000",
-      "summary": "Jane Wade and Sergio Hudson..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
-      "date": "Fri, 25 Sep 2026 16:29:50 +0000",
-      "summary": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Am..."
+      "title": "Introducing Claude Sonnet 5.5 on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
+      "date": "Mon, 28 Sep 2026 18:57:13 +0000",
+      "summary": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
-      "date": "Fri, 25 Sep 2026 16:18:07 +0000",
-      "summary": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the ..."
+      "title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+      "date": "Mon, 28 Sep 2026 16:15:46 +0000",
+      "summary": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
-      "date": "Fri, 25 Sep 2026 16:15:22 +0000",
-      "summary": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming ..."
+      "title": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
+      "date": "Mon, 28 Sep 2026 16:15:17 +0000",
+      "summary": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video wi..."
     },
     {
       "company": "Hugging Face",
