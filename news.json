@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-09-29 09:56:18 (KST)",
+  "updated_at": "2026-09-29 15:46:52 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences...."
+    },
     {
       "company": "OpenAI",
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/form/codex-originals",
       "date": "Mon, 28 Sep 2026 00:00:00 GMT",
       "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program..."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "date": "Mon, 28 Sep 2026 00:00:00 GMT",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
+      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
+      "date": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "summary": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
       "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
       "date": "Thu, 24 Sep 2026 18:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
       "date": "Wed, 23 Sep 2026 16:00:00 +0000",
       "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Designing agent-first platforms: What changes when agents do the work",
-      "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
-      "date": "Wed, 23 Sep 2026 15:00:00 +0000",
-      "summary": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/b..."
     },
     {
       "company": "AWS Machine Learning",
