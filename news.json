@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 15:46:52 (KST)",
+  "updated_at": "2026-09-29 22:57:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "date": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents..."
+    },
+    {
+      "company": "OpenAI",
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "date": "Mon, 28 Sep 2026 07:00:00 GMT",
       "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Are you a Codex Original?",
-      "link": "https://openai.com/form/codex-originals",
-      "date": "Mon, 28 Sep 2026 00:00:00 GMT",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program..."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
-      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
-      "date": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "summary": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
       "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
       "date": "Thu, 24 Sep 2026 18:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
       "date": "Wed, 23 Sep 2026 16:00:00 +0000",
       "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Designing agent-first platforms: What changes when agents do the work",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
+      "date": "Wed, 23 Sep 2026 15:00:00 +0000",
+      "summary": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/b..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "date": "Tue, 29 Sep 2026 13:07:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Holo4: powering generalist computer-use agents",
       "link": "https://huggingface.co/blog/Hcompany/holo4",
       "date": "Mon, 28 Sep 2026 09:44:05 GMT",
@@ -97,13 +104,6 @@
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
       "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "date": "Thu, 24 Sep 2026 14:08:57 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "date": "Wed, 23 Sep 2026 18:41:40 GMT",
       "summary": "..."
     }
   ]
