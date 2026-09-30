@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 08:37:03 (KST)",
+  "updated_at": "2026-09-30 14:21:03 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -20,7 +20,7 @@
       "title": "Introducing dots",
       "link": "https://openai.com/index/introducing-dots",
       "date": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward...."
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
-      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
-      "date": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "summary": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
       "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
       "date": "Thu, 24 Sep 2026 18:00:00 +0000",
@@ -65,25 +58,32 @@
       "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "Designing agent-first platforms: What changes when agents do the work",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
+      "date": "Wed, 23 Sep 2026 15:00:00 +0000",
+      "summary": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/b..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+      "date": "Wed, 30 Sep 2026 01:13:14 +0000",
+      "summary": "Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can access these models while processing data ..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
+      "date": "Wed, 30 Sep 2026 01:13:12 +0000",
+      "summary": "Amazon Bedrock now supports Anthropic's Claude Opus 5 and Claude Sonnet 5 with in-region inference in Seoul, and Claude Sonnet 5 in Singapore. If you have local data processing requirements in South K..."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
       "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
       "date": "Tue, 29 Sep 2026 19:34:14 +0000",
       "summary": "GPT-6.1 Sol is now generally available on Amazon Bedrock, bringing stronger reasoning to coding, computer use, and professional workloads that run frequently...."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Prompt engineering fundamentals for Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/",
-      "date": "Tue, 29 Sep 2026 16:27:57 +0000",
-      "summary": "Prompt engineering in Amazon Quick shapes how accurately its AI-powered features respond to your requests. Part 1 of a two-part series covers the foundational principles and reusable frameworks (speci..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Prompt engineering by Quick component: Patterns and pitfalls",
-      "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
-      "date": "Tue, 29 Sep 2026 16:27:33 +0000",
-      "summary": "Part 2 of our Amazon Quick prompt engineering series goes component by component. Learn the prompt patterns that get the best results from Amazon Quick Research, Quick Flows, Quick Sight, chat agents,..."
     },
     {
       "company": "Hugging Face",
