@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-30 21:24:52 (KST)",
+  "updated_at": "2026-10-01 03:22:21 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "date": "Wed, 30 Sep 2026 10:30:00 GMT",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "date": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI...."
+    },
     {
       "company": "OpenAI",
       "title": "Introducing GPT-6.1 Sol",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol",
       "date": "Tue, 29 Sep 2026 10:00:00 GMT",
       "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "date": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Introducing dots",
-      "link": "https://openai.com/index/introducing-dots",
-      "date": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
-      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
-      "date": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "summary": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
       "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
       "date": "Thu, 24 Sep 2026 18:00:00 +0000",
@@ -65,6 +58,27 @@
       "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
     },
     {
+      "company": "Microsoft Azure AI",
+      "title": "Designing agent-first platforms: What changes when agents do the work",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
+      "date": "Wed, 23 Sep 2026 15:00:00 +0000",
+      "summary": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/b..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
+      "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
+      "date": "Wed, 30 Sep 2026 15:37:15 +0000",
+      "summary": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+      "date": "Wed, 30 Sep 2026 15:21:57 +0000",
+      "summary": "Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music..."
+    },
+    {
       "company": "AWS Machine Learning",
       "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
       "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
@@ -72,18 +86,11 @@
       "summary": "Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can access these models while processing data ..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
-      "date": "Wed, 30 Sep 2026 01:13:12 +0000",
-      "summary": "Amazon Bedrock now supports Anthropic's Claude Opus 5 and Claude Sonnet 5 with in-region inference in Seoul, and Claude Sonnet 5 in Singapore. If you have local data processing requirements in South K..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
-      "date": "Tue, 29 Sep 2026 19:34:14 +0000",
-      "summary": "GPT-6.1 Sol is now generally available on Amazon Bedrock, bringing stronger reasoning to coding, computer use, and professional workloads that run frequently...."
+      "company": "Hugging Face",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "date": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "date": "Tue, 29 Sep 2026 13:07:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Holo4: powering generalist computer-use agents",
-      "link": "https://huggingface.co/blog/Hcompany/holo4",
-      "date": "Mon, 28 Sep 2026 09:44:05 GMT",
       "summary": "..."
     }
   ]
