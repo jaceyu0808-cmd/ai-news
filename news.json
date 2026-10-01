@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 10:59:09 (KST)",
+  "updated_at": "2026-10-01 17:46:38 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
-      "date": "Wed, 30 Sep 2026 15:00:00 +0000",
-      "summary": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microso..."
+      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
+      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
+      "date": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "summary": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "SQL Server on Azure Local is now generally available",
-      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
-      "date": "Tue, 29 Sep 2026 16:40:06 +0000",
-      "summary": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://ww..."
+      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
+      "date": "Thu, 24 Sep 2026 18:00:00 +0000",
+      "summary": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://a..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
-      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-      "date": "Tue, 29 Sep 2026 06:30:00 +0000",
-      "summary": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
+      "title": "Your architecture diagram is not your resilience",
+      "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
+      "date": "Wed, 23 Sep 2026 16:00:00 +0000",
+      "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
     },
     {
       "company": "AWS Machine Learning",
