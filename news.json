@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 17:46:38 (KST)",
+  "updated_at": "2026-10-02 01:16:56 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,31 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
-      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
-      "date": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "summary": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/..."
+      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
+      "date": "Wed, 30 Sep 2026 15:00:00 +0000",
+      "summary": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microso..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
-      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
-      "date": "Thu, 24 Sep 2026 18:00:00 +0000",
-      "summary": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://a..."
+      "title": "SQL Server on Azure Local is now generally available",
+      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
+      "date": "Tue, 29 Sep 2026 16:40:06 +0000",
+      "summary": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://ww..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Your architecture diagram is not your resilience",
-      "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
-      "date": "Wed, 23 Sep 2026 16:00:00 +0000",
-      "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
+      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+      "date": "Tue, 29 Sep 2026 06:30:00 +0000",
+      "summary": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/",
+      "date": "Thu, 01 Oct 2026 15:33:01 +0000",
+      "summary": "See how uniopen, a retail platform from Taiwan's Uni-President Enterprises Group, adapted Amazon Nova 2 Lite to its content-moderation policies using supervised fine-tuning in Amazon SageMaker AI and ..."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,11 +86,11 @@
       "summary": "Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
-      "date": "Wed, 30 Sep 2026 01:13:14 +0000",
-      "summary": "Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can access these models while processing data ..."
+      "company": "Hugging Face",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "link": "https://huggingface.co/blog/allenai/olmocore3",
+      "date": "Thu, 01 Oct 2026 15:01:43 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "date": "Tue, 29 Sep 2026 15:30:38 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "date": "Tue, 29 Sep 2026 13:07:00 GMT",
       "summary": "..."
     }
   ]
