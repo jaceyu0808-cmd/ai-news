@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 06:44:34 (KST)",
+  "updated_at": "2026-10-02 10:32:07 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,31 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
-      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
-      "date": "Thu, 24 Sep 2026 18:00:00 +0000",
-      "summary": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://a..."
+      "title": "SQL Server on Azure Local is now generally available",
+      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
+      "date": "Tue, 29 Sep 2026 16:40:06 +0000",
+      "summary": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://ww..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Your architecture diagram is not your resilience",
-      "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
-      "date": "Wed, 23 Sep 2026 16:00:00 +0000",
-      "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
+      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+      "date": "Tue, 29 Sep 2026 06:30:00 +0000",
+      "summary": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Designing agent-first platforms: What changes when agents do the work",
-      "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
-      "date": "Wed, 23 Sep 2026 15:00:00 +0000",
-      "summary": "<p>The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/b..."
+      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
+      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
+      "date": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "summary": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+      "date": "Thu, 01 Oct 2026 22:06:14 +0000",
+      "summary": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrast..."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
       "date": "Thu, 01 Oct 2026 17:34:56 +0000",
       "summary": "Learn how to use Amazon S3 Vectors as the persistent memory layer within the NVIDIA NeMo Agent Toolkit (NAT), deployed on Amazon Elastic Kubernetes Service (Amazon EKS). This post shows how NAT's memo..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws/",
-      "date": "Thu, 01 Oct 2026 16:51:04 +0000",
-      "summary": "Generative AI makes it cheap to produce personalized content at scale, but which variation do you show each customer? Amazon Payments used a multi-objective contextual bandit on Amazon SageMaker AI to..."
     },
     {
       "company": "Hugging Face",
