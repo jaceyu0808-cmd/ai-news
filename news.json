@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 10:32:07 (KST)",
+  "updated_at": "2026-10-02 17:21:18 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "Fri, 02 Oct 2026 04:01:31 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
       "link": "https://huggingface.co/blog/allenai/olmocore3",
       "date": "Thu, 01 Oct 2026 15:01:43 GMT",
@@ -97,13 +104,6 @@
       "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "link": "https://huggingface.co/blog/open-tts-leaderboard",
       "date": "Wed, 30 Sep 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "date": "Tue, 29 Sep 2026 15:30:38 GMT",
       "summary": "..."
     }
   ]
