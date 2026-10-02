@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-03 00:41:09 (KST)",
+  "updated_at": "2026-10-03 05:37:20 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "date": "Fri, 02 Oct 2026 16:15:00 GMT",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "date": "Fri, 02 Oct 2026 00:00:00 GMT",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4...."
+    },
     {
       "company": "OpenAI",
       "title": "The eternal complement",
       "link": "https://openai.com/index/the-eternal-complement",
       "date": "Thu, 01 Oct 2026 17:00:00 GMT",
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "date": "Thu, 01 Oct 2026 16:00:00 GMT",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://openai.com/index/the-den-family-social",
-      "date": "Thu, 01 Oct 2026 00:00:00 GMT",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days...."
     },
     {
       "company": "Google AI",
@@ -45,45 +45,45 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
-      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
-      "date": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "summary": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/..."
+      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
+      "date": "Wed, 30 Sep 2026 15:00:00 +0000",
+      "summary": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microso..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
-      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
-      "date": "Thu, 24 Sep 2026 18:00:00 +0000",
-      "summary": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://a..."
+      "title": "SQL Server on Azure Local is now generally available",
+      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
+      "date": "Tue, 29 Sep 2026 16:40:06 +0000",
+      "summary": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://ww..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Your architecture diagram is not your resilience",
-      "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
-      "date": "Wed, 23 Sep 2026 16:00:00 +0000",
-      "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
+      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+      "date": "Tue, 29 Sep 2026 06:30:00 +0000",
+      "summary": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "date": "Thu, 01 Oct 2026 22:06:14 +0000",
-      "summary": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrast..."
+      "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+      "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+      "date": "Fri, 02 Oct 2026 15:48:26 +0000",
+      "summary": "The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defensible compliance answers. This post walks..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Serve live, governed data in AI-built apps with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/",
-      "date": "Thu, 01 Oct 2026 19:49:06 +0000",
-      "summary": "With Live Data in Apps in Amazon Quick, AI-built apps query your governed Quick Sight datasets in real time instead of static, build-time snapshots. Each query runs as the person viewing the app, so r..."
+      "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+      "date": "Fri, 02 Oct 2026 15:46:05 +0000",
+      "summary": "Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web Search using Amazon Bedrock AgentCore Gat..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
-      "date": "Thu, 01 Oct 2026 17:34:56 +0000",
-      "summary": "Learn how to use Amazon S3 Vectors as the persistent memory layer within the NVIDIA NeMo Agent Toolkit (NAT), deployed on Amazon Elastic Kubernetes Service (Amazon EKS). This post shows how NAT's memo..."
+      "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+      "date": "Fri, 02 Oct 2026 15:44:20 +0000",
+      "summary": "Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent wit..."
     },
     {
       "company": "Hugging Face",
