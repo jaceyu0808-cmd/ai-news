@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 17:21:18 (KST)",
+  "updated_at": "2026-10-03 00:41:09 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -24,6 +24,13 @@
     },
     {
       "company": "Google AI",
+      "title": "The latest AI news we announced in September 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "date": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "summary": "A video showing the September AI updates..."
+    },
+    {
+      "company": "Google AI",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "date": "Mon, 28 Sep 2026 19:00:00 +0000",
@@ -37,32 +44,25 @@
       "summary": "Google Beam promotional animation..."
     },
     {
-      "company": "Google AI",
-      "title": "New experts join Google’s AI & Economy team",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "date": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "SQL Server on Azure Local is now generally available",
-      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
-      "date": "Tue, 29 Sep 2026 16:40:06 +0000",
-      "summary": "<p>With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.</p>\n<p>The post <a href=\"https://ww..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
-      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-      "date": "Tue, 29 Sep 2026 06:30:00 +0000",
-      "summary": "<p>Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
       "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
       "date": "Mon, 28 Sep 2026 15:00:00 +0000",
       "summary": "<p>Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/",
+      "date": "Thu, 24 Sep 2026 18:00:00 +0000",
+      "summary": "<p>The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it.</p>\n<p>The post <a href=\"https://a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Your architecture diagram is not your resilience",
+      "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
+      "date": "Wed, 23 Sep 2026 16:00:00 +0000",
+      "summary": "<p>For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.</p>\n<p>The post <a href=\"h..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,16 +87,16 @@
     },
     {
       "company": "Hugging Face",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "date": "Fri, 02 Oct 2026 04:01:31 GMT",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "link": "https://huggingface.co/blog/allenai/astabrief",
+      "date": "Fri, 02 Oct 2026 15:19:50 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "link": "https://huggingface.co/blog/allenai/olmocore3",
-      "date": "Thu, 01 Oct 2026 15:01:43 GMT",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "Fri, 02 Oct 2026 04:01:31 GMT",
       "summary": "..."
     },
     {
