@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 00:51:19 (KST)",
+  "updated_at": "2026-10-06 07:30:26 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/",
-      "date": "Mon, 05 Oct 2026 15:50:01 +0000",
-      "summary": "Multi-agent systems need deeper guarantees than fluent responses: they must select the right tools, respect constraints, and explain their decisions. Learn how to build a Strands-based multi-agent sup..."
+      "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
+      "date": "Mon, 05 Oct 2026 17:25:20 +0000",
+      "summary": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for complianc..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
-      "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
-      "date": "Fri, 02 Oct 2026 15:48:26 +0000",
-      "summary": "The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defensible compliance answers. This post walks..."
+      "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+      "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
+      "date": "Mon, 05 Oct 2026 17:23:19 +0000",
+      "summary": "Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference ..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
-      "date": "Fri, 02 Oct 2026 15:46:05 +0000",
-      "summary": "Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web Search using Amazon Bedrock AgentCore Gat..."
+      "title": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
+      "link": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
+      "date": "Mon, 05 Oct 2026 15:56:28 +0000",
+      "summary": "Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows ho..."
     },
     {
       "company": "Hugging Face",
