@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-05 15:49:48 (KST)",
+  "updated_at": "2026-10-06 00:51:19 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "date": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "date": "Mon, 05 Oct 2026 10:00:00 GMT",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers...."
+    },
     {
       "company": "OpenAI",
       "title": "A model guide for the GPT-6 family",
       "link": "https://openai.com/index/practical-guide-building-gpt-6",
       "date": "Fri, 02 Oct 2026 16:15:00 GMT",
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "link": "https://openai.com/index/chatham-financial",
-      "date": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "date": "Thu, 01 Oct 2026 17:00:00 GMT",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/",
+      "date": "Mon, 05 Oct 2026 15:50:01 +0000",
+      "summary": "Multi-agent systems need deeper guarantees than fluent responses: they must select the right tools, respect constraints, and explain their decisions. Learn how to build a Strands-based multi-agent sup..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
       "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
       "date": "Fri, 02 Oct 2026 15:48:26 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
       "date": "Fri, 02 Oct 2026 15:46:05 +0000",
       "summary": "Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web Search using Amazon Bedrock AgentCore Gat..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
-      "date": "Fri, 02 Oct 2026 15:44:20 +0000",
-      "summary": "Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent wit..."
     },
     {
       "company": "Hugging Face",
