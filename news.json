@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 11:52:05 (KST)",
+  "updated_at": "2026-10-06 19:03:45 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "date": "Tue, 06 Oct 2026 06:44:39 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "link": "https://huggingface.co/blog/microsoft/thinkingbox",
       "date": "Sat, 03 Oct 2026 22:56:48 GMT",
@@ -97,13 +104,6 @@
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "link": "https://huggingface.co/blog/allenai/astabrief",
       "date": "Fri, 02 Oct 2026 15:19:50 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "date": "Fri, 02 Oct 2026 04:01:31 GMT",
       "summary": "..."
     }
   ]
