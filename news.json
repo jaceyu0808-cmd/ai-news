@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-07 02:08:09 (KST)",
+  "updated_at": "2026-10-07 07:35:29 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Advancing computer use with Ironclad",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "date": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work...."
+    },
     {
       "company": "OpenAI",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/eu-text-provenance",
       "date": "Mon, 05 Oct 2026 15:00:00 GMT",
       "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Building advertising for the way people use AI",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "date": "Mon, 05 Oct 2026 10:00:00 GMT",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
+      "date": "Tue, 06 Oct 2026 19:19:15 +0000",
+      "summary": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentC..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
       "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
       "date": "Tue, 06 Oct 2026 15:53:28 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
       "date": "Tue, 06 Oct 2026 15:50:23 +0000",
       "summary": "Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platform teams how to design infrastructure boundaries, g..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/",
-      "date": "Tue, 06 Oct 2026 15:47:02 +0000",
-      "summary": "Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly from SageMaker Studio. Launch JupyterLab and Code ..."
     },
     {
       "company": "Hugging Face",
