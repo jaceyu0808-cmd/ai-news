@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-06 19:03:45 (KST)",
+  "updated_at": "2026-10-07 02:08:09 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "date": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work...."
+    },
     {
       "company": "OpenAI",
       "title": "Our approach to EU text provenance rules",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "date": "Mon, 05 Oct 2026 10:00:00 GMT",
       "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "date": "Fri, 02 Oct 2026 16:15:00 GMT",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Introducing GLM 5.3 on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
-      "date": "Mon, 05 Oct 2026 23:25:17 +0000",
-      "summary": "GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs,..."
+      "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
+      "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
+      "date": "Tue, 06 Oct 2026 15:53:28 +0000",
+      "summary": "AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impact assessment: what it is, how it improves enterpr..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
-      "date": "Mon, 05 Oct 2026 17:25:20 +0000",
-      "summary": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for complianc..."
+      "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
+      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
+      "date": "Tue, 06 Oct 2026 15:50:23 +0000",
+      "summary": "Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platform teams how to design infrastructure boundaries, g..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
-      "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
-      "date": "Mon, 05 Oct 2026 17:23:19 +0000",
-      "summary": "Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference ..."
+      "title": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/",
+      "date": "Tue, 06 Oct 2026 15:47:02 +0000",
+      "summary": "Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly from SageMaker Studio. Launch JupyterLab and Code ..."
     },
     {
       "company": "Hugging Face",
