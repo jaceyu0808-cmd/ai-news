@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-07 19:07:54 (KST)",
+  "updated_at": "2026-10-08 02:45:30 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "date": "Wed, 07 Oct 2026 12:00:00 GMT",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "link": "https://openai.com/index/radisson",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips...."
+    },
     {
       "company": "OpenAI",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
@@ -9,18 +23,11 @@
       "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review...."
     },
     {
-      "company": "OpenAI",
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Advancing computer use with Ironclad",
-      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "date": "Tue, 06 Oct 2026 10:00:00 GMT",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work...."
+      "company": "Google AI",
+      "title": "Introducing Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "date": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "summary": "Overview of Playground..."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "date": "Mon, 28 Sep 2026 19:00:00 +0000",
       "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted...."
-    },
-    {
-      "company": "Google AI",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "date": "Wed, 23 Sep 2026 18:00:00 +0000",
-      "summary": "Google Beam promotional animation..."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,30 +66,37 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
-      "date": "Tue, 06 Oct 2026 19:19:15 +0000",
-      "summary": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentC..."
+      "title": "Beyond hours saved: Building the business case for agentic automation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
+      "date": "Wed, 07 Oct 2026 15:50:00 +0000",
+      "summary": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception h..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
-      "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
-      "date": "Tue, 06 Oct 2026 15:53:28 +0000",
-      "summary": "AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impact assessment: what it is, how it improves enterpr..."
+      "title": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
+      "date": "Wed, 07 Oct 2026 15:48:46 +0000",
+      "summary": "Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. Learn how a layered, multi-agent architecture with..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Best practices for Amazon SageMaker HyperPod administration and governance",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
-      "date": "Tue, 06 Oct 2026 15:50:23 +0000",
-      "summary": "Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platform teams how to design infrastructure boundaries, g..."
+      "title": "Automate remediation post AWS DevOps Agent investigation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-remediation-post-aws-devops-agent-investigation/",
+      "date": "Wed, 07 Oct 2026 15:46:49 +0000",
+      "summary": "AWS DevOps Agent can diagnose production incidents but is kept in observe-and-report mode so it does not change resources directly. This post shows how to use AWS Lambda Durable Functions, Amazon Even..."
     },
     {
       "company": "Hugging Face",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "date": "Tue, 06 Oct 2026 06:44:39 GMT",
+      "title": "Multimodal open d1 decision models for the edge",
+      "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "date": "Wed, 07 Oct 2026 16:54:33 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "date": "Wed, 07 Oct 2026 12:45:31 GMT",
       "summary": "..."
     },
     {
@@ -97,13 +104,6 @@
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "link": "https://huggingface.co/blog/microsoft/thinkingbox",
       "date": "Sat, 03 Oct 2026 22:56:48 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "link": "https://huggingface.co/blog/allenai/astabrief",
-      "date": "Fri, 02 Oct 2026 15:19:50 GMT",
       "summary": "..."
     }
   ]
