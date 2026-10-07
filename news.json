@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-07 07:35:29 (KST)",
+  "updated_at": "2026-10-07 11:13:29 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://openai.com/index/jump-trading",
+      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "date": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub...."
+    },
     {
       "company": "OpenAI",
       "title": "Advancing computer use with Ironclad",
       "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "date": "Tue, 06 Oct 2026 10:00:00 GMT",
       "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "link": "https://openai.com/index/atlassian-partnership",
-      "date": "Tue, 06 Oct 2026 16:00:00 GMT",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "date": "Mon, 05 Oct 2026 15:00:00 GMT",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers...."
     },
     {
       "company": "Google AI",
