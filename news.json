@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-08 19:22:33 (KST)",
+  "updated_at": "2026-10-09 02:49:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "date": "Wed, 07 Oct 2026 12:00:00 GMT",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council...."
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://openai.com/index/oracle",
+      "date": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex...."
     },
     {
       "company": "OpenAI",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "link": "https://openai.com/index/radisson",
-      "date": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips...."
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://openai.com/index/pollo-ai",
+      "date": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads...."
     },
     {
       "company": "OpenAI",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone",
-      "date": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly...."
+      "title": "Disrupting AI-enabled “false front” operations",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "date": "Thu, 08 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging...."
     },
     {
       "company": "Google AI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+      "date": "Thu, 08 Oct 2026 16:20:04 +0000",
+      "summary": "A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernet..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Introducing Claude Haiku 5.5 on AWS",
       "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
       "date": "Wed, 07 Oct 2026 18:52:10 +0000",
@@ -79,13 +86,6 @@
       "summary": "Enterprise RAG unlocks insights from knowledge sources like SharePoint, Google Drive, and Confluence, but those sources carry complex permissions. Learn how Amazon Quick and Amazon Bedrock Knowledge B..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Beyond hours saved: Building the business case for agentic automation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
-      "date": "Wed, 07 Oct 2026 15:50:00 +0000",
-      "summary": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception h..."
-    },
-    {
       "company": "Hugging Face",
       "title": "Multimodal open d1 decision models for the edge",
       "link": "https://huggingface.co/blog/LiquidAI/open-d1",
@@ -94,16 +94,16 @@
     },
     {
       "company": "Hugging Face",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "date": "Wed, 07 Oct 2026 12:45:31 GMT",
+      "title": "Introducing Falcon ASR",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "date": "Wed, 07 Oct 2026 13:21:03 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "date": "Sat, 03 Oct 2026 22:56:48 GMT",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "date": "Wed, 07 Oct 2026 12:45:31 GMT",
       "summary": "..."
     }
   ]
