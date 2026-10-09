@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 22:04:11 (KST)",
+  "updated_at": "2026-10-10 04:25:09 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models...."
+    },
+    {
+      "company": "OpenAI",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "link": "https://openai.com/index/oracle",
       "date": "Thu, 08 Oct 2026 16:00:00 GMT",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai",
-      "date": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "ICYMI: What landed for AI builders in September 2026",
+      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+      "date": "Fri, 09 Oct 2026 15:38:39 +0000",
+      "summary": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated ..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+      "date": "Fri, 09 Oct 2026 15:35:02 +0000",
+      "summary": "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
       "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
       "date": "Thu, 08 Oct 2026 18:33:29 +0000",
       "summary": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model infe..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
-      "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
-      "date": "Thu, 08 Oct 2026 16:20:04 +0000",
-      "summary": "A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernet..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Introducing Claude Haiku 5.5 on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
-      "date": "Wed, 07 Oct 2026 18:52:10 +0000",
-      "summary": "Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-v..."
+      "company": "Hugging Face",
+      "title": "Impactful scheduling for GPU clusters",
+      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "date": "Fri, 09 Oct 2026 15:20:29 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Multimodal open d1 decision models for the edge",
       "link": "https://huggingface.co/blog/LiquidAI/open-d1",
       "date": "Wed, 07 Oct 2026 16:54:33 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Introducing Falcon ASR",
-      "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "date": "Wed, 07 Oct 2026 13:21:03 GMT",
       "summary": "..."
     }
   ]
