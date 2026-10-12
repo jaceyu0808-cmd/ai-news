@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 00:10:34 (KST)",
+  "updated_at": "2026-10-13 07:51:26 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "ICYMI: What landed for AI builders in September 2026",
-      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
-      "date": "Fri, 09 Oct 2026 15:38:39 +0000",
-      "summary": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated ..."
+      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+      "date": "Mon, 12 Oct 2026 17:52:22 +0000",
+      "summary": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and Op..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
-      "date": "Fri, 09 Oct 2026 15:35:02 +0000",
-      "summary": "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl..."
+      "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+      "date": "Mon, 12 Oct 2026 15:51:46 +0000",
+      "summary": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then exte..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
-      "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
-      "date": "Thu, 08 Oct 2026 18:33:29 +0000",
-      "summary": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model infe..."
+      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+      "date": "Mon, 12 Oct 2026 15:50:14 +0000",
+      "summary": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatib..."
     },
     {
       "company": "Hugging Face",
