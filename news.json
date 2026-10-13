@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 04:11:18 (KST)",
+  "updated_at": "2026-10-14 08:41:39 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
+      "date": "Tue, 13 Oct 2026 20:10:33 +0000",
+      "summary": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore pay..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
       "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
       "date": "Tue, 13 Oct 2026 17:17:25 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
       "date": "Tue, 13 Oct 2026 16:03:31 +0000",
       "summary": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the result..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/",
-      "date": "Tue, 13 Oct 2026 15:54:49 +0000",
-      "summary": "ShipStation Global's engineering team built Deckhand, an AI IT help desk agent for Slack on Amazon Bedrock AgentCore. It answers routine IT questions from a curated knowledge base, reads error-message..."
     },
     {
       "company": "Hugging Face",
