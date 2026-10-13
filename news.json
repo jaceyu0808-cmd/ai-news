@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-13 20:38:53 (KST)",
+  "updated_at": "2026-10-14 04:11:18 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "date": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live...."
+    },
     {
       "company": "OpenAI",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -16,11 +23,11 @@
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models...."
     },
     {
-      "company": "OpenAI",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://openai.com/index/oracle",
-      "date": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex...."
+      "company": "Google AI",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "date": "Tue, 13 Oct 2026 16:00:00 +0000",
+      "summary": "TBD..."
     },
     {
       "company": "Google AI",
@@ -35,13 +42,6 @@
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "date": "Fri, 02 Oct 2026 15:00:00 +0000",
       "summary": "A video showing the September AI updates..."
-    },
-    {
-      "company": "Google AI",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "date": "Mon, 28 Sep 2026 19:00:00 +0000",
-      "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted...."
     },
     {
       "company": "Microsoft Azure AI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "date": "Mon, 12 Oct 2026 17:52:22 +0000",
-      "summary": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and Op..."
+      "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
+      "date": "Tue, 13 Oct 2026 17:17:25 +0000",
+      "summary": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activ..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
-      "date": "Mon, 12 Oct 2026 15:51:46 +0000",
-      "summary": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then exte..."
+      "title": "Natural language security queries at Orca Security using Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
+      "date": "Tue, 13 Oct 2026 16:03:31 +0000",
+      "summary": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the result..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
-      "date": "Mon, 12 Oct 2026 15:50:14 +0000",
-      "summary": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatib..."
+      "title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/",
+      "date": "Tue, 13 Oct 2026 15:54:49 +0000",
+      "summary": "ShipStation Global's engineering team built Deckhand, an AI IT help desk agent for Slack on Amazon Bedrock AgentCore. It answers routine IT questions from a curated knowledge base, reads error-message..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "date": "Tue, 13 Oct 2026 17:05:48 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "The model that didn't exist, so you made it yourself",
       "link": "https://huggingface.co/blog/building-with-ml-intern",
       "date": "Thu, 08 Oct 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Multimodal open d1 decision models for the edge",
-      "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "date": "Wed, 07 Oct 2026 16:54:33 GMT",
       "summary": "..."
     }
   ]
