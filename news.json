@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-15 18:45:04 (KST)",
+  "updated_at": "2026-10-15 23:50:13 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Teaching students to think and learn through questions",
+      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning...."
+    },
     {
       "company": "OpenAI",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/sentinelone",
       "date": "Wed, 14 Oct 2026 12:00:00 GMT",
       "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "link": "https://openai.com/index/third-moment-research",
-      "date": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Advancing hardware security with open-source Integrated HSM technology",
-      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
-      "date": "Tue, 13 Oct 2026 16:15:00 +0000",
-      "summary": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft..."
+      "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
+      "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/",
+      "date": "Wed, 07 Oct 2026 15:00:00 +0000",
+      "summary": "<p>The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and operated.</p>\n<p>The post <a href=\"https://azure...."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
-      "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
-      "date": "Tue, 13 Oct 2026 16:15:00 +0000",
-      "summary": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft..."
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
+      "date": "Tue, 06 Oct 2026 21:00:00 +0000",
+      "summary": "<p>We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blo..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Deep dive into Azure Maia 300 architecture",
-      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-      "date": "Mon, 12 Oct 2026 13:00:00 +0000",
-      "summary": "<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architectu..."
+      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
+      "date": "Wed, 30 Sep 2026 15:00:00 +0000",
+      "summary": "<p>Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.</p>\n<p>The post <a href=\"https://azure.microso..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Apertus 1.5 Release Notes",
+      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "link": "https://huggingface.co/blog/allenai/hiro-acev2",
       "date": "Wed, 14 Oct 2026 16:12:42 GMT",
@@ -97,13 +104,6 @@
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
       "date": "Tue, 13 Oct 2026 17:05:48 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "The model that didn't exist, so you made it yourself",
-      "link": "https://huggingface.co/blog/building-with-ml-intern",
-      "date": "Thu, 08 Oct 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
