@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-17 02:56:07 (KST)",
+  "updated_at": "2026-10-17 05:54:48 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation...."
+    },
     {
       "company": "OpenAI",
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "date": "Thu, 15 Oct 2026 13:00:00 GMT",
       "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "link": "https://openai.com/index/sullivan-cromwell",
-      "date": "Thu, 15 Oct 2026 00:00:00 GMT",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
+      "date": "Wed, 14 Oct 2026 19:00:00 +0000",
+      "summary": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Advancing hardware security with open-source Integrated HSM technology",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
       "date": "Tue, 13 Oct 2026 16:15:00 +0000",
@@ -58,11 +65,11 @@
       "summary": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Deep dive into Azure Maia 300 architecture",
-      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-      "date": "Mon, 12 Oct 2026 13:00:00 +0000",
-      "summary": "<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architectu..."
+      "company": "AWS Machine Learning",
+      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
+      "date": "Fri, 16 Oct 2026 20:48:16 +0000",
+      "summary": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent qua..."
     },
     {
       "company": "AWS Machine Learning",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
       "date": "Thu, 15 Oct 2026 17:43:35 +0000",
       "summary": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the S..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Trust in Depth: Giving agents more autonomy without losing control",
-      "link": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
-      "date": "Thu, 15 Oct 2026 15:05:35 +0000",
-      "summary": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets..."
     },
     {
       "company": "Hugging Face",
