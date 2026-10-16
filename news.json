@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 07:59:41 (KST)",
+  "updated_at": "2026-10-16 10:13:07 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "date": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT...."
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "date": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
+      "date": "Wed, 14 Oct 2026 19:00:00 +0000",
+      "summary": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Advancing hardware security with open-source Integrated HSM technology",
       "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
       "date": "Tue, 13 Oct 2026 16:15:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
       "date": "Tue, 13 Oct 2026 16:15:00 +0000",
       "summary": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Deep dive into Azure Maia 300 architecture",
-      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-      "date": "Mon, 12 Oct 2026 13:00:00 +0000",
-      "summary": "<p>Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architectu..."
     },
     {
       "company": "AWS Machine Learning",
@@ -94,15 +94,15 @@
     },
     {
       "company": "Hugging Face",
-      "title": "Apertus 1.5 Release Notes",
-      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "date": "Thu, 15 Oct 2026 09:08:45 GMT",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "link": "https://huggingface.co/blog/meta-muse-spark-open",
+      "date": "Thu, 15 Oct 2026 00:00:00 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "link": "https://huggingface.co/blog/meta-muse-spark-open",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "link": "https://huggingface.co/blog/flux-3",
       "date": "Thu, 15 Oct 2026 00:00:00 GMT",
       "summary": "..."
     }
