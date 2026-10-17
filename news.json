@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-17 08:26:10 (KST)",
+  "updated_at": "2026-10-17 13:08:11 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "date": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors...."
+    },
     {
       "company": "OpenAI",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "date": "Thu, 15 Oct 2026 19:00:00 GMT",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "date": "Thu, 15 Oct 2026 13:00:00 GMT",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Evolving the cloud-native foundation for the next generation of AI",
-      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-      "date": "Thu, 15 Oct 2026 16:00:00 +0000",
-      "summary": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
       "date": "Wed, 14 Oct 2026 19:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
       "date": "Tue, 13 Oct 2026 16:15:00 +0000",
       "summary": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
+      "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
+      "date": "Tue, 13 Oct 2026 16:15:00 +0000",
+      "summary": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft..."
     },
     {
       "company": "AWS Machine Learning",
