@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 22:35:47 (KST)",
+  "updated_at": "2026-10-18 01:58:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation...."
-    },
-    {
-      "company": "OpenAI",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "link": "https://openai.com/index/benefit-street-partners",
       "date": "Fri, 16 Oct 2026 00:00:00 GMT",
       "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation...."
     },
     {
       "company": "Google AI",
