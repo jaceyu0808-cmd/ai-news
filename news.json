@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 00:30:21 (KST)",
+  "updated_at": "2026-10-20 05:59:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Evolving the cloud-native foundation for the next generation of AI",
-      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-      "date": "Thu, 15 Oct 2026 16:00:00 +0000",
-      "summary": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
       "date": "Wed, 14 Oct 2026 19:00:00 +0000",
@@ -65,25 +58,39 @@
       "summary": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
-      "date": "Fri, 16 Oct 2026 20:48:16 +0000",
-      "summary": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent qua..."
+      "company": "Microsoft Azure AI",
+      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
+      "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
+      "date": "Tue, 13 Oct 2026 16:15:00 +0000",
+      "summary": "<p>AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact.</p>\n<p>The post <a href=\"https://azure.microsoft..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
-      "date": "Fri, 16 Oct 2026 15:23:10 +0000",
-      "summary": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use A..."
+      "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+      "date": "Mon, 19 Oct 2026 16:49:19 +0000",
+      "summary": "TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching s..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
-      "date": "Thu, 15 Oct 2026 17:43:35 +0000",
-      "summary": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the S..."
+      "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+      "date": "Mon, 19 Oct 2026 16:23:22 +0000",
+      "summary": "Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post covers porting to the AWS Neuron stack, k..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+      "date": "Mon, 19 Oct 2026 16:05:17 +0000",
+      "summary": "vLLM's prefill-decode disaggregation splits LLM inference across engine instances but must transfer the KV cache between them. This post introduces a push-based NIXL connector that moves transfer coor..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "link": "https://huggingface.co/blog/hf-torchneuron",
+      "date": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "link": "https://huggingface.co/blog/reflection-beam",
       "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "date": "Thu, 15 Oct 2026 20:34:01 GMT",
       "summary": "..."
     }
   ]
