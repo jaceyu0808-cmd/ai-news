@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 09:15:34 (KST)",
+  "updated_at": "2026-10-20 14:52:13 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation...."
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+      "date": "Fri, 16 Oct 2026 16:05:00 +0000",
+      "summary": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/mana..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Evolving the cloud-native foundation for the next generation of AI",
       "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
       "date": "Thu, 15 Oct 2026 16:00:00 +0000",
@@ -56,13 +63,6 @@
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
       "date": "Wed, 14 Oct 2026 19:00:00 +0000",
       "summary": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Advancing hardware security with open-source Integrated HSM technology",
-      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
-      "date": "Tue, 13 Oct 2026 16:15:00 +0000",
-      "summary": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft..."
     },
     {
       "company": "AWS Machine Learning",
