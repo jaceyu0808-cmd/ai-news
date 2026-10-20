@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-21 01:47:15 (KST)",
+  "updated_at": "2026-10-21 05:25:30 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "date": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "OpenAI acquires Orchestra Bio",
+      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments...."
+    },
     {
       "company": "OpenAI",
       "title": "Advancing coding in low‑resource programming languages",
       "link": "https://openai.com/index/low-resource-programming-languages",
       "date": "Mon, 19 Oct 2026 12:00:00 GMT",
       "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "date": "Fri, 16 Oct 2026 19:00:00 GMT",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
-      "date": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups...."
     },
     {
       "company": "Google AI",
@@ -45,45 +45,52 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+      "date": "Mon, 19 Oct 2026 19:00:00 +0000",
+      "summary": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://az..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+      "date": "Fri, 16 Oct 2026 16:05:00 +0000",
+      "summary": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/mana..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Evolving the cloud-native foundation for the next generation of AI",
       "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
       "date": "Thu, 15 Oct 2026 16:00:00 +0000",
       "summary": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
-      "date": "Wed, 14 Oct 2026 19:00:00 +0000",
-      "summary": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Advancing hardware security with open-source Integrated HSM technology",
-      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
-      "date": "Tue, 13 Oct 2026 16:15:00 +0000",
-      "summary": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft..."
+      "company": "AWS Machine Learning",
+      "title": "Work management context for AI agents with Smartsheet MCP on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+      "date": "Tue, 20 Oct 2026 17:59:07 +0000",
+      "summary": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
-      "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
-      "date": "Tue, 20 Oct 2026 16:42:53 +0000",
-      "summary": "Canadian organizations can now access OpenAI GPT-5.6, GPT-6, and GPT-6.1 models on Amazon Bedrock from the Canada (Central) and Canada West (Calgary) Regions using cross-Region inference. This post co..."
+      "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
+      "date": "Tue, 20 Oct 2026 17:52:50 +0000",
+      "summary": "Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post shows how Amazon Bedrock AgentCore exposes those sy..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Discover tools at runtime with AWS Agent Registry",
-      "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
-      "date": "Tue, 20 Oct 2026 16:22:24 +0000",
-      "summary": "Hardcoded tool wiring breaks down as an agent's catalog grows from a handful of tools to hundreds. This post walks through a runtime Discover, Instantiate, Execute loop built on AWS Agent Registry, wh..."
+      "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
+      "date": "Tue, 20 Oct 2026 17:48:27 +0000",
+      "summary": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reaso..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Securing AI agent identity with X.509 PKI on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
-      "date": "Tue, 20 Oct 2026 16:03:48 +0000",
-      "summary": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation ass..."
+      "company": "Hugging Face",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "date": "Tue, 20 Oct 2026 18:17:47 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
       "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
       "date": "Tue, 20 Oct 2026 15:19:48 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "link": "https://huggingface.co/blog/hf-torchtpu",
-      "date": "Tue, 20 Oct 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
