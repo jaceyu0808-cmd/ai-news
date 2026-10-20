@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 20:22:37 (KST)",
+  "updated_at": "2026-10-21 01:47:15 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,65 +45,65 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
-      "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
-      "date": "Mon, 19 Oct 2026 19:00:00 +0000",
-      "summary": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://az..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Managing open-weight model risk in enterprise deployments",
-      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
-      "date": "Fri, 16 Oct 2026 16:05:00 +0000",
-      "summary": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/mana..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Evolving the cloud-native foundation for the next generation of AI",
       "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
       "date": "Thu, 15 Oct 2026 16:00:00 +0000",
       "summary": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
-      "date": "Mon, 19 Oct 2026 23:32:19 +0000",
-      "summary": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined struct..."
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
+      "date": "Wed, 14 Oct 2026 19:00:00 +0000",
+      "summary": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Advancing hardware security with open-source Integrated HSM technology",
+      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
+      "date": "Tue, 13 Oct 2026 16:15:00 +0000",
+      "summary": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Developers can now access SageMaker Studio through the new AWS experience",
-      "link": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
-      "date": "Mon, 19 Oct 2026 22:39:24 +0000",
-      "summary": "New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have, such as Amazon, Apple, GitHub, or Goog..."
+      "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+      "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
+      "date": "Tue, 20 Oct 2026 16:42:53 +0000",
+      "summary": "Canadian organizations can now access OpenAI GPT-5.6, GPT-6, and GPT-6.1 models on Amazon Bedrock from the Canada (Central) and Canada West (Calgary) Regions using cross-Region inference. This post co..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
-      "date": "Mon, 19 Oct 2026 21:14:44 +0000",
-      "summary": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including ..."
+      "title": "Discover tools at runtime with AWS Agent Registry",
+      "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
+      "date": "Tue, 20 Oct 2026 16:22:24 +0000",
+      "summary": "Hardcoded tool wiring breaks down as an agent's catalog grows from a handful of tools to hundreds. This post walks through a runtime Discover, Instantiate, Execute loop built on AWS Agent Registry, wh..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Securing AI agent identity with X.509 PKI on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
+      "date": "Tue, 20 Oct 2026 16:03:48 +0000",
+      "summary": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation ass..."
     },
     {
       "company": "Hugging Face",
-      "title": "MPS in PyTorch 2.15",
-      "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "link": "https://huggingface.co/blog/allenai/fairstress",
+      "date": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "date": "Tue, 20 Oct 2026 15:19:48 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "link": "https://huggingface.co/blog/hf-torchtpu",
       "date": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "link": "https://huggingface.co/blog/hf-torchneuron",
-      "date": "Mon, 19 Oct 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "date": "Fri, 16 Oct 2026 01:44:47 GMT",
       "summary": "..."
     }
   ]
