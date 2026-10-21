@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 05:02:51 (KST)",
+  "updated_at": "2026-10-22 08:58:16 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,17 @@
     },
     {
       "company": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "date": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies...."
+    },
+    {
+      "company": "OpenAI",
       "title": "OpenAI models are coming to Google Cloud",
       "link": "https://openai.com/index/openai-models-google-cloud",
       "date": "Wed, 21 Oct 2026 12:00:00 GMT",
       "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "date": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source...."
     },
     {
       "company": "Google AI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Advancing digital sovereignty with greater control and choice",
-      "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-      "date": "Tue, 20 Oct 2026 17:34:47 +0000",
-      "summary": "<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important syste..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
       "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
       "date": "Mon, 19 Oct 2026 19:00:00 +0000",
@@ -65,25 +58,32 @@
       "summary": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/mana..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Train Qwen3 on AWS Trainium with torchtitan",
-      "link": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/",
-      "date": "Wed, 21 Oct 2026 20:00:22 +0000",
-      "summary": "Train Qwen3 on AWS Trainium with torchtitan three ways on a single trn2.48xlarge: the Hugging Face Transformers v5 modeling backend, torchtitan's native Qwen3, and NKI mixture-of-experts kernels. The ..."
+      "company": "Microsoft Azure AI",
+      "title": "Evolving the cloud-native foundation for the next generation of AI",
+      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+      "date": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "summary": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/",
-      "date": "Wed, 21 Oct 2026 19:19:50 +0000",
-      "summary": "U.S. Hunger, a nonprofit addressing food insecurity, uses Amazon Quick to connect organizational data with leadership decisions. Leaders explore applicant data directly, share KPI definitions and fina..."
+      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+      "date": "Wed, 21 Oct 2026 23:38:38 +0000",
+      "summary": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API ..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
-      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
-      "date": "Tue, 20 Oct 2026 21:14:10 +0000",
-      "summary": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoi..."
+      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
+      "date": "Wed, 21 Oct 2026 23:36:47 +0000",
+      "summary": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure cod..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "Adaptive agentic intelligence framework using Strands Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
+      "date": "Wed, 21 Oct 2026 21:23:26 +0000",
+      "summary": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedro..."
     },
     {
       "company": "Hugging Face",
