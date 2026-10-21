@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-10-22 00:07:59 (KST)",
+  "updated_at": "2026-10-22 05:02:51 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "date": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI models are coming to Google Cloud",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "date": "Wed, 21 Oct 2026 07:00:00 GMT",
       "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "date": "Wed, 21 Oct 2026 13:00:00 GMT",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT...."
     },
     {
       "company": "Google AI",
@@ -45,6 +45,13 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "date": "Tue, 20 Oct 2026 17:34:47 +0000",
+      "summary": "<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important syste..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
       "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
       "date": "Mon, 19 Oct 2026 19:00:00 +0000",
@@ -58,11 +65,18 @@
       "summary": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/mana..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Evolving the cloud-native foundation for the next generation of AI",
-      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-      "date": "Thu, 15 Oct 2026 16:00:00 +0000",
-      "summary": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
+      "company": "AWS Machine Learning",
+      "title": "Train Qwen3 on AWS Trainium with torchtitan",
+      "link": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/",
+      "date": "Wed, 21 Oct 2026 20:00:22 +0000",
+      "summary": "Train Qwen3 on AWS Trainium with torchtitan three ways on a single trn2.48xlarge: the Hugging Face Transformers v5 modeling backend, torchtitan's native Qwen3, and NKI mixture-of-experts kernels. The ..."
+    },
+    {
+      "company": "AWS Machine Learning",
+      "title": "How U.S. Hunger connects leaders and data using Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/",
+      "date": "Wed, 21 Oct 2026 19:19:50 +0000",
+      "summary": "U.S. Hunger, a nonprofit addressing food insecurity, uses Amazon Quick to connect organizational data with leadership decisions. Leaders explore applicant data directly, share KPI definitions and fina..."
     },
     {
       "company": "AWS Machine Learning",
@@ -72,38 +86,24 @@
       "summary": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoi..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "Work management context for AI agents with Smartsheet MCP on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
-      "date": "Tue, 20 Oct 2026 17:59:07 +0000",
-      "summary": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
-      "date": "Tue, 20 Oct 2026 17:52:50 +0000",
-      "summary": "Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post shows how Amazon Bedrock AgentCore exposes those sy..."
-    },
-    {
       "company": "Hugging Face",
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "date": "Wed, 21 Oct 2026 14:58:18 GMT",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "date": "Wed, 21 Oct 2026 18:26:30 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "date": "Wed, 21 Oct 2026 12:51:24 GMT",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "date": "Wed, 21 Oct 2026 17:35:36 GMT",
       "summary": "..."
     },
     {
       "company": "Hugging Face",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "link": "https://huggingface.co/blog/allenai/fairstress",
-      "date": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "date": "Wed, 21 Oct 2026 16:04:43 GMT",
       "summary": "..."
     }
   ]
