@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 08:46:15 (KST)",
+  "updated_at": "2026-10-21 13:28:14 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -10,17 +10,24 @@
     },
     {
       "company": "OpenAI",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "link": "https://openai.com/index/terminal-x",
+      "date": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol...."
+    },
+    {
+      "company": "OpenAI",
       "title": "OpenAI acquires Orchestra Bio",
       "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
       "date": "Tue, 20 Oct 2026 00:00:00 GMT",
       "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments...."
     },
     {
-      "company": "OpenAI",
-      "title": "Advancing coding in low‑resource programming languages",
-      "link": "https://openai.com/index/low-resource-programming-languages",
-      "date": "Mon, 19 Oct 2026 12:00:00 GMT",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration...."
+      "company": "Google AI",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "date": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature ..."
     },
     {
       "company": "Google AI",
@@ -37,32 +44,25 @@
       "summary": "Overview of Playground..."
     },
     {
-      "company": "Google AI",
-      "title": "The latest AI news we announced in September 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "date": "Fri, 02 Oct 2026 15:00:00 +0000",
-      "summary": "A video showing the September AI updates..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
-      "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
-      "date": "Mon, 19 Oct 2026 19:00:00 +0000",
-      "summary": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://az..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Managing open-weight model risk in enterprise deployments",
-      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
-      "date": "Fri, 16 Oct 2026 16:05:00 +0000",
-      "summary": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/mana..."
-    },
-    {
       "company": "Microsoft Azure AI",
       "title": "Evolving the cloud-native foundation for the next generation of AI",
       "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
       "date": "Thu, 15 Oct 2026 16:00:00 +0000",
       "summary": "<p>Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/",
+      "date": "Wed, 14 Oct 2026 19:00:00 +0000",
+      "summary": "<p>We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Advancing hardware security with open-source Integrated HSM technology",
+      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/",
+      "date": "Tue, 13 Oct 2026 16:15:00 +0000",
+      "summary": "<p>Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection.</p>\n<p>The post <a href=\"https://azure.microsoft..."
     },
     {
       "company": "AWS Machine Learning",
