@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 04:56:51 (KST)",
+  "updated_at": "2026-10-23 08:13:05 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "date": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
       "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
       "date": "Thu, 22 Oct 2026 16:11:31 GMT",
@@ -97,13 +104,6 @@
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
       "date": "Thu, 22 Oct 2026 07:51:31 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "date": "Wed, 21 Oct 2026 18:26:30 GMT",
       "summary": "..."
     }
   ]
