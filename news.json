@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 10:07:48 (KST)",
+  "updated_at": "2026-10-28 17:16:04 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
-      "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
-      "date": "Mon, 26 Oct 2026 16:00:00 +0000",
-      "summary": "<p>As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Advancing digital sovereignty with greater control and choice",
       "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
       "date": "Tue, 20 Oct 2026 17:34:47 +0000",
@@ -63,6 +56,13 @@
       "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
       "date": "Mon, 19 Oct 2026 19:00:00 +0000",
       "summary": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://az..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/",
+      "date": "Fri, 16 Oct 2026 16:05:00 +0000",
+      "summary": "<p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/mana..."
     },
     {
       "company": "AWS Machine Learning",
