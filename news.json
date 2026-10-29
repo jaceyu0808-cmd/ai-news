@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 09:46:03 (KST)",
+  "updated_at": "2026-10-29 15:56:01 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,13 +45,6 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
-      "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
-      "date": "Wed, 28 Oct 2026 17:40:56 +0000",
-      "summary": "<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-found..."
-    },
-    {
-      "company": "Microsoft Azure AI",
       "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
       "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
       "date": "Mon, 26 Oct 2026 16:00:00 +0000",
@@ -63,6 +56,13 @@
       "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
       "date": "Tue, 20 Oct 2026 17:34:47 +0000",
       "summary": "<p>Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important syste..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+      "date": "Mon, 19 Oct 2026 19:00:00 +0000",
+      "summary": "<p>A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.</p>\n<p>The post <a href=\"https://az..."
     },
     {
       "company": "AWS Machine Learning",
