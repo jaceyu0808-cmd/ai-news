@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 05:10:42 (KST)",
+  "updated_at": "2026-10-30 09:46:17 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,6 +66,13 @@
     },
     {
       "company": "AWS Machine Learning",
+      "title": "How the UK Amazon Quick User Group grew in 2026",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
+      "date": "Thu, 29 Oct 2026 20:16:40 +0000",
+      "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into..."
+    },
+    {
+      "company": "AWS Machine Learning",
       "title": "Building intent-driven UI testing with Amazon Nova Act",
       "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
       "date": "Thu, 29 Oct 2026 18:20:27 +0000",
@@ -77,13 +84,6 @@
       "link": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
       "date": "Thu, 29 Oct 2026 18:14:17 +0000",
       "summary": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase..."
-    },
-    {
-      "company": "AWS Machine Learning",
-      "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
-      "link": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
-      "date": "Thu, 29 Oct 2026 16:58:57 +0000",
-      "summary": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption t..."
     },
     {
       "company": "Hugging Face",
