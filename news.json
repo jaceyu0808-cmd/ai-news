@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-02 14:45:53 (KST)",
+  "updated_at": "2026-11-03 00:31:59 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "date": "Mon, 02 Nov 2026 15:00:00 GMT",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs...."
+    },
     {
       "company": "OpenAI",
       "title": "Making it easier for websites to express AI training preferences",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "date": "Fri, 30 Oct 2026 09:00:00 GMT",
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Fair use benefits everyone",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "date": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation...."
     },
     {
       "company": "Google AI",
