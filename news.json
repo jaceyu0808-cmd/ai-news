@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-03 08:24:49 (KST)",
+  "updated_at": "2026-11-03 15:26:54 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "date": "Mon, 02 Nov 2026 15:30:00 GMT",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible...."
+    },
     {
       "company": "OpenAI",
       "title": "Introducing the Grid Protectors Program",
@@ -10,17 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "LifeVal",
-      "link": "https://openai.com/index/lifeval",
-      "date": "Mon, 02 Nov 2026 09:00:00 GMT",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
-      "date": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request...."
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers...."
     },
     {
       "company": "Google AI",
