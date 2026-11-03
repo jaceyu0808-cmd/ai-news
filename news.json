@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-03 15:26:54 (KST)",
+  "updated_at": "2026-11-03 23:58:37 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "link": "https://openai.com/index/heimstaden",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe...."
+    },
     {
       "company": "OpenAI",
       "title": "Scaling Git at OpenAI",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/grid-protectors-program",
       "date": "Mon, 02 Nov 2026 15:00:00 GMT",
       "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "date": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers...."
     },
     {
       "company": "Google AI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Transformers Model Integration Contracts",
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "date": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "nemotron-halloween",
       "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
       "date": "Fri, 30 Oct 2026 17:57:24 GMT",
@@ -97,13 +104,6 @@
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
       "date": "Thu, 29 Oct 2026 13:37:07 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "link": "https://huggingface.co/blog/announcing-project-protostar",
-      "date": "Thu, 29 Oct 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
