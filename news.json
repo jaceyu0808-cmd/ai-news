@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 02:03:13 (KST)",
+  "updated_at": "2026-11-05 08:31:53 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -17,10 +17,10 @@
     },
     {
       "company": "OpenAI",
-      "title": "Accelerating engineering for the physical world",
-      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "date": "Tue, 03 Nov 2026 12:00:00 GMT",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world...."
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "date": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,31 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+      "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+      "date": "Wed, 04 Nov 2026 16:00:00 +0000",
+      "summary": "<p>Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that mea..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "The Platform Behind the Next AI Breakthrough",
+      "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
+      "date": "Mon, 02 Nov 2026 20:52:22 +0000",
+      "summary": "<p>The next frontier of AI is coming into focus as agents take on longer, more strategic work.</p>\n<p>The post <a href=\"https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrou..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
       "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
       "date": "Thu, 29 Oct 2026 16:00:00 +0000",
       "summary": "<p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.</p>\n<p>The post <a href=\"https://azure.micros..."
     },
     {
-      "company": "Microsoft Azure AI",
-      "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
-      "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
-      "date": "Wed, 28 Oct 2026 17:40:56 +0000",
-      "summary": "<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-found..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
-      "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
-      "date": "Mon, 26 Oct 2026 16:00:00 +0000",
-      "summary": "<p>As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en..."
+      "company": "AWS Machine Learning",
+      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
+      "date": "Wed, 04 Nov 2026 18:46:36 +0000",
+      "summary": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Ama..."
     },
     {
       "company": "AWS Machine Learning",
@@ -79,11 +86,11 @@
       "summary": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), im..."
     },
     {
-      "company": "AWS Machine Learning",
-      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
-      "date": "Wed, 04 Nov 2026 16:25:57 +0000",
-      "summary": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them,..."
+      "company": "Hugging Face",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "date": "Wed, 04 Nov 2026 17:50:10 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "Palette: teaching a small model to build decks in your design language",
       "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
       "date": "Tue, 03 Nov 2026 16:35:36 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "link": "https://huggingface.co/blog/cwe-bench",
-      "date": "Tue, 03 Nov 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
