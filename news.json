@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-04 17:56:31 (KST)",
+  "updated_at": "2026-11-05 02:03:13 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "date": "Wed, 04 Nov 2026 14:30:00 GMT",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code...."
+    },
+    {
+      "company": "OpenAI",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "date": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work...."
+    },
     {
       "company": "OpenAI",
       "title": "Accelerating engineering for the physical world",
       "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "date": "Tue, 03 Nov 2026 12:00:00 GMT",
       "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "link": "https://openai.com/index/cisco-cyber",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "link": "https://openai.com/index/heimstaden",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Bring structured and unstructured data together with Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
-      "date": "Tue, 03 Nov 2026 16:49:29 +0000",
-      "summary": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agen..."
+      "title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+      "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+      "date": "Wed, 04 Nov 2026 16:33:03 +0000",
+      "summary": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy ..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
-      "link": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
-      "date": "Tue, 03 Nov 2026 16:47:40 +0000",
-      "summary": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling u..."
+      "title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
+      "date": "Wed, 04 Nov 2026 16:30:40 +0000",
+      "summary": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), im..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
-      "date": "Tue, 03 Nov 2026 16:43:20 +0000",
-      "summary": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen..."
+      "title": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
+      "date": "Wed, 04 Nov 2026 16:25:57 +0000",
+      "summary": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them,..."
     },
     {
       "company": "Hugging Face",
