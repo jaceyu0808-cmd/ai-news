@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-05 15:25:04 (KST)",
+  "updated_at": "2026-11-06 00:20:54 (KST)",
   "articles": [
+    {
+      "company": "OpenAI",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "date": "Thu, 05 Nov 2026 02:00:00 GMT",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development...."
+    },
     {
       "company": "OpenAI",
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -14,13 +21,6 @@
       "link": "https://openai.com/index/daybreak-red-aws-govcloud",
       "date": "Wed, 04 Nov 2026 07:00:00 GMT",
       "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work...."
-    },
-    {
-      "company": "OpenAI",
-      "title": "A thousand fewer paths to root",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "date": "Wed, 04 Nov 2026 08:00:00 GMT",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel...."
     },
     {
       "company": "Google AI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
+      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+      "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+      "date": "Wed, 04 Nov 2026 16:00:00 +0000",
+      "summary": "<p>Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that mea..."
+    },
+    {
+      "company": "Microsoft Azure AI",
+      "title": "The Platform Behind the Next AI Breakthrough",
+      "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
+      "date": "Mon, 02 Nov 2026 20:52:22 +0000",
+      "summary": "<p>The next frontier of AI is coming into focus as agents take on longer, more strategic work.</p>\n<p>The post <a href=\"https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrou..."
+    },
+    {
+      "company": "Microsoft Azure AI",
       "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
       "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
       "date": "Thu, 29 Oct 2026 16:00:00 +0000",
       "summary": "<p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.</p>\n<p>The post <a href=\"https://azure.micros..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
-      "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
-      "date": "Wed, 28 Oct 2026 17:40:56 +0000",
-      "summary": "<p>Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-found..."
-    },
-    {
-      "company": "Microsoft Azure AI",
-      "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
-      "link": "https://azure.microsoft.com/en-us/blog/scale-reservoir-uncertainty-analysis-with-agile-reservoir-modeling/",
-      "date": "Mon, 26 Oct 2026 16:00:00 +0000",
-      "summary": "<p>As subsurface data grows in scale and complexity, teams need a faster, more connected way to transform uncertainty into actionable decisions.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en..."
     },
     {
       "company": "AWS Machine Learning",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "date": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "date": "Wed, 04 Nov 2026 17:50:10 GMT",
@@ -97,13 +104,6 @@
       "title": "StateBench: Testing how language models track state changes over long documents",
       "link": "https://huggingface.co/blog/allenai/statebench",
       "date": "Tue, 03 Nov 2026 17:15:21 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "date": "Tue, 03 Nov 2026 16:35:36 GMT",
       "summary": "..."
     }
   ]
