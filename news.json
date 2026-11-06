@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 19:41:41 (KST)",
+  "updated_at": "2026-11-07 02:53:08 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -66,24 +66,31 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
-      "date": "Thu, 05 Nov 2026 21:04:24 +0000",
-      "summary": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to b..."
+      "title": "Taxonomy of agentic primitives in Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+      "date": "Fri, 06 Nov 2026 17:34:45 +0000",
+      "summary": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on ..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
-      "date": "Thu, 05 Nov 2026 18:06:43 +0000",
-      "summary": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR re..."
+      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+      "date": "Fri, 06 Nov 2026 17:13:13 +0000",
+      "summary": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new datase..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
-      "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
-      "date": "Wed, 04 Nov 2026 18:46:36 +0000",
-      "summary": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Ama..."
+      "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+      "link": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
+      "date": "Fri, 06 Nov 2026 17:09:23 +0000",
+      "summary": "In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta's grant, Cedar policies bind each to..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "date": "Fri, 06 Nov 2026 14:00:48 GMT",
+      "summary": "..."
     },
     {
       "company": "Hugging Face",
@@ -97,13 +104,6 @@
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
       "date": "Thu, 05 Nov 2026 19:35:16 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "link": "https://huggingface.co/blog/phonon-tts",
-      "date": "Thu, 05 Nov 2026 00:00:00 GMT",
       "summary": "..."
     }
   ]
