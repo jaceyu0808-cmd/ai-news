@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 11:12:15 (KST)",
+  "updated_at": "2026-11-06 19:41:41 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,6 +87,13 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
       "date": "Thu, 05 Nov 2026 19:35:16 GMT",
@@ -97,13 +104,6 @@
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "link": "https://huggingface.co/blog/phonon-tts",
       "date": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "date": "Wed, 04 Nov 2026 17:50:10 GMT",
       "summary": "..."
     }
   ]
