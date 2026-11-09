@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 14:58:22 (KST)",
+  "updated_at": "2026-11-10 01:00:30 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -87,23 +87,23 @@
     },
     {
       "company": "Hugging Face",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "date": "Mon, 09 Nov 2026 15:05:57 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "date": "Mon, 09 Nov 2026 12:34:29 GMT",
+      "summary": "..."
+    },
+    {
+      "company": "Hugging Face",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "link": "https://huggingface.co/blog/allenai/toyblocks",
       "date": "Fri, 06 Nov 2026 14:00:48 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "summary": "..."
-    },
-    {
-      "company": "Hugging Face",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "date": "Thu, 05 Nov 2026 19:35:16 GMT",
       "summary": "..."
     }
   ]
