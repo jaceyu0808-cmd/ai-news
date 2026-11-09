@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 08:36:39 (KST)",
+  "updated_at": "2026-11-09 14:58:22 (KST)",
   "articles": [
     {
       "company": "OpenAI",
@@ -45,24 +45,24 @@
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
-      "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
-      "date": "Wed, 04 Nov 2026 16:00:00 +0000",
-      "summary": "<p>Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that mea..."
+      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+      "date": "Fri, 06 Nov 2026 19:08:44 +0000",
+      "summary": "<p>Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications.</p>\n<p>The post <a href=\"https://techcommunity.micro..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "The Platform Behind the Next AI Breakthrough",
-      "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
-      "date": "Mon, 02 Nov 2026 20:52:22 +0000",
-      "summary": "<p>The next frontier of AI is coming into focus as agents take on longer, more strategic work.</p>\n<p>The post <a href=\"https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrou..."
+      "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
+      "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
+      "date": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "summary": "<p>AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/stop-treating-a..."
     },
     {
       "company": "Microsoft Azure AI",
-      "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
-      "date": "Thu, 29 Oct 2026 16:00:00 +0000",
-      "summary": "<p>Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.</p>\n<p>The post <a href=\"https://azure.micros..."
+      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
+      "date": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "summary": "<p>Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and s..."
     },
     {
       "company": "AWS Machine Learning",
