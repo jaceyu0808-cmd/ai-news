@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-10 01:00:30 (KST)",
+  "updated_at": "2026-11-10 09:11:29 (KST)",
   "articles": [
     {
       "company": "OpenAI",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "date": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI...."
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "date": "Mon, 09 Nov 2026 19:00:00 GMT",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships...."
     },
     {
       "company": "OpenAI",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "date": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science...."
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "link": "https://openai.com/index/control-room",
+      "date": "Mon, 09 Nov 2026 13:00:00 GMT",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise...."
     },
     {
       "company": "OpenAI",
-      "title": "Australian universities are creating AI-native graduates",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "date": "Thu, 05 Nov 2026 17:00:00 GMT",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce...."
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team...."
     },
     {
       "company": "Google AI",
@@ -66,24 +66,24 @@
     },
     {
       "company": "AWS Machine Learning",
-      "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-      "link": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
-      "date": "Fri, 06 Nov 2026 18:01:00 +0000",
-      "summary": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take ..."
+      "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+      "link": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+      "date": "Mon, 09 Nov 2026 20:13:18 +0000",
+      "summary": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration ..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Taxonomy of agentic primitives in Amazon Quick",
-      "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
-      "date": "Fri, 06 Nov 2026 17:34:45 +0000",
-      "summary": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on ..."
+      "title": "Introducing Claude Fable 5.2 on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+      "date": "Mon, 09 Nov 2026 20:04:37 +0000",
+      "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to g..."
     },
     {
       "company": "AWS Machine Learning",
-      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-      "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
-      "date": "Fri, 06 Nov 2026 17:13:13 +0000",
-      "summary": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new datase..."
+      "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "date": "Mon, 09 Nov 2026 20:01:20 +0000",
+      "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, ..."
     },
     {
       "company": "Hugging Face",
